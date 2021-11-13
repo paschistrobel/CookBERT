@@ -1,0 +1,2322 @@
+1
+00:00:00,480 --> 00:00:02,400
+<font color=#FFFF00>T-Bone.</font>
+<font color=#00FFFF>- Porterhouse.</font>
+
+2
+00:00:02,640 --> 00:00:04,560
+<font color=#FFFF00>Charolais.</font>
+<font color=#00FFFF>- Côte de Boeuf.</font>
+
+3
+00:00:04,760 --> 00:00:05,920
+<font color=#FFFF00>Mignon.</font>
+
+4
+00:00:06,040 --> 00:00:08,920
+<font color=#00FFFF>Immer, wenn diese Begriffe fallen,</font>
+<font color=#00FFFF>geht es um...</font>
+
+5
+00:00:08,920 --> 00:00:10,640
+<font color=#FFFF00>Ein schönes Stück Fleisch.</font>
+
+6
+00:00:10,840 --> 00:00:13,320
+<font color=#00FFFF>Wie man das brät,</font>
+<font color=#00FFFF>wollen wir Ihnen zeigen.</font>
+
+7
+00:00:13,520 --> 00:00:15,560
+<font color=#FFFF00>Und wie es garantiert gelingt.</font>
+
+8
+00:00:15,960 --> 00:00:17,400
+<font color=#00FFFF>Hoffentlich.</font>
+
+9
+00:00:20,120 --> 00:00:24,120
+<font color=#0000FF>Untertitel: WDR mediagroup GmbH</font>
+<font color=#0000FF>im Auftrag des WDR</font>
+
+10
+00:00:39,640 --> 00:00:43,480
+<font color=#FFFF00>Ein schönes Stück Fleisch,</font>
+<font color=#FFFF00>das habe ich eingekauft.</font>
+
+11
+00:00:44,440 --> 00:00:45,800
+<font color=#00FFFF>Sieht gut aus.</font>
+
+12
+00:00:46,000 --> 00:00:48,040
+<font color=#00FFFF>Das ist ein...</font>
+<font color=#FFFF00>- T-Bone-Steak.</font>
+
+13
+00:00:49,040 --> 00:00:52,280
+<font color=#FFFF00>Das sieht man an diesem "T",</font>
+<font color=#FFFF00>den der Knochen bildet.</font>
+
+14
+00:00:52,280 --> 00:00:54,120
+<font color=#FFFF00>Dieses Teil ist das Filet.</font>
+
+15
+00:00:54,120 --> 00:00:56,240
+<font color=#FFFF00>Das sitzt unter dem Rippenknochen.</font>
+
+16
+00:00:56,240 --> 00:01:00,520
+<font color=#FFFF00>Wenn man sich das vorstellt,</font>
+<font color=#FFFF00>ist das der obere Teil.</font>
+
+17
+00:01:00,840 --> 00:01:02,400
+<font color=#FFFF00>Der Rücken.</font>
+
+18
+00:01:02,800 --> 00:01:06,760
+<font color=#FFFF00>Längs halbiert haben wir hier</font>
+<font color=#FFFF00>das Roastbeef, wenn man so will.</font>
+
+19
+00:01:06,960 --> 00:01:08,640
+<font color=#FFFF00>Und das ist das Filet.</font>
+
+20
+00:01:08,840 --> 00:01:11,520
+<font color=#FFFF00>Das ist das Roastbeef ausgelöst.</font>
+
+21
+00:01:11,760 --> 00:01:15,160
+<font color=#FFFF00>Ich wollte Ihnen zeigen,</font>
+<font color=#FFFF00>wie es die Italiener machen.</font>
+
+22
+00:01:15,160 --> 00:01:17,040
+<font color=#FFFF00>Die nennen das Tagliata.</font>
+
+23
+00:01:17,040 --> 00:01:19,920
+<font color=#00FFFF>Tagliata kommt von "tagliare",</font>
+<font color=#00FFFF>schneiden.</font>
+
+24
+00:01:21,400 --> 00:01:23,760
+<font color=#00FFFF>Das Schneiden kommt nach dem Garen.</font>
+
+25
+00:01:23,960 --> 00:01:26,360
+<font color=#FFFF00>Gib mir ein bisschen</font>
+<font color=#FFFF00>von den Kräutern.</font>
+
+26
+00:01:26,360 --> 00:01:30,560
+<font color=#FFFF00>Ich will Ihnen schnell zeigen, wie</font>
+<font color=#FFFF00>man so ein Fleischstück behandelt,</font>
+
+27
+00:01:30,560 --> 00:01:33,480
+<font color=#FFFF00>wenn man es vom Metzger</font>
+<font color=#FFFF00>nach Hause gebracht hat.</font>
+
+28
+00:01:33,480 --> 00:01:36,720
+<font color=#FFFF00>Damit man es würzen kann</font>
+<font color=#FFFF00>und marinieren lassen kann,</font>
+
+29
+00:01:36,720 --> 00:01:38,360
+<font color=#FFFF00>bis man es verarbeitet.</font>
+
+30
+00:01:38,560 --> 00:01:42,240
+<font color=#00FFFF>Man kann dir zugucken. </font>
+<font color=#FFFF00>- Und</font>
+<font color=#FFFF00>du erzählst, worauf es ankommt.</font>
+
+31
+00:01:42,240 --> 00:01:46,120
+<font color=#00FFFF>Früher hat man das Tier geschlachtet</font>
+<font color=#00FFFF>und aufgehängt.</font>
+
+32
+00:01:46,120 --> 00:01:48,240
+<font color=#00FFFF>Man hat es abhängen lassen.</font>
+
+33
+00:01:48,240 --> 00:01:52,000
+<font color=#00FFFF>Das geht nur mit einem Tier,</font>
+<font color=#00FFFF>das eine schöne Fettabdeckung hat,</font>
+
+34
+00:01:52,000 --> 00:01:54,120
+<font color=#00FFFF>damit es nicht schnell austrocknet.</font>
+
+35
+00:01:54,120 --> 00:01:56,000
+<font color=#00FFFF>Damals kam auf aus Amerika,</font>
+
+36
+00:01:56,000 --> 00:01:59,440
+<font color=#00FFFF>es vakuumzuverpacken</font>
+<font color=#00FFFF>am Tag nach dem Schlachten.</font>
+
+37
+00:01:59,440 --> 00:02:03,120
+<font color=#00FFFF>Dann sollte es darin reifen.</font>
+
+38
+00:02:03,360 --> 00:02:07,360
+<font color=#FFFF00>Es blieb schön rot</font>
+<font color=#FFFF00>und verlor keine Flüssigkeit.</font>
+
+39
+00:02:07,680 --> 00:02:09,280
+<font color=#FFFF00>Und war wunderbar.</font>
+
+40
+00:02:09,520 --> 00:02:11,880
+<font color=#FFFF00>Dass es aber</font>
+<font color=#FFFF00>nicht gut geschmeckt hat,</font>
+
+41
+00:02:11,880 --> 00:02:13,920
+<font color=#FFFF00>hat sich kaum einer eingestanden.</font>
+
+42
+00:02:14,160 --> 00:02:15,840
+<font color=#00FFFF>Wir sind der Meinung,</font>
+
+43
+00:02:15,840 --> 00:02:21,040
+<font color=#00FFFF>es darf ruhig 15 oder 20% beim</font>
+<font color=#00FFFF>Metzger, beim Reifen verlieren.</font>
+
+44
+00:02:21,280 --> 00:02:24,640
+<font color=#00FFFF>Muss sorgfältig</font>
+<font color=#00FFFF>beaufsichtigt werden.</font>
+
+45
+00:02:24,840 --> 00:02:26,720
+<font color=#00FFFF>Das ist ein bisschen teurer.</font>
+
+46
+00:02:26,720 --> 00:02:29,240
+<font color=#00FFFF>Deswegen muss das Fleisch auch</font>
+<font color=#00FFFF>teurer sein.</font>
+
+47
+00:02:29,240 --> 00:02:33,600
+<font color=#00FFFF>Weil wir den Verlust nicht tragen,</font>
+<font color=#00FFFF>sondern der, der das Fleisch reift.</font>
+
+48
+00:02:33,600 --> 00:02:36,000
+<font color=#00FFFF>Also muss man</font>
+<font color=#00FFFF>ein bisschen mehr ausgeben.</font>
+
+49
+00:02:36,000 --> 00:02:38,520
+<font color=#FFFF00>Also so,</font>
+<font color=#FFFF00>mit ein paar trockenen Kräutern:</font>
+
+50
+00:02:40,000 --> 00:02:43,760
+<font color=#FFFF00>Thymian, Rosmarin, ein bisschen</font>
+<font color=#FFFF00>Salbei, Lorbeer, Olivenöl.</font>
+
+51
+00:02:44,000 --> 00:02:46,840
+<font color=#00FFFF>Man kann auch</font>
+<font color=#00FFFF>ein geschmacksneutrales Öl nehmen.</font>
+
+52
+00:02:46,840 --> 00:02:50,400
+<font color=#00FFFF>Wir nehmen am liebsten Olivenöl,</font>
+<font color=#00FFFF>weil es die Hitze verträgt</font>
+
+53
+00:02:50,400 --> 00:02:53,760
+<font color=#00FFFF>und noch gut schmeckt,</font>
+<font color=#00FFFF>wenn es eine gute Qualität hat.</font>
+
+54
+00:02:53,960 --> 00:02:57,880
+<font color=#FFFF00>Die Pfanne muss blank sein.</font>
+<font color=#FFFF00>Die darf nicht beschichtet sein.</font>
+
+55
+00:02:58,040 --> 00:03:02,400
+<font color=#FFFF00>Entweder so was aus Edelstahl</font>
+<font color=#FFFF00>oder Gusseisen.</font>
+
+56
+00:03:02,600 --> 00:03:04,760
+<font color=#FFFF00>Beides gleichermaßen gut geeignet.</font>
+
+57
+00:03:04,760 --> 00:03:09,920
+<font color=#FFFF00>Vorheizen, sodass die Hand, die Sie</font>
+<font color=#FFFF00>drüber halten, die Hitze spürt.</font>
+
+58
+00:03:09,920 --> 00:03:13,400
+<font color=#FFFF00>Jetzt wischen Sie die Kräuter weg,</font>
+<font color=#FFFF00>die würden verbrennen.</font>
+
+59
+00:03:13,400 --> 00:03:15,360
+<font color=#FFFF00>Und geben Öl in die Pfanne.</font>
+
+60
+00:03:15,360 --> 00:03:17,480
+<font color=#FFFF00>Das fängt sofort an zu brutzeln.</font>
+
+61
+00:03:17,480 --> 00:03:21,000
+<font color=#FFFF00>Jetzt gleich mit der Schnittfläche</font>
+<font color=#FFFF00>dort hinein.</font>
+
+62
+00:03:21,000 --> 00:03:23,160
+<font color=#FFFF00>Es brutzelt und macht und tut.</font>
+
+63
+00:03:23,160 --> 00:03:27,360
+<font color=#FFFF00>Wenn das Fleisch gut abgehangen war,</font>
+<font color=#FFFF00>spritzt es nicht so schlimm.</font>
+
+64
+00:03:27,360 --> 00:03:32,360
+<font color=#FFFF00>Wenn Sie ungeduldig sind und denken,</font>
+<font color=#FFFF00>wie sieht es denn aus,</font>
+
+65
+00:03:32,360 --> 00:03:37,520
+<font color=#FFFF00>auf keinen Fall mit einem</font>
+<font color=#FFFF00>Schiebeinstrument hier rumschieben.</font>
+
+66
+00:03:38,000 --> 00:03:43,760
+<font color=#FFFF00>Denn in der 1. Minute sitzt das</font>
+<font color=#FFFF00>Fleisch fest auf dem Pfannenboden.</font>
+
+67
+00:03:43,960 --> 00:03:46,120
+<font color=#00FFFF>Aber es löst sich mit der Zeit.</font>
+
+68
+00:03:46,320 --> 00:03:48,920
+<font color=#FFFF00>Erst dann bildet es eine Kruste.</font>
+
+69
+00:03:48,920 --> 00:03:52,000
+<font color=#FFFF00>Dann sieht man,</font>
+<font color=#FFFF00>es löst sich ganz einfach.</font>
+
+70
+00:03:52,000 --> 00:03:54,640
+<font color=#FFFF00>Sobald es sich freiwillig löst,</font>
+<font color=#FFFF00>ist es okay.</font>
+
+71
+00:03:55,000 --> 00:04:00,280
+<font color=#00FFFF>Diese braunen Stellen, das ist das,</font>
+<font color=#00FFFF>was den guten Geschmack ausmacht</font>
+
+72
+00:04:00,280 --> 00:04:03,400
+<font color=#00FFFF>und diese ganz besonders guten</font>
+<font color=#00FFFF>Aromen bildet.</font>
+
+73
+00:04:03,600 --> 00:04:06,000
+<font color=#FFFF00>Jetzt geben wir die Kräuter dazu.</font>
+
+74
+00:04:06,280 --> 00:04:09,800
+<font color=#FFFF00>Damit sie ein bisschen</font>
+<font color=#FFFF00>das Öl parfümieren.</font>
+
+75
+00:04:11,960 --> 00:04:14,200
+<font color=#FFFF00>Wenn die letzte Minute um ist,</font>
+
+76
+00:04:14,200 --> 00:04:17,000
+<font color=#FFFF00>setzen wir das alles</font>
+<font color=#FFFF00>auf einen Teller.</font>
+
+77
+00:04:17,120 --> 00:04:19,160
+<font color=#FFFF00>In den vorgeheizten Backofen,</font>
+
+78
+00:04:19,160 --> 00:04:24,120
+<font color=#FFFF00>der nicht heißer sein darf</font>
+<font color=#FFFF00>als 65 bis 70°.</font>
+
+79
+00:04:24,480 --> 00:04:27,480
+<font color=#FFFF00>Denn jetzt muss das Fleisch</font>
+<font color=#FFFF00>noch nachziehen.</font>
+
+80
+00:04:27,480 --> 00:04:30,960
+<font color=#FFFF00>Alles gut, wir können das</font>
+<font color=#FFFF00>schon wieder ausmachen.</font>
+
+81
+00:04:32,240 --> 00:04:35,800
+<font color=#FFFF00>Und setzen es auf unseren Teller,</font>
+<font color=#FFFF00>mitsamt den Kräutern.</font>
+
+82
+00:04:35,800 --> 00:04:38,360
+<font color=#00FFFF>Jetzt ist nicht</font>
+<font color=#00FFFF>der Garprozess beendet.</font>
+
+83
+00:04:38,360 --> 00:04:40,880
+<font color=#00FFFF>Jetzt ist es innen noch absolut roh.</font>
+
+84
+00:04:40,880 --> 00:04:45,720
+<font color=#00FFFF>Das Nachziehen im Ofen gehört</font>
+<font color=#00FFFF>zum Garen des Fleisches hinzu.</font>
+
+85
+00:04:46,160 --> 00:04:48,720
+<font color=#FFFF00>Jetzt gibt es</font>
+<font color=#FFFF00>ein bisschen Salz obendrauf.</font>
+
+86
+00:04:48,720 --> 00:04:50,080
+<font color=#FFFF00>Das feine ist da.</font>
+
+87
+00:04:50,080 --> 00:04:51,560
+<font color=#FFFF00>Und das grobe ist da.</font>
+
+88
+00:04:51,880 --> 00:04:53,200
+<font color=#FFFF00>Das reicht schon.</font>
+
+89
+00:04:53,440 --> 00:04:55,000
+<font color=#FFFF00>In den Ofen damit.</font>
+
+90
+00:04:55,240 --> 00:04:57,760
+<font color=#FFFF00>Und jetzt unbedingt das einhalten:</font>
+
+91
+00:04:58,000 --> 00:05:00,640
+<font color=#FFFF00>Es braucht etwa 20 min.</font>
+<font color=#FFFF00>Mindestens.</font>
+
+92
+00:05:05,800 --> 00:05:09,440
+<font color=#FFFF00>Jetzt müsste es</font>
+<font color=#FFFF00>schön durchgezogen haben.</font>
+
+93
+00:05:09,440 --> 00:05:15,640
+<font color=#FFFF00>Ich rechne pro Zentimeter</font>
+<font color=#FFFF00>Fleischstärke 5 min. Mindestens.</font>
+
+94
+00:05:15,920 --> 00:05:19,800
+<font color=#FFFF00>Dann sollte es</font>
+<font color=#FFFF00>richtig schön saftig sein.</font>
+
+95
+00:05:20,000 --> 00:05:22,440
+<font color=#FFFF00>Das probieren wir jetzt aus.</font>
+
+96
+00:05:22,960 --> 00:05:25,120
+<font color=#FFFF00>Jetzt kommt der spannende Moment,</font>
+
+97
+00:05:25,120 --> 00:05:28,480
+<font color=#FFFF00>dass man es</font>
+<font color=#FFFF00>in die richtige Richtung schneidet.</font>
+
+98
+00:05:28,480 --> 00:05:31,600
+<font color=#FFFF00>Wenn man sich anschaut,</font>
+<font color=#FFFF00>wie die Fasern verlaufen,</font>
+
+99
+00:05:31,600 --> 00:05:35,160
+<font color=#FFFF00>müssen wir quer dazu kommen,</font>
+<font color=#FFFF00>in dünne Scheiben.</font>
+
+100
+00:05:35,400 --> 00:05:38,600
+<font color=#FFFF00>Genau so ist es perfekt.</font>
+
+101
+00:05:39,000 --> 00:05:43,240
+<font color=#FFFF00>Das servieren wir einfach</font>
+<font color=#FFFF00>auf so einem Bett von Salat.</font>
+
+102
+00:05:43,600 --> 00:05:46,520
+<font color=#00FFFF>Warte, ich muss meine Marinade...</font>
+
+103
+00:05:46,880 --> 00:05:53,240
+<font color=#00FFFF>Das ist einfach ein Rotweinessig</font>
+<font color=#00FFFF>mit ein paar Tropfen Balsamico.</font>
+
+104
+00:05:53,480 --> 00:05:55,960
+<font color=#00FFFF>Nicht einen reinen Balsamico nehmen.</font>
+
+105
+00:05:55,960 --> 00:05:58,440
+<font color=#00FFFF>Es kann ruhig was</font>
+<font color=#00FFFF>übers Fleisch gehen.</font>
+
+106
+00:05:58,440 --> 00:06:00,560
+<font color=#FFFF00>Auf diese Weise haben Sie...</font>
+
+107
+00:06:00,560 --> 00:06:03,880
+<font color=#FFFF00>Von einem Steak</font>
+<font color=#FFFF00>machen Sie 4 Personen glücklich.</font>
+
+108
+00:06:03,880 --> 00:06:06,640
+<font color=#FFFF00>Schließlich ist ein Steak</font>
+<font color=#FFFF00>ein Haufen Geld,</font>
+
+109
+00:06:06,640 --> 00:06:09,080
+<font color=#FFFF00>was Sie dafür</font>
+<font color=#FFFF00>auf den Tisch legen müssen.</font>
+
+110
+00:06:09,280 --> 00:06:12,120
+<font color=#00FFFF>Es gibt Menschen,</font>
+<font color=#00FFFF>die essen so was alleine auf.</font>
+
+111
+00:06:12,120 --> 00:06:13,720
+<font color=#00FFFF>Das ist Völlerei.</font>
+
+112
+00:06:13,720 --> 00:06:16,680
+<font color=#00FFFF>Die würden auch ne Flasche Wein</font>
+<font color=#00FFFF>alleine trinken,</font>
+
+113
+00:06:16,680 --> 00:06:19,280
+<font color=#00FFFF>während wir uns</font>
+<font color=#00FFFF>mit einem Glas begnügen.</font>
+
+114
+00:06:19,280 --> 00:06:23,520
+<font color=#00FFFF>Das Glas soll nicht</font>
+<font color=#00FFFF>den billigsten Stoff enthalten.</font>
+
+115
+00:06:23,800 --> 00:06:25,960
+<font color=#00FFFF>Es wäre schade.</font>
+
+116
+00:06:25,960 --> 00:06:28,360
+<font color=#00FFFF>Ein gutes Fleisch, was viel kostet,</font>
+
+117
+00:06:28,360 --> 00:06:31,680
+<font color=#00FFFF>kann man auch n Wein nehmen,</font>
+<font color=#00FFFF>der n bisschen mehr kostet.</font>
+
+118
+00:06:31,680 --> 00:06:34,000
+<font color=#00FFFF>Das muss schon</font>
+<font color=#00FFFF>im Gleichgewicht sein.</font>
+
+119
+00:06:34,200 --> 00:06:35,480
+<font color=#00FFFF>Wunderbar.</font>
+
+120
+00:06:35,600 --> 00:06:38,360
+<font color=#FFFF00>Muss ich auch noch mal</font>
+<font color=#FFFF00>n Schlückchen nehmen.</font>
+
+121
+00:06:40,720 --> 00:06:44,240
+<font color=#00FFFF>Ich könnte das Fleisch</font>
+<font color=#00FFFF>sogar noch weniger gegart...</font>
+
+122
+00:06:44,720 --> 00:06:47,000
+<font color=#FFFF00>Aber so ist es eigentlich perfekt.</font>
+
+123
+00:06:47,000 --> 00:06:50,080
+<font color=#FFFF00>Wer es ein bisschen länger</font>
+<font color=#FFFF00>durchziehen lassen will,</font>
+
+124
+00:06:50,080 --> 00:06:51,480
+<font color=#FFFF00>ist auch in Ordnung.</font>
+
+125
+00:06:51,480 --> 00:06:54,560
+<font color=#FFFF00>Aber es sollte auf keinen Fall</font>
+<font color=#FFFF00>durchgebraten werden.</font>
+
+126
+00:06:54,560 --> 00:06:56,680
+<font color=#FFFF00>Es wär wirklich schade ums Fleisch.</font>
+
+127
+00:06:57,320 --> 00:07:00,320
+<font color=#FFFFFF>* Musik *</font>
+
+128
+00:07:01,920 --> 00:07:03,920
+<font color=#FFFF00>Kommen wir zum Filetsteak.</font>
+
+129
+00:07:03,920 --> 00:07:07,280
+<font color=#FFFF00>Das ist das Teil,</font>
+<font color=#FFFF00>was unter dem Knochen sitzt.</font>
+
+130
+00:07:07,280 --> 00:07:10,120
+<font color=#FFFF00>Und ist ziemlich lang</font>
+<font color=#FFFF00>und geht spitz zu.</font>
+
+131
+00:07:10,120 --> 00:07:12,880
+<font color=#FFFF00>Hier fehlt was.</font>
+<font color=#00FFFF>- Das hab ich abgeschnitten.</font>
+
+132
+00:07:12,880 --> 00:07:15,560
+<font color=#FFFF00>Dann darf ich aber auch</font>
+<font color=#FFFF00>n Scheibchen haben.</font>
+
+133
+00:07:15,560 --> 00:07:18,480
+<font color=#FFFF00>Natürlich kann man</font>
+<font color=#FFFF00>so ein Fleisch auch roh essen.</font>
+
+134
+00:07:18,480 --> 00:07:20,760
+<font color=#00FFFF>So ein gutes Fleisch</font>
+<font color=#00FFFF>kann man roh essen.</font>
+
+135
+00:07:20,760 --> 00:07:22,280
+<font color=#00FFFF>Tartar isst man auch roh.</font>
+
+136
+00:07:22,280 --> 00:07:24,320
+<font color=#FFFF00>Kriegst auch noch was ab.</font>
+<font color=#00FFFF>- Danke.</font>
+
+137
+00:07:24,320 --> 00:07:26,720
+<font color=#FFFF00>Ich mach ein schönes,</font>
+<font color=#FFFF00>dickes Filetsteak.</font>
+
+138
+00:07:26,720 --> 00:07:30,240
+<font color=#FFFF00>Und rechne nicht die normalen 2 cm.</font>
+
+139
+00:07:30,240 --> 00:07:33,200
+<font color=#FFFF00>Sondern mach ein ordentliches Teil.</font>
+
+140
+00:07:33,440 --> 00:07:35,280
+<font color=#FFFF00>Das sind ungefähr 6 cm.</font>
+
+141
+00:07:35,480 --> 00:07:39,160
+<font color=#FFFF00>Du wirst sie</font>
+<font color=#FFFF00>nach allen Regeln der Kunst braten.</font>
+
+142
+00:07:39,600 --> 00:07:42,640
+<font color=#FFFF00>Jetzt setzen wir das</font>
+<font color=#FFFF00>auf seine Schnittfläche.</font>
+
+143
+00:07:42,960 --> 00:07:45,120
+<font color=#00FFFF>Ich habe wieder ne blanke Pfanne.</font>
+
+144
+00:07:45,320 --> 00:07:47,840
+<font color=#00FFFF>Olivenöl.</font>
+<font color=#FFFF00>- Ein bisschen flach drücken.</font>
+
+145
+00:07:47,840 --> 00:07:50,000
+<font color=#FFFF00>Nicht etwa mit dem Fleischklopfer.</font>
+
+146
+00:07:50,000 --> 00:07:52,040
+<font color=#00FFFF>Man kann auch Butter nehmen.</font>
+
+147
+00:07:52,040 --> 00:07:54,840
+<font color=#00FFFF>Aber muss dann mit Olivenöl mischen.</font>
+
+148
+00:07:55,080 --> 00:07:58,600
+<font color=#00FFFF>Oder man nimmt Butterschmalz,</font>
+<font color=#00FFFF>das geht auch sehr gut.</font>
+
+149
+00:07:59,080 --> 00:08:02,840
+<font color=#00FFFF>Wir finden: Olivenöl</font>
+<font color=#00FFFF>bringt n Eigengeschmack mit.</font>
+
+150
+00:08:03,240 --> 00:08:07,200
+<font color=#00FFFF>Es lässt sich hoch erhitzen,</font>
+<font color=#00FFFF>wenn es nicht ein naturtrübes ist.</font>
+
+151
+00:08:07,720 --> 00:08:10,880
+<font color=#FFFF00>Ich hab ne kleine Beilage</font>
+<font color=#FFFF00>für unser Filetsteak.</font>
+
+152
+00:08:11,040 --> 00:08:12,880
+<font color=#FFFF00>Ich war in den Pilzen.</font>
+
+153
+00:08:13,760 --> 00:08:16,280
+<font color=#FFFF00>Und habe wunderschöne Pfifferlinge</font>
+<font color=#FFFF00>gefunden.</font>
+
+154
+00:08:16,560 --> 00:08:18,760
+<font color=#FFFF00>Ganz kleine. Und einen Birkenpilz.</font>
+
+155
+00:08:20,360 --> 00:08:22,320
+<font color=#FFFF00>Die habe ich schon gesäubert.</font>
+
+156
+00:08:22,320 --> 00:08:23,920
+<font color=#FFFF00>Die dünste ich jetzt.</font>
+
+157
+00:08:23,920 --> 00:08:25,840
+<font color=#FFFF00>Mit ein bisschen Zwiebel.</font>
+
+158
+00:08:26,800 --> 00:08:31,000
+<font color=#00FFFF>Ich fang das spritzende Fett</font>
+<font color=#00FFFF>mit einem Küchenpapier auf.</font>
+
+159
+00:08:31,160 --> 00:08:34,240
+<font color=#00FFFF>Jetzt muss man das noch</font>
+<font color=#00FFFF>auf die Seite aufstellen.</font>
+
+160
+00:08:34,480 --> 00:08:38,760
+<font color=#00FFFF>Gib mir mal die Gabel, mit der ich</font>
+<font color=#00FFFF>nicht in das Fleisch steche.</font>
+
+161
+00:08:39,280 --> 00:08:41,800
+<font color=#00FFFF>Ich brauch es nur, um es zu halten.</font>
+
+162
+00:08:42,400 --> 00:08:44,600
+<font color=#00FFFF>Jetzt bin ich gleich fertig.</font>
+
+163
+00:08:45,120 --> 00:08:47,960
+<font color=#00FFFF>Die letzte Seite,</font>
+<font color=#00FFFF>die noch angebraten werden muss.</font>
+
+164
+00:08:47,960 --> 00:08:50,400
+<font color=#FFFF00>Meine Zwiebeln</font>
+<font color=#FFFF00>sind schön weich geworden.</font>
+
+165
+00:08:50,400 --> 00:08:54,280
+<font color=#FFFF00>Die sollen keine Farbe nehmen,</font>
+<font color=#FFFF00>sondern nur ein bisschen bräunen.</font>
+
+166
+00:08:54,280 --> 00:08:59,920
+<font color=#FFFF00>Jetzt nehme ich erst den Birkenpilz,</font>
+<font color=#FFFF00>den ich in Scheibchen schneide.</font>
+
+167
+00:09:00,480 --> 00:09:04,880
+<font color=#FFFF00>Er hat einen wunderbar festen Stiel,</font>
+<font color=#FFFF00>keine Made, nichts.</font>
+
+168
+00:09:04,880 --> 00:09:07,880
+<font color=#FFFF00>Schöner kann man es</font>
+<font color=#FFFF00>sich nicht vorstellen.</font>
+
+169
+00:09:08,480 --> 00:09:11,480
+<font color=#00FFFF>Das Fleisch</font>
+<font color=#00FFFF>kommt wieder in den Ofen.</font>
+
+170
+00:09:11,880 --> 00:09:15,320
+<font color=#00FFFF>Ne knappe halbe Stunde</font>
+<font color=#00FFFF>müsste auf jeden Fall reichen.</font>
+
+171
+00:09:15,320 --> 00:09:18,520
+<font color=#FFFF00>Jetzt kommt Petersilie</font>
+<font color=#FFFF00>und ein bisschen Chili rein.</font>
+
+172
+00:09:18,520 --> 00:09:21,360
+<font color=#00FFFF>In dieser Pfanne</font>
+<font color=#00FFFF>ist unten Bratensatz.</font>
+
+173
+00:09:21,640 --> 00:09:24,720
+<font color=#00FFFF>Den will ich</font>
+<font color=#00FFFF>für eine Soße zurückgewinnen.</font>
+
+174
+00:09:24,960 --> 00:09:27,120
+<font color=#00FFFF>Ich gieße das Öl aus.</font>
+
+175
+00:09:27,400 --> 00:09:29,760
+<font color=#00FFFF>Ist wirklich nicht</font>
+<font color=#00FFFF>viel übrig geblieben.</font>
+
+176
+00:09:29,960 --> 00:09:34,320
+<font color=#00FFFF>Und lösche es ab mit einem Rotwein.</font>
+
+177
+00:09:38,280 --> 00:09:40,760
+<font color=#FFFF00>Kannst auch</font>
+<font color=#FFFF00>n Schüsschen Brühe haben.</font>
+
+178
+00:09:40,960 --> 00:09:42,640
+<font color=#00FFFF>Kann auch Wasser nehmen.</font>
+
+179
+00:09:42,640 --> 00:09:45,400
+<font color=#00FFFF>Aber jetzt gebe ich erst</font>
+<font color=#00FFFF>die Zwiebel hier rein.</font>
+
+180
+00:09:45,400 --> 00:09:48,720
+<font color=#00FFFF>Die wird gedünstet,</font>
+<font color=#00FFFF>die braucht nicht richtig braten.</font>
+
+181
+00:09:51,200 --> 00:09:53,840
+<font color=#00FFFF>Der Bratensatz löst sich langsam.</font>
+
+182
+00:09:53,840 --> 00:09:58,560
+<font color=#00FFFF>Und ich gebe noch</font>
+<font color=#00FFFF>einen Schuss Portwein dazu.</font>
+
+183
+00:09:58,880 --> 00:10:02,640
+<font color=#FFFF00>Möchtest du n Schüsschen Brühe?</font>
+<font color=#00FFFF>- Wenn du unbedingt willst.</font>
+
+184
+00:10:02,880 --> 00:10:05,640
+<font color=#FFFF00>Guck mal, schöne Hühnerbrühe,</font>
+<font color=#FFFF00>ganz dickflüssig.</font>
+
+185
+00:10:05,640 --> 00:10:06,960
+<font color=#00FFFF>Ja, wunderbar.</font>
+
+186
+00:10:06,960 --> 00:10:09,080
+<font color=#00FFFF>Das kann man alles schön einkochen.</font>
+
+187
+00:10:09,080 --> 00:10:11,520
+<font color=#FFFF00>Das kommt zu den Birkenpilzen dazu.</font>
+
+188
+00:10:11,840 --> 00:10:14,480
+<font color=#FFFF00>Nach diesem Grundrezept</font>
+<font color=#FFFF00>kann man alle Pilze,</font>
+
+189
+00:10:14,480 --> 00:10:19,520
+<font color=#FFFF00>die jetzt im Wald fröhlich</font>
+<font color=#FFFF00>vor sich hin sprießen, zubereiten.</font>
+
+190
+00:10:19,840 --> 00:10:23,200
+<font color=#00FFFF>Zum Schluss</font>
+<font color=#00FFFF>kommt in die Soße noch Petersilie.</font>
+
+191
+00:10:23,200 --> 00:10:25,200
+<font color=#00FFFF>Brauch ich nicht alles.</font>
+
+192
+00:10:25,680 --> 00:10:28,360
+<font color=#FFFF00>Ich gebe zu meinen Pilzen</font>
+
+193
+00:10:28,360 --> 00:10:33,160
+<font color=#FFFF00>noch ein Händchen</font>
+<font color=#FFFF00>voll blanchierter Böhnchen.</font>
+
+194
+00:10:33,360 --> 00:10:35,720
+<font color=#FFFF00>Die werden nur kurz mitgedünstet.</font>
+
+195
+00:10:35,720 --> 00:10:38,040
+<font color=#FFFF00>Da entsteht keine Soße und nichts.</font>
+
+196
+00:10:38,320 --> 00:10:40,640
+<font color=#FFFF00>Das ist einfach eine kleine Beilage.</font>
+
+197
+00:10:41,400 --> 00:10:44,280
+<font color=#00FFFF>Ich hol zum Schluss</font>
+<font color=#00FFFF>noch ein bisschen...</font>
+
+198
+00:10:45,120 --> 00:10:46,400
+<font color=#00FFFF>...Balsamico.</font>
+
+199
+00:10:46,800 --> 00:10:49,640
+<font color=#00FFFF>Da kommen 3, 4 Tropfen rein.</font>
+
+200
+00:10:49,920 --> 00:10:52,120
+<font color=#00FFFF>Na ja. 10, 12.</font>
+
+201
+00:10:52,440 --> 00:10:53,840
+<font color=#00FFFF>Mir auch recht.</font>
+
+202
+00:11:00,280 --> 00:11:01,600
+<font color=#FFFF00>Wunderbar.</font>
+
+203
+00:11:01,840 --> 00:11:06,840
+<font color=#00FFFF>Zum Schluss kommt</font>
+<font color=#00FFFF>in diese heftig kochende Reduktion</font>
+
+204
+00:11:06,840 --> 00:11:11,320
+<font color=#00FFFF>kühlschrankkalte Butter</font>
+<font color=#00FFFF>in kleineren Stückchen.</font>
+
+205
+00:11:11,680 --> 00:11:14,240
+<font color=#00FFFF>Die wird einfach</font>
+<font color=#00FFFF>locker eingeschwenkt.</font>
+
+206
+00:11:14,240 --> 00:11:17,840
+<font color=#00FFFF>Nicht gerührt, nicht geschlagen,</font>
+<font color=#00FFFF>nix, einfach schwenken.</font>
+
+207
+00:11:17,840 --> 00:11:22,920
+<font color=#00FFFF>Jetzt sehen Sie, wird die Soße</font>
+<font color=#00FFFF>dicklich, kriegt ne schöne Bindung.</font>
+
+208
+00:11:23,160 --> 00:11:27,760
+<font color=#FFFF00>Und sie kriegt Glanz,</font>
+<font color=#FFFF00>das finde ich wichtig bei ner Soße.</font>
+
+209
+00:11:28,000 --> 00:11:30,400
+<font color=#00FFFF>Dann können wir</font>
+<font color=#00FFFF>das Fleisch rausholen.</font>
+
+210
+00:11:30,400 --> 00:11:32,880
+<font color=#FFFF00>Ja, das Fleisch tranchieren.</font>
+
+211
+00:11:33,160 --> 00:11:34,600
+<font color=#FFFF00>Jawohl.</font>
+
+212
+00:11:35,160 --> 00:11:37,200
+<font color=#FFFF00>Na, sieht gut aus, oder?</font>
+
+213
+00:11:37,360 --> 00:11:40,680
+<font color=#FFFF00>Ich schneide es lieber hier,</font>
+<font color=#FFFF00>da ist mehr Platz.</font>
+
+214
+00:11:41,960 --> 00:11:44,480
+<font color=#FFFF00>Nehme ich das Teil auf den Teller.</font>
+
+215
+00:11:44,480 --> 00:11:48,160
+<font color=#FFFF00>Hier habe ich noch Saft.</font>
+<font color=#00FFFF>- Ja, den kann man noch reintun.</font>
+
+216
+00:11:48,480 --> 00:11:51,200
+<font color=#FFFF00>Mit diesem einen Schnitt...</font>
+
+217
+00:11:51,640 --> 00:11:55,800
+<font color=#FFFF00>Nicht hin und her, nicht säbeln.</font>
+<font color=#FFFF00>Das mag das Fleisch nicht.</font>
+
+218
+00:11:56,040 --> 00:11:58,560
+<font color=#FFFF00>So kriegt man</font>
+<font color=#FFFF00>eine schöne Schnittfläche.</font>
+
+219
+00:11:58,560 --> 00:12:01,520
+<font color=#FFFF00>Und auch hier unbedingt</font>
+<font color=#FFFF00>dünne Scheiben schneiden.</font>
+
+220
+00:12:01,720 --> 00:12:03,480
+<font color=#00FFFF>Je mehr Oberfläche man hat,</font>
+
+221
+00:12:03,480 --> 00:12:06,600
+<font color=#00FFFF>desto mehr geschmackliche Wirkung</font>
+<font color=#00FFFF>kann man erzielen.</font>
+
+222
+00:12:08,840 --> 00:12:11,240
+<font color=#FFFF00>Ich tue 2 so Scheibchen</font>
+<font color=#FFFF00>auf einen Teller.</font>
+
+223
+00:12:11,240 --> 00:12:13,360
+<font color=#00FFFF>Ja, komm ich...</font>
+<font color=#FFFF00>- Komm mir entgegen.</font>
+
+224
+00:12:13,360 --> 00:12:14,640
+<font color=#FFFF00>Das ist doch schön.</font>
+
+225
+00:12:14,640 --> 00:12:17,920
+<font color=#FFFF00>Dann kommt hier</font>
+<font color=#FFFF00>von unserm Gemüse was dazu.</font>
+
+226
+00:12:19,400 --> 00:12:21,560
+<font color=#00FFFF>Die Hälfte?</font>
+<font color=#FFFF00>- Ja.</font>
+
+227
+00:12:21,760 --> 00:12:24,120
+<font color=#FFFF00>Das ist ne Portion für 2 Personen.</font>
+
+228
+00:12:24,120 --> 00:12:27,000
+<font color=#00FFFF>Und eventuell</font>
+<font color=#00FFFF>kann einer die Restscheibe...</font>
+
+229
+00:12:27,280 --> 00:12:28,960
+<font color=#FFFF00>...vom Fleisch haben?</font>
+
+230
+00:12:29,200 --> 00:12:32,800
+<font color=#FFFF00>Du kriegst 2 Scheiben mehr,</font>
+<font color=#FFFF00>weil du bist größer als ich.</font>
+
+231
+00:12:33,000 --> 00:12:34,480
+<font color=#00FFFF>Das ist richtig.</font>
+
+232
+00:12:34,760 --> 00:12:38,000
+<font color=#FFFF00>Die Soße</font>
+<font color=#FFFF00>schön elegant drauf verkleckern.</font>
+
+233
+00:12:38,560 --> 00:12:41,280
+<font color=#FFFF00>Ich hole schon mal den Wein.</font>
+
+234
+00:12:41,520 --> 00:12:43,480
+<font color=#FFFF00>Hast du da was vorgesehen?</font>
+
+235
+00:12:43,680 --> 00:12:46,720
+<font color=#00FFFF>Dafür habe ich was vorgesehen, ja.</font>
+
+236
+00:12:47,000 --> 00:12:50,000
+<font color=#FFFF00>Ich glaube,</font>
+<font color=#FFFF00>du hast diese Gläser vorgesehen,</font>
+
+237
+00:12:50,000 --> 00:12:51,920
+<font color=#FFFF00>die kann ich schon mal bringen.</font>
+
+238
+00:12:51,920 --> 00:12:55,080
+<font color=#00FFFF>Ich hab vergessen,</font>
+<font color=#00FFFF>die Petersilie in die Soße zu tun</font>
+
+239
+00:12:55,080 --> 00:12:57,080
+<font color=#00FFFF>und muss sie jetzt drüberstreuen.</font>
+
+240
+00:12:57,240 --> 00:12:59,080
+<font color=#00FFFF>Irgendwas vergisst man immer.</font>
+
+241
+00:12:59,080 --> 00:13:02,600
+<font color=#00FFFF>Ja, das ist sehr gut, super.</font>
+<font color=#FFFF00>- Guck mal. Da bin ich froh.</font>
+
+242
+00:13:02,600 --> 00:13:06,040
+<font color=#00FFFF>Ich hab hier einen Wein</font>
+<font color=#00FFFF>aus der Toskana.</font>
+
+243
+00:13:06,040 --> 00:13:08,360
+<font color=#00FFFF>Das ist 80% Sangiovese.</font>
+
+244
+00:13:08,360 --> 00:13:11,560
+<font color=#00FFFF>Da ist es neue Mode in Italien,</font>
+
+245
+00:13:11,560 --> 00:13:15,480
+<font color=#00FFFF>auch Weine verschiedener Regionen</font>
+<font color=#00FFFF>zu verschneiden.</font>
+
+246
+00:13:15,480 --> 00:13:19,440
+<font color=#00FFFF>Da ist ein bisschen was aus Sizilien</font>
+<font color=#00FFFF>mit drin, Nero d'Avola.</font>
+
+247
+00:13:19,440 --> 00:13:24,280
+<font color=#00FFFF>Dann ist noch was aus Apulien drin.</font>
+
+248
+00:13:24,480 --> 00:13:26,560
+<font color=#FFFF00>Mordsaroma.</font>
+<font color=#00FFFF>- Ja, Primitivo.</font>
+
+249
+00:13:27,040 --> 00:13:30,640
+<font color=#FFFF00>Ist schon ein witziger Name</font>
+<font color=#FFFF00>für so einen schönen Wein.</font>
+
+250
+00:13:30,960 --> 00:13:35,800
+<font color=#FFFF00>Jetzt will ich erst probieren,</font>
+<font color=#FFFF00>wie z.B. das Sößchen geworden ist.</font>
+
+251
+00:13:36,680 --> 00:13:39,480
+<font color=#FFFF00>N bisschen Pilz dazu.</font>
+
+252
+00:13:39,920 --> 00:13:41,280
+<font color=#FFFF00>Mh.</font>
+
+253
+00:13:41,560 --> 00:13:43,720
+<font color=#00FFFF>Zufriedenstellend?</font>
+<font color=#FFFF00>- Mh.</font>
+
+254
+00:13:44,160 --> 00:13:45,520
+<font color=#FFFF00>Mh.</font>
+
+255
+00:13:45,560 --> 00:13:48,320
+<font color=#FFFF00>Sehr gut. Wunderbar.</font>
+
+256
+00:13:48,320 --> 00:13:52,280
+<font color=#FFFF00>Dein Sößchen ist gut, die Pilze</font>
+<font color=#FFFF00>sind gut, das Fleisch ist gut.</font>
+
+257
+00:13:52,280 --> 00:13:54,920
+<font color=#00FFFF>Die Bohnen sind gut.</font>
+<font color=#FFFF00>- Was wollen wir mehr?</font>
+
+258
+00:13:55,880 --> 00:13:58,880
+<font color=#FFFFFF>* Musik *</font>
+
+259
+00:14:00,360 --> 00:14:03,600
+<font color=#FFFF00>Ist schon was Gutes,</font>
+<font color=#FFFF00>so ein schönes Stück Fleisch.</font>
+
+260
+00:14:04,560 --> 00:14:07,560
+<font color=#FFFFFF>* Musik *</font>
+
+261
+00:14:11,360 --> 00:14:14,000
+<font color=#FFFF00>Dies hier</font>
+<font color=#FFFF00>ist ein Stück vom Roastbeef.</font>
+
+262
+00:14:14,000 --> 00:14:17,200
+<font color=#FFFF00>Das kann man auch</font>
+<font color=#FFFF00>als großen Braten ausschneiden.</font>
+
+263
+00:14:17,200 --> 00:14:21,240
+<font color=#FFFF00>Oder hier für 3 bis 4 Personen</font>
+<font color=#FFFF00>ein solches Stück.</font>
+
+264
+00:14:21,240 --> 00:14:23,840
+<font color=#FFFF00>Zubereitet</font>
+<font color=#FFFF00>wird es in jedem Fall gleich.</font>
+
+265
+00:14:23,840 --> 00:14:27,480
+<font color=#FFFF00>Und zwar muss es</font>
+<font color=#FFFF00>diese Fettschicht haben. Unbedingt.</font>
+
+266
+00:14:27,480 --> 00:14:32,680
+<font color=#FFFF00>Unter der Fettschicht verläuft</font>
+<font color=#FFFF00>eine Sehne, die kann man hier sehen.</font>
+
+267
+00:14:32,680 --> 00:14:34,720
+<font color=#FFFF00>Dieses Messer schneidet nicht.</font>
+
+268
+00:14:34,720 --> 00:14:36,560
+<font color=#FFFF00>Du hast mir das geschliffen.</font>
+
+269
+00:14:36,560 --> 00:14:39,720
+<font color=#FFFF00>Die kann man hier sehen,</font>
+<font color=#FFFF00>die muss man durchtrennen.</font>
+
+270
+00:14:39,720 --> 00:14:45,040
+<font color=#FFFF00>Als ob es ein Schweinebraten wär,</font>
+<font color=#FFFF00>machen wir hier parallele Schnitte.</font>
+
+271
+00:14:45,040 --> 00:14:47,440
+<font color=#FFFF00>Schräg über die ganze Fläche.</font>
+
+272
+00:14:47,440 --> 00:14:51,400
+<font color=#FFFF00>Erst in die eine Richtung,</font>
+<font color=#FFFF00>ungefähr 1 cm Abstand.</font>
+
+273
+00:14:51,400 --> 00:14:55,840
+<font color=#FFFF00>Und dann 90° gedreht</font>
+<font color=#FFFF00>in die andere Richtung.</font>
+
+274
+00:14:55,920 --> 00:14:59,040
+<font color=#00FFFF>Schneid. Das wird heiß, die Pfanne.</font>
+<font color=#FFFF00>- Ich bin dabei.</font>
+
+275
+00:14:59,240 --> 00:15:03,280
+<font color=#FFFF00>Und es kann jetzt das Fett</font>
+<font color=#FFFF00>aus der Fettabdeckung...</font>
+
+276
+00:15:03,600 --> 00:15:08,280
+<font color=#FFFF00>Kann schön ausbraten, wenn ich das</font>
+<font color=#FFFF00>in die knallheiße Pfanne lege.</font>
+
+277
+00:15:09,880 --> 00:15:13,720
+<font color=#FFFF00>Wir können in diesem Augenblick</font>
+<font color=#FFFF00>auch schon ein bisschen salzen.</font>
+
+278
+00:15:13,720 --> 00:15:17,560
+<font color=#FFFF00>Was wir sonst</font>
+<font color=#FFFF00>immer nur nach dem Braten tun.</font>
+
+279
+00:15:17,560 --> 00:15:22,200
+<font color=#FFFF00>Aber wenn es gleich umgedreht</font>
+<font color=#FFFF00>werden wird, ist das kein Problem.</font>
+
+280
+00:15:23,040 --> 00:15:25,320
+<font color=#FFFF00>Das ist jetzt grobes Salz.</font>
+
+281
+00:15:25,720 --> 00:15:29,640
+<font color=#FFFF00>Und geben ruhig auch noch</font>
+<font color=#FFFF00>n bisschen Pfeffer drauf.</font>
+
+282
+00:15:30,320 --> 00:15:33,120
+<font color=#FFFF00>So teilt es sich</font>
+<font color=#FFFF00>dem Fleisch besser mit.</font>
+
+283
+00:15:33,120 --> 00:15:38,040
+<font color=#FFFF00>Jetzt können wir auch hier mit den</font>
+<font color=#FFFF00>Kräutern kommen, die wir mitrösten.</font>
+
+284
+00:15:38,040 --> 00:15:41,040
+<font color=#FFFF00>Sodass sie das Öl</font>
+<font color=#FFFF00>n bisschen parfümieren.</font>
+
+285
+00:15:41,040 --> 00:15:43,400
+<font color=#FFFF00>Sieht schon mal sehr gut aus.</font>
+
+286
+00:15:43,720 --> 00:15:45,920
+<font color=#00FFFF>Sieht ausgezeichnet aus.</font>
+
+287
+00:15:47,040 --> 00:15:49,000
+<font color=#FFFF00>Dann kriegst du einen Teller.</font>
+
+288
+00:15:49,000 --> 00:15:52,600
+<font color=#FFFF00>Dann können wir es wunderbar</font>
+<font color=#FFFF00>wieder in den Ofen schieben.</font>
+
+289
+00:15:54,160 --> 00:15:57,880
+<font color=#00FFFF>Also, dieser Salbei,</font>
+<font color=#00FFFF>der ist so was von köstlich.</font>
+
+290
+00:15:58,080 --> 00:16:00,680
+<font color=#00FFFF>Duftet so wunderbar.</font>
+<font color=#FFFF00>- Schmeckt auch gut.</font>
+
+291
+00:16:00,680 --> 00:16:02,840
+<font color=#FFFF00>Ich hab den anderen aufgegessen.</font>
+
+292
+00:16:04,440 --> 00:16:06,080
+<font color=#00FFFF>Das wärs dann.</font>
+
+293
+00:16:06,320 --> 00:16:08,560
+<font color=#FFFF00>Sieht das nicht super aus?</font>
+
+294
+00:16:09,000 --> 00:16:11,080
+<font color=#FFFF00>Kann man nicht meckern, oder?</font>
+
+295
+00:16:13,280 --> 00:16:16,280
+<font color=#FFFFFF>* Musik *</font>
+
+296
+00:16:20,680 --> 00:16:23,520
+<font color=#FFFF00>Unser Roastbeef</font>
+<font color=#FFFF00>hat schön durchgezogen.</font>
+
+297
+00:16:23,520 --> 00:16:26,040
+<font color=#FFFF00>Ich habe es</font>
+<font color=#FFFF00>ein bisschen abkühlen lassen,</font>
+
+298
+00:16:26,040 --> 00:16:28,280
+<font color=#FFFF00>weil man muss es nicht heiß essen.</font>
+
+299
+00:16:28,280 --> 00:16:31,280
+<font color=#00FFFF>Soll ich den Teller...</font>
+<font color=#FFFF00>- Ja, dann kann ich anrichten.</font>
+
+300
+00:16:31,280 --> 00:16:33,320
+<font color=#FFFF00>Das schneide ich in dünne Scheiben.</font>
+
+301
+00:16:33,320 --> 00:16:35,600
+<font color=#00FFFF>Ich werde mich</font>
+<font color=#00FFFF>um die Beilage kümmern.</font>
+
+302
+00:16:35,600 --> 00:16:38,680
+<font color=#00FFFF>Die werden häufig als Bratpaprika</font>
+<font color=#00FFFF>bei uns verkauft.</font>
+
+303
+00:16:38,680 --> 00:16:43,080
+<font color=#00FFFF>Da gibt es ein schönes spanisches</font>
+<font color=#00FFFF>Wort: Pimientos de Padrón.</font>
+
+304
+00:16:43,080 --> 00:16:46,080
+<font color=#00FFFF>Unos pican, otros no.</font>
+
+305
+00:16:46,320 --> 00:16:50,880
+<font color=#FFFF00>Also, die einen sind scharf und</font>
+<font color=#FFFF00>piksen, und die anderen eben nicht.</font>
+
+306
+00:16:50,880 --> 00:16:54,160
+<font color=#FFFF00>Es ist eine Überraschung.</font>
+<font color=#00FFFF>- Eine Lotterie. </font>
+<font color=#FFFF00>- Genau.</font>
+
+307
+00:16:54,160 --> 00:16:58,640
+<font color=#FFFF00>Den Fettrand und die Sehne</font>
+<font color=#FFFF00>schneiden wir nicht ab.</font>
+
+308
+00:16:58,640 --> 00:17:00,960
+<font color=#FFFF00>Sondern das soll jeder</font>
+<font color=#FFFF00>auf n Teller tun.</font>
+
+309
+00:17:00,960 --> 00:17:04,280
+<font color=#FFFF00>Denn manche Leute mögen das</font>
+<font color=#FFFF00>und essen es gerne mit.</font>
+
+310
+00:17:04,280 --> 00:17:07,960
+<font color=#FFFF00>Und gesalzen und gepfeffert</font>
+<font color=#FFFF00>wird es auch erst bei Tisch.</font>
+
+311
+00:17:07,960 --> 00:17:11,960
+<font color=#00FFFF>Die Pimientos kommen</font>
+<font color=#00FFFF>in die brüllendheiße Pfanne,</font>
+
+312
+00:17:11,960 --> 00:17:13,680
+<font color=#00FFFF>ins heiße Öl.</font>
+
+313
+00:17:14,000 --> 00:17:17,880
+<font color=#00FFFF>Dann müssen sie scharf braten,</font>
+<font color=#00FFFF>dürfen dabei aber nicht verbrennen.</font>
+
+314
+00:17:17,880 --> 00:17:19,960
+<font color=#FFFF00>Ich mache eine Qualitätskontrolle.</font>
+
+315
+00:17:19,960 --> 00:17:21,720
+<font color=#00FFFF>Ja, das ist schön.</font>
+
+316
+00:17:22,040 --> 00:17:24,440
+<font color=#00FFFF>Soll ich auch kontrollieren?</font>
+<font color=#FFFF00>- Möchtest du?</font>
+
+317
+00:17:24,440 --> 00:17:26,480
+<font color=#00FFFF>Ja, lass mich mal kontrollieren.</font>
+
+318
+00:17:26,680 --> 00:17:28,920
+<font color=#FFFF00>Dann kannst du</font>
+<font color=#FFFF00>aber nicht mehr reden.</font>
+
+319
+00:17:28,920 --> 00:17:31,840
+<font color=#00FFFF>Ich brauche ein bisschen Salz dazu.</font>
+
+320
+00:17:32,200 --> 00:17:34,440
+<font color=#FFFF00>Soll ich dir behilflich sein?</font>
+
+321
+00:17:34,440 --> 00:17:38,360
+<font color=#FFFF00>Ich würde es schwungvoll</font>
+<font color=#FFFF00>alles auf einmal in die Pfanne tun.</font>
+
+322
+00:17:38,360 --> 00:17:42,080
+<font color=#FFFF00>Es muss heiß braten,</font>
+<font color=#FFFF00>es muss gleich losbrutzeln.</font>
+
+323
+00:17:43,360 --> 00:17:45,120
+<font color=#FFFF00>Jetzt werden sie schön.</font>
+
+324
+00:17:45,800 --> 00:17:48,040
+<font color=#00FFFF>Die Padróns haben noch ihre Stiele.</font>
+
+325
+00:17:48,040 --> 00:17:52,040
+<font color=#00FFFF>Da erleben wir immer wieder, dass</font>
+<font color=#00FFFF>manche sich nicht umdrehen wollen,</font>
+
+326
+00:17:52,040 --> 00:17:53,720
+<font color=#00FFFF>weil sie sich verhaken.</font>
+
+327
+00:17:53,720 --> 00:17:57,720
+<font color=#00FFFF>Oder weil der Stiel so gewachsen</font>
+<font color=#00FFFF>ist, dass er es nicht erlaubt.</font>
+
+328
+00:17:57,720 --> 00:17:59,800
+<font color=#FFFF00>So sind sie absolut perfekt.</font>
+
+329
+00:17:59,800 --> 00:18:02,600
+<font color=#FFFF00>Sie sollen richtige braune Stellen</font>
+<font color=#FFFF00>zeigen.</font>
+
+330
+00:18:02,600 --> 00:18:04,720
+<font color=#00FFFF>Jetzt kommt Salz dran.</font>
+<font color=#FFFF00>- Genau.</font>
+
+331
+00:18:04,720 --> 00:18:08,640
+<font color=#FFFF00>Ganz zum Schluss.</font>
+<font color=#00FFFF>- Und zwar eine ordentliche Menge.</font>
+
+332
+00:18:08,640 --> 00:18:11,480
+<font color=#FFFF00>Auch wieder</font>
+<font color=#FFFF00>das ungereinigte, grobe Meersalz.</font>
+
+333
+00:18:11,480 --> 00:18:14,960
+<font color=#00FFFF>Es kann auch gereinigtes sein.</font>
+<font color=#00FFFF>Aber grob muss es sein.</font>
+
+334
+00:18:14,960 --> 00:18:16,880
+<font color=#FFFF00>Dann einmal rumschwenken.</font>
+
+335
+00:18:16,880 --> 00:18:20,520
+<font color=#FFFF00>Und dann kann man es servieren.</font>
+
+336
+00:18:21,160 --> 00:18:22,920
+<font color=#FFFF00>Achtung.</font>
+
+337
+00:18:23,840 --> 00:18:26,360
+<font color=#FFFF00>Die kommen so auf den Tisch.</font>
+
+338
+00:18:26,360 --> 00:18:28,000
+<font color=#FFFF00>So.</font>
+
+339
+00:18:28,320 --> 00:18:31,240
+<font color=#FFFF00>Sehen die nicht</font>
+<font color=#FFFF00>wunderbar appetitlich aus?</font>
+
+340
+00:18:31,560 --> 00:18:33,640
+<font color=#00FFFF>Ich trink dazu n Bier.</font>
+
+341
+00:18:33,840 --> 00:18:37,520
+<font color=#00FFFF>Ich weiß, dass du dazu</font>
+<font color=#00FFFF>n Wein willst, einen weißen.</font>
+
+342
+00:18:37,720 --> 00:18:40,280
+<font color=#FFFF00>Jetzt kommt n bisschen Salz</font>
+<font color=#FFFF00>auf unser...</font>
+
+343
+00:18:40,280 --> 00:18:42,880
+<font color=#FFFF00>Das schöne Fleur de Sel</font>
+<font color=#FFFF00>nehm ich hier,</font>
+
+344
+00:18:43,000 --> 00:18:45,760
+<font color=#FFFF00>das n bisschen feiner ist</font>
+<font color=#FFFF00>als das grobe Salz.</font>
+
+345
+00:18:45,760 --> 00:18:48,040
+<font color=#00FFFF>Dazu kann man alles Mögliche essen.</font>
+
+346
+00:18:48,040 --> 00:18:51,920
+<font color=#00FFFF>Aber einfach ein Brot,</font>
+<font color=#00FFFF>eventuell gebuttert, reicht völlig.</font>
+
+347
+00:18:51,920 --> 00:18:56,200
+<font color=#00FFFF>Es gibt Leute, die wollen dazu</font>
+<font color=#00FFFF>unbedingt ne Remouladensoße.</font>
+
+348
+00:18:56,200 --> 00:18:58,960
+<font color=#00FFFF>Ist auch schön, gebe ich zu.</font>
+
+349
+00:18:58,960 --> 00:19:01,560
+<font color=#00FFFF>Bratkartoffeln passen hervorragend.</font>
+
+350
+00:19:01,560 --> 00:19:06,560
+<font color=#00FFFF>Aber diese gebratenen Padróns</font>
+<font color=#00FFFF>sind viel witziger. </font>
+<font color=#FFFF00>- Find ich auch.</font>
+
+351
+00:19:06,560 --> 00:19:08,600
+<font color=#FFFF00>Das ist ein wunderbarer Teller.</font>
+
+352
+00:19:09,440 --> 00:19:12,440
+<font color=#FFFFFF>* Musik *</font>
+
+353
+00:19:15,360 --> 00:19:20,560
+<font color=#FFFF00>Nun zu unserem Prunkstück,</font>
+<font color=#FFFF00>diesem wunderbaren T-Bone-Steak.</font>
+
+354
+00:19:20,840 --> 00:19:24,520
+<font color=#FFFF00>Das kommt in die Pfanne,</font>
+<font color=#FFFF00>die heiß sein soll.</font>
+
+355
+00:19:25,000 --> 00:19:28,960
+<font color=#FFFF00>Jetzt werden wir es nicht</font>
+<font color=#FFFF00>in Öl anbraten,</font>
+
+356
+00:19:28,960 --> 00:19:34,080
+<font color=#FFFF00>sondern auf einem Salzbett.</font>
+<font color=#00FFFF>- Und zwar grobem Meersalz.</font>
+
+357
+00:19:34,440 --> 00:19:38,800
+<font color=#FFFF00>Die Schicht muss nicht hoch sein,</font>
+<font color=#FFFF00>nur geschlossen. Das reicht schon.</font>
+
+358
+00:19:38,800 --> 00:19:42,080
+<font color=#00FFFF>Dieses Fleischstück</font>
+<font color=#00FFFF>kommt nicht aus dem Kühlschrank,</font>
+
+359
+00:19:42,080 --> 00:19:45,160
+<font color=#00FFFF>sondern es hat schon</font>
+<font color=#00FFFF>Zimmertemperatur angenommen.</font>
+
+360
+00:19:45,160 --> 00:19:47,960
+<font color=#00FFFF>Das ist ganz wichtig,</font>
+<font color=#00FFFF>weil diese 20° Unterschied</font>
+
+361
+00:19:47,960 --> 00:19:50,320
+<font color=#00FFFF>sind auch entscheidend</font>
+<font color=#00FFFF>für die Garung.</font>
+
+362
+00:19:50,320 --> 00:19:54,920
+<font color=#FFFF00>Nun lassen wir das liegen, so lange,</font>
+<font color=#FFFF00>bis... Was passiert jetzt?</font>
+
+363
+00:19:54,920 --> 00:19:59,040
+<font color=#FFFF00>Es tritt das Fett aus der</font>
+<font color=#FFFF00>Fettschicht langsam aus,</font>
+
+364
+00:19:59,040 --> 00:20:03,880
+<font color=#FFFF00>verteilt sich unter dem Salz,</font>
+<font color=#FFFF00>die Salzkörnchen spritzen.</font>
+
+365
+00:20:05,240 --> 00:20:08,560
+<font color=#FFFF00>Wir sehen dann, wenn wir</font>
+<font color=#FFFF00>auf die Fettseite gucken...</font>
+
+366
+00:20:08,760 --> 00:20:11,600
+<font color=#00FFFF>Jetzt können wir runtergehen</font>
+<font color=#00FFFF>mit der Temperatur.</font>
+
+367
+00:20:11,600 --> 00:20:14,240
+<font color=#FFFF00>wie es anfängt,</font>
+<font color=#FFFF00>sich zu erwärmen, das Fett.</font>
+
+368
+00:20:14,280 --> 00:20:18,680
+<font color=#FFFF00>Es fließt unter das Salz, und hier</font>
+<font color=#FFFF00>sehen wir, wie es dunkel wird.</font>
+
+369
+00:20:18,680 --> 00:20:23,760
+<font color=#FFFF00>Wir können dann</font>
+<font color=#FFFF00>das Fleischstück wenden.</font>
+
+370
+00:20:24,120 --> 00:20:27,040
+<font color=#FFFF00>Jetzt gehe ich rum</font>
+<font color=#FFFF00>und legs hier drauf.</font>
+
+371
+00:20:27,040 --> 00:20:29,440
+<font color=#FFFF00>Jetzt haben wir hier diese Bräunung.</font>
+
+372
+00:20:30,360 --> 00:20:34,880
+<font color=#FFFF00>Jetzt können wir es noch einmal</font>
+<font color=#FFFF00>auf die Fettseite stellen.</font>
+
+373
+00:20:36,160 --> 00:20:41,280
+<font color=#FFFF00>Hier muss mans halten, hier machen</font>
+<font color=#FFFF00>wir das Salz wieder runter.</font>
+
+374
+00:20:42,640 --> 00:20:47,280
+<font color=#00FFFF>Eine gewisse Rauchentwicklung</font>
+<font color=#00FFFF>lässt sich nicht vermeiden. </font>
+<font color=#FFFF00>- Nein.</font>
+
+375
+00:20:47,600 --> 00:20:50,480
+<font color=#FFFF00>Jetzt seht ihr</font>
+<font color=#FFFF00>die wunderbaren Bratspuren.</font>
+
+376
+00:20:50,480 --> 00:20:53,560
+<font color=#FFFF00>Da brutzelts und macht und tut es.</font>
+
+377
+00:20:53,560 --> 00:20:55,600
+<font color=#FFFF00>Wir geben das auf diese Platte.</font>
+
+378
+00:20:56,400 --> 00:21:00,800
+<font color=#FFFF00>Jetzt kommt noch Olivenöl drauf.</font>
+<font color=#FFFF00>Machst du das mal, bitte?</font>
+
+379
+00:21:01,720 --> 00:21:06,840
+<font color=#FFFF00>Auch ein bisschen Pfeffer</font>
+<font color=#FFFF00>in die Mitte der Platte.</font>
+
+380
+00:21:07,160 --> 00:21:11,160
+<font color=#00FFFF>Frisches Olivenöl für den Geschmack</font>
+<font color=#00FFFF>und die Geschmeidigkeit.</font>
+
+381
+00:21:11,400 --> 00:21:16,120
+<font color=#FFFF00>Das kann langsam runtersickern</font>
+<font color=#FFFF00>und seinen Geschmack verleihen.</font>
+
+382
+00:21:16,320 --> 00:21:19,400
+<font color=#00FFFF>Das Schöne ist, wir brauchen</font>
+<font color=#00FFFF>nicht mehr zu salzen.</font>
+
+383
+00:21:19,400 --> 00:21:21,760
+<font color=#FFFF00>Das kommt jetzt wieder in den Ofen,</font>
+
+384
+00:21:21,760 --> 00:21:25,440
+<font color=#FFFF00>65° Heißluft,</font>
+<font color=#FFFF00>85° Ober- und Unterhitze.</font>
+
+385
+00:21:25,600 --> 00:21:30,560
+<font color=#FFFF00>In diesem Fall gilt die Regel</font>
+<font color=#FFFF00>mit den 5 min pro Zentimeter nicht,</font>
+
+386
+00:21:30,560 --> 00:21:32,600
+<font color=#FFFF00>weil hier ist ein Knochen drin.</font>
+
+387
+00:21:32,600 --> 00:21:36,480
+<font color=#FFFF00>Das ist ein Kilo, und dieses</font>
+<font color=#FFFF00>kiloschwere Stück mit dem Knochen</font>
+
+388
+00:21:36,480 --> 00:21:39,120
+<font color=#FFFF00>braucht auf jeden Fall 40 min.</font>
+
+389
+00:21:39,120 --> 00:21:43,760
+<font color=#FFFF00>Dann können wir hier draufdrücken</font>
+<font color=#FFFF00>und feststellen, wie es ist.</font>
+
+390
+00:21:45,320 --> 00:21:48,320
+<font color=#FFFFFF>* Musik *</font>
+
+391
+00:21:49,240 --> 00:21:55,720
+<font color=#00FFFF>Ich zupfe gerade die Blätter</font>
+<font color=#00FFFF>von Estragon ab, frischem Estragon.</font>
+
+392
+00:21:56,080 --> 00:21:58,480
+<font color=#00FFFF>Das ist eine der wichtigsten Zutaten</font>
+
+393
+00:21:58,480 --> 00:22:01,040
+<font color=#00FFFF>zu einer der bedeutendsten Soßen</font>
+<font color=#00FFFF>der Welt,</font>
+
+394
+00:22:01,040 --> 00:22:03,280
+<font color=#00FFFF>die man zu Rindfleisch</font>
+<font color=#00FFFF>gerne reicht.</font>
+
+395
+00:22:03,280 --> 00:22:06,920
+<font color=#00FFFF>Die Grundlage ist eine Reduktion,</font>
+<font color=#00FFFF>die sehr würzig sein muss.</font>
+
+396
+00:22:06,920 --> 00:22:10,080
+<font color=#00FFFF>Da nehme ich diese Estragonstiele</font>
+<font color=#00FFFF>mit vielen Blättern,</font>
+
+397
+00:22:10,520 --> 00:22:14,240
+<font color=#00FFFF>Ein Glas Weißwein,</font>
+<font color=#00FFFF>Topf ist ziemlich heiß.</font>
+
+398
+00:22:14,720 --> 00:22:18,520
+<font color=#00FFFF>Ein ordentlicher Schuss</font>
+<font color=#00FFFF>Weißweinessig.</font>
+
+399
+00:22:19,320 --> 00:22:24,840
+<font color=#00FFFF>Dann kommen hinein Zwiebeln oder</font>
+<font color=#00FFFF>Schalotte, fein gehackt oder grob.</font>
+
+400
+00:22:25,080 --> 00:22:26,760
+<font color=#00FFFF>Das ist nicht so wichtig.</font>
+
+401
+00:22:26,760 --> 00:22:30,680
+<font color=#00FFFF>Ich gebe dazu eine Knoblauchzehe,</font>
+<font color=#00FFFF>die ich ganz lasse.</font>
+
+402
+00:22:30,680 --> 00:22:34,400
+<font color=#00FFFF>Die soll nur n bisschen Duft geben,</font>
+<font color=#00FFFF>ich find das sehr schön.</font>
+
+403
+00:22:34,400 --> 00:22:39,600
+<font color=#00FFFF>Dann zerdrückter Pfeffer,</font>
+<font color=#00FFFF>das ist ganz wichtig auch.</font>
+
+404
+00:22:39,880 --> 00:22:42,480
+<font color=#00FFFF>Das ist die Pikanz,</font>
+<font color=#00FFFF>die nachher drin ist.</font>
+
+405
+00:22:42,480 --> 00:22:46,880
+<font color=#00FFFF>Diese Blätter werde ich hacken,</font>
+<font color=#00FFFF>und die kommen zum Schluss dazu.</font>
+
+406
+00:22:47,360 --> 00:22:51,880
+<font color=#FFFF00>Ich mache auch eine Beilage</font>
+<font color=#FFFF00>für unser T-Bone-Steak,</font>
+
+407
+00:22:51,880 --> 00:22:53,920
+<font color=#FFFF00>und zwar Ölkartöffelchen.</font>
+
+408
+00:22:53,960 --> 00:22:57,000
+<font color=#FFFF00>Für diese kleinen Kartöffelchen,</font>
+<font color=#FFFF00>die "Drillinge",</font>
+
+409
+00:22:57,000 --> 00:23:00,160
+<font color=#FFFF00>ist das die perfekte</font>
+<font color=#FFFF00>und ideale Zubereitungsweise.</font>
+
+410
+00:23:00,160 --> 00:23:03,280
+<font color=#FFFF00>Sie müssen gründlich gewaschen</font>
+<font color=#FFFF00>und gebürstet sein,</font>
+
+411
+00:23:03,280 --> 00:23:05,680
+<font color=#FFFF00>sodass man die Schale mitessen kann.</font>
+
+412
+00:23:05,680 --> 00:23:10,440
+<font color=#FFFF00>Dann werden sie in einem Topf, in</font>
+<font color=#FFFF00>dem sie gerade auf den Boden passen,</font>
+
+413
+00:23:10,440 --> 00:23:15,840
+<font color=#FFFF00>in heißem Öl so lange angebraten,</font>
+<font color=#FFFF00>bis sie rundrum Bratspuren haben.</font>
+
+414
+00:23:16,040 --> 00:23:19,360
+<font color=#FFFF00>Dabei immer wieder mit dem Topf</font>
+<font color=#FFFF00>rütteln und schütteln,</font>
+
+415
+00:23:19,360 --> 00:23:24,760
+<font color=#FFFF00>sodass sie sich drehen und</font>
+<font color=#FFFF00>in diesem heißen Olivenöl braten.</font>
+
+416
+00:23:25,240 --> 00:23:27,520
+<font color=#00FFFF>Jetzt kocht es schon ganz schön.</font>
+
+417
+00:23:27,520 --> 00:23:30,880
+<font color=#00FFFF>Ich brauche noch n bisschen Wasser,</font>
+<font color=#00FFFF>geb ich noch dazu.</font>
+
+418
+00:23:30,880 --> 00:23:37,240
+<font color=#00FFFF>Das muss zusammen runterkochen, bis</font>
+<font color=#00FFFF>nur noch ein Satz unten drin ist,</font>
+
+419
+00:23:37,240 --> 00:23:39,040
+<font color=#00FFFF>ein Esslöffel voll.</font>
+
+420
+00:23:41,400 --> 00:23:46,040
+<font color=#FFFF00>Wenn sie so aussehen, rundrum</font>
+<font color=#FFFF00>gebräunt, richtig knusprig wirken,</font>
+
+421
+00:23:46,040 --> 00:23:50,320
+<font color=#FFFF00>kommt das berühmte</font>
+<font color=#FFFF00>grobe Meersalz rein.</font>
+
+422
+00:23:50,760 --> 00:23:53,640
+<font color=#FFFF00>Jetzt muss man schnell sein.</font>
+
+423
+00:23:53,640 --> 00:24:00,400
+<font color=#FFFF00>Ein halbes Espresso-Tässchen Wasser,</font>
+<font color=#FFFF00>Deckel drauf, die Hitze reduzieren.</font>
+
+424
+00:24:00,600 --> 00:24:04,240
+<font color=#FFFF00>Jetzt darf ruhig</font>
+<font color=#FFFF00>diese Flüssigkeit rausdampfen,</font>
+
+425
+00:24:04,240 --> 00:24:08,320
+<font color=#FFFF00>denn nunmehr sollen die Kartoffeln</font>
+<font color=#FFFF00>wieder braten.</font>
+
+426
+00:24:08,440 --> 00:24:11,760
+<font color=#00FFFF>Erst müssen sie ja schon noch</font>
+<font color=#00FFFF>n bisschen kochen.</font>
+
+427
+00:24:11,760 --> 00:24:13,800
+<font color=#FFFF00>Ja, sie müssen ja gar werden.</font>
+
+428
+00:24:13,800 --> 00:24:16,360
+<font color=#00FFFF>Also es darf nicht ganz</font>
+<font color=#00FFFF>verdampfen alles.</font>
+
+429
+00:24:16,360 --> 00:24:19,280
+<font color=#00FFFF>In meinem Topf</font>
+<font color=#00FFFF>brodelt es auch mächtig.</font>
+
+430
+00:24:19,280 --> 00:24:23,360
+<font color=#00FFFF>Da kocht die Reduktion ein,</font>
+<font color=#00FFFF>und der Essig- und der Weinduft</font>
+
+431
+00:24:23,360 --> 00:24:26,160
+<font color=#00FFFF>und der Estragonduft</font>
+<font color=#00FFFF>steigen mir in die Nase.</font>
+
+432
+00:24:26,160 --> 00:24:30,240
+<font color=#00FFFF>Es wird immer klarer, was eine</font>
+<font color=#00FFFF>der berühmtesten Soßen der Welt ist.</font>
+
+433
+00:24:30,240 --> 00:24:32,040
+<font color=#FFFF00>Béarnaise.</font>
+<font color=#00FFFF>-Sauce Béarnaise.</font>
+
+434
+00:24:32,160 --> 00:24:36,360
+<font color=#00FFFF>Wenn nur noch ganz wenig Flüssigkeit</font>
+<font color=#00FFFF>da ist, wird die abgegossen.</font>
+
+435
+00:24:36,360 --> 00:24:39,800
+<font color=#00FFFF>Ich schalte den Herd mal aus,</font>
+<font color=#00FFFF>gieße das hier rein.</font>
+
+436
+00:24:39,800 --> 00:24:42,360
+<font color=#00FFFF>Schauen Sie,</font>
+<font color=#00FFFF>das ist ein Esslöffel voll.</font>
+
+437
+00:24:42,360 --> 00:24:44,600
+<font color=#00FFFF>Jetzt kommt das ausm Topf raus.</font>
+
+438
+00:24:49,440 --> 00:24:51,520
+<font color=#00FFFF>Den stell ich wieder auf.</font>
+
+439
+00:24:51,840 --> 00:24:54,600
+<font color=#00FFFF>Jetzt kommt die Flüssigkeit</font>
+<font color=#00FFFF>hier rein zurück.</font>
+
+440
+00:24:54,600 --> 00:25:00,360
+<font color=#00FFFF>Jetzt kommen die Eier rein,</font>
+<font color=#00FFFF>die Eigelbe, eins ist aufgegangen.</font>
+
+441
+00:25:00,760 --> 00:25:04,440
+<font color=#00FFFF>2 Eigelbe auf diese</font>
+<font color=#00FFFF>Esslöffel-Reduktion reichen.</font>
+
+442
+00:25:04,480 --> 00:25:07,680
+<font color=#00FFFF>Dann kommt der Schneebesen</font>
+<font color=#00FFFF>ins Spiel.</font>
+
+443
+00:25:10,320 --> 00:25:12,840
+<font color=#00FFFF>Jetzt wird das</font>
+<font color=#00FFFF>schaumig aufgeschlagen.</font>
+
+444
+00:25:13,080 --> 00:25:17,040
+<font color=#FFFF00>Es gibt ja die unterschiedlichsten</font>
+<font color=#FFFF00>Regeln, so ne Soße zu machen.</font>
+
+445
+00:25:17,040 --> 00:25:19,840
+<font color=#FFFF00>Die einen sagen,</font>
+<font color=#FFFF00>man nimmt zerlassene Butter,</font>
+
+446
+00:25:19,840 --> 00:25:21,440
+<font color=#FFFF00>dann gelinge es immer.</font>
+
+447
+00:25:21,760 --> 00:25:24,680
+<font color=#FFFF00>Wir haben festgestellt,</font>
+<font color=#FFFF00>es geht am allerbesten</font>
+
+448
+00:25:24,680 --> 00:25:27,720
+<font color=#FFFF00>mit stückchenweise die Butter,</font>
+<font color=#FFFF00>die soll kalt sein.</font>
+
+449
+00:25:27,920 --> 00:25:31,640
+<font color=#FFFF00>Dann kommt sie in dieses heiße,</font>
+<font color=#FFFF00>cremig geschlagene Eigelb</font>
+
+450
+00:25:31,680 --> 00:25:34,720
+<font color=#FFFF00>und hindert das Eigelb daran,</font>
+<font color=#FFFF00>zu heiß zu werden</font>
+
+451
+00:25:34,720 --> 00:25:37,280
+<font color=#FFFF00>und seine Bindungsfähigkeit</font>
+<font color=#FFFF00>zu verlieren.</font>
+
+452
+00:25:38,560 --> 00:25:43,760
+<font color=#00FFFF>Mh. Tust du mir n feines Salz rein,</font>
+<font color=#00FFFF>was sich schnell auflöst? </font>
+<font color=#FFFF00>- Ja.</font>
+
+453
+00:25:44,000 --> 00:25:47,560
+<font color=#00FFFF>Ganz vorsichtig. Bitte, natürlich.</font>
+
+454
+00:25:47,800 --> 00:25:50,360
+<font color=#FFFF00>Dann kann ich das Fleisch</font>
+<font color=#FFFF00>ausm Ofen holen.</font>
+
+455
+00:25:55,600 --> 00:25:58,720
+<font color=#FFFF00>Der war nämlich jetzt</font>
+<font color=#FFFF00>ausgeschaltet natürlich</font>
+
+456
+00:25:58,720 --> 00:26:02,520
+<font color=#FFFF00>und hat gewartet,</font>
+<font color=#FFFF00>bis die Soße fertig ist.</font>
+
+457
+00:26:02,520 --> 00:26:05,000
+<font color=#FFFF00>Jetzt auf ein Brett.</font>
+
+458
+00:26:05,360 --> 00:26:09,040
+<font color=#FFFF00>Jetzt muss man sich</font>
+<font color=#FFFF00>dem Fleisch so nähern,</font>
+
+459
+00:26:09,040 --> 00:26:11,280
+<font color=#FFFF00>dass man es vom Knochen schneidet.</font>
+
+460
+00:26:11,280 --> 00:26:14,000
+<font color=#FFFF00>Der verläuft, wie man sehen kann,</font>
+<font color=#FFFF00>so und so.</font>
+
+461
+00:26:14,000 --> 00:26:18,040
+<font color=#FFFF00>Also schneide ich erst mal das</font>
+<font color=#FFFF00>Rückenteil am Knochen runter,</font>
+
+462
+00:26:18,040 --> 00:26:22,360
+<font color=#FFFF00>dann macht man die Kurve mit und hat</font>
+<font color=#FFFF00>das wunderbare, schöne Stück.</font>
+
+463
+00:26:22,360 --> 00:26:25,480
+<font color=#FFFF00>Das Gleiche machen wir</font>
+<font color=#FFFF00>auf der anderen Seite</font>
+
+464
+00:26:25,480 --> 00:26:27,440
+<font color=#FFFF00>und haben hier das Filet.</font>
+
+465
+00:26:27,440 --> 00:26:31,320
+<font color=#FFFF00>Die Liebhaber kriegen den Knochen.</font>
+
+466
+00:26:31,720 --> 00:26:35,960
+<font color=#FFFF00>Das ist für mich das Allerbeste, da</font>
+<font color=#FFFF00>kann ich aufs Fleisch verzichten.</font>
+
+467
+00:26:36,240 --> 00:26:40,920
+<font color=#FFFF00>Jetzt schneiden wir das Fleisch</font>
+<font color=#FFFF00>schräg in Scheiben.</font>
+
+468
+00:26:42,200 --> 00:26:44,400
+<font color=#FFFF00>Das ist uns sehr gut gelungen.</font>
+
+469
+00:26:44,600 --> 00:26:48,200
+<font color=#00FFFF>Na, dann sind wir doch zufrieden</font>
+<font color=#00FFFF>mit unserer Arbeit. </font>
+<font color=#FFFF00>- Ja.</font>
+
+470
+00:26:48,440 --> 00:26:51,600
+<font color=#FFFF00>Dann gucken wir mal,</font>
+<font color=#FFFF00>was die Kartöffelchen machen.</font>
+
+471
+00:26:51,800 --> 00:26:55,880
+<font color=#FFFF00>Die müssten nämlich gut sein. Oh,</font>
+<font color=#FFFF00>die sehen aber auch schön aus.</font>
+
+472
+00:26:56,200 --> 00:27:00,560
+<font color=#00FFFF>Genauso muss es sein, guck mal hier,</font>
+<font color=#00FFFF>dass man das Weiße vom Salz sieht.</font>
+
+473
+00:27:00,560 --> 00:27:04,280
+<font color=#FFFF00>Diese Salzspuren sind das Typische,</font>
+<font color=#FFFF00>das Charakteristische</font>
+
+474
+00:27:04,280 --> 00:27:07,440
+<font color=#FFFF00>für diese wunderbaren</font>
+<font color=#FFFF00>Ölkartöffelchen.</font>
+
+475
+00:27:07,680 --> 00:27:13,040
+<font color=#FFFF00>Dann noch die Soße drüber,</font>
+<font color=#FFFF00>dann hat man ein perfektes Fleisch.</font>
+
+476
+00:27:13,240 --> 00:27:18,760
+<font color=#FFFF00>Indem man das hier aufbricht</font>
+<font color=#FFFF00>so ne Kartoffel,</font>
+
+477
+00:27:18,760 --> 00:27:21,520
+<font color=#FFFF00>zeig ich, wie die innen aussehen.</font>
+
+478
+00:27:21,520 --> 00:27:23,040
+<font color=#FFFF00>Das ist wunderbar.</font>
+
+479
+00:27:23,360 --> 00:27:26,680
+<font color=#00FFFF>Ich hab die Béarnaise</font>
+<font color=#00FFFF>schon mal probiert. Mh.</font>
+
+480
+00:27:27,720 --> 00:27:31,200
+<font color=#FFFF00>Die würde ich normalerweise</font>
+<font color=#FFFF00>nicht auf den Tisch stellen,</font>
+
+481
+00:27:31,200 --> 00:27:34,640
+<font color=#FFFF00>diese Sauciere,</font>
+<font color=#FFFF00>da hätten wir n hübscheres Modell.</font>
+
+482
+00:27:34,920 --> 00:27:37,880
+<font color=#FFFF00>Wir geben erst mal n bisschen</font>
+<font color=#FFFF00>aufm Fleisch</font>
+
+483
+00:27:37,880 --> 00:27:41,040
+<font color=#FFFF00>und dann ordentlich Soße</font>
+<font color=#FFFF00>an die Seite.</font>
+
+484
+00:27:41,360 --> 00:27:46,040
+<font color=#FFFF00>Denn ich z.B. liebe diese Soße</font>
+<font color=#FFFF00>zusammen mit den Kartoffeln.</font>
+
+485
+00:27:46,400 --> 00:27:49,480
+<font color=#00FFFF>Und Martina bekommt noch mal</font>
+<font color=#00FFFF>ein großes Gewächs.</font>
+
+486
+00:27:49,800 --> 00:27:52,440
+<font color=#FFFF00>Weißt du,</font>
+<font color=#FFFF00>was dein Teller noch bekommt?</font>
+
+487
+00:27:53,320 --> 00:27:56,440
+<font color=#00FFFF>Ach, hab ich mal wieder</font>
+<font color=#00FFFF>den Estragon vergessen.</font>
+
+488
+00:27:56,440 --> 00:27:59,480
+<font color=#FFFF00>Bei mir liegt auch immer</font>
+<font color=#FFFF00>die Petersilie hinterher.</font>
+
+489
+00:27:59,480 --> 00:28:01,960
+<font color=#00FFFF>Das hat so gut</font>
+<font color=#00FFFF>nach Estragon geschmeckt,</font>
+
+490
+00:28:01,960 --> 00:28:05,960
+<font color=#00FFFF>dass ich ihn gar nicht vermisst</font>
+<font color=#00FFFF>habe, aber gehört natürlich dazu.</font>
+
+491
+00:28:05,960 --> 00:28:09,520
+<font color=#FFFF00>Da hat er extra n paar Blättchen</font>
+<font color=#FFFF00>liebevoll beiseite gelegt.</font>
+
+492
+00:28:09,520 --> 00:28:13,360
+<font color=#FFFF00>Die hacke ich noch mal klein,</font>
+<font color=#FFFF00>und die streuen wir jetzt drüber.</font>
+
+493
+00:28:13,360 --> 00:28:15,280
+<font color=#FFFF00>Das gehört natürlich dazu.</font>
+
+494
+00:28:15,480 --> 00:28:18,880
+<font color=#FFFF00>Und n bisschen Grünes</font>
+<font color=#FFFF00>muss auch auf dem Teller liegen.</font>
+
+495
+00:28:18,880 --> 00:28:21,040
+<font color=#FFFF00>Dann sieht es gleich anders aus.</font>
+
+496
+00:28:23,400 --> 00:28:25,400
+<font color=#FFFF00>Das wars schon wieder für heute.</font>
+
+497
+00:28:25,400 --> 00:28:27,400
+<font color=#FFFF00>Bis dann also. Tschüs.</font>
+<font color=#00FFFF>- Tschüs.</font>
+
+498
+00:28:30,520 --> 00:28:32,520
+<font color=#0000FF>Copyright WDR 2020</font>
+
