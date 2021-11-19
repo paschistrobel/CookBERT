@@ -1,0 +1,768 @@
+1
+00:00:01,280 --> 00:00:01,800
+<font color=#00ffff>
+	Ciao!
+	</font>
+<font color=#ffff00>
+	- Ciao!
+	</font>
+
+2
+00:00:08,520 --> 00:00:11,600
+<font color=#ffffff>
+	Die Kartoffeln sind bei uns so klein
+	</font>
+<font color=#ffffff>
+	geschnitten,
+	</font>
+
+3
+00:00:12,240 --> 00:00:14,600
+<font color=#ffffff>
+	die Farbe trennt sie von
+	</font>
+<font color=#ffffff>
+	Speckwürfeln.
+	</font>
+
+4
+00:00:15,240 --> 00:00:17,240
+<font color=#ffffff>
+	Jörg Sackmann macht das gerade.
+	</font>
+
+5
+00:00:19,480 --> 00:00:22,600
+<font color=#ffffff>
+	Können wir das fertige Gericht noch
+	</font>
+<font color=#ffffff>
+	einmal sehen?
+	</font>
+
+6
+00:00:23,120 --> 00:00:25,000
+<font color=#ffffff>
+	So sieht unser fertiges Gericht aus.
+	</font>
+
+7
+00:00:27,040 --> 00:00:29,000
+<font color=#ffffff>
+	Wahnsinnig lecker mit Pak Choi.
+	</font>
+
+8
+00:00:32,400 --> 00:00:36,360
+<font color=#ffffff>
+	Jörg, die Kartoffeln sind fein, weil
+	</font>
+<font color=#ffffff>
+	sie knusprig sein sollen?
+	</font>
+
+9
+00:00:37,440 --> 00:00:39,360
+<font color=#00ff00>
+	Ja, wie schneiden sie fein
+	</font>
+
+10
+00:00:41,000 --> 00:00:43,480
+<font color=#00ff00>
+	und lassen Sie ihn Butter fein
+	</font>
+<font color=#00ff00>
+	angehen.
+	</font>
+
+11
+00:00:49,000 --> 00:00:53,040
+<font color=#00ff00>
+	Ganz am Ende werden sie an gebraten,
+	</font>
+<font color=#00ff00>
+	dann werden sie goldbraun.
+	</font>
+
+12
+00:00:53,560 --> 00:00:57,320
+<font color=#00ff00>
+	Wir machen Seesaibling, das ist
+	</font>
+<font color=#00ff00>
+	einheimischer Süßwasserfisch.
+	</font>
+
+13
+00:01:04,320 --> 00:01:07,280
+<font color=#00ff00>
+	Wir haben ihn filetiert, die Geräte
+	</font>
+<font color=#00ff00>
+	hingezogen.
+	</font>
+
+14
+00:01:07,800 --> 00:01:09,320
+<font color=#ffffff>
+	Hast du den selber geangelt?
+	</font>
+
+15
+00:01:11,280 --> 00:01:13,960
+<font color=#00ff00>
+	Nein, aber es gibt hier sehr viele
+	</font>
+<font color=#00ff00>
+	Weiher.
+	</font>
+
+16
+00:01:14,680 --> 00:01:17,000
+<font color=#ffffff>
+	Die Butter ist heute nicht
+	</font>
+<font color=#ffffff>
+	unwichtig?
+	</font>
+
+17
+00:01:17,960 --> 00:01:20,160
+<font color=#00ff00>
+	Ja, wie verwenden Sie heute öfter.
+	</font>
+
+18
+00:01:21,360 --> 00:01:23,800
+<font color=#00ff00>
+	Wir braten selbst die Kartoffeln
+	</font>
+<font color=#00ff00>
+	darin,
+	</font>
+
+19
+00:01:24,360 --> 00:01:25,840
+<font color=#00ff00>
+	danach den Fisch.
+	</font>
+
+20
+00:01:27,160 --> 00:01:29,120
+<font color=#00ff00>
+	Dazu machen wir Tomaten-Butter.
+	</font>
+
+21
+00:01:30,000 --> 00:01:31,920
+<font color=#00ff00>
+	Jetzt haben wir Brunnenkresse,
+	</font>
+
+22
+00:01:32,520 --> 00:01:34,440
+<font color=#00ff00>
+	das passt zur Jahreszeit.
+	</font>
+
+23
+00:01:36,480 --> 00:01:39,240
+<font color=#00ff00>
+	Noch besser und schärfer ist die
+	</font>
+<font color=#00ff00>
+	Bachkresse,
+	</font>
+
+24
+00:01:39,760 --> 00:01:41,600
+<font color=#00ff00>
+	sie wächst dort wo es feucht ist,
+	</font>
+
+25
+00:01:42,160 --> 00:01:44,080
+<font color=#00ff00>
+	gemeinsam mit dem Bärlauch.
+	</font>
+
+26
+00:01:45,760 --> 00:01:48,800
+<font color=#ffffff>
+	Die wächst tatsächlich bei euch
+	</font>
+<font color=#ffffff>
+	hinter dem Haus?
+	</font>
+
+27
+00:01:49,360 --> 00:01:50,920
+<font color=#00ff00>
+	Ja.
+	</font>
+
+28
+00:01:51,440 --> 00:01:53,480
+<font color=#00ff00>
+	Sie ist klein niedriger als diese
+	</font>
+<font color=#00ff00>
+	hier.
+	</font>
+
+29
+00:01:54,640 --> 00:01:57,600
+<font color=#00ff00>
+	Sie hat aber einen richtig kräftigen
+	</font>
+<font color=#00ff00>
+	Geschmack.
+	</font>
+
+30
+00:01:59,160 --> 00:02:02,560
+<font color=#00ff00>
+	Ich verwende sie gerne für Dressings
+	</font>
+<font color=#00ff00>
+	und Salatssauce.
+	</font>
+
+31
+00:02:03,080 --> 00:02:04,680
+<font color=#ffffff>
+	Das gibt jetzt eine Art Pesto?
+	</font>
+
+32
+00:02:05,200 --> 00:02:06,800
+<font color=#00ff00>
+	Genau.
+	</font>
+
+33
+00:02:07,320 --> 00:02:08,840
+<font color=#00ff00>
+	Ich gebe Traubenkernöl dazu.
+	</font>
+
+34
+00:02:09,360 --> 00:02:10,960
+<font color=#00ff00>
+	Und Olivenöl.
+	</font>
+
+35
+00:02:11,520 --> 00:02:13,240
+<font color=#00ff00>
+	Und Pinienkerne,
+	</font>
+
+36
+00:02:14,320 --> 00:02:16,520
+<font color=#00ff00>
+	was ich nicht hinein gebe ist Käse,
+	</font>
+
+37
+00:02:17,040 --> 00:02:18,840
+<font color=#00ff00>
+	das passt nicht zum Fisch.
+	</font>
+
+38
+00:02:22,960 --> 00:02:24,840
+<font color=#00ff00>
+	Natürlich Meersalz.
+	</font>
+
+39
+00:02:25,600 --> 00:02:27,520
+<font color=#00ff00>
+	Das Ganze wird leicht gemixt.
+	</font>
+
+40
+00:02:28,320 --> 00:02:30,200
+<font color=#00ff00>
+	Zu einem schönen Pesto.
+	</font>
+
+41
+00:02:32,320 --> 00:02:34,520
+<font color=#00ff00>
+	Dann setze ich eine Sahnesauce an.
+	</font>
+
+42
+00:02:35,640 --> 00:02:38,280
+<font color=#00ff00>
+	Dazu nehme ich feingeschnittenen
+	</font>
+<font color=#00ff00>
+	Zwiebeln.
+	</font>
+
+43
+00:02:39,200 --> 00:02:41,200
+<font color=#ffffff>
+	Ähnlich fein wie die Kartoffeln?
+	</font>
+
+44
+00:02:42,760 --> 00:02:44,840
+<font color=#00ff00>
+	Ja, und ein bisschen Butter dazu.
+	</font>
+
+45
+00:02:48,400 --> 00:02:51,000
+<font color=#00ff00>
+	Ich lösche das ab mit Wermut und
+	</font>
+<font color=#00ff00>
+	Weißwein.
+	</font>
+
+46
+00:02:53,280 --> 00:02:55,160
+<font color=#00ff00>
+	Ich lasse es einkochen.
+	</font>
+
+47
+00:03:01,280 --> 00:03:04,720
+<font color=#00ff00>
+	Ich verwende es nachher für unser
+	</font>
+<font color=#00ff00>
+	Senfkraut, Pak Choi.
+	</font>
+
+48
+00:03:06,280 --> 00:03:09,080
+<font color=#00ff00>
+	Es schmeckt nicht nach Senf, aber
+	</font>
+<font color=#00ff00>
+	ist saftig.
+	</font>
+
+49
+00:03:09,640 --> 00:03:12,120
+<font color=#00ff00>
+	Dazu verwende ich eingelegte
+	</font>
+<font color=#00ff00>
+	Senfkörner.
+	</font>
+
+50
+00:03:12,680 --> 00:03:14,920
+<font color=#ffffff>
+	Schmecken die auch nicht nachsehen?
+	</font>
+
+51
+00:03:15,520 --> 00:03:17,480
+<font color=#00ff00>
+	Sie haben schon eine Schärfe,
+	</font>
+
+52
+00:03:18,840 --> 00:03:21,160
+<font color=#00ff00>
+	man muss sie blanchieren und kochen,
+	</font>
+
+53
+00:03:21,720 --> 00:03:23,720
+<font color=#00ff00>
+	damit sie nicht mehr bitter sind.
+	</font>
+
+54
+00:03:24,680 --> 00:03:26,640
+<font color=#00ff00>
+	Und dein einlegen.
+	</font>
+
+55
+00:03:29,160 --> 00:03:31,520
+<font color=#00ff00>
+	Ich schütte jetzt die Kartoffeln ab.
+	</font>
+
+56
+00:03:33,760 --> 00:03:36,240
+<font color=#ffffff>
+	Um die Butter noch einmal zu
+	</font>
+<font color=#ffffff>
+	verwenden?
+	</font>
+
+57
+00:03:37,680 --> 00:03:40,640
+<font color=#00ff00>
+	Ja, und damit die Kartoffeln
+	</font>
+<font color=#00ff00>
+	knuspriger werden.
+	</font>
+
+58
+00:03:41,600 --> 00:03:44,480
+<font color=#00ff00>
+	Die Butter nehme ich zum Braten für
+	</font>
+<font color=#00ff00>
+	den Fisch.
+	</font>
+
+59
+00:03:47,720 --> 00:03:51,240
+<font color=#00ff00>
+	Und zum Schluss mache ich die
+	</font>
+<font color=#00ff00>
+	Kartoffeln richtig rösch.
+	</font>
+
+60
+00:03:51,720 --> 00:03:53,360
+<font color=#ffffff>
+	Das heißt bei dir knusprig?
+	</font>
+
+61
+00:03:53,880 --> 00:03:55,360
+<font color=#00ff00>
+	Ja, genau.
+	</font>
+
+62
+00:03:55,880 --> 00:03:57,960
+<font color=#ffffff>
+	Das habe ich davon noch nie gehört.
+	</font>
+
+63
+00:03:58,520 --> 00:04:00,080
+<font color=#00ff00>
+	Hier haben wir das Fischfilet,
+	</font>
+
+64
+00:04:00,920 --> 00:04:02,840
+<font color=#00ff00>
+	die Geräten sind schon raus.
+	</font>
+
+65
+00:04:04,360 --> 00:04:06,640
+<font color=#00ff00>
+	Wir sehen es hier, es ist wunderbar.
+	</font>
+
+66
+00:04:08,480 --> 00:04:11,640
+<font color=#00ff00>
+	Wir haben die Schicht weg, damit es
+	</font>
+<font color=#00ff00>
+	frisch bleibt.
+	</font>
+
+67
+00:04:12,160 --> 00:04:14,320
+<font color=#00ff00>
+	Jetzt kommt Salz und Zitronensaft
+	</font>
+<font color=#00ff00>
+	dazu.
+	</font>
+
+68
+00:04:14,840 --> 00:04:16,400
+<font color=#00ff00>
+	Ich brachte ihn in der Pfanne.
+	</font>
+
+69
+00:04:16,960 --> 00:04:18,560
+<font color=#ffffff>
+	Mit Haut.
+	</font>
+
+70
+00:04:20,280 --> 00:04:22,800
+<font color=#00ff00>
+	Ja, mit der Hautseite zuerst rein
+	</font>
+<font color=#00ff00>
+	legen.
+	</font>
+
+71
+00:04:23,320 --> 00:04:24,880
+<font color=#ffffff>
+	Ich finde sie total lecker,
+	</font>
+
+72
+00:04:25,920 --> 00:04:27,840
+<font color=#ffffff>
+	manche mögen es nicht so sehr.
+	</font>
+
+73
+00:04:31,000 --> 00:04:34,800
+<font color=#00ff00>
+	Es brät jetzt sehr langsam, damit
+	</font>
+<font color=#00ff00>
+	die Haut erst weich wird.
+	</font>
+
+74
+00:04:37,920 --> 00:04:40,160
+<font color=#00ff00>
+	Und hinterher rösch, also knusprig.
+	</font>
+
+75
+00:04:40,680 --> 00:04:42,480
+<font color=#00ff00>
+	Ich gebe noch etwas Sahne
+	</font>
+
+76
+00:04:43,520 --> 00:04:45,440
+<font color=#00ff00>
+	an die Weinreduktion.
+	</font>
+
+77
+00:04:55,360 --> 00:04:57,560
+<font color=#ffffff>
+	Das Gericht es auch bald komplett.
+	</font>
+
+78
+00:04:58,080 --> 00:05:00,000
+<font color=#ffffff>
+	Wir haben nicht viel verpasst?
+	</font>
+
+79
+00:05:01,720 --> 00:05:03,640
+<font color=#00ff00>
+	Nein, ich bin beim Senfkraut,
+	</font>
+
+80
+00:05:08,120 --> 00:05:10,600
+<font color=#00ff00>
+	ich habe es der Länge nach
+	</font>
+<font color=#00ff00>
+	geschrieben.
+	</font>
+
+81
+00:05:13,480 --> 00:05:16,440
+<font color=#00ff00>
+	Gebe es zu Sahnecreme, mit Weißwein
+	</font>
+<font color=#00ff00>
+	und Wermut.
+	</font>
+
+82
+00:05:16,960 --> 00:05:18,560
+<font color=#00ff00>
+	Dazu kommen Kräuter.
+	</font>
+
+83
+00:05:20,160 --> 00:05:23,360
+<font color=#00ff00>
+	Den Fisch habe ich nur auf der
+	</font>
+<font color=#00ff00>
+	Hautseite gebraten.
+	</font>
+
+84
+00:05:23,920 --> 00:05:26,240
+<font color=#ffffff>
+	Also nur eine halbe Sekunde
+	</font>
+<font color=#ffffff>
+	umdrehen?
+	</font>
+
+85
+00:05:27,080 --> 00:05:29,040
+<font color=#00ff00>
+	Ja, dann bleibt es schön saftig
+	</font>
+
+86
+00:05:29,640 --> 00:05:31,560
+<font color=#00ff00>
+	und es geht nicht so weit.
+	</font>
+
+87
+00:05:32,280 --> 00:05:34,200
+<font color=#00ff00>
+	Dann nehme ich das Bratfett
+	</font>
+
+88
+00:05:35,160 --> 00:05:37,080
+<font color=#00ff00>
+	und gebe die Tomaten hinzu.
+	</font>
+
+89
+00:05:38,600 --> 00:05:40,800
+<font color=#00ff00>
+	Die sind ohne Haut und ohne Kerne.
+	</font>
+
+90
+00:05:41,320 --> 00:05:42,840
+<font color=#00ff00>
+	In Würfel geschnitten.
+	</font>
+
+91
+00:05:45,440 --> 00:05:47,360
+<font color=#00ff00>
+	Die eingelegten Senfkörner.
+	</font>
+
+92
+00:06:01,320 --> 00:06:04,600
+<font color=#00ff00>
+	Unbedingt lang drinnen lassen, sonst
+	</font>
+<font color=#00ff00>
+	wird es bitter.
+	</font>
+
+93
+00:06:06,360 --> 00:06:09,920
+<font color=#00ff00>
+	Dann gebe ich sie Kapern hinzu, der
+	</font>
+<font color=#00ff00>
+	Saft kann auch dazu.
+	</font>
+
+94
+00:06:10,480 --> 00:06:12,920
+<font color=#00ff00>
+	Dann können wir eigentlich schon
+	</font>
+<font color=#00ff00>
+	einrichten.
+	</font>
+
+95
+00:06:13,480 --> 00:06:16,320
+<font color=#ffffff>
+	Das ist doch nicht länger in der
+	</font>
+<font color=#ffffff>
+	Pfanne als jetzt?
+	</font>
+
+96
+00:06:16,840 --> 00:06:18,440
+<font color=#00ff00>
+	Ja.
+	</font>
+
+97
+00:06:20,520 --> 00:06:24,280
+<font color=#00ff00>
+	Dann geben wir das Senfkraut auf den
+	</font>
+<font color=#00ff00>
+	Teller, mit der Cream.
+	</font>
+
+98
+00:06:25,600 --> 00:06:27,520
+<font color=#ffffff>
+	Der Mann weiß, was er macht.
+	</font>
+
+99
+00:06:28,720 --> 00:06:31,200
+<font color=#00ff00>
+	In der Mitte setzen wir den Fisch
+	</font>
+<font color=#00ff00>
+	drauf.
+	</font>
+
+100
+00:06:31,840 --> 00:06:33,760
+<font color=#00ff00>
+	Mit der Hautseite nach oben.
+	</font>
+
+101
+00:06:40,160 --> 00:06:42,480
+<font color=#00ff00>
+	Dann haben wir unsere Tomaten-Kapern
+	</font>
+
+102
+00:06:43,320 --> 00:06:45,200
+<font color=#00ff00>
+	mit viel Zitronensaft.
+	</font>
+
+103
+00:06:47,440 --> 00:06:49,760
+<font color=#00ff00>
+	Dann gebe ich das einfach rundherum.
+	</font>
+
+104
+00:06:55,440 --> 00:06:59,160
+<font color=#ffffff>
+	Dann haben wir das Fischgericht in
+	</font>
+<font color=#ffffff>
+	der Karwoche mit bravur.
+	</font>
+
+105
+00:07:00,640 --> 00:07:03,680
+<font color=#00ff00>
+	Dann kommt noch das Pesto, das gibt
+	</font>
+<font color=#00ff00>
+	die Schärfe.
+	</font>
+
+106
+00:07:04,200 --> 00:07:05,880
+<font color=#00ff00>
+	Und dann fehlt noch ein Element.
+	</font>
+
+107
+00:07:06,440 --> 00:07:08,040
+<font color=#ffffff>
+	Die Kartoffeln.
+	</font>
+
