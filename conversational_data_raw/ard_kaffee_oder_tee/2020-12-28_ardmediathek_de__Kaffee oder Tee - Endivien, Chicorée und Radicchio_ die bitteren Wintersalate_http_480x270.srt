@@ -1,0 +1,771 @@
+1
+00:00:02,915 --> 00:00:07,155
+<font color=#ffffff>
+	Ich wünsche dir alles Gute und
+	</font>
+<font color=#ffffff>
+	morgen kannst du wieder ausschlafen.
+	</font>
+
+2
+00:00:07,555 --> 00:00:09,275
+<font color=#00ffff>
+	Vielen Dank. Ciao.
+	</font>
+
+3
+00:00:09,675 --> 00:00:11,275
+<font color=#ffffff>
+	Es riecht wieder klasse hier.
+	</font>
+
+4
+00:00:14,195 --> 00:00:17,355
+<font color=#ffffff>
+	Zuerst hat Caroline Autenrieth einen
+	</font>
+<font color=#ffffff>
+	Salat gemacht,
+	</font>
+
+5
+00:00:17,755 --> 00:00:19,915
+<font color=#ffffff>
+	jetzt ist es unser
+	</font>
+<font color=#ffffff>
+	Ernährungsberater.
+	</font>
+
+6
+00:00:22,635 --> 00:00:25,395
+<font color=#00ff00>
+	Ich mache Chicoree, den brate ich
+	</font>
+<font color=#00ff00>
+	gerade an.
+	</font>
+
+7
+00:00:25,755 --> 00:00:27,515
+<font color=#00ff00>
+	Er hat eine bittere Note,
+	</font>
+
+8
+00:00:28,755 --> 00:00:31,255
+<font color=#00ff00>
+	mit Zucker wird es jetzt
+	</font>
+<font color=#00ff00>
+	karamellisiert.
+	</font>
+
+9
+00:00:32,115 --> 00:00:34,715
+<font color=#00ff00>
+	Dieser Effekt von süß und sauer
+	</font>
+<font color=#00ff00>
+	mögen wir.
+	</font>
+
+10
+00:00:38,515 --> 00:00:42,715
+<font color=#ffffff>
+	Das mögen unsere Köche auch. Wir
+	</font>
+<font color=#ffffff>
+	sprechen jetzt über Wintersalate.
+	</font>
+
+11
+00:00:44,735 --> 00:00:48,635
+<font color=#ffffff>
+	Die sind toll, sie besitzen jede
+	</font>
+<font color=#ffffff>
+	Menge positive Eigenschaften.
+	</font>
+
+12
+00:00:49,035 --> 00:00:51,995
+<font color=#00ff00>
+	Die Bitterstoffe, die sind gut für
+	</font>
+<font color=#00ff00>
+	die Verdauung,
+	</font>
+
+13
+00:00:52,355 --> 00:00:54,115
+<font color=#00ff00>
+	auch für die Galle,
+	</font>
+
+14
+00:00:54,475 --> 00:00:56,755
+<font color=#00ff00>
+	das ist leicht für uns für die
+	</font>
+<font color=#00ff00>
+	Verdauung.
+	</font>
+
+15
+00:00:59,315 --> 00:01:02,575
+<font color=#00ff00>
+	Der Heißhunger wird gehemmt durch
+	</font>
+<font color=#00ff00>
+	die Bitterstoffe.
+	</font>
+
+16
+00:01:04,835 --> 00:01:07,475
+<font color=#00ff00>
+	Durch diese Endivien, Zuckerhut,
+	</font>
+<font color=#00ff00>
+	Radicchio
+	</font>
+
+17
+00:01:10,575 --> 00:01:12,455
+<font color=#00ff00>
+	oder auch hier im Chiccoree.
+	</font>
+
+18
+00:01:13,555 --> 00:01:15,835
+<font color=#00ff00>
+	Er hat auch positive Ballaststoffe,
+	</font>
+
+19
+00:01:19,835 --> 00:01:22,115
+<font color=#00ff00>
+	nämlich einen löslichen, dass
+	</font>
+<font color=#00ff00>
+	Inulin.
+	</font>
+
+20
+00:01:22,835 --> 00:01:24,955
+<font color=#00ff00>
+	Das ist gut für die Darmbakterien.
+	</font>
+
+21
+00:01:26,555 --> 00:01:28,435
+<font color=#00ff00>
+	Es sorgt für gute Immunabwehr.
+	</font>
+
+22
+00:01:30,955 --> 00:01:33,275
+<font color=#00ff00>
+	Der Darm ist zentral dafür
+	</font>
+<font color=#00ff00>
+	zuständig.
+	</font>
+
+23
+00:01:34,675 --> 00:01:36,555
+<font color=#00ff00>
+	Auch für dieses Thema gut.
+	</font>
+
+24
+00:01:39,275 --> 00:01:41,535
+<font color=#00ff00>
+	Immunsystem stärken mit
+	</font>
+<font color=#00ff00>
+	Wintersalate!
+	</font>
+
+25
+00:01:42,075 --> 00:01:43,955
+<font color=#ffffff>
+	Der Heißhunger ist auch weg.
+	</font>
+
+26
+00:01:44,275 --> 00:01:45,915
+<font color=#00ff00>
+	Ja.
+	</font>
+
+27
+00:01:47,595 --> 00:01:49,495
+<font color=#ffffff>
+	Du kuckst mich streng an?
+	</font>
+
+28
+00:01:52,635 --> 00:01:55,075
+<font color=#00ff00>
+	Die Winterzeit hat dir nicht
+	</font>
+<font color=#00ff00>
+	geschadet.
+	</font>
+
+29
+00:01:55,395 --> 00:01:57,195
+<font color=#00ff00>
+	Ich achte darauf.
+	</font>
+
+30
+00:01:58,995 --> 00:02:00,875
+<font color=#ffffff>
+	Mit diesen bitteren Salaten
+	</font>
+
+31
+00:02:02,235 --> 00:02:04,555
+<font color=#ffffff>
+	kann man der Verdauung viel Gutes
+	</font>
+<font color=#ffffff>
+	tun,
+	</font>
+
+32
+00:02:06,675 --> 00:02:08,555
+<font color=#ffffff>
+	das dämpft den Heißhunger.
+	</font>
+
+33
+00:02:10,695 --> 00:02:12,755
+<font color=#ffffff>
+	Das Kauen spielt auch eine Rolle,
+	</font>
+
+34
+00:02:16,955 --> 00:02:19,695
+<font color=#ffffff>
+	wenn man etwas hat, dass man
+	</font>
+<font color=#ffffff>
+	verdauen muss.
+	</font>
+
+35
+00:02:20,015 --> 00:02:22,355
+<font color=#00ff00>
+	Ja, das ist auch wissenschaftlich
+	</font>
+<font color=#00ff00>
+	belegt,
+	</font>
+
+36
+00:02:25,315 --> 00:02:29,075
+<font color=#00ff00>
+	wenn ich schönes Volumen im Magen
+	</font>
+<font color=#00ff00>
+	habe, habe ich Sättigung.
+	</font>
+
+37
+00:02:32,235 --> 00:02:34,675
+<font color=#00ff00>
+	Viele kaufen den normalen grünen
+	</font>
+<font color=#00ff00>
+	Salat,
+	</font>
+
+38
+00:02:34,995 --> 00:02:36,795
+<font color=#00ff00>
+	den Eisbergsalat,
+	</font>
+
+39
+00:02:37,955 --> 00:02:40,635
+<font color=#00ff00>
+	aber diese hier wächst bei uns um
+	</font>
+<font color=#00ff00>
+	die Ecke.
+	</font>
+
+40
+00:02:40,995 --> 00:02:42,755
+<font color=#00ff00>
+	Deutscher, regionaler Salat,
+	</font>
+
+41
+00:02:44,315 --> 00:02:46,995
+<font color=#00ff00>
+	der viele tolle positive
+	</font>
+<font color=#00ff00>
+	Eigenschaften hat.
+	</font>
+
+42
+00:02:48,715 --> 00:02:51,275
+<font color=#ffffff>
+	Ist bitter immer gesund für den
+	</font>
+<font color=#ffffff>
+	Menschen?
+	</font>
+
+43
+00:02:53,195 --> 00:02:55,995
+<font color=#00ff00>
+	Wie können auch bittere Getränke,
+	</font>
+<font color=#00ff00>
+	wie Tonic.
+	</font>
+
+44
+00:02:56,795 --> 00:02:58,635
+<font color=#ffffff>
+	Oder Gin Tonic.
+	</font>
+
+45
+00:03:08,075 --> 00:03:11,715
+<font color=#00ff00>
+	Da ist ein anderer Bitterstoff drin,
+	</font>
+<font color=#00ff00>
+	der nicht so gut ist.
+	</font>
+
+46
+00:03:12,095 --> 00:03:14,275
+<font color=#00ff00>
+	Das kann giftig sein in großen
+	</font>
+<font color=#00ff00>
+	Mengen.
+	</font>
+
+47
+00:03:14,675 --> 00:03:16,595
+<font color=#ffffff>
+	Bitter ist nicht gleich bitter.
+	</font>
+
+48
+00:03:16,915 --> 00:03:18,715
+<font color=#00ff00>
+	Ja,
+	</font>
+
+49
+00:03:19,755 --> 00:03:21,635
+<font color=#00ff00>
+	hier haben wir die Salate,
+	</font>
+
+50
+00:03:24,435 --> 00:03:26,875
+<font color=#00ff00>
+	wo wir schon den Chicoree genannt
+	</font>
+<font color=#00ff00>
+	haben,
+	</font>
+
+51
+00:03:27,595 --> 00:03:29,475
+<font color=#00ff00>
+	der mit dem Inulin.
+	</font>
+
+52
+00:03:30,835 --> 00:03:32,915
+<font color=#00ff00>
+	Auch den Radicchio haben wir hier.
+	</font>
+
+53
+00:03:38,955 --> 00:03:42,075
+<font color=#00ff00>
+	Vorher hätten wir Volker Kugel noch
+	</font>
+<font color=#00ff00>
+	fragen können,
+	</font>
+
+54
+00:03:50,395 --> 00:03:52,415
+<font color=#00ff00>
+	der Endiviensalat wurde gekocht.
+	</font>
+
+55
+00:03:52,755 --> 00:03:54,635
+<font color=#00ff00>
+	Das kenne ich von meiner Oma.
+	</font>
+
+56
+00:03:55,835 --> 00:03:58,035
+<font color=#00ff00>
+	Die Bitterstoffe wurden rausgeholt.
+	</font>
+
+57
+00:03:59,275 --> 00:04:01,995
+<font color=#00ff00>
+	Das ist schade, denn wir gewöhnen
+	</font>
+<font color=#00ff00>
+	uns daran,
+	</font>
+
+58
+00:04:02,995 --> 00:04:05,475
+<font color=#00ff00>
+	denn er hat auch positive
+	</font>
+<font color=#00ff00>
+	Eigenschaften.
+	</font>
+
+59
+00:04:07,195 --> 00:04:10,075
+<font color=#00ff00>
+	Er hat etwas Bitteres, dann ist der
+	</font>
+<font color=#00ff00>
+	Heißhunger
+	</font>
+
+60
+00:04:10,395 --> 00:04:12,635
+<font color=#00ff00>
+	für ein paar Stunden wieder gehemmt.
+	</font>
+
+61
+00:04:13,235 --> 00:04:15,515
+<font color=#ffffff>
+	Ich habe es gelernt und mache es so,
+	</font>
+
+62
+00:04:17,595 --> 00:04:20,515
+<font color=#ffffff>
+	dass man beim Chicoree den Strunk
+	</font>
+<font color=#ffffff>
+	ausschneiden.
+	</font>
+
+63
+00:04:20,875 --> 00:04:22,675
+<font color=#ffffff>
+	Das machst du nicht?
+	</font>
+
+64
+00:04:22,995 --> 00:04:24,715
+<font color=#00ff00>
+	Nein, damit es zusammenhält,
+	</font>
+
+65
+00:04:26,635 --> 00:04:29,075
+<font color=#00ff00>
+	wir machen jetzt eine winterliche
+	</font>
+<font color=#00ff00>
+	Bowl.
+	</font>
+
+66
+00:04:33,055 --> 00:04:35,075
+<font color=#00ff00>
+	Das Rezept ist auf der Homepage,
+	</font>
+
+67
+00:04:41,835 --> 00:04:45,155
+<font color=#00ff00>
+	nächste Woche darf ich den Warenkorb
+	</font>
+<font color=#00ff00>
+	wieder befüllen.
+	</font>
+
+68
+00:04:45,555 --> 00:04:47,315
+<font color=#00ff00>
+	Das ist für mehrere Tage.
+	</font>
+
+69
+00:04:48,155 --> 00:04:51,035
+<font color=#00ff00>
+	Nächste Woche zugucken, da ist es
+	</font>
+<font color=#00ff00>
+	ein Gericht,
+	</font>
+
+70
+00:04:52,515 --> 00:04:54,395
+<font color=#00ff00>
+	diese Winter Bowl.
+	</font>
+
+71
+00:04:56,715 --> 00:04:58,595
+<font color=#00ff00>
+	Eier kommen auch rein.
+	</font>
+
+72
+00:05:01,755 --> 00:05:05,315
+<font color=#00ff00>
+	Gekochte Eier, das wird püriert mit
+	</font>
+<font color=#00ff00>
+	den anderen Zutaten.
+	</font>
+
+73
+00:05:07,035 --> 00:05:10,435
+<font color=#00ff00>
+	Radicchio für die Farbe und
+	</font>
+<font color=#00ff00>
+	Zuckerhut für das Volumen.
+	</font>
+
+74
+00:05:10,835 --> 00:05:12,955
+<font color=#00ff00>
+	Das machen wir mit dem Dressing an,
+	</font>
+
+75
+00:05:13,275 --> 00:05:15,035
+<font color=#00ff00>
+	der Chicoree kommt obendrauf.
+	</font>
+
+76
+00:05:16,715 --> 00:05:19,795
+<font color=#ffffff>
+	Salatzutaten kennt man aus der
+	</font>
+<font color=#ffffff>
+	asiatischen Küche.
+	</font>
+
+77
+00:05:20,155 --> 00:05:21,875
+<font color=#ffffff>
+	Was geht alles?
+	</font>
+
+78
+00:05:22,275 --> 00:05:24,155
+<font color=#ffffff>
+	Kann ich auch Endivien braten?
+	</font>
+
+79
+00:05:27,555 --> 00:05:31,635
+<font color=#00ff00>
+	Das würde ich eher unter den
+	</font>
+<font color=#00ff00>
+	Kartoffelsalat mischen, da schmeckt
+	</font>
+
+80
+00:05:31,955 --> 00:05:33,755
+<font color=#00ff00>
+	es gut,
+	</font>
+
+81
+00:05:34,115 --> 00:05:35,915
+<font color=#00ff00>
+	direkt raten würde ich ihn nicht.
+	</font>
+
+82
+00:05:36,955 --> 00:05:41,595
+<font color=#00ff00>
+	Aber Chicoree, da ist es kein Thema,
+	</font>
+<font color=#00ff00>
+	auch den Zuckerhut kann man braten.
+	</font>
+
+83
+00:05:43,755 --> 00:05:46,915
+<font color=#00ff00>
+	Ich habe in der Beratung auch immer
+	</font>
+<font color=#00ff00>
+	junge Menschen,
+	</font>
+
+84
+00:05:47,315 --> 00:05:49,035
+<font color=#00ff00>
+	da ist es schwierig,
+	</font>
+
+85
+00:05:49,515 --> 00:05:52,595
+<font color=#00ff00>
+	die kennen sich mit diesen Sachen
+	</font>
+<font color=#00ff00>
+	gar nicht aus,
+	</font>
+
+86
+00:05:53,035 --> 00:05:55,095
+<font color=#00ff00>
+	deshalb ist es gut, es zu zeigen.
+	</font>
+
+87
+00:06:07,635 --> 00:06:11,395
+<font color=#ffffff>
+	Das liegt daran, dass es die Eltern
+	</font>
+<font color=#ffffff>
+	nicht propagiert haben.
+	</font>
+
+88
+00:06:11,755 --> 00:06:13,515
+<font color=#00ff00>
+	Ja.
+	</font>
+
+89
+00:06:13,875 --> 00:06:16,075
+<font color=#00ff00>
+	Bei Chicoree, den können wir
+	</font>
+<font color=#00ff00>
+	mischen,
+	</font>
+
+90
+00:06:20,115 --> 00:06:22,315
+<font color=#00ff00>
+	gebraten, kalt, mit Milchprodukten,
+	</font>
+
+91
+00:06:26,155 --> 00:06:28,035
+<font color=#00ff00>
+	mit einem Dressing mit Eiern.
+	</font>
+
+92
+00:06:29,115 --> 00:06:31,195
+<font color=#00ff00>
+	Hier gibt es viele Möglichkeiten.
+	</font>
+
+93
+00:06:31,555 --> 00:06:33,315
+<font color=#ffffff>
+	Hast du Knoblauch drin?
+	</font>
+
+94
+00:06:38,955 --> 00:06:41,675
+<font color=#00ff00>
+	Ja, Knoblauch, Zwiebeln und leicht
+	</font>
+<font color=#00ff00>
+	gesalzen.
+	</font>
+
+95
+00:06:44,715 --> 00:06:48,515
+<font color=#00ff00>
+	Es kommt hier einfach rein, hier
+	</font>
+<font color=#00ff00>
+	schneide ich den Strunk ab,
+	</font>
+
+96
+00:06:48,875 --> 00:06:50,635
+<font color=#00ff00>
+	lege es darüber,
+	</font>
+
+97
+00:06:50,995 --> 00:06:53,155
+<font color=#00ff00>
+	dann mache ich etwas vom Dressing
+	</font>
+<font color=#00ff00>
+	dazu,
+	</font>
+
+98
+00:06:53,515 --> 00:06:55,395
+<font color=#00ff00>
+	das sollte man vorher einmischen.
+	</font>
+
+99
+00:07:06,075 --> 00:07:08,035
+<font color=#00ff00>
+	Dann kommen Kichererbsen drauf.
+	</font>
+
+100
+00:07:11,195 --> 00:07:15,355
+<font color=#00ff00>
+	Wir haben wir pflanzliches Eiweiß
+	</font>
+<font color=#00ff00>
+	und hohe biologische Wertigkeit.
+	</font>
+
+101
+00:07:15,715 --> 00:07:17,475
+<font color=#00ff00>
+	Wir haben Sättigung drin.
+	</font>
+
+102
+00:07:18,355 --> 00:07:21,995
+<font color=#00ff00>
+	Nicht nur als Vorspeise, auch als
+	</font>
+<font color=#00ff00>
+	Hauptgericht ist es gut.
+	</font>
+
+103
+00:07:22,315 --> 00:07:24,715
+<font color=#ffffff>
+	Das sollte man nicht zu viel davon
+	</font>
+<font color=#ffffff>
+	essen.
+	</font>
+
