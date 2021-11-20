@@ -1,0 +1,1433 @@
+1
+00:00:05,005 --> 00:00:07,003
+<font color=#ffffff>Wir kochen heute, es ist Freitag.</font>
+
+2
+00:00:10,008 --> 00:00:14,019
+<font color=#ffffff>Wir freuen uns sehr, dass unser</font>
+<font color=#ffffff>Sterne Koch aus Wernigerode bei uns</font>
+
+3
+00:00:14,023 --> 00:00:16,005
+<font color=#ffffff>ist.</font>
+
+4
+00:00:16,015 --> 00:00:17,013
+<font color=#ffff00>Es gibt heute Lamm.</font>
+
+5
+00:00:18,004 --> 00:00:19,000
+<font color=#ffff00>Lamm Curry.</font>
+
+6
+00:00:23,007 --> 00:00:26,008
+<font color=#ffff00>Es ist von der Wirbelsäule</font>
+<font color=#ffff00>runtergeschnitten.</font>
+
+7
+00:00:26,012 --> 00:00:28,007
+<font color=#ffff00>Da sind noch Knochen mit dran.</font>
+
+8
+00:00:28,015 --> 00:00:30,023
+<font color=#ffff00>Mann hat auch noch den</font>
+<font color=#ffff00>Rücken dran sitzen.</font>
+
+9
+00:00:31,004 --> 00:00:33,000
+<font color=#ffff00>Grundsätzlich ist das Rücken.</font>
+
+10
+00:00:33,011 --> 00:00:35,016
+<font color=#ffff00>Der Fettdeckel wird abgetrennt.</font>
+
+11
+00:00:39,017 --> 00:00:43,011
+<font color=#ffff00>Daraus machen wir ein Curry</font>
+<font color=#ffff00>mit leicht asiatischen Aromen.</font>
+
+12
+00:00:44,024 --> 00:00:48,021
+<font color=#ffff00>Hart asiatischen ist es nicht, denn</font>
+<font color=#ffff00>das können die Leute vor Ort</font>
+
+13
+00:00:49,003 --> 00:00:50,021
+<font color=#ffff00>tausendmal besser als wir hier.</font>
+
+14
+00:00:51,008 --> 00:00:52,007
+<font color=#ffffff>Lamm, warum das?</font>
+
+15
+00:00:54,017 --> 00:00:57,006
+<font color=#ffff00>Es gibt etwas Neues,</font>
+<font color=#ffff00>statt Land Pietsch.</font>
+
+16
+00:00:57,020 --> 00:00:59,010
+<font color=#ffff00>Wir besuchen Bauernhöfe.</font>
+
+17
+00:01:01,019 --> 00:01:04,010
+<font color=#ffff00>Teilweise versorgen die sich</font>
+<font color=#ffff00>daselbst.</font>
+
+18
+00:01:05,002 --> 00:01:06,012
+<font color=#ffff00>Da ist eine Folge,</font>
+
+19
+00:01:09,006 --> 00:01:12,018
+<font color=#ffff00>da sind wir bei einer Familie,</font>
+<font color=#ffff00>da geht es um Lammfleisch.</font>
+
+20
+00:01:13,005 --> 00:01:15,007
+<font color=#ffff00>Ich durfte mir das alles angucken.</font>
+
+21
+00:01:19,024 --> 00:01:21,024
+<font color=#ffffff>Heute gibt es die erste Folge.</font>
+
+22
+00:01:22,015 --> 00:01:24,013
+<font color=#ffffff>Nach Sachsen-Anhalt heute.</font>
+
+23
+00:01:24,022 --> 00:01:26,003
+<font color=#ffffff>Hier duftet es schon.</font>
+
+24
+00:01:29,016 --> 00:01:32,010
+<font color=#ffff00>Mal schauen,</font>
+<font color=#ffff00>ob nun auch eine feine Nase hast.</font>
+
+25
+00:01:32,017 --> 00:01:33,023
+<font color=#ffff00>Was ist da drin?</font>
+
+26
+00:01:34,012 --> 00:01:35,013
+<font color=#ffff00>Das ist ein Duftreis.</font>
+
+27
+00:01:39,007 --> 00:01:41,021
+<font color=#ffff00>Es sind drei Sachen,</font>
+<font color=#ffff00>die da drin sind.</font>
+
+28
+00:01:44,011 --> 00:01:45,023
+<font color=#ffffff>Zimt ist drin.</font>
+
+29
+00:01:52,004 --> 00:01:55,014
+<font color=#ffffff>Dann müssten irgendwelche,</font>
+<font color=#ffffff>was sind das für Sterne?</font>
+
+30
+00:01:55,022 --> 00:01:57,000
+<font color=#ffff00>Anis.</font>
+
+31
+00:01:57,009 --> 00:01:58,015
+<font color=#ffffff>Das dritte weiß ich nicht.</font>
+
+32
+00:02:08,013 --> 00:02:11,016
+<font color=#ffff00>Wir haben Sternanis, Zimt</font>
+<font color=#ffff00>und Grüner Kader Mom drin.</font>
+
+33
+00:02:12,014 --> 00:02:13,020
+<font color=#ffff00>--Kadermom.</font>
+
+34
+00:02:18,016 --> 00:02:20,002
+<font color=#ffff00>--Kardamom.</font>
+
+35
+00:02:24,009 --> 00:02:26,007
+<font color=#ffff00>Es ist einfach, sich zu merken.</font>
+
+36
+00:02:27,006 --> 00:02:28,017
+<font color=#ffff00>Man nimmt einen Topf,</font>
+
+37
+00:02:29,008 --> 00:02:30,019
+<font color=#ffff00>man nimmt einmal Reis.</font>
+
+38
+00:02:33,012 --> 00:02:36,022
+<font color=#ffff00>Und genau die Menge Reis nimmt man</font>
+<font color=#ffff00>an doppelten Wasser.</font>
+
+39
+00:02:42,016 --> 00:02:45,024
+<font color=#ffff00>Und dann lässt man das aufsetzen,</font>
+<font color=#ffff00>aufkochen lassen,</font>
+
+40
+00:02:47,008 --> 00:02:49,024
+<font color=#ffff00>vom Herd runter nehmen und ziehen</font>
+<font color=#ffff00>lassen.</font>
+
+41
+00:02:50,010 --> 00:02:52,010
+<font color=#ffff00>Man nimmt kaltes Wasser, aufsetzen.</font>
+
+42
+00:02:52,020 --> 00:02:54,006
+<font color=#ffffff>Einmal volle Pulle?</font>
+
+43
+00:02:56,019 --> 00:03:00,017
+<font color=#ffff00>Volle Pulle aufkochen lassen,</font>
+<font color=#ffff00>dann runter nehmen und ziehen.</font>
+
+44
+00:03:00,019 --> 00:03:02,020
+<font color=#ffff00>Weil es ein Duftreis werden soll,</font>
+
+45
+00:03:03,003 --> 00:03:04,022
+<font color=#ffff00>nehmen wir einen Teebeutel,</font>
+
+46
+00:03:05,021 --> 00:03:08,006
+<font color=#ffff00>füllen wir den mit den drei Sachen.</font>
+
+47
+00:03:15,022 --> 00:03:17,008
+<font color=#ffff00>Mit Gewürzen.</font>
+
+48
+00:03:19,002 --> 00:03:20,013
+<font color=#ffff00>Es braucht 20 Minuten.</font>
+
+49
+00:03:21,016 --> 00:03:24,000
+<font color=#ffff00>Wir haben das vorbereitet</font>
+<font color=#ffff00>im Vorfeld.</font>
+
+50
+00:03:24,013 --> 00:03:25,023
+<font color=#ffff00>So verkocht man die Reis.</font>
+
+51
+00:03:27,004 --> 00:03:29,014
+<font color=#ffff00>Es ist schwer, guten Reis zu kochen.</font>
+
+52
+00:03:35,009 --> 00:03:38,006
+<font color=#ffffff>Du würdest</font>
+<font color=#ffffff>auch niemals Beutel-Reis nehmen?</font>
+
+53
+00:03:38,011 --> 00:03:41,015
+<font color=#ffff00>Wenn es zu Hause mal schnell gehen</font>
+<font color=#ffff00>muss, dann ist das so.</font>
+
+54
+00:03:41,020 --> 00:03:43,015
+<font color=#ffffff>Aber als Koch natürlich nicht.</font>
+
+55
+00:03:43,021 --> 00:03:46,002
+<font color=#ffffff>Grundsätzlich würdest du sagen,</font>
+
+56
+00:03:46,010 --> 00:03:47,019
+<font color=#ffffff>das geht ja so auch okay.</font>
+
+57
+00:03:52,020 --> 00:03:55,000
+<font color=#ffffff>Ich kenne so Milchreis zu kochen.</font>
+
+58
+00:03:55,010 --> 00:03:56,021
+<font color=#ffffff>Dann geht das Zeug ins Bett.</font>
+
+59
+00:04:03,021 --> 00:04:07,012
+<font color=#ffff00>Jetzt haben wir hier das</font>
+<font color=#ffff00>ein bisschen runtergeschnitten.</font>
+
+60
+00:04:07,016 --> 00:04:09,013
+<font color=#ffff00>Jetzt gibt es Curcuma mit dran.</font>
+
+61
+00:04:09,019 --> 00:04:11,005
+<font color=#ffff00>Einmal für die Farbe.</font>
+
+62
+00:04:13,007 --> 00:04:16,023
+<font color=#ffff00>Vorsicht mit den Händen,</font>
+<font color=#ffff00>die Farbe kriegt man schlecht ab.</font>
+
+63
+00:04:17,002 --> 00:04:19,012
+<font color=#ffff00>Curcuma</font>
+<font color=#ffff00>ist relativ geschmacksneutral.</font>
+
+64
+00:04:22,015 --> 00:04:25,000
+<font color=#ffff00>Es soll ja ein Curry sein,</font>
+<font color=#ffff00>schön gelb.</font>
+
+65
+00:04:25,009 --> 00:04:27,002
+<font color=#ffffff>Da ist kein Geschmack drin?</font>
+
+66
+00:04:28,009 --> 00:04:31,002
+<font color=#ffff00>Ich finde, es</font>
+<font color=#ffff00>ist relativ geschmacklos.</font>
+
+67
+00:04:31,017 --> 00:04:34,011
+<font color=#ffff00>Im Fernsehen kann man</font>
+<font color=#ffff00>das ja nur erklären.</font>
+
+68
+00:04:35,001 --> 00:04:38,003
+<font color=#ffff00>Eigentlich schmeckt es</font>
+<font color=#ffff00>tatsächlich nach nichts.</font>
+
+69
+00:04:38,007 --> 00:04:39,022
+<font color=#ffffff>Hat ist gesunde Wirkungen?</font>
+
+70
+00:04:40,007 --> 00:04:41,020
+<font color=#ffff00>Gesunde Inhaltsstoffe.</font>
+
+71
+00:04:44,016 --> 00:04:48,009
+<font color=#ffff00>Aber ich bin ja Koch</font>
+<font color=#ffff00>und kein Ernährungswissenschaftler.</font>
+
+72
+00:04:48,012 --> 00:04:51,003
+<font color=#ffffff>Aber ihr Köche wisst doch alles,</font>
+<font color=#ffffff>was drin ist.</font>
+
+73
+00:04:54,012 --> 00:04:58,010
+<font color=#ffff00>Das wird jetzt in einer Pfanne</font>
+<font color=#ffff00>von allen Seiten angebraten,</font>
+
+74
+00:04:58,014 --> 00:04:59,018
+<font color=#ffff00>ganz kross.</font>
+
+75
+00:05:00,008 --> 00:05:01,012
+<font color=#ffff00>Nicht ganz volles Feuer.</font>
+
+76
+00:05:02,022 --> 00:05:05,004
+<font color=#ffff00>Wenn Gewürze zu viel Hitze bekommen,</font>
+
+77
+00:05:05,012 --> 00:05:06,013
+<font color=#ffff00>werden sie bitter.</font>
+
+78
+00:05:07,004 --> 00:05:08,015
+<font color=#ffffff>Dann verbrennen sie quasi.</font>
+
+79
+00:05:11,020 --> 00:05:13,013
+<font color=#ffff00>Das Gute bei dem Gericht ist,</font>
+
+80
+00:05:14,001 --> 00:05:17,014
+<font color=#ffff00>man braucht nur diese</font>
+<font color=#ffff00>eine Pfanne oder diesen einen Wok.</font>
+
+81
+00:05:18,001 --> 00:05:20,007
+<font color=#ffff00>Wenn es goldgelb angebraten ist,</font>
+
+82
+00:05:21,006 --> 00:05:24,011
+<font color=#ffff00>rausnehmen, und dann kommen die</font>
+<font color=#ffff00>restlichen Zutaten</font>
+
+83
+00:05:27,019 --> 00:05:29,015
+<font color=#ffff00>in dieselbe Pfanne zurück.</font>
+
+84
+00:05:31,013 --> 00:05:33,003
+<font color=#ffff00>Sinn und Zweck ist es,</font>
+
+85
+00:05:37,019 --> 00:05:40,007
+<font color=#ffff00>wenn das Fleisch lange mitgekocht</font>
+<font color=#ffff00>wird,</font>
+
+86
+00:05:40,014 --> 00:05:41,022
+<font color=#ffff00>könnte es trocken werden.</font>
+
+87
+00:05:43,024 --> 00:05:45,018
+<font color=#ffff00>Wir nehmen es also jetzt raus</font>
+
+88
+00:05:49,010 --> 00:05:51,019
+<font color=#ffff00>und kurz bevor</font>
+<font color=#ffff00>das Gericht fertig ist,</font>
+
+89
+00:05:51,024 --> 00:05:53,006
+<font color=#ffff00>geben wir es wieder hinzu.</font>
+
+90
+00:05:54,010 --> 00:05:57,010
+<font color=#ffff00>Wenn es zu lange kocht,</font>
+<font color=#ffff00>kann es trocken werden.</font>
+
+91
+00:05:59,002 --> 00:06:01,022
+<font color=#ffffff>Ich dachte, die Sauce macht</font>
+<font color=#ffffff>das fluffig.</font>
+
+92
+00:06:03,016 --> 00:06:06,007
+<font color=#ffff00>Das geht,</font>
+<font color=#ffff00>wenn man alles total super abpasst.</font>
+
+93
+00:06:06,015 --> 00:06:10,011
+<font color=#ffff00>Aber Zuhause ist die sichere</font>
+<font color=#ffff00>Variante, anbraten und rausnehmen.</font>
+
+94
+00:06:10,015 --> 00:06:13,008
+<font color=#ffff00>Wir machen jetzt hier</font>
+<font color=#ffff00>eine aromatische Paste.</font>
+
+95
+00:06:20,017 --> 00:06:24,004
+<font color=#ffff00>Mit Ingwer, und ein bisschen</font>
+<font color=#ffff00>Limettenabrieb und -saft.</font>
+
+96
+00:06:24,009 --> 00:06:26,018
+<font color=#ffff00>Ein bisschen Curcuma</font>
+<font color=#ffff00>und Kreuzkümmel.</font>
+
+97
+00:06:27,009 --> 00:06:31,005
+<font color=#ffff00>Das berühren wir und das</font>
+<font color=#ffff00>wird die Grundbasis für unser Curry.</font>
+
+98
+00:06:34,014 --> 00:06:37,023
+<font color=#ffff00>Das bringt jetzt ein bisschen</font>
+<font color=#ffff00>Schärfe und fruchtigkeit</font>
+
+99
+00:06:38,002 --> 00:06:42,002
+<font color=#ffff00>und die Aromen, die ja auch schon in</font>
+<font color=#ffff00>dem Reis sind, mit ins Gericht.</font>
+
+100
+00:06:42,008 --> 00:06:43,011
+<font color=#ffffff>Ingwer schälen.</font>
+
+101
+00:06:43,016 --> 00:06:44,020
+<font color=#ffff00>Genau.</font>
+
+102
+00:06:49,015 --> 00:06:52,010
+<font color=#ffff00>Wirklich einfach nur grob</font>
+<font color=#ffff00>klein schneiden.</font>
+
+103
+00:06:52,022 --> 00:06:54,008
+<font color=#ffff00>Dann kommt das in den Mörser.</font>
+
+104
+00:06:56,018 --> 00:06:58,000
+<font color=#ffff00>Dafür ist er ja da,</font>
+
+105
+00:06:59,021 --> 00:07:02,022
+<font color=#ffff00>dass wir das dann alles klein</font>
+<font color=#ffff00>verarbeiten können.</font>
+
+106
+00:07:03,005 --> 00:07:04,017
+<font color=#ffff00>Das muss nicht megafein sein.</font>
+
+107
+00:07:05,008 --> 00:07:08,005
+<font color=#ffff00>Man darf es natürlich auch</font>
+<font color=#ffff00>ein bisschen schmecken.</font>
+
+108
+00:07:08,021 --> 00:07:10,023
+<font color=#ffffff>Warum hast du dir</font>
+<font color=#ffffff>das noch mal angewöhnt?</font>
+
+109
+00:07:12,022 --> 00:07:14,012
+<font color=#ffff00>Du zerdrückst das Gewebe.</font>
+
+110
+00:07:15,002 --> 00:07:17,004
+<font color=#ffff00>Und dann kommt es so</font>
+<font color=#ffff00>schön nass heraus.</font>
+
+111
+00:07:17,016 --> 00:07:19,022
+<font color=#ffffff>Das sind die kleinen, feinen Tricks.</font>
+
+112
+00:07:20,019 --> 00:07:23,004
+<font color=#ffff00>Ein bisschen Kreuzkümmel, Kardamom.</font>
+
+113
+00:07:23,020 --> 00:07:26,000
+<font color=#ffffff>Kreuzkümmel muss man mögen, oder?</font>
+
+114
+00:07:26,016 --> 00:07:29,009
+<font color=#ffff00>Ja, also immer vorsichtig</font>
+<font color=#ffff00>mit den Zutaten.</font>
+
+115
+00:07:29,022 --> 00:07:33,005
+<font color=#ffff00>Man muss ja zum Schluss</font>
+<font color=#ffff00>nicht die ganze Paste dazugeben.</font>
+
+116
+00:07:34,000 --> 00:07:37,017
+<font color=#ffff00>Die hält sich auch lange,</font>
+<font color=#ffff00>die kann man an ein kleines Glas tun</font>
+
+117
+00:07:37,021 --> 00:07:39,015
+<font color=#ffff00>und sie immer wieder mal nehmen.</font>
+
+118
+00:07:42,004 --> 00:07:43,021
+<font color=#ffff00>Das wird jetzt zerstoßen.</font>
+
+119
+00:07:44,002 --> 00:07:45,003
+<font color=#ffff00>Wenn du möchtest,</font>
+
+120
+00:07:48,009 --> 00:07:52,001
+<font color=#ffff00>das steht nicht mit im Rezept</font>
+<font color=#ffff00>auf unserer Internetseite,</font>
+
+121
+00:07:52,014 --> 00:07:54,003
+<font color=#ffff00>aber, wenn ich zum Asiaten gehe,</font>
+
+122
+00:07:56,019 --> 00:08:00,015
+<font color=#ffff00>finde ich einen ganz einfach</font>
+<font color=#ffff00>gemachten Gurkensalat super.</font>
+
+123
+00:08:00,019 --> 00:08:02,001
+<font color=#ffff00>Mit Schale.</font>
+
+124
+00:08:02,011 --> 00:08:03,023
+<font color=#ffffff>Stopp!</font>
+
+125
+00:08:06,020 --> 00:08:08,014
+<font color=#ffff00>Mach mal ein kleines Stück.</font>
+
+126
+00:08:12,022 --> 00:08:14,023
+<font color=#ffff00>Und dieses Stück achteslt du.</font>
+
+127
+00:08:15,013 --> 00:08:18,005
+<font color=#ffffff>Aber das war doch auch schon schön</font>
+<font color=#ffffff>bei mir.</font>
+
+128
+00:08:18,013 --> 00:08:19,019
+<font color=#ffff00>Na ja ...</font>
+
+129
+00:08:20,019 --> 00:08:22,013
+<font color=#ffff00>Das können wir auch nehmen.</font>
+
+130
+00:08:26,006 --> 00:08:29,022
+<font color=#ffffff>Wenn Sie mit Ihrem Telefon</font>
+<font color=#ffffff>oder Ihrem Smartphone rangehen,</font>
+
+131
+00:08:30,005 --> 00:08:32,012
+<font color=#ffffff>landen Sie</font>
+<font color=#ffffff>auf unserer Internetseite.</font>
+
+132
+00:08:32,016 --> 00:08:34,022
+<font color=#ffffff>Da zeigen wir genau,</font>
+<font color=#ffffff>wie das Rezept geht.</font>
+
+133
+00:08:35,007 --> 00:08:36,014
+<font color=#ffffff>So ganz dünne Scheiben?</font>
+
+134
+00:08:37,006 --> 00:08:39,022
+<font color=#ffff00>Du hast es eigentlich</font>
+<font color=#ffff00>schon richtig gemacht.</font>
+
+135
+00:08:40,006 --> 00:08:41,013
+<font color=#ffff00>Längst schneiden ist gut.</font>
+
+136
+00:08:42,004 --> 00:08:43,011
+<font color=#ffff00>Genau so rein.</font>
+
+137
+00:08:44,023 --> 00:08:46,005
+<font color=#ffff00>Die länglichen.</font>
+
+138
+00:08:47,009 --> 00:08:48,017
+<font color=#ffffff>Das reicht schon?</font>
+
+139
+00:08:50,011 --> 00:08:53,018
+<font color=#ffff00>Das mit dem anderen Viertel bitte</font>
+<font color=#ffff00>auch noch machen.</font>
+
+140
+00:08:53,022 --> 00:08:55,020
+<font color=#ffffff>Das ist doch viel zu groß zum Essen.</font>
+
+141
+00:08:56,000 --> 00:08:57,006
+<font color=#ffffff>Ich bin gespannt.</font>
+
+142
+00:08:57,012 --> 00:09:00,002
+<font color=#ffffff>Ich habe noch eine Nachfrage</font>
+<font color=#ffffff>zum Reis.</font>
+
+143
+00:09:02,002 --> 00:09:05,004
+<font color=#ffffff>Was hältst du</font>
+<font color=#ffffff>als versierter junger Spitzenkoch</font>
+
+144
+00:09:05,010 --> 00:09:06,014
+<font color=#ffffff>vom Thema Reiskocher?</font>
+
+145
+00:09:09,002 --> 00:09:10,017
+<font color=#ffffff>Ist das etwas für Zuhause?</font>
+
+146
+00:09:11,011 --> 00:09:14,014
+<font color=#ffffff>Sollte man sich</font>
+<font color=#ffffff>das anschaffen, wenn man Reis mag?</font>
+
+147
+00:09:14,022 --> 00:09:16,016
+<font color=#ffffff>Oder sagst du, tut euch</font>
+<font color=#ffffff>das nicht an.</font>
+
+148
+00:09:16,022 --> 00:09:18,020
+<font color=#ffffff>Es geht doch so viel einfacher.</font>
+
+149
+00:09:19,009 --> 00:09:21,022
+<font color=#ffff00>Ich bin beim Reiskocher</font>
+<font color=#ffff00>tatsächlich dabei.</font>
+
+150
+00:09:25,019 --> 00:09:28,004
+<font color=#ffff00>Klar, im Topf kann man</font>
+<font color=#ffff00>das gut machen.</font>
+
+151
+00:09:28,019 --> 00:09:31,016
+<font color=#ffff00>Der Reiskocher nimmt sie</font>
+<font color=#ffff00>aber diese Arbeit ab.</font>
+
+152
+00:09:32,000 --> 00:09:34,014
+<font color=#ffff00>Ich habe ganz klar</font>
+<font color=#ffff00>einen Reiskocher Zuhause.</font>
+
+153
+00:09:42,005 --> 00:09:45,010
+<font color=#ffff00>Auch, wenn man Reis</font>
+<font color=#ffff00>für Sushi macht, so Klebe-Reis.</font>
+
+154
+00:09:45,018 --> 00:09:47,011
+<font color=#ffff00>Das ist nicht einfach zu kochen,</font>
+
+155
+00:09:47,016 --> 00:09:50,016
+<font color=#ffff00>unternimmt einem der Reiskocher</font>
+<font color=#ffff00>da die Arbeit ab.</font>
+
+156
+00:09:51,003 --> 00:09:53,007
+<font color=#ffffff>Wir könnten</font>
+<font color=#ffffff>das jetzt schon fast so essen.</font>
+
+157
+00:09:55,004 --> 00:09:57,020
+<font color=#ffff00>Jetzt habe ich meine Paste</font>
+<font color=#ffff00>vorbereitet.</font>
+
+158
+00:09:59,016 --> 00:10:03,003
+<font color=#ffff00>Da brauchen wir nicht so viel, es</font>
+<font color=#ffff00>ist sehr aromatisch.</font>
+
+159
+00:10:04,023 --> 00:10:07,002
+<font color=#ffffff>Man kann das Fleisch schon essen.</font>
+
+160
+00:10:07,024 --> 00:10:11,002
+<font color=#ffff00>Jetzt hat er mir</font>
+<font color=#ffff00>einfach was geklaut, unglaublich.</font>
+
+161
+00:10:11,009 --> 00:10:13,000
+<font color=#ffff00>Hätte ich das mal nicht gesagt.</font>
+
+162
+00:10:13,004 --> 00:10:14,010
+<font color=#ffffff>Es ist gut geworden.</font>
+
+163
+00:10:15,003 --> 00:10:17,016
+<font color=#ffffff>Es schmeckt überhaupt nicht</font>
+<font color=#ffffff>nach Lamm.</font>
+
+164
+00:10:18,003 --> 00:10:19,014
+<font color=#ffff00>Nein, du hast mich erwischt.</font>
+
+165
+00:10:20,002 --> 00:10:23,006
+<font color=#ffff00>Ich hatte mal</font>
+<font color=#ffff00>ein schlechtes Erlebnis mit Lamm.</font>
+
+166
+00:10:24,001 --> 00:10:27,018
+<font color=#ffff00>In irgend einem Restaurant</font>
+<font color=#ffff00>hatte ich mal Lamm bestellt.</font>
+
+167
+00:10:28,005 --> 00:10:30,002
+<font color=#ffff00>Das ist schon eine ganze Weile her.</font>
+
+168
+00:10:34,011 --> 00:10:36,023
+<font color=#ffff00>Da hatte ich noch nichts</font>
+<font color=#ffff00>mit Kochen zu tun.</font>
+
+169
+00:10:37,005 --> 00:10:39,004
+<font color=#ffff00>Werde ich aber nie wieder vergessen,</font>
+
+170
+00:10:39,008 --> 00:10:41,018
+<font color=#ffff00>das hat wirklich schlecht</font>
+<font color=#ffff00>geschmeckt.</font>
+
+171
+00:10:42,001 --> 00:10:43,004
+<font color=#ffff00>Nach Hammel.</font>
+
+172
+00:10:43,008 --> 00:10:45,006
+<font color=#ffffff>Wenn man an Lammfleisch schmeckt,</font>
+
+173
+00:10:45,014 --> 00:10:47,001
+<font color=#ffffff>und man kennt die Erfahrung,</font>
+
+174
+00:10:52,007 --> 00:10:55,012
+<font color=#ffffff>dann denken alle</font>
+<font color=#ffffff>an faulig schmecken des Fleisch.</font>
+
+175
+00:10:55,012 --> 00:10:57,022
+<font color=#ffffff>Aber das hier</font>
+<font color=#ffffff>ist wirklich total lecker.</font>
+
+176
+00:10:58,001 --> 00:11:02,000
+<font color=#ffff00>Das habe ich auch bei der Familie,</font>
+<font color=#ffff00>wo ich unterwegs war, gemerkt.</font>
+
+177
+00:11:02,004 --> 00:11:04,006
+<font color=#ffff00>Wenn man Ziegenmilch sofort trinkt,</font>
+
+178
+00:11:04,012 --> 00:11:06,008
+<font color=#ffff00>ist sie so butterzart und cremig.</font>
+
+179
+00:11:06,017 --> 00:11:09,003
+<font color=#ffff00>Und schmeckt überhaupt nicht</font>
+<font color=#ffff00>so nach Stall.</font>
+
+180
+00:11:10,010 --> 00:11:14,016
+<font color=#ffff00>Ich habe so tolle Menschen und so</font>
+<font color=#ffff00>geile Sachen dazugelernt bei dieser</font>
+
+181
+00:11:14,024 --> 00:11:16,006
+<font color=#ffff00>Tour.</font>
+
+182
+00:11:16,018 --> 00:11:19,012
+<font color=#ffff00>Ich bin ja immer Zuhause in der</font>
+<font color=#ffff00>Küche, muss man sagen.</font>
+
+183
+00:11:19,016 --> 00:11:21,011
+<font color=#ffffff>Vielleicht mal im Großhandel.</font>
+
+184
+00:11:21,018 --> 00:11:23,005
+<font color=#ffff00>Wahnsinn, was es alles gibt.</font>
+
+185
+00:11:23,019 --> 00:11:25,015
+<font color=#ffff00>Auch bei uns in Sachsen-Anhalt.</font>
+
+186
+00:11:30,007 --> 00:11:32,023
+<font color=#ffff00>Zwiebeln jetzt grob</font>
+<font color=#ffff00>runtergeschnitten.</font>
+
+187
+00:11:33,017 --> 00:11:37,005
+<font color=#ffff00>Und das wird jetzt in derselben</font>
+<font color=#ffff00>Pfanne mit den Aromen noch</font>
+
+188
+00:11:38,009 --> 00:11:40,004
+<font color=#ffff00>vom Fleisch angeschwitzt.</font>
+
+189
+00:11:41,012 --> 00:11:44,004
+<font color=#ffff00>Und jetzt kommt unsere Paste</font>
+<font color=#ffff00>zum Einsatz.</font>
+
+190
+00:11:44,012 --> 00:11:45,021
+<font color=#ffff00>Das sieht total wenig aus.</font>
+
+191
+00:11:46,007 --> 00:11:48,017
+<font color=#ffff00>Aber da ist so viel Geschmack drin.</font>
+
+192
+00:11:49,003 --> 00:11:50,019
+<font color=#ffff00>Da darf man sich nicht täuschen.</font>
+
+193
+00:11:53,022 --> 00:11:55,016
+<font color=#ffffff>Der Ingwer haut natürlich rein.</font>
+
+194
+00:11:55,024 --> 00:11:58,012
+<font color=#ffff00>Dazu kommt</font>
+<font color=#ffff00>ein kleines bisschen Tomatenmark.</font>
+
+195
+00:12:01,008 --> 00:12:03,006
+<font color=#ffff00>Das wird auch mit angeröstet.</font>
+
+196
+00:12:04,017 --> 00:12:07,020
+<font color=#ffff00>Denn dann geht</font>
+<font color=#ffff00>das Bittere aus dem Tomatenmark aus.</font>
+
+197
+00:12:11,000 --> 00:12:15,000
+<font color=#ffff00>Bei einem Soßenansatz auch immer</font>
+<font color=#ffff00>Tomatenmark mit hineingehen.</font>
+
+198
+00:12:15,007 --> 00:12:16,023
+<font color=#ffff00>Das entfaltet sich dann gut.</font>
+
+199
+00:12:17,000 --> 00:12:18,010
+<font color=#ffff00>Und das Bittere geht weg.</font>
+
+200
+00:12:18,014 --> 00:12:20,012
+<font color=#ffff00>Das sieht noch unspektakulär aus.</font>
+
+201
+00:12:21,005 --> 00:12:23,012
+<font color=#ffffff>Ich finde,</font>
+<font color=#ffffff>das sieht spektakulär aus.</font>
+
+202
+00:12:23,020 --> 00:12:25,014
+<font color=#ffff00>Möchtest du noch etwas machen?</font>
+
+203
+00:12:26,001 --> 00:12:28,021
+<font color=#ffff00>Ich brauche ganz feine</font>
+<font color=#ffff00>gehackten Knoblauch.</font>
+
+204
+00:12:29,002 --> 00:12:30,019
+<font color=#ffffff>Das ist doch nicht dein Ernst.</font>
+
+205
+00:12:31,006 --> 00:12:32,005
+<font color=#ffffff>Eine Zehe?</font>
+
+206
+00:12:33,004 --> 00:12:34,017
+<font color=#ffff00>Ja, ganz klein gehackt.</font>
+
+207
+00:12:38,009 --> 00:12:41,013
+<font color=#ffff00>Zum Schluss brauchen wir</font>
+<font color=#ffff00>noch frischen Koriander.</font>
+
+208
+00:12:42,020 --> 00:12:44,014
+<font color=#ffff00>Den zupfte ich mir herunter.</font>
+
+209
+00:12:48,009 --> 00:12:50,001
+<font color=#ffffff>Wie schält man Knoblauch?</font>
+
+210
+00:12:50,007 --> 00:12:53,004
+<font color=#ffffff>Ich kriege das nie hin. Gibt es</font>
+<font color=#ffffff>einen Trick dafür?</font>
+
+211
+00:12:53,020 --> 00:12:57,017
+<font color=#ffff00>Wenn man Knoblauch kauft,</font>
+<font color=#ffff00>sollte man nicht den kleinen kaufen,</font>
+
+212
+00:12:57,024 --> 00:13:01,013
+<font color=#ffff00>sondern es gibt hervorragenden</font>
+<font color=#ffff00>asiatischen Knoblauch.</font>
+
+213
+00:13:01,017 --> 00:13:02,020
+<font color=#ffff00>Der ist so groß,</font>
+
+214
+00:13:03,022 --> 00:13:08,007
+<font color=#ffff00>da schneidet man nur die Ecke ab,</font>
+<font color=#ffff00>und dann fällt sie schon die Schale</font>
+
+215
+00:13:08,016 --> 00:13:09,023
+<font color=#ffff00>ab.</font>
+
+216
+00:13:10,009 --> 00:13:11,015
+<font color=#ffff00>-- pellt sich die Schale ab.</font>
+
+217
+00:13:11,021 --> 00:13:13,011
+<font color=#ffffff>Also asiatischer Knoblauch.</font>
+
+218
+00:13:15,009 --> 00:13:17,017
+<font color=#ffffff>Müssen das bei euch</font>
+<font color=#ffffff>die Azubis machen?</font>
+
+219
+00:13:18,008 --> 00:13:21,007
+<font color=#ffff00>Wir differenzieren da nicht,</font>
+<font color=#ffff00>dass jeder bei uns.</font>
+
+220
+00:13:21,018 --> 00:13:22,021
+<font color=#ffffff>Sei ehrlich.</font>
+
+221
+00:13:23,004 --> 00:13:25,010
+<font color=#ffff00>Doch,</font>
+<font color=#ffff00>da gibt es nichts differenzieren.</font>
+
+222
+00:13:25,023 --> 00:13:29,002
+<font color=#ffff00>Auszubildende machen genau</font>
+<font color=#ffff00>dasselbe wie wir auch.</font>
+
+223
+00:13:29,006 --> 00:13:30,013
+<font color=#ffffff>Das ist ja cool.</font>
+
+224
+00:13:33,019 --> 00:13:37,014
+<font color=#ffffff>Wahrscheinlich sind deswegen</font>
+<font color=#ffffff>so viele coole Leute bei dir.</font>
+
+225
+00:13:37,018 --> 00:13:39,000
+<font color=#ffffff>Ganz klein, sagte?</font>
+
+226
+00:13:39,008 --> 00:13:40,009
+<font color=#ffff00>Ja, so fein wie möglich.</font>
+
+227
+00:13:47,006 --> 00:13:51,005
+<font color=#ffff00>Jetzt habe ich hier die Zwiebeln</font>
+<font color=#ffff00>angeschwitzt mit der Paste</font>
+
+228
+00:13:51,009 --> 00:13:52,012
+<font color=#ffff00>und dem Tomatenmark.</font>
+
+229
+00:13:52,024 --> 00:13:54,015
+<font color=#ffff00>Und dann kommt da Kokosmilch hinzu.</font>
+
+230
+00:13:57,011 --> 00:14:00,020
+<font color=#ffff00>Das lassen wir jetzt wie ein Curry</font>
+<font color=#ffff00>cremig einziehen.</font>
+
+231
+00:14:03,001 --> 00:14:05,012
+<font color=#ffff00>Das bringt dann die ganze</font>
+<font color=#ffff00>Verbindung,</font>
+
+232
+00:14:05,022 --> 00:14:08,006
+<font color=#ffff00>wir wollen ja auch</font>
+<font color=#ffff00>ein bisschen Sauce haben.</font>
+
+233
+00:14:08,024 --> 00:14:10,018
+<font color=#ffff00>Das wird unsere Saucenbasis.</font>
+
+234
+00:14:11,005 --> 00:14:13,003
+<font color=#ffff00>Jetzt nehme ich noch einen Topf,</font>
+
+235
+00:14:13,013 --> 00:14:15,005
+<font color=#ffff00>da kommen Cashewkerne rein.</font>
+
+236
+00:14:17,024 --> 00:14:20,008
+<font color=#ffff00>Die kommen trocken und</font>
+<font color=#ffff00>ohne Öl hinein,</font>
+
+237
+00:14:20,012 --> 00:14:22,017
+<font color=#ffff00>die Rest wir einfach</font>
+<font color=#ffff00>ein bisschen an.</font>
+
+238
+00:14:23,005 --> 00:14:24,016
+<font color=#ffffff>Ohne alles?</font>
+
+239
+00:14:27,005 --> 00:14:30,011
+<font color=#ffff00>Ohne alles, da ist so viel eigenes</font>
+<font color=#ffff00>Fett in den Nüssen.</font>
+
+240
+00:14:30,019 --> 00:14:31,022
+<font color=#ffffff>Die trockenen Dinger?</font>
+
+241
+00:14:32,018 --> 00:14:35,004
+<font color=#ffff00>Da ist ziemlich viel Fett enthalten.</font>
+
+242
+00:14:35,016 --> 00:14:37,009
+<font color=#ffffff>Jetzt bin ich aber gespannt.</font>
+
+243
+00:14:41,007 --> 00:14:43,004
+<font color=#ffff00>Guck mal, das Curry kocht ein.</font>
+
+244
+00:14:46,022 --> 00:14:49,020
+<font color=#ffff00>Das ist wirklich nur die Paste,</font>
+<font color=#ffff00>die das würzt.</font>
+
+245
+00:14:50,008 --> 00:14:51,007
+<font color=#ffffff>Krass.</font>
+
+246
+00:14:51,019 --> 00:14:54,004
+<font color=#ffff00>Jetzt glaube ich dir</font>
+<font color=#ffff00>den Gurkensalat.</font>
+
+247
+00:14:54,020 --> 00:14:57,016
+<font color=#ffff00>Jetzt kommen wir wieder</font>
+<font color=#ffff00>zu dem Asiatischen.</font>
+
+248
+00:14:58,000 --> 00:15:00,024
+<font color=#ffff00>Wir nehmen ein bisschen Sojasauce,</font>
+<font color=#ffff00>nicht viel.</font>
+
+249
+00:15:01,009 --> 00:15:03,024
+<font color=#ffff00>Aber so kenne ich</font>
+<font color=#ffff00>das aus den Restaurants,</font>
+
+250
+00:15:04,008 --> 00:15:05,009
+<font color=#ffff00>wo ich sehr gerne esse.</font>
+
+251
+00:15:06,010 --> 00:15:08,014
+<font color=#ffff00>Auch ein bisschen helle Sojasauce.</font>
+
+252
+00:15:09,001 --> 00:15:10,014
+<font color=#ffff00>Ein bisschen Fischsauce.</font>
+
+253
+00:15:10,022 --> 00:15:12,008
+<font color=#ffffff>Fischsauce?</font>
+
+254
+00:15:13,013 --> 00:15:15,023
+<font color=#ffff00>Dass es einer japanische Fischsauce.</font>
+
+255
+00:15:22,000 --> 00:15:23,015
+<font color=#ffff00>Je länger man es ein kocht,</font>
+
+256
+00:15:27,007 --> 00:15:28,014
+<font color=#ffff00>umso cremiger wird es.</font>
+
+257
+00:15:29,005 --> 00:15:31,003
+<font color=#ffff00>Lange dauert es nicht mehr.</font>
+
+258
+00:15:32,011 --> 00:15:35,002
+<font color=#ffff00>Da kommt gleich</font>
+<font color=#ffff00>das Fleisch wieder rein.</font>
+
+259
+00:15:36,010 --> 00:15:38,003
+<font color=#ffff00>Jetzt ein bisschen Merin,</font>
+
+260
+00:15:38,015 --> 00:15:40,009
+<font color=#ffff00>ein japanischer Weinessig.</font>
+
+261
+00:15:41,016 --> 00:15:43,018
+<font color=#ffff00>Und ein bisschen Pfeffer und Salz.</font>
+
+262
+00:15:44,012 --> 00:15:45,024
+<font color=#ffff00>Und das Wichtigste:</font>
+
+263
+00:15:46,011 --> 00:15:47,022
+<font color=#ffff00>brauner Zucker.</font>
+
+264
+00:15:47,024 --> 00:15:49,008
+<font color=#ffffff>Was?</font>
+
+265
+00:15:49,020 --> 00:15:51,017
+<font color=#ffff00>Da muss brauner Zucker ran.</font>
+
+266
+00:15:51,018 --> 00:15:52,023
+<font color=#ffffff>Warum?</font>
+
+267
+00:15:53,022 --> 00:15:55,016
+<font color=#ffff00>Das macht diesen Salat rund.</font>
+
+268
+00:15:58,001 --> 00:16:00,011
+<font color=#ffff00>Das hätte man zuerst machen sollen.</font>
+
+269
+00:16:03,000 --> 00:16:06,005
+<font color=#ffff00>Zucker und Salz haben</font>
+<font color=#ffff00>eine bestimmte Wirkung.</font>
+
+270
+00:16:07,024 --> 00:16:11,002
+<font color=#ffff00>Es ist nicht so schlimm,</font>
+<font color=#ffff00>dass die Gurken so groß sind.</font>
+
+271
+00:16:14,004 --> 00:16:16,024
+<font color=#ffff00>Sie werden ganz weich und sapschig</font>
+<font color=#ffff00>im Gewebe.</font>
+
+272
+00:16:17,009 --> 00:16:18,023
+<font color=#ffff00>Sie ziehen dann schön durch.</font>
+
+273
+00:16:19,014 --> 00:16:21,021
+<font color=#ffff00>Werte in den zuerst machen sollen.</font>
+
+274
+00:16:22,014 --> 00:16:25,020
+<font color=#ffff00>Gurkensalat schmeckt ja oft am</font>
+<font color=#ffff00>nächsten Tag besser.</font>
+
+275
+00:16:27,014 --> 00:16:30,019
+<font color=#ffff00>Wir haben da unser Curry,</font>
+<font color=#ffff00>und unseren Gurkensalat.</font>
+
+276
+00:16:31,002 --> 00:16:33,022
+<font color=#ffff00>Und jetzt kommt</font>
+<font color=#ffff00>das Fleisch wieder in die Pfanne.</font>
+
+277
+00:16:34,003 --> 00:16:35,009
+<font color=#ffffff>Das Gemüse brennt an.</font>
+
+278
+00:16:36,001 --> 00:16:38,001
+<font color=#ffff00>Die Nüsse sind nicht angebrannt.</font>
+
+279
+00:16:39,022 --> 00:16:42,001
+<font color=#ffffff>Natürlich, die sind total schwarz.</font>
+
+280
+00:16:42,009 --> 00:16:43,024
+<font color=#ffffff>Ist das die normale Färbung?</font>
+
+281
+00:16:44,019 --> 00:16:46,021
+<font color=#ffff00>Wenn man das mal in die Kamera hält,</font>
+
+282
+00:16:48,010 --> 00:16:51,018
+<font color=#ffff00>sieht man, dass das Fleisch noch</font>
+<font color=#ffff00>ein bisschen rosa ist.</font>
+
+283
+00:16:52,002 --> 00:16:53,005
+<font color=#ffff00>Genau das möchte ich.</font>
+
+284
+00:16:53,013 --> 00:16:54,020
+<font color=#ffff00>Also jetzt rein.</font>
+
+285
+00:16:55,007 --> 00:16:58,005
+<font color=#ffff00>Du hättest dir mal</font>
+<font color=#ffff00>zu den Nüssen gucken können.</font>
+
+286
+00:16:58,010 --> 00:17:01,011
+<font color=#ffffff>Das stimmt, aber ich war so</font>
+<font color=#ffffff>fasziniert von dir und dem</font>
+
+287
+00:17:01,019 --> 00:17:02,022
+<font color=#ffffff>Gurkensalat.</font>
+
+288
+00:17:03,003 --> 00:17:05,015
+<font color=#ffff00>Bei der Sauce</font>
+<font color=#ffff00>muss man nichts mehr machen.</font>
+
+289
+00:17:06,009 --> 00:17:09,019
+<font color=#ffff00>Die angeblich angebrannt</font>
+<font color=#ffff00>und Nüsse gebe ich hierauf.</font>
+
+290
+00:17:14,018 --> 00:17:17,001
+<font color=#ffffff>Bitte ganz dicht mit der Kamera ran.</font>
+
+291
+00:17:18,011 --> 00:17:21,004
+<font color=#ffffff>Hier habe ich die schwarzen Dinger</font>
+<font color=#ffffff>im Topf.</font>
+
+292
+00:17:23,013 --> 00:17:26,002
+<font color=#ffff00>Guck mal,</font>
+<font color=#ffff00>wie schön goldbraun die sind.</font>
+
+293
+00:17:26,010 --> 00:17:28,014
+<font color=#ffffff>Das sind sozusagen die Röstaromen?</font>
+
+294
+00:17:29,005 --> 00:17:32,010
+<font color=#ffff00>Ja, das ist die falsche</font>
+<font color=#ffff00>Einstellung in der Kamera.</font>
+
+295
+00:17:32,015 --> 00:17:33,021
+<font color=#ffff00>Jetzt richte ich an.</font>
+
+296
+00:17:35,000 --> 00:17:36,012
+<font color=#ffff00>So ein kleines bisschen.</font>
+
+297
+00:17:38,017 --> 00:17:42,009
+<font color=#ffffff>Dann freuen wir uns drauf</font>
+<font color=#ffffff>und wir kosten gleich das Curry</font>
+
+298
+00:17:45,003 --> 00:17:47,021
+<font color=#ffffff>- Vielen Dank und</font>
+<font color=#ffffff>ein schönes Wochenende später.</font>
+
+299
+00:17:48,016 --> 00:17:51,009
+<font color=#ffffff>Wir wollen jetzt zur</font>
+<font color=#ffffff>Verkostung schreiten.</font>
+
+300
+00:17:52,008 --> 00:17:54,001
+<font color=#ffff00>Ich habe alles vorbereitet.</font>
+
+301
+00:17:56,015 --> 00:17:58,015
+<font color=#ffff00>Reis auf den Teller, dann Curry,</font>
+
+302
+00:17:59,009 --> 00:18:01,014
+<font color=#ffff00>ein bisschen Abrieb</font>
+<font color=#ffff00>von einer Limette,</font>
+
+303
+00:18:02,010 --> 00:18:04,024
+<font color=#ffff00>dann angeblich verbrannte</font>
+<font color=#ffff00>Cashewnüsse.</font>
+
+304
+00:18:05,009 --> 00:18:06,009
+<font color=#ffffff>Es sind deine.</font>
+
+305
+00:18:09,002 --> 00:18:13,004
+<font color=#ffffff>Ich war nur für das Schneiden</font>
+<font color=#ffffff>der Gurke und Knoblauch zuständig.</font>
+
+306
+00:18:13,008 --> 00:18:15,010
+<font color=#ffff00>Koriander kann man auch weglassen,</font>
+
+307
+00:18:15,014 --> 00:18:18,002
+<font color=#ffff00>viele Leute finden,</font>
+<font color=#ffff00>es schmeckt nach Seife.</font>
+
+308
+00:18:18,006 --> 00:18:19,013
+<font color=#ffff00>Aber ich mag es sehr gerne.</font>
+
+309
+00:18:20,000 --> 00:18:21,011
+<font color=#ffffff>Es ist wirklich gut geworden.</font>
+
+310
+00:18:24,000 --> 00:18:27,001
+<font color=#ffffff>Wenn man das jetzt noch</font>
+<font color=#ffffff>ein bisschen ziehen lässt,</font>
+
+311
+00:18:27,009 --> 00:18:30,006
+<font color=#ffffff>kriecht das Fleisch noch</font>
+<font color=#ffffff>ein bisschen mehr Geschmack.</font>
+
+312
+00:18:30,010 --> 00:18:32,024
+<font color=#ffff00>Ja, wenn man</font>
+<font color=#ffff00>das in den Kühlschrank tut,</font>
+
+313
+00:18:33,003 --> 00:18:34,021
+<font color=#ffff00>schmeckt es morgen noch besser.</font>
+
+314
+00:18:35,001 --> 00:18:36,017
+<font color=#ffffff>Es ist wirklich gut geworden.</font>
+
+315
+00:18:37,004 --> 00:18:39,010
+<font color=#ffffff>Probier doch mal selber,</font>
+<font color=#ffffff>ob es schmeckt.</font>
+
+316
+00:18:41,000 --> 00:18:44,009
+<font color=#ffff00>Diese Nüsse, die haben genau den</font>
+<font color=#ffff00>richtigen Geschmack.</font>
+
+317
+00:18:45,011 --> 00:18:48,015
+<font color=#ffffff>Ich habe gerade 2 Cashewkerne,</font>
+<font color=#ffffff>die sind wirklich gut.</font>
+
+318
+00:18:49,001 --> 00:18:51,007
+<font color=#ffffff>Viel besser,</font>
+<font color=#ffffff>als wenn die so hell nur wären.</font>
+
+319
+00:18:53,007 --> 00:18:57,008
+<font color=#ffff00>Gut, die Cashewkerne hätten</font>
+<font color=#ffff00>vielleicht ein bisschen weniger</font>
+
+320
+00:18:57,008 --> 00:18:58,017
+<font color=#ffff00>gebraucht.</font>
+
+321
+00:18:58,021 --> 00:18:59,020
+<font color=#ffffff>Vielen Dank für heute.</font>
+
+322
+00:19:00,012 --> 00:19:01,015
+<font color=#ffffff>Hoffen wir, dass heute Abend</font>
+<font color=#ffffff>viele Zuschauer zuschauen.</font>
+

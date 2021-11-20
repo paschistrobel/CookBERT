@@ -1,0 +1,734 @@
+1
+00:00:01,850 --> 00:00:05,250
+<font color=#00FFFF>Und wenn es jetzt noch</font>
+<font color=#00FFFF>Fischstäbchen geben würde ...</font>
+
+2
+00:00:05,330 --> 00:00:06,490
+<font color=#00FFFF>Aber auch dafür</font>
+
+3
+00:00:06,570 --> 00:00:09,490
+<font color=#00FFFF>würde ich Koch Thomas Wohlfeld</font>
+<font color=#00FFFF>nicht stehen lassen.</font>
+
+4
+00:00:09,650 --> 00:00:13,570
+<font color=#FFFF00>Fischstäbchen habe ich mit Spinat</font>
+<font color=#FFFF00>früher gerne gegessen.</font>
+
+5
+00:00:13,730 --> 00:00:16,850
+<font color=#FFFF00>Und Spiegelei.</font>
+
+6
+00:00:17,050 --> 00:00:20,370
+<font color=#00FFFF>Es ist ein Kinderessen.</font>
+
+7
+00:00:20,450 --> 00:00:23,930
+<font color=#FFFF00>Ja, aber ich habe es</font>
+<font color=#FFFF00>eine Zeit lang nicht gemocht.</font>
+
+8
+00:00:24,090 --> 00:00:26,370
+<font color=#00FFFF>Wir müssen den Spinat</font>
+<font color=#00FFFF>außer Acht lassen.</font>
+
+9
+00:00:27,250 --> 00:00:29,690
+<font color=#00FFFF>Mit Thomas</font>
+<font color=#00FFFF>beginnt eine neue Themenwoche:</font>
+
+10
+00:00:29,770 --> 00:00:31,130
+<font color=#00FFFF>Budder bei die Fische.</font>
+
+11
+00:00:32,970 --> 00:00:36,450
+<font color=#00FFFF>Thomas,</font>
+<font color=#00FFFF>du machst den ersten Aufschlag.</font>
+
+12
+00:00:36,610 --> 00:00:39,530
+<font color=#00FFFF>Eine norwegische Fjordforelle -</font>
+<font color=#00FFFF>exotisch.</font>
+
+13
+00:00:39,690 --> 00:00:43,050
+<font color=#FFFF00>Ist gar nicht so exotisch.</font>
+
+14
+00:00:43,210 --> 00:00:46,530
+<font color=#FFFF00>Norwegen ist relativ nah dran.</font>
+
+15
+00:00:49,890 --> 00:00:53,370
+<font color=#FFFF00>Es gehört</font>
+<font color=#FFFF00>zur Familie der Salmoniden.</font>
+
+16
+00:00:55,090 --> 00:00:59,010
+<font color=#FFFF00>Es sorgt dafür, dass weniger</font>
+<font color=#FFFF00>Wildfische gefischt werden.</font>
+
+17
+00:00:59,490 --> 00:01:02,210
+<font color=#00FFFF>Sieht die anders aus</font>
+<font color=#00FFFF>als normale Forelle?</font>
+
+18
+00:01:02,370 --> 00:01:04,810
+<font color=#FFFF00>Ich hole die mal.</font>
+
+19
+00:01:04,970 --> 00:01:07,530
+<font color=#FFFF00>Allerdings nur als Filet.</font>
+
+20
+00:01:07,690 --> 00:01:11,010
+<font color=#FFFF00>Ich habe das schon vorbereitet.</font>
+
+21
+00:01:11,250 --> 00:01:14,650
+<font color=#FFFF00>Es sieht aus</font>
+<font color=#FFFF00>wie ein Stück vom Lachs.</font>
+
+22
+00:01:14,850 --> 00:01:17,930
+<font color=#00FFFF>Ich hätte gedacht, es wäre Lachs.</font>
+
+23
+00:01:18,090 --> 00:01:20,370
+<font color=#FFFF00>Es ist ein bisschen dunkler.</font>
+
+24
+00:01:20,570 --> 00:01:23,890
+<font color=#FFFF00>Lachs ist heller.</font>
+
+25
+00:01:25,970 --> 00:01:28,810
+<font color=#00FFFF>Unterscheidet die sich</font>
+<font color=#00FFFF>von der Konsistenz</font>
+
+26
+00:01:28,890 --> 00:01:33,970
+<font color=#00FFFF>von einer klassischen Bachforelle,</font>
+<font color=#00FFFF>wie wir sie kennen?</font>
+
+27
+00:01:37,770 --> 00:01:41,250
+<font color=#FFFF00>Ja, das Fleisch ist fester.</font>
+
+28
+00:01:47,330 --> 00:01:51,170
+<font color=#FFFF00>Das Filet kriegt man</font>
+<font color=#FFFF00>so küchenfertig beim Fischhändler.</font>
+
+29
+00:01:51,330 --> 00:01:54,770
+<font color=#FFFF00>Oder im Supermarkt.</font>
+
+30
+00:01:55,050 --> 00:01:58,530
+<font color=#00FFFF>Gibt es eine Faustregel</font>
+<font color=#00FFFF>für das Portionieren?</font>
+
+31
+00:01:59,770 --> 00:02:03,290
+<font color=#00FFFF>Ist das eine Portion,</font>
+<font color=#00FFFF>die mich satt machen sollte?</font>
+
+32
+00:02:03,410 --> 00:02:06,850
+<font color=#FFFF00>Wir haben ja noch was drumherum.</font>
+
+33
+00:02:07,650 --> 00:02:11,130
+<font color=#FFFF00>Wenn man Fisch liebt,</font>
+<font color=#FFFF00>macht man zwei Stücke.</font>
+
+34
+00:02:11,690 --> 00:02:15,170
+<font color=#FFFF00>Ich habe im Rezept</font>
+<font color=#FFFF00>eine Garzeit angegeben.</font>
+
+35
+00:02:18,170 --> 00:02:22,250
+<font color=#FFFF00>Damit die geht, sollte man</font>
+<font color=#FFFF00>ungefähr 125 Gramm abschneiden.</font>
+
+36
+00:02:22,410 --> 00:02:25,810
+<font color=#FFFF00>Ich mache Salz drauf.</font>
+
+37
+00:02:25,970 --> 00:02:29,290
+<font color=#FFFF00>Ich temperiere das im Ofen.</font>
+
+38
+00:02:30,250 --> 00:02:33,730
+<font color=#00FFFF>Temperieren? </font>
+<font color=#FFFF00>Genau.</font>
+
+39
+00:02:33,890 --> 00:02:37,370
+<font color=#FFFF00>Ich denke das mit Küchenfolie ab.</font>
+
+40
+00:02:37,850 --> 00:02:41,330
+<font color=#FFFF00>Dann sieht man,</font>
+<font color=#FFFF00>wie weit die Forelle ist.</font>
+
+41
+00:02:41,490 --> 00:02:44,930
+<font color=#FFFF00>Und die Feuchtigkeit</font>
+<font color=#FFFF00>bleibt im Fisch.</font>
+
+42
+00:02:45,770 --> 00:02:53,050
+<font color=#FFFF00>Einfach drauf achten beim Kauf,</font>
+<font color=#FFFF00>dass die Folie hitzebeständig ist.</font>
+
+43
+00:02:53,610 --> 00:02:57,170
+<font color=#00FFFF>Ich verstehe nicht, was du meinst.</font>
+
+44
+00:02:57,330 --> 00:03:00,690
+<font color=#00FFFF>Normale Frischhaltefolie?</font>
+
+45
+00:03:01,970 --> 00:03:05,770
+<font color=#FFFF00>Es steht meistens drauf,</font>
+<font color=#FFFF00>dass sie hitzebeständig sind.</font>
+
+46
+00:03:06,930 --> 00:03:10,450
+<font color=#FFFF00>Und 80 Grad ist nicht so heiß.</font>
+
+47
+00:03:10,570 --> 00:03:14,050
+<font color=#FFFF00>Wasser kocht ja erst bei 100 Grad.</font>
+
+48
+00:03:14,930 --> 00:03:19,210
+<font color=#FFFF00>Und Folie ist schon mal mit heißem</font>
+<font color=#FFFF00>Wasser in Verbindung gekommen.</font>
+
+49
+00:03:19,370 --> 00:03:20,930
+<font color=#FFFF00>Da passiert nicht viel.</font>
+
+50
+00:03:21,090 --> 00:03:24,450
+<font color=#FFFF00>Du kannst Salat zupfen.</font>
+
+51
+00:03:24,610 --> 00:03:27,930
+<font color=#FFFF00>Gerne grün und gelb gemischt.</font>
+
+52
+00:03:30,770 --> 00:03:34,770
+<font color=#00FFFF>Wir haben heute viel da,</font>
+<font color=#00FFFF>woran sich die Geister scheiden.</font>
+
+53
+00:03:34,930 --> 00:03:36,130
+<font color=#00FFFF>Spinat.</font>
+
+54
+00:03:36,330 --> 00:03:39,210
+<font color=#00FFFF>Und hier diese Bittersalate.</font>
+
+55
+00:03:39,370 --> 00:03:41,890
+<font color=#00FFFF>Das finden viele nicht lecker.</font>
+
+56
+00:03:42,050 --> 00:03:45,410
+<font color=#00FFFF>Kann ich da was machen?</font>
+
+57
+00:03:47,050 --> 00:03:54,330
+<font color=#FFFF00>Wenn es weniger bitter sein soll,</font>
+<font color=#FFFF00>kann man die Salate lauwarm waschen.</font>
+
+58
+00:03:54,770 --> 00:03:58,250
+<font color=#FFFF00>Am besten nach dem Zupfen.</font>
+
+59
+00:04:03,050 --> 00:04:06,530
+<font color=#FFFF00>Man sieht dann schon,</font>
+<font color=#FFFF00>wo faule Stellen sind.</font>
+
+60
+00:04:07,090 --> 00:04:10,570
+<font color=#FFFF00>Man wäscht nur, was man braucht.</font>
+
+61
+00:04:13,370 --> 00:04:16,890
+<font color=#00FFFF>Wird er bitterer, wenn er welk ist?</font>
+
+62
+00:04:17,170 --> 00:04:20,650
+<font color=#00FFFF>Dieser ist sehr frisch.</font>
+
+63
+00:04:20,890 --> 00:04:24,170
+<font color=#FFFF00>Der wird nicht bitterer.</font>
+
+64
+00:04:24,330 --> 00:04:26,610
+<font color=#FFFF00>Ich mag die Bittersalate gerne.</font>
+
+65
+00:04:26,770 --> 00:04:30,130
+<font color=#FFFF00>Das ist Geschmackssache.</font>
+
+66
+00:04:31,650 --> 00:04:36,010
+<font color=#FFFF00>Lauwarmes Wasser sorgt dafür,</font>
+<font color=#FFFF00>dass es weniger bitter schmeckt.</font>
+
+67
+00:04:37,370 --> 00:04:40,850
+<font color=#FFFF00>Ich packe Butter in die Pfanne.</font>
+
+68
+00:04:41,970 --> 00:04:45,250
+<font color=#FFFF00>Ich habe das Schwarzbrot</font>
+<font color=#FFFF00>in Würfel geschnitten.</font>
+
+69
+00:04:45,410 --> 00:04:48,050
+<font color=#FFFF00>Jetzt Honig dazu.</font>
+
+70
+00:04:48,210 --> 00:04:51,610
+<font color=#FFFF00>Zum Süßen.</font>
+
+71
+00:04:53,890 --> 00:04:57,370
+<font color=#00FFFF>Schwarzbrot und Honig - warum?</font>
+
+72
+00:04:58,570 --> 00:05:02,090
+<font color=#FFFF00>Schwarzbrot</font>
+<font color=#FFFF00>hat eine leichte süßliche Note.</font>
+
+73
+00:05:03,930 --> 00:05:07,410
+<font color=#FFFF00>Um das zu unterstützen,</font>
+<font color=#FFFF00>geben wir Honig dazu.</font>
+
+74
+00:05:11,290 --> 00:05:14,570
+<font color=#FFFF00>Schwarzbrot und Honig</font>
+<font color=#FFFF00>macht Spaß, schmeckt gut.</font>
+
+75
+00:05:14,730 --> 00:05:18,130
+<font color=#FFFF00>Und das passt zum Fisch.</font>
+
+76
+00:05:18,290 --> 00:05:22,770
+<font color=#00FFFF>Du hast</font>
+<font color=#00FFFF>eher männliche Würfel geschnitten.</font>
+
+77
+00:05:22,850 --> 00:05:24,370
+<font color=#00FFFF>Die sind groß.</font>
+
+78
+00:05:31,130 --> 00:05:34,610
+<font color=#00FFFF>Größer als Croutons.</font>
+
+79
+00:05:34,810 --> 00:05:38,250
+<font color=#FFFF00>Die sollen etwas</font>
+<font color=#FFFF00>von der Butter aufsaugen.</font>
+
+80
+00:05:43,690 --> 00:05:46,210
+<font color=#FFFF00>Die sollen nicht knusprig werden.</font>
+
+81
+00:05:46,290 --> 00:05:51,250
+<font color=#00FFFF>Beim Karamellisieren mit Zucker</font>
+<font color=#00FFFF>kann es auch nach hinten losgehen.</font>
+
+82
+00:05:51,450 --> 00:05:54,650
+<font color=#00FFFF>Ist der Honig da dankbarer?</font>
+
+83
+00:05:54,810 --> 00:05:57,290
+<font color=#FFFF00>Er verbrennt nicht so stark.</font>
+
+84
+00:05:57,450 --> 00:06:04,530
+<font color=#FFFF00>Es geht eher darum,</font>
+<font color=#FFFF00>dass es Karamellnoten entwickelt.</font>
+
+85
+00:06:04,690 --> 00:06:08,050
+<font color=#FFFF00>Die Pfanne ist nicht ganz heiß.</font>
+
+86
+00:06:09,690 --> 00:06:13,170
+<font color=#FFFF00>Das Ganze schön langsam machen,</font>
+
+87
+00:06:15,170 --> 00:06:18,650
+<font color=#FFFF00>um etwas Röstaromen</font>
+<font color=#FFFF00>rein zu bekommen.</font>
+
+88
+00:06:19,330 --> 00:06:22,810
+<font color=#FFFF00>Ich habe den Chicoree halbiert.</font>
+
+89
+00:06:26,890 --> 00:06:30,410
+<font color=#00FFFF>Ist der rote auch Chicoree?</font>
+
+90
+00:06:32,570 --> 00:06:35,050
+<font color=#FFFF00>Ja, das ist ein roter Chicoree.</font>
+
+91
+00:06:35,210 --> 00:06:37,770
+<font color=#00FFFF>Habe ich noch nie gesehen.</font>
+
+92
+00:06:37,930 --> 00:06:40,610
+<font color=#FFFF00>Gibt es im Supermarkt.</font>
+
+93
+00:06:40,770 --> 00:06:44,090
+<font color=#FFFF00>Meiner kommt vom Wochenmarkt.</font>
+
+94
+00:06:45,450 --> 00:06:48,810
+<font color=#FFFF00>Der gelbe wird nur</font>
+<font color=#FFFF00>bis April mit Saison benannt.</font>
+
+95
+00:06:48,970 --> 00:06:52,370
+<font color=#FFFF00>Ich mag es gerne.</font>
+
+96
+00:06:55,570 --> 00:06:59,130
+<font color=#FFFF00>Schmeckt gebraten und roh.</font>
+
+97
+00:06:59,290 --> 00:07:02,330
+<font color=#FFFF00>Das kommt gleich zum Brot.</font>
+
+98
+00:07:02,490 --> 00:07:05,810
+<font color=#FFFF00>Eine schöne Textur.</font>
+
+99
+00:07:08,690 --> 00:07:11,530
+<font color=#00FFFF>Der Chicoree</font>
+<font color=#00FFFF>erinnert mich an den Bio-LK.</font>
+
+100
+00:07:11,690 --> 00:07:15,130
+<font color=#00FFFF>An Fotosynthese.</font>
+
+101
+00:07:18,130 --> 00:07:21,570
+<font color=#00FFFF>Der Chicoree wird dadurch bitterer.</font>
+
+102
+00:07:21,730 --> 00:07:24,330
+<font color=#FFFF00>Der rote ist süßlicher.</font>
+
+103
+00:07:24,490 --> 00:07:27,810
+<font color=#FFFF00>Er ist nicht so bitter.</font>
+
+104
+00:07:30,130 --> 00:07:33,290
+<font color=#FFFF00>Er ist süßlicher, aromatischer.</font>
+
+105
+00:07:33,450 --> 00:07:36,770
+<font color=#FFFF00>So, er ist geschnitten.</font>
+
+106
+00:07:37,490 --> 00:07:39,890
+<font color=#00FFFF>Ich nehme mal den klassischen.</font>
+
+107
+00:07:40,050 --> 00:07:41,890
+<font color=#FFFF00>Gerne durchprobieren.</font>
+
+108
+00:07:42,050 --> 00:07:43,810
+<font color=#FFFF00>Und?</font>
+
+109
+00:07:43,970 --> 00:07:47,290
+<font color=#00FFFF>Mhm.</font>
+
+110
+00:07:48,250 --> 00:07:51,730
+<font color=#00FFFF>Ein Wahnsinns-Unterschied.</font>
+
+111
+00:07:51,930 --> 00:07:55,290
+<font color=#00FFFF>Nur am Anfang</font>
+<font color=#00FFFF>sind die relativ ähnlich.</font>
+
+112
+00:07:55,450 --> 00:07:58,370
+<font color=#00FFFF>Die Konsistenz ist auch anders.</font>
+
+113
+00:07:58,530 --> 00:08:01,890
+<font color=#FFFF00>Ich glaube, dass ist Zufall.</font>
+
+114
+00:08:02,650 --> 00:08:05,970
+<font color=#FFFF00>Ich mache unser Vinaigrette fertig.</font>
+
+115
+00:08:06,130 --> 00:08:09,050
+<font color=#FFFF00>Das reicht schon.</font>
+
+116
+00:08:09,210 --> 00:08:12,570
+<font color=#FFFF00>Da kommt Olivenöl rein.</font>
+
+117
+00:08:12,970 --> 00:08:16,090
+<font color=#FFFF00>Das ergänzt sich gut mit dem Herben.</font>
+
+118
+00:08:16,250 --> 00:08:19,610
+<font color=#FFFF00>Dann etwas Salz und Zucker.</font>
+
+119
+00:08:19,770 --> 00:08:22,890
+<font color=#FFFF00>Man kann auch Honig nehmen.</font>
+
+120
+00:08:23,050 --> 00:08:26,210
+<font color=#FFFF00>Aber den haben wir schon am Brot.</font>
+
+121
+00:08:26,370 --> 00:08:29,730
+<font color=#FFFF00>Das wäre vielleicht zu viel.</font>
+
+122
+00:08:30,050 --> 00:08:33,530
+<font color=#FFFF00>Einmal mit dem Schneebesen</font>
+<font color=#FFFF00>verrühren.</font>
+
+123
+00:08:40,250 --> 00:08:44,250
+<font color=#00FFFF>Je nachdem, wann man</font>
+<font color=#00FFFF>die Vinaigrette über den Salat gibt,</font>
+
+124
+00:08:44,490 --> 00:08:47,450
+<font color=#00FFFF>verlässt ihn seine Kräfte.</font>
+
+125
+00:08:47,610 --> 00:08:50,930
+<font color=#00FFFF>Wie ist es hier?</font>
+
+126
+00:08:53,690 --> 00:08:56,330
+<font color=#FFFF00>Man sollte</font>
+<font color=#FFFF00>ein mildes Dressing nehmen,</font>
+
+127
+00:08:56,410 --> 00:08:58,970
+<font color=#FFFF00>um den Salat nicht zu zerstören.</font>
+
+128
+00:08:59,130 --> 00:09:02,450
+<font color=#FFFF00>Ich mag es eher neutral.</font>
+
+129
+00:09:08,810 --> 00:09:12,290
+<font color=#FFFF00>Wir holen mal</font>
+<font color=#FFFF00>unseren Fisch aus dem Ofen.</font>
+
+130
+00:09:13,410 --> 00:09:16,290
+<font color=#FFFF00>Der ist ganz leicht matt geworden.</font>
+
+131
+00:09:16,450 --> 00:09:19,810
+<font color=#FFFF00>Vorher war er glänzend.</font>
+
+132
+00:09:20,850 --> 00:09:24,370
+<font color=#FFFF00>Er hat Flüssigkeit verloren.</font>
+
+133
+00:09:24,530 --> 00:09:27,930
+<font color=#FFFF00>Er bleibt im Kern glasig.</font>
+
+134
+00:09:28,290 --> 00:09:30,530
+<font color=#00FFFF>Wir haben</font>
+<font color=#00FFFF>eine Tipptafel vorbereitet:</font>
+
+135
+00:09:53,130 --> 00:09:56,210
+<font color=#00FFFF>Und du richtest an.</font>
+
+136
+00:09:56,370 --> 00:09:59,730
+<font color=#FFFF00>Ich fange an, genau.</font>
+
+137
+00:10:08,570 --> 00:10:09,970
+<font color=#FFFF00>Dann würden wir hier</font>
+
+138
+00:10:10,050 --> 00:10:13,850
+<font color=#FFFF00>unsere karamellisieren</font>
+<font color=#FFFF00>Schwarzbrot-Krumen verteilen.</font>
+
+139
+00:10:14,090 --> 00:10:17,570
+<font color=#00FFFF>Was mache ich, wenn ich</font>
+<font color=#00FFFF>den Fisch nicht so glasig mag?</font>
+
+140
+00:10:19,210 --> 00:10:21,930
+<font color=#FFFF00>Ich hatte sie</font>
+<font color=#FFFF00>zehn Minuten bei 80 Grad.</font>
+
+141
+00:10:22,090 --> 00:10:25,570
+<font color=#FFFF00>Es ist durch.</font>
+
+142
+00:10:25,730 --> 00:10:29,090
+<font color=#FFFF00>Es wäre auch</font>
+<font color=#FFFF00>für Schwangere geeignet.</font>
+
+143
+00:10:29,530 --> 00:10:32,810
+<font color=#FFFF00>Es geht ja um Keime und so.</font>
+
+144
+00:10:32,970 --> 00:10:41,090
+<font color=#FFFF00>Man soll es mal wagen,</font>
+<font color=#FFFF00>dass man den Fisch einfach mal ...</font>
+
+145
+00:10:45,930 --> 00:10:48,650
+<font color=#FFFF00>Fisch, der zu lange gart,</font>
+<font color=#FFFF00>wird trocken.</font>
+
+146
+00:10:48,810 --> 00:10:52,210
+<font color=#FFFF00>Das ist schade.</font>
+
+147
+00:10:52,370 --> 00:10:55,850
+<font color=#FFFF00>Wir machen unseren Salat da drauf.</font>
+
+148
+00:11:00,290 --> 00:11:03,170
+<font color=#FFFF00>Das Gericht,</font>
+<font color=#FFFF00>die Idee dazu ist entstanden,</font>
+
+149
+00:11:03,250 --> 00:11:04,650
+<font color=#FFFF00>als es so warm war.</font>
+
+150
+00:11:06,930 --> 00:11:10,410
+<font color=#FFFF00>Da dachte ich:</font>
+<font color=#FFFF00>Was Leichtes, Leckeres.</font>
+
+151
+00:11:11,730 --> 00:11:15,210
+<font color=#FFFF00>Keiner konnte ahnen,</font>
+<font color=#FFFF00>dass es wieder so kalt wird.</font>
+
+152
+00:11:17,970 --> 00:11:21,450
+<font color=#00FFFF>Der Hinweis darauf,</font>
+<font color=#00FFFF>wie du dich inspirieren lässt -</font>
+
+153
+00:11:21,610 --> 00:11:30,090
+<font color=#00FFFF>gibt es da eine Geschichte</font>
+<font color=#00FFFF>für das kreativste Gericht?</font>
+
+154
+00:11:33,730 --> 00:11:37,210
+<font color=#FFFF00>Ich glaube, ich stand mal im Stau.</font>
+
+155
+00:11:37,450 --> 00:11:40,970
+<font color=#00FFFF>Welche Ideen bekommt man da?</font>
+
+156
+00:11:41,050 --> 00:11:44,530
+<font color=#FFFF00>Man hat Zeit,</font>
+<font color=#FFFF00>mein Handy-Akku war leer ...</font>
+
+157
+00:11:48,130 --> 00:11:51,050
+<font color=#FFFF00>Aber nicht die Idee</font>
+<font color=#FFFF00>zu diesem Gericht.</font>
+
+158
+00:11:51,210 --> 00:11:54,570
+<font color=#FFFF00>Das kam nur durch das Wetter.</font>
+
+159
+00:11:55,570 --> 00:11:58,570
+<font color=#FFFF00>Ich wollte etwas Frisches,</font>
+<font color=#FFFF00>etwas mit Knack.</font>
+
+160
+00:11:58,730 --> 00:12:00,730
+<font color=#00FFFF>Ich probiere mal.</font>
+
+161
+00:12:04,130 --> 00:12:07,050
+<font color=#00FFFF>Es ist nicht warm.</font>
+
+162
+00:12:07,210 --> 00:12:09,770
+<font color=#00FFFF>Ein irrer Geschmack.</font>
+
+163
+00:12:09,930 --> 00:12:13,290
+<font color=#00FFFF>Wahnsinnig intensiv.</font>
+
+164
+00:12:13,410 --> 00:12:16,890
+<font color=#00FFFF>Sie können das nachkochen.</font>
+
+165
+00:12:17,130 --> 00:12:20,610
+<font color=#00FFFF>Alles gibt es auf unserer Seite.</font>
+
+166
+00:12:21,450 --> 00:12:24,930
+<font color=#00FFFF>Schön, dass du da warst.</font>
+
+167
+00:12:25,450 --> 00:12:27,930
+<font color=#00FFFF>Nächstes Mal gerne wieder.</font>
+
+168
+00:12:28,410 --> 00:12:33,570
+<font color=#00FFFF>Und dann nicht eingeschneit -</font>
+<font color=#00FFFF>das warst du nämlich vor Kurzem.</font>
+

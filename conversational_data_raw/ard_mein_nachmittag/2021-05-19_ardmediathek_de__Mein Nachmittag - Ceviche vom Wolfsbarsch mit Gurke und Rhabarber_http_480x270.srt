@@ -1,0 +1,643 @@
+1
+00:00:05,018 --> 00:00:08,578
+<font color=#FFFF00>Wir haben viele schöne grüne Sachen.</font>
+
+2
+00:00:08,738 --> 00:00:12,058
+<font color=#FFFF00>Viel Knackiges und Frisches.</font>
+
+3
+00:00:13,778 --> 00:00:17,258
+<font color=#FFFF00>Wir haben Rhabarber-Zeit.</font>
+
+4
+00:00:17,418 --> 00:00:20,418
+<font color=#FFFF00>Ich hatte gehofft,</font>
+<font color=#FFFF00>dass es etwas wärmer ist.</font>
+
+5
+00:00:20,578 --> 00:00:23,978
+<font color=#FFFF00>Aber wir bereiten uns darauf vor.</font>
+
+6
+00:00:24,258 --> 00:00:27,418
+<font color=#00FFFF>Wir können ja im Warmen kochen.</font>
+
+7
+00:00:29,818 --> 00:00:33,258
+<font color=#00FFFF>Matthias hat schon</font>
+<font color=#00FFFF>mit Rhabarber angegeben.</font>
+
+8
+00:00:36,018 --> 00:00:41,178
+<font color=#FFFF00>Was wir damit machen, wird diesem</font>
+<font color=#FFFF00>Rhabarber seine Ehre zurückgeben.</font>
+
+9
+00:00:41,938 --> 00:00:44,938
+<font color=#FFFF00>Ich bitte dich,</font>
+<font color=#FFFF00>da Rauen runterzuschneiden.</font>
+
+10
+00:00:45,698 --> 00:00:49,178
+<font color=#FFFF00>Interessant beim Rhabarber ist,</font>
+
+11
+00:00:50,098 --> 00:00:53,578
+<font color=#FFFF00>dass man der Farbe erkennt,</font>
+<font color=#FFFF00>wie viel Süße hat.</font>
+
+12
+00:00:53,738 --> 00:00:56,978
+<font color=#FFFF00>Wenn er grün ist, ist er sauer.</font>
+
+13
+00:00:57,138 --> 00:00:59,978
+<font color=#FFFF00>Ist der rot, ist er süß.</font>
+
+14
+00:01:00,178 --> 00:01:03,538
+<font color=#FFFF00>Mit etwas Fruchtigkeit</font>
+<font color=#FFFF00>wird das ganz toll.</font>
+
+15
+00:01:05,178 --> 00:01:08,698
+<font color=#00FFFF>Ich soll Rauten machen.</font>
+
+16
+00:01:09,178 --> 00:01:12,658
+<font color=#FFFF00>Du kannst das so machen wie ich.</font>
+
+17
+00:01:12,818 --> 00:01:15,698
+<font color=#00FFFF>So? </font>
+<font color=#FFFF00>Das sieht ganz gut aus.</font>
+
+18
+00:01:17,378 --> 00:01:20,658
+<font color=#FFFF00>Ich will den Rhabarber</font>
+<font color=#FFFF00>im Ofen garen.</font>
+
+19
+00:01:20,978 --> 00:01:24,658
+<font color=#FFFF00>Dann bekommt eine schöne Farbe</font>
+<font color=#FFFF00>und bleibt knackig.</font>
+
+20
+00:01:26,378 --> 00:01:28,938
+<font color=#FFFF00>Ich mache Gurken dazu.</font>
+
+21
+00:01:30,698 --> 00:01:33,938
+<font color=#00FFFF>Wie kommst du auf Rauten?</font>
+<font color=#00FFFF>Wegen des HSV?</font>
+
+22
+00:01:34,698 --> 00:01:39,178
+<font color=#FFFF00>Beim Fußball bin ich raus.</font>
+<font color=#FFFF00>Darum hab ich immer gute Laune.</font>
+
+23
+00:01:40,978 --> 00:01:45,218
+<font color=#00FFFF>Du hast tolles Obst mitgebracht.</font>
+<font color=#00FFFF>Das können wir mal zeigen.</font>
+
+24
+00:01:45,938 --> 00:01:48,298
+<font color=#FFFF00>Was möchtest du sehen?</font>
+
+25
+00:01:49,538 --> 00:01:51,578
+<font color=#FFFF00>Das sind die Himbeeren.</font>
+
+26
+00:01:53,818 --> 00:01:56,338
+<font color=#FFFF00>Ich habe Granatäpfel.</font>
+
+27
+00:01:58,018 --> 00:02:01,538
+<font color=#FFFF00>Unser Hauptbestandteil</font>
+<font color=#FFFF00>ist der Wolfsbarsch.</font>
+
+28
+00:02:02,458 --> 00:02:04,978
+<font color=#FFFF00>Der ist im Kühlschrank.</font>
+
+29
+00:02:05,138 --> 00:02:08,458
+<font color=#FFFF00>Der Fisch muss schön kühl stehen.</font>
+
+30
+00:02:12,298 --> 00:02:17,138
+<font color=#FFFF00>Gerade bei dieser Zubereitungsart</font>
+<font color=#FFFF00>empfehle ich einen Fischfachmann.</font>
+
+31
+00:02:18,098 --> 00:02:22,538
+<font color=#FFFF00>Man sollte sich schöne Fischfilets</font>
+<font color=#FFFF00>machen lassen.</font>
+
+32
+00:02:22,698 --> 00:02:26,178
+<font color=#FFFF00>Kurz einfrieren</font>
+<font color=#FFFF00>und langsam wieder auftauen lassen.</font>
+
+33
+00:02:26,338 --> 00:02:29,778
+<font color=#FFFF00>Dann ist man auf der sicheren Seite.</font>
+
+34
+00:02:31,418 --> 00:02:34,378
+<font color=#00FFFF>Was bewirkt das Einfrieren?</font>
+
+35
+00:02:34,578 --> 00:02:37,938
+<font color=#FFFF00>Das tötet mögliche Keime ab.</font>
+
+36
+00:02:39,578 --> 00:02:42,418
+<font color=#FFFF00>Das macht man heute</font>
+<font color=#FFFF00>auch beim Sushi.</font>
+
+37
+00:02:42,578 --> 00:02:45,178
+<font color=#FFFF00>Sicherheitshalber einmal einfrieren.</font>
+
+38
+00:02:46,538 --> 00:02:50,618
+<font color=#FFFF00>Ich lass es einmal kurz</font>
+<font color=#FFFF00>für ein paar Stunden einfrieren.</font>
+
+39
+00:02:54,098 --> 00:02:58,138
+<font color=#FFFF00>Man sollte darauf achten,</font>
+<font color=#FFFF00>dass keine Gräten drin sind.</font>
+
+40
+00:03:00,258 --> 00:03:03,658
+<font color=#FFFF00>Sonst würde ich die</font>
+<font color=#FFFF00>jetzt rausziehen.</font>
+
+41
+00:03:04,778 --> 00:03:08,338
+<font color=#FFFF00>Für ein Ceviche</font>
+<font color=#FFFF00>braucht man den Fisch sehr dünn.</font>
+
+42
+00:03:09,098 --> 00:03:13,578
+<font color=#FFFF00>Ich will ihn</font>
+<font color=#FFFF00>nicht sehr lange einlegen.</font>
+
+43
+00:03:14,658 --> 00:03:19,698
+<font color=#FFFF00>Die Marinade</font>
+<font color=#FFFF00>soll den Fisch schnell angart.</font>
+
+44
+00:03:20,698 --> 00:03:25,498
+<font color=#FFFF00>Die Säure der frischen Limette.</font>
+<font color=#FFFF00>wirkt dann auf den Fisch ein.</font>
+
+45
+00:03:29,978 --> 00:03:33,258
+<font color=#00FFFF>Hast du einen Tipp</font>
+<font color=#00FFFF>fürs sichere schneiden?</font>
+
+46
+00:03:34,538 --> 00:03:38,578
+<font color=#FFFF00>Ich knicke meine Finger</font>
+<font color=#FFFF00>zu einer sicheren Wand</font>
+
+47
+00:03:38,778 --> 00:03:42,578
+<font color=#FFFF00>und führe das Messer</font>
+<font color=#FFFF00>auf der Oberkante meines Fingers.</font>
+
+48
+00:03:42,858 --> 00:03:46,538
+<font color=#FFFF00>Dann schneide ich die Scheibchen</font>
+<font color=#FFFF00>langsam runter.</font>
+
+49
+00:03:49,498 --> 00:03:52,378
+<font color=#FFFF00>So habe ich auch</font>
+<font color=#FFFF00>die richtige Schnittgröße.</font>
+
+50
+00:03:52,538 --> 00:03:55,978
+<font color=#FFFF00>Lieber langsam und bedacht.</font>
+
+51
+00:03:56,298 --> 00:03:59,698
+<font color=#FFFF00>Und nicht ablenken lassen. </font>
+<font color=#00FFFF>Ja.</font>
+
+52
+00:04:01,218 --> 00:04:03,978
+<font color=#00FFFF>Und ein scharfes Messer hilft.</font>
+
+53
+00:04:04,698 --> 00:04:07,978
+<font color=#00FFFF>Gutes Werkzeug</font>
+<font color=#00FFFF>hilft auch in der Küche.</font>
+
+54
+00:04:09,378 --> 00:04:12,858
+<font color=#00FFFF>Was ist der Wolfsbarsch</font>
+<font color=#00FFFF>für ein Fisch?</font>
+
+55
+00:04:13,178 --> 00:04:16,698
+<font color=#FFFF00>Das ist ein Raubfisch</font>
+<font color=#FFFF00>aus dem Mittelmeer.</font>
+
+56
+00:04:19,098 --> 00:04:22,458
+<font color=#FFFF00>Die Farbe</font>
+<font color=#FFFF00>ist hier noch leicht rötlich.</font>
+
+57
+00:04:23,938 --> 00:04:26,578
+<font color=#FFFF00>So muss das aussehen.</font>
+
+58
+00:04:26,738 --> 00:04:28,978
+<font color=#FFFF00>Dabei gibt es keine Kompromisse.</font>
+
+59
+00:04:29,138 --> 00:04:32,498
+<font color=#FFFF00>Es muss sehr frisch sein.</font>
+
+60
+00:04:34,538 --> 00:04:38,258
+<font color=#FFFF00>Ich habe hier braune Butter,</font>
+<font color=#FFFF00>das kannst du schon riechen.</font>
+
+61
+00:04:38,378 --> 00:04:41,818
+<font color=#FFFF00>Daraus mache ich eine Marinade.</font>
+
+62
+00:04:43,378 --> 00:04:47,098
+<font color=#00FFFF>Brauchen wir noch mehr?</font>
+<font color=#FFFF00>Mache ich noch etwas mehr.</font>
+
+63
+00:04:49,338 --> 00:04:51,658
+<font color=#FFFF00>Danach alles in die Schüssel.</font>
+
+64
+00:04:51,818 --> 00:04:54,858
+<font color=#FFFF00>Die Butter ist noch warm.</font>
+
+65
+00:04:55,018 --> 00:04:58,338
+<font color=#FFFF00>Dazu kommt Teriyaki-Soße.</font>
+
+66
+00:04:58,498 --> 00:05:01,458
+<font color=#FFFF00>Das ist eine leicht angesüßte</font>
+<font color=#FFFF00>Sojasoße.</font>
+
+67
+00:05:03,418 --> 00:05:05,738
+<font color=#FFFF00>Dazu eine pure Sojasoße.</font>
+
+68
+00:05:10,018 --> 00:05:13,538
+<font color=#00FFFF>Bei den Soßen</font>
+<font color=#00FFFF>gibt es viele Unterschiede.</font>
+
+69
+00:05:15,418 --> 00:05:18,498
+<font color=#00FFFF>Da muss man auf Qualität achten.</font>
+
+70
+00:05:18,658 --> 00:05:22,578
+<font color=#00FFFF>Sojasoßen gibt es an jeder Ecke.</font>
+<font color=#FFFF00>Ich gebe Olivenöl dazu.</font>
+
+71
+00:05:22,978 --> 00:05:26,058
+<font color=#FFFF00>Ja, du kannst an jeder Ecke</font>
+<font color=#FFFF00>Olivenöl kaufen.</font>
+
+72
+00:05:26,178 --> 00:05:29,258
+<font color=#00FFFF>Beziehungsweise Sojasoßen.</font>
+<font color=#FFFF00>Und Limettensaft.</font>
+
+73
+00:05:29,538 --> 00:05:31,858
+<font color=#FFFF00>Der ist aber frisch gepresst.</font>
+
+74
+00:05:34,058 --> 00:05:37,618
+<font color=#FFFF00>Man muss</font>
+<font color=#FFFF00>auf eine gute Qualität achten.</font>
+
+75
+00:05:37,778 --> 00:05:41,098
+<font color=#FFFF00>Lieber eine hochwertige Sojasoße</font>
+<font color=#FFFF00>nehmen.</font>
+
+76
+00:05:41,218 --> 00:05:44,178
+<font color=#FFFF00>Das merkt man auch an der Salzung.</font>
+
+77
+00:05:45,098 --> 00:05:46,938
+<font color=#00FFFF>Worauf achtest du da?</font>
+
+78
+00:05:48,738 --> 00:05:51,098
+<font color=#00FFFF>Matthias Riedel hat gesagt,</font>
+
+79
+00:05:51,458 --> 00:05:55,458
+<font color=#00FFFF>man soll hochverarbeitete</font>
+<font color=#00FFFF>Lebensmittel auslassen.</font>
+
+80
+00:05:58,018 --> 00:06:02,058
+<font color=#00FFFF>Je länger die Liste bei den Zutaten,</font>
+<font color=#00FFFF>desto schlechter.</font>
+
+81
+00:06:02,498 --> 00:06:05,258
+<font color=#FFFF00>Ich koche in der Zeit weiter.</font>
+
+82
+00:06:06,098 --> 00:06:08,538
+<font color=#FFFF00>Ich gebe braunen Zucker dazu.</font>
+
+83
+00:06:09,418 --> 00:06:13,418
+<font color=#FFFF00>Jetzt lass ich den Rhabarber</font>
+<font color=#FFFF00>etwas einwirken.</font>
+
+84
+00:06:16,058 --> 00:06:19,578
+<font color=#FFFF00>Dann kommt er auf mein Backblech.</font>
+
+85
+00:06:19,978 --> 00:06:22,818
+<font color=#00FFFF>Was braunen Zucker</font>
+<font color=#00FFFF>und Salz dazugemacht.</font>
+
+86
+00:06:22,978 --> 00:06:24,978
+<font color=#00FFFF>Den Rhabarber und Olivenöl.</font>
+
+87
+00:06:25,138 --> 00:06:27,618
+<font color=#FFFF00>Und fertig.</font>
+
+88
+00:06:27,778 --> 00:06:31,058
+<font color=#00FFFF>Das ist kinderleicht.</font>
+
+89
+00:06:31,738 --> 00:06:34,018
+<font color=#FFFF00>Zack, in den Ofen.</font>
+
+90
+00:06:34,378 --> 00:06:37,498
+<font color=#FFFF00>Dann kann es gemütlich garen.</font>
+
+91
+00:06:37,618 --> 00:06:40,978
+<font color=#FFFF00>Er braucht einen leichten Biss.</font>
+
+92
+00:06:41,418 --> 00:06:45,738
+<font color=#FFFF00>Die Auswahl an verschiedenen Dingen</font>
+<font color=#FFFF00>ist gut für den Körper.</font>
+
+93
+00:06:47,778 --> 00:06:50,818
+<font color=#FFFF00>Viele frische Sachen,</font>
+<font color=#FFFF00>etwas Selbstgemachtes.</font>
+
+94
+00:06:50,978 --> 00:06:54,418
+<font color=#FFFF00>Das gibt einem ein gutes Gefühl.</font>
+
+95
+00:06:57,418 --> 00:07:00,938
+<font color=#FFFF00>Der Rhabarber hat viele Vitamine.</font>
+
+96
+00:07:01,098 --> 00:07:03,338
+<font color=#FFFF00>Es ist ein saisonales Gemüse.</font>
+
+97
+00:07:03,778 --> 00:07:06,858
+<font color=#FFFF00>Die Marinade ist fertig.</font>
+
+98
+00:07:06,978 --> 00:07:10,338
+<font color=#FFFF00>Die lauwarme Marinade</font>
+<font color=#FFFF00>kommt so über den Fisch.</font>
+
+99
+00:07:12,538 --> 00:07:17,218
+<font color=#FFFF00>Das lasse ich kurz einziehen.</font>
+<font color=#00FFFF>Herrlich.</font>
+
+100
+00:07:17,378 --> 00:07:20,218
+<font color=#00FFFF>Ich muss die Marinade probieren.</font>
+
+101
+00:07:20,378 --> 00:07:23,298
+<font color=#FFFF00>Ich gebe sie dir rüber.</font>
+
+102
+00:07:23,498 --> 00:07:25,818
+<font color=#00FFFF>Irgendwann koche ich das nach.</font>
+
+103
+00:07:25,978 --> 00:07:29,338
+<font color=#FFFF00>Das will ich hoffen.</font>
+
+104
+00:07:32,538 --> 00:07:35,018
+<font color=#00FFFF>Das ist lecker.</font>
+
+105
+00:07:35,178 --> 00:07:37,738
+<font color=#00FFFF>Ein Traum.</font>
+
+106
+00:07:37,898 --> 00:07:41,258
+<font color=#00FFFF>Fantastisch.</font>
+
+107
+00:07:41,458 --> 00:07:43,738
+<font color=#00FFFF>Ich behalte den Topf hier.</font>
+
+108
+00:07:44,498 --> 00:07:47,098
+<font color=#FFFF00>So muss das aussehen.</font>
+
+109
+00:07:47,258 --> 00:07:50,578
+<font color=#FFFF00>Mir läuft das Wasser</font>
+<font color=#FFFF00>im Mund zusammen.</font>
+
+110
+00:07:50,818 --> 00:07:53,818
+<font color=#FFFF00>Etwas schlotzig.</font>
+
+111
+00:07:55,938 --> 00:07:59,938
+<font color=#FFFF00>Den Rhabarber habe ich vorgeschoben.</font>
+
+112
+00:08:00,178 --> 00:08:03,538
+<font color=#FFFF00>Den kann man lauwarm</font>
+<font color=#FFFF00>aus dem Ofen dazunehmen.</font>
+
+113
+00:08:03,818 --> 00:08:06,858
+<font color=#FFFF00>Dazu ein paar Granatapfelkerne.</font>
+
+114
+00:08:07,018 --> 00:08:10,378
+<font color=#FFFF00>Ich habe mir das alles</font>
+<font color=#FFFF00>schon aufgebaut.</font>
+
+115
+00:08:10,538 --> 00:08:13,938
+<font color=#00FFFF>Du richtest schon an.</font>
+
+116
+00:08:14,098 --> 00:08:16,978
+<font color=#00FFFF>Ich mache das</font>
+<font color=#00FFFF>mit ein bisschen Salat.</font>
+
+117
+00:08:18,018 --> 00:08:21,338
+<font color=#00FFFF>Gucken Sie genau hin.</font>
+
+118
+00:08:21,778 --> 00:08:25,298
+<font color=#00FFFF>Gutes Essen ist gut für die Seele.</font>
+
+119
+00:08:25,618 --> 00:08:27,698
+<font color=#00FFFF>Das Auge isst hier mit.</font>
+
+120
+00:08:31,978 --> 00:08:35,338
+<font color=#FFFF00>Das riecht schon so gut.</font>
+
+121
+00:08:36,498 --> 00:08:38,818
+<font color=#FFFF00>Ich teile das fair auf.</font>
+
+122
+00:08:39,058 --> 00:08:42,058
+<font color=#00FFFF>Nur der Rhabarber</font>
+<font color=#00FFFF>hat etwas Wärme bekommen,</font>
+
+123
+00:08:42,298 --> 00:08:44,898
+<font color=#00FFFF>sonst ist alles roh und frisch.</font>
+
+124
+00:08:46,898 --> 00:08:49,458
+<font color=#00FFFF>Ich rüste mich schon mal aus.</font>
+
+125
+00:08:53,298 --> 00:08:55,618
+<font color=#FFFF00>Jetzt kommt etwas Gurke dazu.</font>
+
+126
+00:08:58,978 --> 00:09:02,178
+<font color=#FFFF00>Dazu kommen rote Zwiebeln.</font>
+
+127
+00:09:02,338 --> 00:09:05,698
+<font color=#FFFF00>Das darf beim Ceviche nicht fehlen.</font>
+
+128
+00:09:06,658 --> 00:09:10,578
+<font color=#FFFF00>Ich lege die in Wasser ein,</font>
+<font color=#FFFF00>damit die nicht zu scharf sind.</font>
+
+129
+00:09:10,738 --> 00:09:13,778
+<font color=#FFFF00>Dann sind sie etwas leichter.</font>
+
+130
+00:09:14,298 --> 00:09:16,938
+<font color=#00FFFF>Ich mag es gerne scharf.</font>
+
+131
+00:09:17,098 --> 00:09:19,538
+<font color=#00FFFF>Du darfst gerne Chili dazumachen.</font>
+
+132
+00:09:19,698 --> 00:09:22,658
+<font color=#00FFFF>Ich muss das probieren.</font>
+
+133
+00:09:22,818 --> 00:09:26,138
+<font color=#FFFF00>Gib mir noch eine Sekunde.</font>
+
+134
+00:09:26,298 --> 00:09:29,538
+<font color=#00FFFF>Er macht das sehr liebevoll.</font>
+
+135
+00:09:29,698 --> 00:09:33,058
+<font color=#00FFFF>Das Rezept finden Sie</font>
+<font color=#00FFFF>auf unserer Homepage.</font>
+
+136
+00:09:35,258 --> 00:09:37,058
+<font color=#FFFF00>Ich habe es fertig.</font>
+
+137
+00:09:37,218 --> 00:09:40,578
+<font color=#FFFF00>Ein bisschen Gewürz obendrauf.</font>
+
+138
+00:09:40,978 --> 00:09:44,458
+<font color=#FFFF00>Jetzt kriegst du noch etwas Chili.</font>
+
+139
+00:09:46,858 --> 00:09:50,058
+<font color=#00FFFF>Noch etwas Chili für die Schärfe.</font>
+
+140
+00:09:51,978 --> 00:09:55,378
+<font color=#FFFF00>Etwas Koriander obendrauf.</font>
+
+141
+00:09:55,538 --> 00:09:58,898
+<font color=#FFFF00>Jetzt wünsche ich dir guten Appetit.</font>
+
+142
+00:09:59,418 --> 00:10:01,658
+<font color=#00FFFF>Das sieht sehr lecker aus.</font>
+
+143
+00:10:05,058 --> 00:10:07,338
+<font color=#00FFFF>Sie können das nachkochen.</font>
+
+144
+00:10:11,698 --> 00:10:12,898
+<font color=#00FFFF>Sensationell.</font>
+
+145
+00:10:17,698 --> 00:10:22,218
+<font color=#FFFF00>Du kannst von der Vinaigrette</font>
+<font color=#FFFF00>noch was drübermachen.</font>
+
+146
+00:10:23,778 --> 00:10:26,058
+<font color=#00FFFF>Das mach ich gleich.</font>
+

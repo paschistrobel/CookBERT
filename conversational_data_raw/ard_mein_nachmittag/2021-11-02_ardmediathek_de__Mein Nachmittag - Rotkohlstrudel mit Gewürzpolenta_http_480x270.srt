@@ -1,0 +1,694 @@
+1
+00:00:01,376 --> 00:00:04,056
+<font color=#00FFFF>Außerdem ist Jens Rittmeyer bei uns,</font>
+
+2
+00:00:04,216 --> 00:00:07,256
+<font color=#00FFFF>der Soßengott</font>
+<font color=#00FFFF>in unserer meinNachmittag-Küche.</font>
+
+3
+00:00:07,416 --> 00:00:11,416
+<font color=#00FFFF>Zur Roulade gibt es heute</font>
+<font color=#00FFFF>eine Pfeffer-Zimt-Buttersoße.</font>
+
+4
+00:00:13,736 --> 00:00:17,256
+<font color=#00FFFF>Es ist eine Rotkohl-Roulade.</font>
+
+5
+00:00:18,536 --> 00:00:22,056
+<font color=#FFFF00>Richtig, das mache ich gerade.</font>
+
+6
+00:00:23,216 --> 00:00:27,816
+<font color=#FFFF00>Am Schluss kommen zum Rotkohl</font>
+<font color=#FFFF00>Thymian und Basilikum dazu.</font>
+
+7
+00:00:29,976 --> 00:00:33,456
+<font color=#00FFFF>Also frischen Rotkohl</font>
+<font color=#00FFFF>gerieben und angeschwitzt?</font>
+
+8
+00:00:37,216 --> 00:00:40,736
+<font color=#FFFF00>Genau, dann wird es eingerollt</font>
+<font color=#FFFF00>in Brickteig-Blätter.</font>
+
+9
+00:00:42,456 --> 00:00:43,616
+<font color=#00FFFF>Was für Blätter?</font>
+
+10
+00:00:46,496 --> 00:00:50,016
+<font color=#FFFF00>Den Teig gibt es gut im Handel.</font>
+
+11
+00:00:51,696 --> 00:00:55,216
+<font color=#FFFF00>Alternativ kann man</font>
+<font color=#FFFF00>Frühlingsrollen-Teig nehmen.</font>
+
+12
+00:00:57,656 --> 00:01:01,136
+<font color=#FFFF00>Dann braten wir</font>
+<font color=#FFFF00>die Rotkohl-Röllchen knusprig aus.</font>
+
+13
+00:01:02,855 --> 00:01:06,336
+<font color=#00FFFF>Und die Soße ist immer</font>
+<font color=#00FFFF>was Besonderes bei dir.</font>
+
+14
+00:01:06,696 --> 00:01:09,856
+<font color=#00FFFF>Diesmal ist sie</font>
+<font color=#00FFFF>mit Pfeffer, Zimt und Butter.</font>
+
+15
+00:01:10,016 --> 00:01:13,096
+<font color=#00FFFF>Und ich soll den Zimt probieren.</font>
+
+16
+00:01:14,696 --> 00:01:17,296
+<font color=#FFFF00>Einfach ein Stückchen abbrechen.</font>
+
+17
+00:01:17,456 --> 00:01:20,736
+<font color=#FFFF00>Probiere mal.</font>
+
+18
+00:01:22,016 --> 00:01:25,376
+<font color=#FFFF00>Der kommt von der Insel Sansibar.</font>
+
+19
+00:01:25,536 --> 00:01:28,936
+<font color=#FFFF00>Der ist sehr aromatisch,</font>
+<font color=#FFFF00>der Ceylon-Zimt.</font>
+
+20
+00:01:30,056 --> 00:01:34,336
+<font color=#FFFF00>Dazu kommt der Pfeffer von</font>
+<font color=#FFFF00>der Insel Pemba, die Nachbarinsel.</font>
+
+21
+00:01:34,496 --> 00:01:37,416
+<font color=#00FFFF>Er ist auch etwas scharf.</font>
+
+22
+00:01:37,576 --> 00:01:39,696
+<font color=#FFFF00>Ja, aber auch süß.</font>
+
+23
+00:01:40,856 --> 00:01:44,336
+<font color=#00FFFF>Dazu gibt es nachher noch dies.</font>
+
+24
+00:01:46,776 --> 00:01:49,536
+<font color=#00FFFF>Es sieht aus wie gelber Grieß.</font>
+
+25
+00:01:49,696 --> 00:01:51,936
+<font color=#00FFFF>Es ist Polenta.</font>
+
+26
+00:01:52,216 --> 00:01:55,656
+<font color=#FFFF00>Ja - oder Bramata,</font>
+<font color=#FFFF00>das ist etwas gröber.</font>
+
+27
+00:01:57,216 --> 00:02:00,656
+<font color=#FFFF00>Mit Olivenöl und Schalotten</font>
+<font color=#FFFF00>angeschwitzt.</font>
+
+28
+00:02:04,608 --> 00:02:07,568
+<font color=#00FFFF>Er hat heute Rotkohl-Rouladen</font>
+<font color=#00FFFF>für uns dabei.</font>
+
+29
+00:02:07,847 --> 00:02:12,927
+<font color=#00FFFF>Dazu gibt es Polenta und eine Soße</font>
+<font color=#00FFFF>aus weißem Pfeffer, Zimt und Butter.</font>
+
+30
+00:02:14,288 --> 00:02:16,847
+<font color=#00FFFF>Ich kenne Rouladen mit Rotkohl dazu.</font>
+
+31
+00:02:18,488 --> 00:02:21,968
+<font color=#00FFFF>Da wird der Rotkohl in Teig gerollt?</font>
+
+32
+00:02:23,248 --> 00:02:26,728
+<font color=#FFFF00>Das ist ein besonderer Teig,</font>
+<font color=#FFFF00>ein Brickteig.</font>
+
+33
+00:02:27,088 --> 00:02:30,568
+<font color=#00FFFF>Was ist das? </font>
+<font color=#FFFF00>Das ist Weizen.</font>
+
+34
+00:02:35,528 --> 00:02:39,008
+<font color=#FFFF00>Das schmeckt so roh nicht wirklich.</font>
+
+35
+00:02:39,887 --> 00:02:43,367
+<font color=#FFFF00>Man könnte auch</font>
+<font color=#FFFF00>Frühlingsrollen-Teig nehmen.</font>
+
+36
+00:02:44,327 --> 00:02:48,488
+<font color=#FFFF00>Das kommt</font>
+<font color=#FFFF00>aus der nordafrikanischen Küche.</font>
+
+37
+00:02:50,128 --> 00:02:53,448
+<font color=#FFFF00>Die Ränder werden befeuchtet.</font>
+
+38
+00:02:54,728 --> 00:02:58,208
+<font color=#FFFF00>Drinnen brauchen wir das nicht.</font>
+
+39
+00:02:58,528 --> 00:03:02,048
+<font color=#FFFF00>Der Rotkohl ist feucht genug.</font>
+
+40
+00:03:03,847 --> 00:03:07,048
+<font color=#00FFFF>Du hast den Rotkohl gehobelt</font>
+<font color=#00FFFF>und angeschwitzt?</font>
+
+41
+00:03:07,208 --> 00:03:10,288
+<font color=#FFFF00>Ja, in Olivenöl.</font>
+
+42
+00:03:10,407 --> 00:03:13,847
+<font color=#FFFF00>Dann habe ich direkt Salz</font>
+<font color=#FFFF00>und Pfeffer dazu gegeben.</font>
+
+43
+00:03:14,488 --> 00:03:18,008
+<font color=#FFFF00>Mit dem Salz</font>
+<font color=#FFFF00>gart der Kohl schneller.</font>
+
+44
+00:03:18,168 --> 00:03:21,488
+<font color=#FFFF00>Dann kommt etwas Balsamico dran</font>
+
+45
+00:03:23,048 --> 00:03:26,528
+<font color=#FFFF00>und zum Schluss noch</font>
+<font color=#FFFF00>Thymian- und Basilikumblätter.</font>
+
+46
+00:03:31,168 --> 00:03:34,688
+<font color=#FFFF00>Das wird in den Teig eingerollt.</font>
+
+47
+00:03:34,847 --> 00:03:37,008
+<font color=#FFFF00>Die Enden bleiben offen.</font>
+
+48
+00:03:37,367 --> 00:03:40,008
+<font color=#FFFF00>Ich kürze das passend</font>
+<font color=#FFFF00>für die Pfanne.</font>
+
+49
+00:03:46,048 --> 00:03:49,568
+<font color=#00FFFF>Das Röllchen kommt noch mal</font>
+<font color=#00FFFF>in die Pfanne?</font>
+
+50
+00:03:50,887 --> 00:03:54,367
+<font color=#FFFF00>Ja, die kommt in die Pfanne.</font>
+
+51
+00:03:54,887 --> 00:03:57,968
+<font color=#00FFFF>So sieht die Polenta vorher aus.</font>
+
+52
+00:04:00,448 --> 00:04:02,128
+<font color=#00FFFF>Was ist das?</font>
+
+53
+00:04:02,728 --> 00:04:05,407
+<font color=#FFFF00>Das ist ein Maisgrieß.</font>
+
+54
+00:04:05,568 --> 00:04:07,808
+<font color=#FFFF00>Es gibt feinen und groben.</font>
+
+55
+00:04:08,088 --> 00:04:11,248
+<font color=#FFFF00>Der grobe nennt sich Bramata.</font>
+
+56
+00:04:15,648 --> 00:04:18,407
+<font color=#00FFFF>Es ist eine super Beilage.</font>
+
+57
+00:04:18,887 --> 00:04:22,367
+<font color=#FFFF00>Genau,</font>
+<font color=#FFFF00>gerade bei italienischem Essen.</font>
+
+58
+00:04:23,048 --> 00:04:25,488
+<font color=#FFFF00>Du könntest schon Parmesan reiben.</font>
+
+59
+00:04:25,847 --> 00:04:28,728
+<font color=#00FFFF>Was hast du mit der Polenta gemacht?</font>
+
+60
+00:04:28,887 --> 00:04:32,248
+<font color=#00FFFF>Jetzt ist es eher ein Brei.</font>
+
+61
+00:04:33,128 --> 00:04:36,608
+<font color=#FFFF00>Ich habe Schalotten</font>
+<font color=#FFFF00>in Olivenöl angeschwitzt.</font>
+
+62
+00:04:37,808 --> 00:04:41,288
+<font color=#FFFF00>Dann habe ich die Polenta</font>
+<font color=#FFFF00>kurz mit angeröstet.</font>
+
+63
+00:04:43,528 --> 00:04:47,048
+<font color=#FFFF00>Abgelöscht habe ich das</font>
+<font color=#FFFF00>mit dem Fond.</font>
+
+64
+00:04:52,248 --> 00:04:55,768
+<font color=#FFFF00>Da drin sind Lorbeer,</font>
+<font color=#FFFF00>Schalotte, Zimtrinde.</font>
+
+65
+00:04:59,808 --> 00:05:03,288
+<font color=#00FFFF>Du hast den Gewürzfond</font>
+<font color=#00FFFF>selbst gemacht.</font>
+
+66
+00:05:03,648 --> 00:05:07,128
+<font color=#FFFF00>Ich brate das jetzt an.</font>
+
+67
+00:05:08,608 --> 00:05:12,128
+<font color=#FFFF00>Die Teignaht lege ich nach unten.</font>
+
+68
+00:05:13,008 --> 00:05:16,488
+<font color=#FFFF00>Dann verschließt sich das</font>
+<font color=#FFFF00>beim Braten.</font>
+
+69
+00:05:20,968 --> 00:05:24,488
+<font color=#FFFF00>Der ganze Strudel</font>
+<font color=#FFFF00>wird jetzt knusprig.</font>
+
+70
+00:05:29,208 --> 00:05:32,688
+<font color=#FFFF00>Für die Soße</font>
+<font color=#FFFF00>habe ich Fond genommen.</font>
+
+71
+00:05:36,008 --> 00:05:39,488
+<font color=#FFFF00>Knoblauch, Lorbeer</font>
+<font color=#FFFF00>und die gute Zimtrinde.</font>
+
+72
+00:05:39,808 --> 00:05:42,008
+<font color=#FFFF00>Jetzt gebe ich die Butter dazu.</font>
+
+73
+00:05:45,688 --> 00:05:47,847
+<font color=#00FFFF>Das sieht man da alles noch.</font>
+
+74
+00:05:48,808 --> 00:05:51,768
+<font color=#FFFF00>Das kochen wir schön mit.</font>
+
+75
+00:05:54,528 --> 00:05:58,528
+<font color=#FFFF00>Die Gewürze sollen den Geschmack</font>
+<font color=#FFFF00>mit an das Fett abgeben.</font>
+
+76
+00:06:00,528 --> 00:06:03,208
+<font color=#00FFFF>Reicht das? </font>
+<font color=#FFFF00>Ja, vielen Dank.</font>
+
+77
+00:06:03,887 --> 00:06:06,528
+<font color=#00FFFF>Es kann selten</font>
+<font color=#00FFFF>zu viel Parmesan geben.</font>
+
+78
+00:06:07,008 --> 00:06:08,648
+<font color=#FFFF00>Das ist richtig.</font>
+
+79
+00:06:09,847 --> 00:06:13,128
+<font color=#FFFF00>Wir brauchen einen tiefen Teller</font>
+<font color=#FFFF00>zum Anrichten.</font>
+
+80
+00:06:13,288 --> 00:06:16,688
+<font color=#FFFF00>Es gibt viel Soße.</font>
+
+81
+00:06:21,728 --> 00:06:25,208
+<font color=#FFFF00>Die Rolle wird schrittweise gedreht,</font>
+
+82
+00:06:27,367 --> 00:06:30,688
+<font color=#FFFF00>bis sie von allen Seiten</font>
+<font color=#FFFF00>schön knusprig ist.</font>
+
+83
+00:06:34,367 --> 00:06:36,568
+<font color=#00FFFF>Wir haben viele Komponenten.</font>
+
+84
+00:06:36,728 --> 00:06:40,048
+<font color=#00FFFF>Da kommt noch ein Topf.</font>
+
+85
+00:06:40,488 --> 00:06:43,608
+<font color=#00FFFF>Es sind ja noch nicht genug.</font>
+
+86
+00:06:43,768 --> 00:06:46,448
+<font color=#00FFFF>Kommst du klar?</font>
+
+87
+00:06:46,608 --> 00:06:49,927
+<font color=#FFFF00>Ja, richtig gut.</font>
+
+88
+00:06:53,288 --> 00:06:56,768
+<font color=#FFFF00>Man muss den Fond</font>
+<font color=#FFFF00>immer wieder einkochen lassen.</font>
+
+89
+00:06:59,808 --> 00:07:03,288
+<font color=#FFFF00>Die Herstellung von Risotto</font>
+<font color=#FFFF00>ist ganz ähnlich.</font>
+
+90
+00:07:05,608 --> 00:07:09,008
+<font color=#00FFFF>Polenta ist wie Risotto</font>
+<font color=#00FFFF>auch ein bisschen Arbeit.</font>
+
+91
+00:07:09,168 --> 00:07:12,608
+<font color=#00FFFF>Man muss immer wieder rühren.</font>
+
+92
+00:07:13,367 --> 00:07:16,168
+<font color=#FFFF00>Genau, Liebe ist das Rezept.</font>
+
+93
+00:07:16,328 --> 00:07:19,688
+<font color=#00FFFF>Davon gehe ich aus.</font>
+
+94
+00:07:25,768 --> 00:07:29,248
+<font color=#FFFF00>Hier sieht man,</font>
+<font color=#FFFF00>wie der Maisgrieß schön quillt.</font>
+
+95
+00:07:30,968 --> 00:07:34,448
+<font color=#FFFF00>Er nimmt die ganze Flüssigkeit auf.</font>
+
+96
+00:07:36,887 --> 00:07:41,808
+<font color=#FFFF00>Man nimmt so ein Gummi in der Küche</font>
+<font color=#FFFF00>und tut am Boden entlanggehen.</font>
+
+97
+00:07:49,328 --> 00:07:52,808
+<font color=#FFFF00>Ich mache das lieber ohne Zange.</font>
+
+98
+00:07:53,528 --> 00:07:56,688
+<font color=#FFFF00>Das soll richtig schön kross werden.</font>
+
+99
+00:07:56,847 --> 00:08:00,208
+<font color=#FFFF00>Das darf richtig dunkelbraun sein.</font>
+
+100
+00:08:00,808 --> 00:08:04,288
+<font color=#00FFFF>Wofür ist der neue Topf?</font>
+
+101
+00:08:04,568 --> 00:08:08,088
+<font color=#FFFF00>Da passiere ich gleich</font>
+<font color=#FFFF00>die Soße rein.</font>
+
+102
+00:08:08,927 --> 00:08:12,407
+<font color=#FFFF00>Man könnte auch alles mitmixen.</font>
+
+103
+00:08:13,288 --> 00:08:16,808
+<font color=#FFFF00>Aber dann wird die Sauce</font>
+<font color=#FFFF00>ziemlich scharf.</font>
+
+104
+00:08:19,808 --> 00:08:23,288
+<font color=#00FFFF>Dann muss man jetzt</font>
+<font color=#00FFFF>nur noch abwarten.</font>
+
+105
+00:08:25,488 --> 00:08:28,248
+<font color=#00FFFF>Brauchst du schon den Parmesan?</font>
+
+106
+00:08:28,367 --> 00:08:30,367
+<font color=#FFFF00>Nein, noch nicht.</font>
+
+107
+00:08:33,568 --> 00:08:37,048
+<font color=#FFFF00>Der Fond ist die Basis von allem.</font>
+
+108
+00:08:42,927 --> 00:08:46,407
+<font color=#FFFF00>Ich passiere die Gewürze raus.</font>
+
+109
+00:08:47,367 --> 00:08:50,848
+<font color=#00FFFF>Hier sieht man, was alles drin ist.</font>
+
+110
+00:08:54,328 --> 00:08:57,848
+<font color=#FFFF00>Als kleinen Tipp für zu Hause:</font>
+
+111
+00:09:01,927 --> 00:09:06,048
+<font color=#FFFF00>Man könnte jetzt schon mal</font>
+<font color=#FFFF00>die Konsistenz der Soße testen.</font>
+
+112
+00:09:06,208 --> 00:09:09,648
+<font color=#FFFF00>Dann hält man</font>
+<font color=#FFFF00>so einen Zauberstab rein.</font>
+
+113
+00:09:09,808 --> 00:09:12,048
+<font color=#FFFF00>So mixt man das durch.</font>
+
+114
+00:09:13,848 --> 00:09:17,248
+<font color=#FFFF00>Entweder man gibt</font>
+<font color=#FFFF00>noch mehr Butter dazu</font>
+
+115
+00:09:17,407 --> 00:09:20,168
+<font color=#FFFF00>oder man kocht es noch mehr ein.</font>
+
+116
+00:09:20,328 --> 00:09:23,688
+<font color=#00FFFF>Das sieht doch schon gut aus.</font>
+
+117
+00:09:25,528 --> 00:09:29,448
+<font color=#00FFFF>Das ist gut, dann können wir langsam</font>
+<font color=#00FFFF>den Teller angehen.</font>
+
+118
+00:09:32,088 --> 00:09:34,128
+<font color=#00FFFF>Oder auch mein Essen.</font>
+
+119
+00:09:34,288 --> 00:09:37,407
+<font color=#FFFF00>Ich brauche noch eine Minute.</font>
+
+120
+00:09:37,568 --> 00:09:40,927
+<font color=#00FFFF>Die kriegst du.</font>
+
+121
+00:09:42,608 --> 00:09:46,008
+<font color=#FFFF00>Man muss auch immer wieder</font>
+<font color=#FFFF00>die Polenta probieren.</font>
+
+122
+00:09:46,168 --> 00:09:49,008
+<font color=#FFFF00>Das sieht super aus.</font>
+
+123
+00:09:49,168 --> 00:09:51,608
+<font color=#00FFFF>Das schmeckt hoffentlich auch super.</font>
+
+124
+00:09:51,728 --> 00:09:55,168
+<font color=#FFFF00>Das hoffe ich auch.</font>
+
+125
+00:09:56,568 --> 00:10:01,008
+<font color=#FFFF00>Wie bei einem Risotto kommt auch</font>
+<font color=#FFFF00>hier zum Schluss etwas Butter.</font>
+
+126
+00:10:07,168 --> 00:10:09,688
+<font color=#FFFF00>Man sieht unser Röllchen.</font>
+
+127
+00:10:09,968 --> 00:10:13,328
+<font color=#00FFFF>Da kommt die Farbe</font>
+<font color=#00FFFF>vom Rotkohl durch.</font>
+
+128
+00:10:14,608 --> 00:10:16,808
+<font color=#FFFF00>Jetzt brauchen wir den Parmesan.</font>
+
+129
+00:10:18,768 --> 00:10:20,968
+<font color=#FFFF00>Ich schalte die Hitze aus.</font>
+
+130
+00:10:23,088 --> 00:10:27,248
+<font color=#FFFF00>Die Polenta soll ähnlich</font>
+<font color=#FFFF00>wie ein Risotto nicht zu fest sein.</font>
+
+131
+00:10:29,328 --> 00:10:31,768
+<font color=#FFFF00>Sie muss schön schlotzig sein.</font>
+
+132
+00:10:39,128 --> 00:10:41,728
+<font color=#FFFF00>Wir lassen das kurz rasten.</font>
+
+133
+00:10:41,887 --> 00:10:44,248
+<font color=#FFFF00>Ich gebe Salz dazu.</font>
+
+134
+00:10:45,728 --> 00:10:49,088
+<font color=#00FFFF>Du fängst an mit dem Anrichten.</font>
+
+135
+00:10:49,248 --> 00:10:52,608
+<font color=#FFFF00>Ja, gleich. </font>
+<font color=#00FFFF>Ich habe es ihm gesagt.</font>
+
+136
+00:10:54,887 --> 00:10:58,367
+<font color=#00FFFF>Da kommt noch Muskat dazu.</font>
+
+137
+00:10:59,168 --> 00:11:02,648
+<font color=#FFFF00>Man kann auch noch Pfeffer</font>
+<font color=#FFFF00>drangeben.</font>
+
+138
+00:11:04,048 --> 00:11:06,648
+<font color=#00FFFF>Jetzt aber, Jens.</font>
+
+139
+00:11:10,248 --> 00:11:13,728
+<font color=#FFFF00>Schau mal, wie schön knusprig.</font>
+
+140
+00:11:18,407 --> 00:11:21,887
+<font color=#00FFFF>Noch besser würde es mir</font>
+<font color=#00FFFF>auf dem Teller gefallen.</font>
+
+141
+00:11:23,128 --> 00:11:26,648
+<font color=#00FFFF>Ich denke nur an dich und an Sie.</font>
+
+142
+00:11:28,488 --> 00:11:32,168
+<font color=#00FFFF>Wir wollen das alle einmal</font>
+<font color=#00FFFF>perfekt angerichtet sehen.</font>
+
+143
+00:11:32,528 --> 00:11:36,008
+<font color=#FFFF00>Das tut man außen abschneiden.</font>
+
+144
+00:11:36,927 --> 00:11:40,008
+<font color=#FFFF00>Ich nenne die</font>
+<font color=#FFFF00>auch gerne Orgelpfeifen.</font>
+
+145
+00:11:40,168 --> 00:11:43,528
+<font color=#00FFFF>Ist mir egal,</font>
+
+146
+00:11:44,168 --> 00:11:47,688
+<font color=#00FFFF>Hauptsache die kommen jetzt</font>
+<font color=#00FFFF>auf den Teller!</font>
+
+147
+00:11:48,048 --> 00:11:51,528
+<font color=#00FFFF>Sonst steigen mir die Kollegen</font>
+<font color=#00FFFF>wieder aufs Dach.</font>
+
+148
+00:11:51,927 --> 00:11:55,448
+<font color=#00FFFF>Die müssen die ganze Zeit zuschauen.</font>
+
+149
+00:11:55,608 --> 00:11:58,968
+<font color=#00FFFF>Ich hole Gabel und Messer.</font>
+
+150
+00:12:02,528 --> 00:12:06,008
+<font color=#00FFFF>Mit dem Probieren</font>
+<font color=#00FFFF>wird das heute wohl nichts.</font>
+
+151
+00:12:06,168 --> 00:12:09,608
+<font color=#00FFFF>Zumindest</font>
+<font color=#00FFFF>bekommen Sie es noch zu sehen.</font>
+
+152
+00:12:09,968 --> 00:12:13,448
+<font color=#00FFFF>Die Soße fehlt noch.</font>
+
+153
+00:12:13,848 --> 00:12:17,128
+<font color=#00FFFF>Es sieht hervorragend aus.</font>
+
+154
+00:12:17,288 --> 00:12:20,608
+<font color=#FFFF00>So, dein Essen.</font>
+
+155
+00:12:20,768 --> 00:12:24,128
+<font color=#00FFFF>So sieht es aus.</font>
+
+156
+00:12:24,808 --> 00:12:28,288
+<font color=#00FFFF>Thorsten wäre wohl gern</font>
+<font color=#00FFFF>an meiner Stelle.</font>
+
+157
+00:12:30,528 --> 00:12:32,688
+<font color=#0000FF>Copyright Untertitel: NDR 2021</font>
+

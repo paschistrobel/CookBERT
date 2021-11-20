@@ -1,0 +1,347 @@
+1
+00:00:01,429 --> 00:00:03,629
+<font color=#00FFFF>Vitaminbomben sind unser Thema.</font>
+
+2
+00:00:05,749 --> 00:00:07,749
+<font color=#FFFF00>Das brauchen wir jetzt alle.</font>
+
+3
+00:00:12,109 --> 00:00:16,629
+<font color=#FFFF00>Ernährung ist ein Wundermittel,</font>
+<font color=#FFFF00>das nicht so ernstgenommen wird.</font>
+
+4
+00:00:24,109 --> 00:00:27,749
+<font color=#FFFF00>Man sollte ausgeglichen</font>
+<font color=#FFFF00>und abwechslungsreich essen.</font>
+
+5
+00:00:31,109 --> 00:00:35,309
+<font color=#00FFFF>Und dass es lecker ist -</font>
+<font color=#00FFFF>ich kann meine Familie damit jagen.</font>
+
+6
+00:00:36,789 --> 00:00:39,309
+<font color=#FFFF00>Es kommt drauf an,</font>
+<font color=#FFFF00>wie man es macht.</font>
+
+7
+00:00:42,389 --> 00:00:46,749
+<font color=#FFFF00>Man kann zum Beispiel auch Linsen</font>
+<font color=#FFFF00>für Kinder attraktiv machen.</font>
+
+8
+00:00:50,989 --> 00:00:54,989
+<font color=#FFFF00>Man sollte frische Rezepte</font>
+<font color=#FFFF00>ausprobieren, dann klappt das.</font>
+
+9
+00:00:56,189 --> 00:00:57,709
+<font color=#00FFFF>Was kochen wir heute?</font>
+
+10
+00:01:04,389 --> 00:01:06,549
+<font color=#FFFF00>Es gibt einen Winter-Kabeljau.</font>
+
+11
+00:01:07,989 --> 00:01:11,509
+<font color=#FFFF00>Und dazu gibt es</font>
+<font color=#FFFF00>'nen Petersiliensalat mit Quinoa.</font>
+
+12
+00:01:13,509 --> 00:01:16,069
+<font color=#FFFF00>Und wir haben</font>
+<font color=#FFFF00>eingelegten Blumenkohl.</font>
+
+13
+00:01:20,309 --> 00:01:23,749
+<font color=#FFFF00>Ich habe jetzt einen Fond,</font>
+<font color=#FFFF00>der ist süß und sauer.</font>
+
+14
+00:01:27,509 --> 00:01:30,069
+<font color=#FFFF00>Da kommen Gewürze rein</font>
+<font color=#FFFF00>wie Sternanis.</font>
+
+15
+00:01:36,789 --> 00:01:39,149
+<font color=#FFFF00>Auch Senfsaat und groben Pfeffer.</font>
+
+16
+00:01:42,149 --> 00:01:44,789
+<font color=#FFFF00>Ich habe auch</font>
+<font color=#FFFF00>ein bisschen Chili drin.</font>
+
+17
+00:01:51,829 --> 00:01:55,829
+<font color=#FFFF00>In der Probe wurde mir gesagt,</font>
+<font color=#FFFF00>nicht jeder mag Sternanis.</font>
+
+18
+00:02:02,829 --> 00:02:06,749
+<font color=#FFFF00>Meine Rezepte sind Grundrezepte,</font>
+<font color=#FFFF00>man kann was weglassen.</font>
+
+19
+00:02:07,709 --> 00:02:09,909
+<font color=#FFFF00>Auch Koriander mag nicht jeder.</font>
+
+20
+00:02:10,429 --> 00:02:11,989
+<font color=#FFFF00>Ich stehe total drauf.</font>
+
+21
+00:02:14,869 --> 00:02:16,069
+<font color=#FFFF00>Jetzt der Quinoa.</font>
+
+22
+00:02:21,909 --> 00:02:25,629
+<font color=#FFFF00>Das sieht aus wie Getreide,</font>
+<font color=#FFFF00>ist eher Pseudo-Getreide.</font>
+
+23
+00:02:25,829 --> 00:02:28,029
+<font color=#00FFFF>Womit kann man das vergleichen?</font>
+
+24
+00:02:30,749 --> 00:02:32,829
+<font color=#FFFF00>Ich verwende es wie Couscous.</font>
+
+25
+00:02:39,989 --> 00:02:44,509
+<font color=#FFFF00>Man kann mit den Aromen spielen,</font>
+<font color=#FFFF00>mit Ras el-Hanout oder Harissa.</font>
+
+26
+00:02:46,109 --> 00:02:49,909
+<font color=#FFFF00>Es dauert eine Zeit,</font>
+<font color=#FFFF00>deswegen ruhig genug Flüssigkeit.</font>
+
+27
+00:02:54,029 --> 00:02:57,669
+<font color=#FFFF00>Wenn ich es zu Hause koche,</font>
+<font color=#FFFF00>koche ich es 20 Minuten.</font>
+
+28
+00:03:03,749 --> 00:03:07,589
+<font color=#FFFF00>Man kann es auch vorkochen</font>
+<font color=#FFFF00>und schnell wieder auftauen.</font>
+
+29
+00:03:13,069 --> 00:03:14,429
+<font color=#00FFFF>Darf ich probieren?</font>
+
+30
+00:03:15,709 --> 00:03:16,709
+<font color=#FFFF00>Ja.</font>
+
+31
+00:03:20,069 --> 00:03:21,589
+<font color=#00FFFF>Was ist da noch drin?</font>
+
+32
+00:03:26,389 --> 00:03:28,949
+<font color=#FFFF00>Ein bisschen Brühe,</font>
+<font color=#FFFF00>Salz und Pfeffer.</font>
+
+33
+00:03:31,989 --> 00:03:34,149
+<font color=#FFFF00>Jetzt machen wir die Marinade.</font>
+
+34
+00:03:35,789 --> 00:03:37,989
+<font color=#00FFFF>Der hat eine schöne Konsistenz.</font>
+
+35
+00:03:44,429 --> 00:03:47,069
+<font color=#FFFF00>Man kann es</font>
+<font color=#FFFF00>mit Gewächsen vergleichen,</font>
+
+36
+00:03:47,509 --> 00:03:49,309
+<font color=#FFFF00>die in den Anden wachsen.</font>
+
+37
+00:03:57,429 --> 00:04:00,229
+<font color=#FFFF00>Für Menschen,</font>
+<font color=#FFFF00>die Weizen nicht abkönnen,</font>
+
+38
+00:04:01,469 --> 00:04:03,669
+<font color=#FFFF00>ist es eine schöne Alternative.</font>
+
+39
+00:04:08,509 --> 00:04:10,509
+<font color=#FFFF00>Es ist sättigend und gesund.</font>
+
+40
+00:04:12,469 --> 00:04:14,549
+<font color=#00FFFF>Gerade kochen viele zu Hause.</font>
+
+41
+00:04:16,509 --> 00:04:19,029
+<font color=#00FFFF>Da ist es ja eine gute Alternative.</font>
+
+42
+00:04:27,389 --> 00:04:30,589
+<font color=#FFFF00>Kochen ist ein Trend,</font>
+<font color=#FFFF00>der immer weiter wächst.</font>
+
+43
+00:04:39,749 --> 00:04:43,829
+<font color=#00FFFF>Auf unserer Internetseite</font>
+<font color=#00FFFF>sind auch viele Rezepte von dir.</font>
+
+44
+00:04:47,509 --> 00:04:51,309
+<font color=#FFFF00>Da findet man tatsächlich</font>
+<font color=#FFFF00>das eine oder andere Rezept.</font>
+
+45
+00:05:06,349 --> 00:05:08,269
+<font color=#FFFF00>Ich habe Gewürze reingetan.</font>
+
+46
+00:05:10,669 --> 00:05:13,869
+<font color=#FFFF00>Hier sind drin Zwiebel</font>
+<font color=#FFFF00>und getrocknete Tomate.</font>
+
+47
+00:05:15,469 --> 00:05:17,029
+<font color=#FFFF00>Ich habe die genommen,</font>
+
+48
+00:05:17,229 --> 00:05:21,589
+<font color=#FFFF00>weil die frischen Tomaten</font>
+<font color=#FFFF00>gerade sowieso nicht doll schmecken.</font>
+
+49
+00:05:29,069 --> 00:05:32,349
+<font color=#FFFF00>Man kann die Tomaten</font>
+<font color=#FFFF00>mit Orangensaft aufkochen,</font>
+
+50
+00:05:38,309 --> 00:05:42,829
+<font color=#FFFF00>dann werden die schön weich</font>
+<font color=#FFFF00>und kriegen wieder die Fruchtigkeit.</font>
+
+51
+00:05:52,229 --> 00:05:54,429
+<font color=#FFFF00>Es ist frischer Knoblauch drin.</font>
+
+52
+00:05:58,389 --> 00:06:00,389
+<font color=#FFFF00>Als Gewürz ist Harissa dran.</font>
+
+53
+00:06:06,549 --> 00:06:09,989
+<font color=#00FFFF>Wenn ich die Liste höre,</font>
+<font color=#00FFFF>bekomme ich das überall?</font>
+
+54
+00:06:13,469 --> 00:06:15,389
+<font color=#FFFF00>Mittlerweile ist es gängig.</font>
+
+55
+00:06:18,469 --> 00:06:21,269
+<font color=#FFFF00>Man kann es sich</font>
+<font color=#FFFF00>selber zusammenmischen.</font>
+
+56
+00:06:22,589 --> 00:06:24,509
+<font color=#FFFF00>Wir haben viele Rezepte ...</font>
+
+57
+00:06:32,109 --> 00:06:35,909
+<font color=#FFFF00>Es ist Kreuzkümmel, Paprika</font>
+<font color=#FFFF00>und Kurkuma unter anderem.</font>
+
+58
+00:06:39,149 --> 00:06:42,229
+<font color=#FFFF00>Man kann sich die Rezepte</font>
+<font color=#FFFF00>online raussuchen.</font>
+
+59
+00:06:46,549 --> 00:06:49,469
+<font color=#FFFF00>Es macht auch Spaß,</font>
+<font color=#FFFF00>es selber anzumischen.</font>
+
+60
+00:06:53,709 --> 00:06:57,149
+<font color=#FFFF00>Meine Lieblingsgewürze</font>
+<font color=#FFFF00>mische ich auch selber an.</font>
+
+61
+00:07:01,229 --> 00:07:04,309
+<font color=#FFFF00>Durch die Zitrone</font>
+<font color=#FFFF00>habe ich etwas Säure dran.</font>
+
+62
+00:07:08,029 --> 00:07:10,549
+<font color=#FFFF00>Die Petersilie locker untermischen.</font>
+
+63
+00:07:12,709 --> 00:07:14,509
+<font color=#00FFFF>Der ist besonders gesund.</font>
+
+64
+00:07:17,749 --> 00:07:20,749
+<font color=#FFFF00>Da drin sind auch</font>
+<font color=#FFFF00>sekundäre Pflanzenstoffe.</font>
+
+65
+00:07:25,989 --> 00:07:27,789
+<font color=#FFFF00>Es wirkt antientzündlich.</font>
+
+66
+00:07:33,029 --> 00:07:36,589
+<font color=#FFFF00>Wir haben eigentlich schon alles,</font>
+<font color=#FFFF00>was wir brauchen.</font>
+
+67
+00:07:37,989 --> 00:07:40,629
+<font color=#00FFFF>Kann der Fisch</font>
+<font color=#00FFFF>ein bisschen schneller?</font>
+
+68
+00:07:44,549 --> 00:07:47,749
+<font color=#FFFF00>Der kann sehr schnell,</font>
+<font color=#FFFF00>der ist nämlich fertig.</font>
+
+69
+00:07:49,669 --> 00:07:52,189
+<font color=#FFFF00>Ich mache dir</font>
+<font color=#FFFF00>ein Tellerchen fertig.</font>
+
+70
+00:07:53,509 --> 00:07:55,309
+<font color=#00FFFF>Du hast an alles gedacht.</font>
+
+71
+00:07:59,069 --> 00:08:01,869
+<font color=#FFFF00>Ich habe von zu Hause</font>
+<font color=#FFFF00>Geschirr gebracht.</font>
+
+72
+00:08:09,549 --> 00:08:14,189
+<font color=#FFFF00>Als ich beim NDR angefangen hab,</font>
+<font color=#FFFF00>wurde dieses kurz danach gekauft.</font>
+
+73
+00:08:21,749 --> 00:08:24,669
+<font color=#FFFF00>Der eingelegte Blumenkohl</font>
+<font color=#FFFF00>kommt obendrauf.</font>
+
+74
+00:08:27,469 --> 00:08:28,829
+<font color=#00FFFF>Es sieht super aus.</font>
+
+75
+00:08:30,789 --> 00:08:32,869
+<font color=#00FFFF>Sie bekommen das Rezept auch.</font>
+
+76
+00:08:35,069 --> 00:08:37,269
+<font color=#00FFFF>Und zwar auf der Internetseite.</font>
+

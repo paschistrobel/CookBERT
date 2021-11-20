@@ -1,0 +1,426 @@
+1
+00:00:02,061 --> 00:00:05,541
+<font color=#FFFF00>Heute gibt es</font>
+<font color=#FFFF00>vegetarische Wirsing-Rouladen.</font>
+
+2
+00:00:09,741 --> 00:00:12,821
+<font color=#00FFFF>Unser Motto</font>
+<font color=#00FFFF>ist das große Weihnachtsmenü.</font>
+
+3
+00:00:13,181 --> 00:00:15,861
+<font color=#00FFFF>Du machst die erste Hauptspeise.</font>
+
+4
+00:00:16,541 --> 00:00:18,981
+<font color=#FFFF00>Es ist ein deftiger Hauptgang.</font>
+
+5
+00:00:29,101 --> 00:00:32,021
+<font color=#00FFFF>Du hast blanchierte</font>
+<font color=#00FFFF>Wirsingsblätter.</font>
+
+6
+00:00:35,501 --> 00:00:37,301
+<font color=#00FFFF>Der Stiel muss raus.</font>
+
+7
+00:00:49,301 --> 00:00:52,781
+<font color=#FFFF00>Blanchieren heißt:</font>
+<font color=#FFFF00>in kochendes Wasser werfen.</font>
+
+8
+00:00:53,221 --> 00:00:55,301
+<font color=#00FFFF>Was kommt in die Füllung?</font>
+
+9
+00:00:59,861 --> 00:01:03,341
+<font color=#FFFF00>Ich habe gerösteten Kürbis,</font>
+<font color=#FFFF00>Möhren und Zwiebeln.</font>
+
+10
+00:01:05,941 --> 00:01:09,581
+<font color=#FFFF00>Das ist mit Paprikapulver,</font>
+<font color=#FFFF00>Salz und Pfeffer gewürzt.</font>
+
+11
+00:01:11,581 --> 00:01:14,901
+<font color=#00FFFF>Wem das zu schnell geht:</font>
+<font color=#00FFFF>Das gibt es online.</font>
+
+12
+00:01:15,701 --> 00:01:18,501
+<font color=#00FFFF>Das ist heute kein schneller Gang.</font>
+
+13
+00:01:19,181 --> 00:01:21,341
+<font color=#00FFFF>Man muss etwas vorbereiten.</font>
+
+14
+00:01:23,061 --> 00:01:25,181
+<font color=#00FFFF>Wir haben eine Menge zu tun.</font>
+
+15
+00:01:27,941 --> 00:01:30,941
+<font color=#FFFF00>Ein Weihnachtsgericht</font>
+<font color=#FFFF00>ist aufwendiger.</font>
+
+16
+00:01:34,781 --> 00:01:38,861
+<font color=#FFFF00>Ich finde es doof,</font>
+<font color=#FFFF00>wenn Vegetarier nur Pasta bekommen.</font>
+
+17
+00:01:38,941 --> 00:01:41,021
+<font color=#00FFFF>Du hast Rosinen reingetan?</font>
+
+18
+00:01:43,181 --> 00:01:46,101
+<font color=#FFFF00>Ich habe getrocknete Früchte</font>
+<font color=#FFFF00>hineingetan.</font>
+
+19
+00:01:49,101 --> 00:01:50,901
+<font color=#FFFF00>Aprikosen und Tomaten.</font>
+
+20
+00:01:50,941 --> 00:01:53,941
+<font color=#FFFF00>Panko</font>
+<font color=#FFFF00>ist ein japanisches Paniermehl.</font>
+
+21
+00:01:57,501 --> 00:01:59,541
+<font color=#FFFF00>Das Ei bindet das Ganze.</font>
+
+22
+00:02:00,941 --> 00:02:03,101
+<font color=#FFFF00>Das kennt man von Knödeln.</font>
+
+23
+00:02:08,061 --> 00:02:10,541
+<font color=#00FFFF>Die Kartoffeln sind das Beiwerk.</font>
+
+24
+00:02:11,781 --> 00:02:15,301
+<font color=#FFFF00>Das kann bisschen Farbe bekommen.</font>
+
+25
+00:02:16,101 --> 00:02:19,621
+<font color=#FFFF00>Wir machen in der Zwischenzeit</font>
+<font color=#FFFF00>die Rouladen.</font>
+
+26
+00:02:19,981 --> 00:02:22,501
+<font color=#FFFF00>Das sind nur gekochte Kartoffeln.</font>
+
+27
+00:02:25,581 --> 00:02:27,381
+<font color=#FFFF00>Es geht ans Wickeln.</font>
+
+28
+00:02:38,181 --> 00:02:41,701
+<font color=#FFFF00>Anstatt Wirsingkohl</font>
+<font color=#FFFF00>kann man normalen Kohl nehmen.</font>
+
+29
+00:02:42,541 --> 00:02:45,021
+<font color=#00FFFF>Mein Papa steht auf Kohlrouladen.</font>
+
+30
+00:02:47,541 --> 00:02:51,061
+<font color=#FFFF00>Du kannst einen Löffel</font>
+<font color=#FFFF00>auf ein Blatt geben.</font>
+
+31
+00:02:53,261 --> 00:02:55,741
+<font color=#FFFF00>Du legst das dort oben hin.</font>
+
+32
+00:02:57,341 --> 00:02:59,821
+<font color=#00FFFF>Ich warte, bist du so bist.</font>
+
+33
+00:03:01,181 --> 00:03:03,661
+<font color=#FFFF00>Wir können parallel eine wickeln.</font>
+
+34
+00:03:07,181 --> 00:03:11,101
+<font color=#00FFFF>Bis hier ist es nicht schwer.</font>
+<font color=#FFFF00>Es ist einfach viel Arbeit.</font>
+
+35
+00:03:15,621 --> 00:03:17,941
+<font color=#FFFF00>Du klappst die Seiten ein.</font>
+
+36
+00:03:19,021 --> 00:03:21,901
+<font color=#00FFFF>Meine Hände sind natürlich</font>
+<font color=#00FFFF>gewaschen.</font>
+
+37
+00:03:22,781 --> 00:03:25,261
+<font color=#FFFF00>Hinten den Arch einmal hoch.</font>
+
+38
+00:03:26,901 --> 00:03:29,781
+<font color=#FFFF00>Jetzt kannst du es zusammenwirken.</font>
+
+39
+00:03:30,781 --> 00:03:32,901
+<font color=#FFFF00>Schon hat man eine Roulade.</font>
+
+40
+00:03:44,181 --> 00:03:46,661
+<font color=#FFFF00>Wir braten es sofort an.</font>
+
+41
+00:03:48,661 --> 00:03:52,141
+<font color=#FFFF00>Das funktioniert dann ohne Faden.</font>
+
+42
+00:03:53,901 --> 00:03:56,861
+<font color=#FFFF00>Ich würde es mit Kochgarn</font>
+<font color=#FFFF00>umwickeln.</font>
+
+43
+00:03:56,901 --> 00:03:59,101
+<font color=#FFFF00>Oder mit einem Zahnstocher.</font>
+
+44
+00:03:59,901 --> 00:04:02,381
+<font color=#FFFF00>Aber man kann es einfach halten.</font>
+
+45
+00:04:05,381 --> 00:04:07,181
+<font color=#FFFF00>Sie werden angebraten.</font>
+
+46
+00:04:09,941 --> 00:04:12,421
+<font color=#FFFF00>So bleiben sie geschlossen.</font>
+
+47
+00:04:17,661 --> 00:04:20,141
+<font color=#00FFFF>Würdest du die Pfanne ...</font>
+
+48
+00:04:23,741 --> 00:04:27,261
+<font color=#FFFF00>Den übrigen Wirsing</font>
+<font color=#FFFF00>habe ich kleingeschnitten.</font>
+
+49
+00:04:27,301 --> 00:04:29,101
+<font color=#FFFF00>So sieht das aus.</font>
+
+50
+00:04:31,141 --> 00:04:33,421
+<font color=#FFFF00>Das gebe ich parallel hinein.</font>
+
+51
+00:04:34,501 --> 00:04:37,101
+<font color=#FFFF00>Das brauchen wir für die Sauce.</font>
+
+52
+00:04:41,261 --> 00:04:44,981
+<font color=#FFFF00>Mit etwas mehr Zeit</font>
+<font color=#FFFF00>kann man das nacheinander machen.</font>
+
+53
+00:04:54,901 --> 00:04:58,301
+<font color=#FFFF00>Die kommen dann mit der Sauce</font>
+<font color=#FFFF00>in den Ofen.</font>
+
+54
+00:04:58,341 --> 00:05:00,501
+<font color=#FFFF00>Das wird gleich die Sauce.</font>
+
+55
+00:05:03,261 --> 00:05:05,741
+<font color=#FFFF00>45 Minuten, 180 Grad.</font>
+
+56
+00:05:08,101 --> 00:05:10,581
+<font color=#FFFF00>Hier müssen die Eier stocken.</font>
+
+57
+00:05:16,581 --> 00:05:18,381
+<font color=#FFFF00>Sieht cool aus.</font>
+
+58
+00:05:25,421 --> 00:05:28,941
+<font color=#00FFFF>Ich bin gespannt,</font>
+<font color=#00FFFF>wie du daraus eine Sauce machst.</font>
+
+59
+00:05:30,141 --> 00:05:32,661
+<font color=#00FFFF>Du hast mir Zauberei versprochen.</font>
+
+60
+00:05:37,101 --> 00:05:39,581
+<font color=#00FFFF>Ich bin trotzdem Fan der Beatles.</font>
+
+61
+00:05:45,541 --> 00:05:49,061
+<font color=#00FFFF>Das geht auch</font>
+<font color=#00FFFF>auf einer anderen Pfanne.</font>
+
+62
+00:05:49,861 --> 00:05:53,381
+<font color=#00FFFF>Man kann auch</font>
+<font color=#00FFFF>eine Auflaufform nehmen.</font>
+
+63
+00:05:54,181 --> 00:05:56,381
+<font color=#FFFF00>Der Kohl bekommt Farbe.</font>
+
+64
+00:05:57,461 --> 00:05:59,941
+<font color=#FFFF00>Da geben wir Zwiebeln dazu.</font>
+
+65
+00:06:05,141 --> 00:06:06,941
+<font color=#FFFF00>Etwas mehr Öl.</font>
+
+66
+00:06:08,261 --> 00:06:11,381
+<font color=#00FFFF>Bei uns ist alles</font>
+<font color=#00FFFF>schon vorgeschnitten.</font>
+
+67
+00:06:19,781 --> 00:06:23,221
+<font color=#FFFF00>Den ganzen Tag</font>
+<font color=#FFFF00>stand ich schon in der Küche!</font>
+
+68
+00:06:31,621 --> 00:06:33,781
+<font color=#FFFF00>Da kommt Tomatenmark dazu.</font>
+
+69
+00:06:34,781 --> 00:06:38,141
+<font color=#FFFF00>Das ist der herkömmliche Vorgang</font>
+<font color=#FFFF00>für eine Sauce.</font>
+
+70
+00:06:42,341 --> 00:06:44,141
+<font color=#FFFF00>Jetzt kommt Mehl dazu.</font>
+
+71
+00:06:50,221 --> 00:06:52,621
+<font color=#00FFFF>Es ist noch nicht saucenartig.</font>
+
+72
+00:06:53,301 --> 00:06:55,101
+<font color=#00FFFF>Ich bin ungeduldig.</font>
+
+73
+00:06:56,181 --> 00:06:58,621
+<font color=#FFFF00>Jetzt der Moment der Stunde.</font>
+
+74
+00:06:59,101 --> 00:07:00,901
+<font color=#FFFF00>Das ist Rotwein.</font>
+
+75
+00:07:03,581 --> 00:07:06,581
+<font color=#FFFF00>Das soll eine kräftige Sauce</font>
+<font color=#FFFF00>werden.</font>
+
+76
+00:07:16,941 --> 00:07:21,941
+<font color=#00FFFF>Und wenn das alkoholfrei sein soll?</font>
+<font color=#FFFF00>Man kann Traubensaft nehmen.</font>
+
+77
+00:07:22,501 --> 00:07:24,981
+<font color=#FFFF00>Aber das ist nicht so schön.</font>
+
+78
+00:07:26,781 --> 00:07:29,261
+<font color=#FFFF00>Man kann auch Brühe nehmen.</font>
+
+79
+00:07:32,661 --> 00:07:34,821
+<font color=#FFFF00>Oder Cola. </font>
+<font color=#00FFFF>Klingt verrückt.</font>
+
+80
+00:07:47,501 --> 00:07:49,981
+<font color=#FFFF00>Wein hat eine Säure mit dabei.</font>
+
+81
+00:07:57,061 --> 00:07:59,981
+<font color=#00FFFF>Weihnachten gibt es Bratensaucen.</font>
+
+82
+00:08:02,061 --> 00:08:03,941
+<font color=#FFFF00>Das ist die Sauce.</font>
+
+83
+00:08:04,141 --> 00:08:07,661
+<font color=#FFFF00>Ich habe Lorbeer mit reingebracht.</font>
+
+84
+00:08:08,861 --> 00:08:12,381
+<font color=#FFFF00>Das kommt über die Roulladen.</font>
+
+85
+00:08:17,941 --> 00:08:20,461
+<font color=#00FFFF>Du bringst das in den Ofen.</font>
+
+86
+00:08:23,341 --> 00:08:26,221
+<font color=#00FFFF>Und dann holst du</font>
+<font color=#00FFFF>das fertige heraus.</font>
+
+87
+00:08:31,261 --> 00:08:34,141
+<font color=#00FFFF>Es war schön in diesem Jahr</font>
+<font color=#00FFFF>mit dir.</font>
+
+88
+00:08:34,821 --> 00:08:37,861
+<font color=#00FFFF>Es ist meine letzte Sendung</font>
+<font color=#00FFFF>in diesem Jahr.</font>
+
+89
+00:08:37,901 --> 00:08:39,901
+<font color=#00FFFF>Passen Sie auf sich aus.</font>
+
+90
+00:08:42,701 --> 00:08:46,341
+<font color=#00FFFF>Kommen Sieht gut durch</font>
+<font color=#00FFFF>die verrückte Weihnachtszeit.</font>
+
+91
+00:08:46,741 --> 00:08:48,541
+<font color=#00FFFF>Jetzt wird genossen.</font>
+
+92
+00:08:52,181 --> 00:08:54,661
+<font color=#00FFFF>Das ist mein Weihnachtsessen.</font>
+
+93
+00:08:57,061 --> 00:09:00,061
+<font color=#00FFFF>Das ist Druck für dich.</font>
+<font color=#FFFF00>Ich merke es.</font>
+
+94
+00:09:07,621 --> 00:09:10,381
+<font color=#00FFFF>Kartoffeln wären mir auch wichtig.</font>
+
+95
+00:09:10,421 --> 00:09:12,301
+<font color=#00FFFF>Aber wir haben ja Zeit.</font>
+
+96
+00:09:13,301 --> 00:09:15,101
+<font color=#00FFFF>Es sieht gut aus.</font>
+
+97
+00:09:20,341 --> 00:09:22,861
+<font color=#00FFFF>Alle Infos gibt es auch online.</font>
+
+98
+00:09:24,861 --> 00:09:26,861
+<font color=#0000FF>Copyright Untertitel: NDR 2020</font>
+

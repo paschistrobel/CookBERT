@@ -1,0 +1,725 @@
+1
+00:00:00,021 --> 00:00:03,010
+<font color=#ffffff>Wir schalten</font>
+<font color=#ffffff>zu Janett Eger in Magdeburg.</font>
+
+2
+00:00:05,020 --> 00:00:09,020
+<font color=#ffffff>Wunderbar.</font>
+
+3
+00:00:11,002 --> 00:00:15,009
+<font color=#ffffff>Eine beschichtete Pfanne haben wir</font>
+<font color=#ffffff>nicht.</font>
+
+4
+00:00:16,001 --> 00:00:19,021
+<font color=#ffffff>Aber viele andere Dinge bei Aurelie.</font>
+
+5
+00:00:20,012 --> 00:00:24,004
+<font color=#ffffff>Was hast du dir ausgesucht?</font>
+
+6
+00:00:28,000 --> 00:00:31,021
+<font color=#ffffff>Vor allem bei den Franzosen in der</font>
+<font color=#ffffff>Provence.</font>
+
+7
+00:00:35,017 --> 00:00:39,021
+<font color=#ffff00>Ja, das ist in ganz Frankreich</font>
+<font color=#ffff00>Tradition.</font>
+
+8
+00:00:40,004 --> 00:00:43,021
+<font color=#ffff00>Es gibt 13 nach Tische.</font>
+
+9
+00:00:44,016 --> 00:00:48,012
+<font color=#ffff00>Mandelgebäck und Nougat.</font>
+
+10
+00:00:51,005 --> 00:00:55,008
+<font color=#ffff00>Dieses Nougat ist Baiser mit</font>
+<font color=#ffff00>Nüssen.</font>
+
+11
+00:01:12,007 --> 00:01:16,007
+<font color=#ffff00>Das ist ein festes Baiser, Die</font>
+<font color=#ffff00>Nüsse kommen da rein.</font>
+
+12
+00:01:18,021 --> 00:01:22,005
+<font color=#ffff00>Als Nachtisch machen wir NAS.</font>
+
+13
+00:01:22,017 --> 00:01:26,006
+<font color=#ffff00>Eis</font>
+
+14
+00:01:27,011 --> 00:01:31,010
+<font color=#ffffff>was machen wir denn?</font>
+
+15
+00:01:32,013 --> 00:01:36,014
+<font color=#ffff00>Das Eis ist sehr süß.</font>
+
+16
+00:01:38,024 --> 00:01:42,024
+<font color=#ffff00>Man kann eine Obstcreme machen.</font>
+
+17
+00:01:48,022 --> 00:01:53,000
+<font color=#ffff00>Z.B. mit Mango. Oder Cassis.</font>
+
+18
+00:01:57,005 --> 00:02:00,006
+<font color=#ffffff>Du stellst mich jetzt ruhig mit der</font>
+<font color=#ffffff>Mango,</font>
+
+19
+00:02:00,018 --> 00:02:04,007
+<font color=#ffffff>die ich jetzt schälen soll.</font>
+
+20
+00:02:11,012 --> 00:02:15,012
+<font color=#ffff00>Wichtig ist, dass man die Nüsse</font>
+<font color=#ffff00>vorher röstet.</font>
+
+21
+00:02:16,007 --> 00:02:19,016
+<font color=#ffff00>Aber nicht die Pistazien,</font>
+
+22
+00:02:20,000 --> 00:02:23,016
+<font color=#ffff00>die werden sonst bitter.</font>
+
+23
+00:02:25,014 --> 00:02:29,018
+<font color=#ffff00>Die Haut machen wir beim rösten ab.</font>
+
+24
+00:02:30,021 --> 00:02:34,017
+<font color=#ffff00>Man schreibt das einfach in der</font>
+<font color=#ffff00>Pfanne.</font>
+
+25
+00:02:37,006 --> 00:02:41,005
+<font color=#ffff00>Ich habe hier eine Mischung aus</font>
+<font color=#ffff00>Zucker und Honig.</font>
+
+26
+00:02:42,021 --> 00:02:46,019
+<font color=#ffff00>Und hier habe ich Eiweiß.</font>
+
+27
+00:02:48,021 --> 00:02:52,021
+<font color=#ffff00>Ich habe ein Thermometer für die</font>
+<font color=#ffff00>Küche.</font>
+
+28
+00:02:54,020 --> 00:02:58,020
+<font color=#ffff00>Wichtig ist, dass es nicht zu kurz</font>
+<font color=#ffff00>S.</font>
+
+29
+00:03:01,001 --> 00:03:05,001
+<font color=#ffff00>Man muss die Temperatur im Kochtopf</font>
+<font color=#ffff00>messen.</font>
+
+30
+00:03:08,005 --> 00:03:12,007
+<font color=#ffff00>Man braucht die Kerntemperatur.</font>
+
+31
+00:03:23,007 --> 00:03:27,004
+<font color=#ffff00>Nicht senkrecht bis zum Boden und</font>
+<font color=#ffff00>nicht direkt waagerecht.</font>
+
+32
+00:03:28,016 --> 00:03:32,012
+<font color=#ffff00>Sonst hat man die Temperatur des</font>
+<font color=#ffff00>Kopfes.</font>
+
+33
+00:03:33,002 --> 00:03:36,023
+<font color=#ffff00>Ich schlage das Eiweiß.</font>
+
+34
+00:03:37,010 --> 00:03:41,004
+<font color=#ffff00>Ist das Eiweiß fast fest,</font>
+
+35
+00:03:45,019 --> 00:03:49,017
+<font color=#ffff00>kommt der Zucker mit dem Honig</font>
+<font color=#ffff00>hinein.</font>
+
+36
+00:03:53,022 --> 00:03:57,024
+<font color=#ffff00>Es müssen 120 °C sein.</font>
+
+37
+00:03:59,018 --> 00:04:03,018
+<font color=#ffff00>Dann erreicht der Zucker eine</font>
+<font color=#ffff00>Konsistenz,</font>
+
+38
+00:04:06,008 --> 00:04:09,011
+<font color=#ffff00>der noch etwas weich ist.</font>
+
+39
+00:04:10,001 --> 00:04:13,013
+<font color=#ffff00>Und biegsam.</font>
+
+40
+00:04:14,009 --> 00:04:18,008
+<font color=#ffff00>Bitte heiß hinein.</font>
+
+41
+00:04:24,003 --> 00:04:28,006
+<font color=#ffffff>Und dann ordentlich Betrieb machen.</font>
+
+42
+00:04:28,022 --> 00:04:32,022
+<font color=#ffff00>Genau, nichts tun.</font>
+
+43
+00:04:35,016 --> 00:04:39,013
+<font color=#ffff00>In der Zeit nehme ich die Nüsse und</font>
+<font color=#ffff00>reibe sie.</font>
+
+44
+00:04:43,024 --> 00:04:47,023
+<font color=#ffff00>Es bleibt da drin und wird</font>
+<font color=#ffff00>geschlagen, bis es fest wird.</font>
+
+45
+00:04:49,009 --> 00:04:51,023
+<font color=#ffff00>Hört man mich gut?</font>
+
+46
+00:04:52,010 --> 00:04:55,019
+<font color=#ffffff>Ja.</font>
+
+47
+00:04:56,013 --> 00:05:00,011
+<font color=#ffff00>Die Schüssel ist heiß.</font>
+
+48
+00:05:05,009 --> 00:05:09,001
+<font color=#ffff00>Wenn es warm wie eine Glühweintasse</font>
+<font color=#ffff00>ist,</font>
+
+49
+00:05:09,017 --> 00:05:13,000
+<font color=#ffff00>dann ist es genau richtig.</font>
+
+50
+00:05:20,009 --> 00:05:24,012
+<font color=#ffff00>Die Masse wird immer schaumiger</font>
+
+51
+00:05:31,009 --> 00:05:35,009
+<font color=#ffff00>Wenn die Maschine schnell geht,</font>
+
+52
+00:05:45,020 --> 00:05:49,021
+<font color=#ffff00>hat sie es Richtung Ende immer</font>
+<font color=#ffff00>schwerer.</font>
+
+53
+00:05:50,004 --> 00:05:54,003
+<font color=#ffff00>Ich mache den Test mit der Masse.</font>
+
+54
+00:05:54,019 --> 00:05:58,011
+<font color=#ffff00>Es muss nicht ganz fest sein.</font>
+
+55
+00:05:59,006 --> 00:06:03,003
+<font color=#ffff00>Es muss noch von allein</font>
+<font color=#ffff00>herunterfallen.</font>
+
+56
+00:06:03,022 --> 00:06:07,019
+<font color=#ffff00>Falls mal die Schüssel an.</font>
+
+57
+00:06:12,006 --> 00:06:16,006
+<font color=#ffffff>Glühwein- Tasse.</font>
+
+58
+00:06:20,010 --> 00:06:24,009
+<font color=#ffffff>Muss hier noch etwas hinein?</font>
+
+59
+00:06:26,012 --> 00:06:30,012
+<font color=#ffff00>Eigentlich noch etwas Zucker,</font>
+
+60
+00:06:31,008 --> 00:06:35,012
+<font color=#ffff00>welche eigentlich etwas säuerlich</font>
+<font color=#ffff00>ist, die Mango.</font>
+
+61
+00:06:35,024 --> 00:06:39,011
+<font color=#ffff00>Man kann aber auch etwas zu kochen</font>
+<font color=#ffff00>machen.</font>
+
+62
+00:06:40,017 --> 00:06:44,013
+<font color=#ffff00>Die Masse reicht schon so.</font>
+
+63
+00:06:49,008 --> 00:06:53,004
+<font color=#ffff00>Hier kommen die Nüsse rein.</font>
+
+64
+00:06:53,024 --> 00:06:58,000
+<font color=#ffff00>Jetzt brauchen wir Fett.</font>
+
+65
+00:07:01,000 --> 00:07:03,018
+<font color=#ffffff>Musst du gerade etwas sagen?</font>
+
+66
+00:07:04,009 --> 00:07:06,023
+<font color=#ffff00>Nein.</font>
+
+67
+00:07:07,010 --> 00:07:11,002
+<font color=#ffffff>Du darfst wieder.</font>
+
+68
+00:07:11,013 --> 00:07:15,001
+<font color=#ffff00>Ich habe Nüsse gerieben.</font>
+
+69
+00:07:17,007 --> 00:07:21,010
+<font color=#ffff00>Dann kommen Pistazien dazu.</font>
+
+70
+00:07:27,020 --> 00:07:31,019
+<font color=#ffff00>Jetzt kommt das Fett.</font>
+
+71
+00:07:33,022 --> 00:07:38,001
+<font color=#ffff00>Sie machen Schlagsahne.</font>
+
+72
+00:07:39,004 --> 00:07:43,008
+<font color=#ffffff>Ich brauch mal das.</font>
+
+73
+00:07:48,006 --> 00:07:52,013
+<font color=#ffff00>Wenn sie nur Schlagsahne machen,</font>
+
+74
+00:07:53,001 --> 00:07:56,022
+<font color=#ffff00>hat die Schlagsahne manchmal zu</font>
+<font color=#ffff00>viel Wasser.</font>
+
+75
+00:07:59,020 --> 00:08:03,012
+<font color=#ffff00>Deshalb mache ich immer Mascarpone</font>
+<font color=#ffff00>dazu.</font>
+
+76
+00:08:03,021 --> 00:08:07,010
+<font color=#ffff00>Es ist ja Weihnachten.</font>
+
+77
+00:08:11,019 --> 00:08:15,019
+<font color=#ffff00>Ich gebe die Sahne zu den Nüssen.</font>
+
+78
+00:08:21,023 --> 00:08:25,023
+<font color=#ffff00>Dann kommt die Baiser-Masse.</font>
+
+79
+00:08:27,001 --> 00:08:31,004
+<font color=#ffff00>Das riecht nach Honig.</font>
+
+80
+00:08:34,018 --> 00:08:38,015
+<font color=#ffff00>Der Honig kann ruhig ein kräftiger</font>
+<font color=#ffff00>sein.</font>
+
+81
+00:08:39,005 --> 00:08:42,006
+<font color=#ffff00>Je dunkler der Honig ist,</font>
+
+82
+00:08:42,014 --> 00:08:46,004
+<font color=#ffff00>umso kräftiger ist er.</font>
+
+83
+00:08:48,013 --> 00:08:52,010
+<font color=#ffff00>Man hebt nun die Masse unter und</font>
+<font color=#ffff00>mischt.</font>
+
+84
+00:08:54,020 --> 00:08:58,012
+<font color=#ffff00>Sehr gut schmeckt das auch mit</font>
+<font color=#ffff00>Orange.</font>
+
+85
+00:08:58,020 --> 00:09:02,012
+<font color=#ffff00>Heute nehmen wir Sauerkirschen.</font>
+
+86
+00:09:02,019 --> 00:09:06,014
+<font color=#ffff00>Das kommt als letztes.</font>
+
+87
+00:09:07,001 --> 00:09:10,017
+<font color=#ffff00>Macht man das zu früh und hört man,</font>
+
+88
+00:09:11,004 --> 00:09:14,010
+<font color=#ffff00>verschmiert dass unsere ganze</font>
+<font color=#ffff00>Masse.</font>
+
+89
+00:09:15,000 --> 00:09:18,009
+<font color=#ffff00>Dann ist die Masse nicht mehr weiß.</font>
+
+90
+00:09:38,009 --> 00:09:42,011
+<font color=#ffff00>Traditionell packt man das in eine</font>
+<font color=#ffff00>längliche Backform.</font>
+
+91
+00:09:47,022 --> 00:09:51,021
+<font color=#ffff00>Hier kommt das Eis rein.</font>
+
+92
+00:10:03,000 --> 00:10:06,024
+<font color=#ffff00>Ist das Eis kalt, kann man es aus</font>
+<font color=#ffff00>dieser Form herausdrücken.</font>
+
+93
+00:10:08,022 --> 00:10:12,022
+<font color=#ffff00>Man kann eine normale Kastenform</font>
+<font color=#ffff00>nehmen.</font>
+
+94
+00:10:13,017 --> 00:10:17,013
+<font color=#ffff00>Man macht Frischhaltefolie hinein.</font>
+
+95
+00:10:18,012 --> 00:10:22,012
+<font color=#ffff00>Und dann das Eis hinein.</font>
+
+96
+00:10:37,015 --> 00:10:41,016
+<font color=#ffff00>Mit etwas warmen Wasser, ganz kurz,</font>
+
+97
+00:10:43,021 --> 00:10:47,021
+<font color=#ffff00>kommt das Eis wunderbar aus der</font>
+<font color=#ffff00>Kastenform heraus.</font>
+
+98
+00:10:52,012 --> 00:10:56,012
+<font color=#ffff00>Jetzt kommen die kandierten</font>
+<font color=#ffff00>Kirschen.</font>
+
+99
+00:11:00,008 --> 00:11:04,008
+<font color=#ffff00>Man kann die Kirschen vorher in</font>
+<font color=#ffff00>Schnaps einlegen.</font>
+
+100
+00:11:05,018 --> 00:11:09,018
+<font color=#ffff00>Das ist die letzte Runde.</font>
+
+101
+00:11:11,024 --> 00:11:15,024
+<font color=#ffffff>Warum ist das Drehen so wichtig?</font>
+
+102
+00:11:16,019 --> 00:11:20,015
+<font color=#ffff00>Damit das nicht zusammenfällt.</font>
+
+103
+00:11:23,015 --> 00:11:26,021
+<font color=#ffff00>Und auch nicht zu fest wird.</font>
+
+104
+00:11:27,012 --> 00:11:31,004
+<font color=#ffff00>Dann kann man es nicht essen.</font>
+
+105
+00:11:40,013 --> 00:11:44,014
+<font color=#ffff00>Die 1. Schicht mussten man in die</font>
+<font color=#ffff00>Form klopfen.</font>
+
+106
+00:11:45,001 --> 00:11:49,006
+<font color=#ffff00>Sonst hat man Luftbläschen drin.</font>
+
+107
+00:11:55,005 --> 00:11:59,005
+<font color=#ffff00>Einfach mit dem Löffel</font>
+<font color=#ffff00>reinschmieren.</font>
+
+108
+00:12:04,022 --> 00:12:08,022
+<font color=#ffff00>Jetzt klopft man so.</font>
+
+109
+00:12:09,005 --> 00:12:12,006
+<font color=#ffff00>Dann kommt die Flüssigkeit nach</font>
+<font color=#ffff00>unten.</font>
+
+110
+00:12:12,022 --> 00:12:16,010
+<font color=#ffff00>Sonst sieht das nicht so schön aus.</font>
+
+111
+00:12:16,022 --> 00:12:20,018
+<font color=#ffffff>Hier sehen Sie den QR-Code.</font>
+
+112
+00:12:21,009 --> 00:12:25,005
+<font color=#ffffff>Dann haben sie das Rezept</font>
+
+113
+00:12:27,002 --> 00:12:30,024
+<font color=#ffffff>und alle Zutaten.</font>
+
+114
+00:12:31,019 --> 00:12:35,018
+<font color=#ffff00>Jetzt noch mal klopfen.</font>
+
+115
+00:12:43,004 --> 00:12:47,004
+<font color=#ffff00>Dank bekommt man auch mehr Creme</font>
+<font color=#ffff00>hinein.</font>
+
+116
+00:12:50,009 --> 00:12:54,013
+<font color=#ffff00>Für 3 Personen ist das sehr viel.</font>
+
+117
+00:12:59,000 --> 00:13:02,024
+<font color=#ffff00>Mit einem heißen Messer lässt sich</font>
+<font color=#ffff00>das wunderbar schneiden.</font>
+
+118
+00:13:04,006 --> 00:13:08,006
+<font color=#ffff00>Man kann es dann wieder</font>
+<font color=#ffff00>kaltstellen.</font>
+
+119
+00:13:13,022 --> 00:13:17,013
+<font color=#ffff00>Man kann es auch in Gläser füllen.</font>
+
+120
+00:13:17,022 --> 00:13:21,013
+<font color=#ffffff>Das ist sehr praktisch.</font>
+
+121
+00:13:24,021 --> 00:13:28,018
+<font color=#ffffff>Man kann das einfrosten.</font>
+
+122
+00:13:30,020 --> 00:13:34,019
+<font color=#ffffff>Das ist super und sieht schön aus.</font>
+
+123
+00:13:40,022 --> 00:13:44,021
+<font color=#ffff00>Man kann es schon jetzt Vorbereiten</font>
+<font color=#ffff00>und einfrieren.</font>
+
+124
+00:13:49,012 --> 00:13:53,004
+<font color=#ffff00>Mindestens eine Nacht muss es im</font>
+<font color=#ffff00>gefriert Fach sein.</font>
+
+125
+00:13:53,024 --> 00:13:57,016
+<font color=#ffff00>Die Kastenform zumindest.</font>
+
+126
+00:14:05,012 --> 00:14:09,016
+<font color=#ffffff>Wir gehen erst mal rüber.</font>
+
+127
+00:14:13,020 --> 00:14:16,017
+<font color=#ffffff>Du bist heute wieder unser</font>
+<font color=#ffffff>Weihnachtsengel.</font>
+
+128
+00:14:17,008 --> 00:14:20,021
+<font color=#ffffff>Suchte etwas aus,</font>
+
+129
+00:14:21,020 --> 00:14:25,018
+<font color=#ffffff>dass dir besonders gefällt.</font>
+
+130
+00:14:32,010 --> 00:14:36,010
+<font color=#ffffff>Du stehst gerade hier vorn.</font>
+
+131
+00:14:37,000 --> 00:14:40,005
+<font color=#ffffff>Das hier ist so zauberhaft.</font>
+
+132
+00:14:40,020 --> 00:14:44,006
+<font color=#ffffff>Das ist so schön.</font>
+
+133
+00:14:45,021 --> 00:14:49,021
+<font color=#ffffff>Renate Winkler hat uns das</font>
+<font color=#ffffff>geschickt.</font>
+
+134
+00:14:50,024 --> 00:14:54,020
+<font color=#ffff00>Ich habe auch etwas versucht.</font>
+
+135
+00:14:55,010 --> 00:14:58,022
+<font color=#ffffff>Da steckt sehr viel Arbeit drin.</font>
+
+136
+00:14:59,013 --> 00:15:01,019
+<font color=#ffffff>Es ist bezaubernd.</font>
+
+137
+00:15:02,007 --> 00:15:05,003
+<font color=#ffffff>Vielen Dank,</font>
+
+138
+00:15:05,011 --> 00:15:08,024
+<font color=#ffffff>auch an alle anderen,</font>
+
+139
+00:15:09,011 --> 00:15:13,003
+<font color=#ffffff>die sich an unserer Aktion beteiligt</font>
+<font color=#ffffff>haben.</font>
+
+140
+00:15:13,015 --> 00:15:17,003
+<font color=#ffff00>Bei mir ist alles immer schief.</font>
+
+141
+00:15:17,015 --> 00:15:21,007
+<font color=#ffff00>Ich finde das hier sehr</font>
+<font color=#ffff00>beeindruckend.</font>
+
+142
+00:15:21,020 --> 00:15:25,010
+<font color=#ffff00>Das könnte ich nie.</font>
+
+143
+00:15:29,020 --> 00:15:33,018
+<font color=#ffff00>Wie sieht das innen aus?</font>
+
+144
+00:15:39,020 --> 00:15:43,019
+<font color=#ffff00>das gefällt mir.</font>
+
+145
+00:15:47,007 --> 00:15:51,005
+<font color=#ffff00>Das hat Silvia Buchwald aus</font>
+<font color=#ffff00>Eisenach gemacht.</font>
+
+146
+00:15:51,019 --> 00:15:55,010
+<font color=#ffffff>Vielen Dank,</font>
+
+147
+00:15:58,002 --> 00:16:01,024
+<font color=#ffffff>sie versetzen Aurelie in Verzückung.</font>
+
+148
+00:16:02,015 --> 00:16:05,023
+<font color=#ffffff>Diese Frauenkirche kommt nun zu</font>
+<font color=#ffffff>Ihnen.</font>
+
+149
+00:16:06,020 --> 00:16:10,003
+<font color=#ffffff>Damit sie eine schöne Weihnachtszeit</font>
+<font color=#ffffff>haben.</font>
+
+150
+00:16:13,023 --> 00:16:17,019
+<font color=#ffffff>Leg es einfach hin.</font>
+
+151
+00:16:20,013 --> 00:16:24,013
+<font color=#ffffff>Wir gehen zurück in die Küche.</font>
+
+152
+00:16:30,019 --> 00:16:34,000
+<font color=#ffffff>Willst du jetzt schneiden?</font>
+
+153
+00:16:34,012 --> 00:16:37,005
+<font color=#ffffff>Mach ruhig.</font>
+
+154
+00:16:37,017 --> 00:16:40,014
+<font color=#ffffff>Zeig mal.</font>
+
+155
+00:16:41,001 --> 00:16:44,006
+<font color=#ffffff>Brauchst du ein anderes Messer?</font>
+
+156
+00:16:44,021 --> 00:16:48,009
+<font color=#ffffff>Jetzt macht sie es spannend.</font>
+
+157
+00:16:50,003 --> 00:16:52,011
+<font color=#ffff00>Es ist etwas geschmolzen.</font>
+
+158
+00:16:59,001 --> 00:17:02,019
+<font color=#ffffff>Dankeschön, gute Sendung.</font>
+
+159
+00:17:04,001 --> 00:17:08,000
+<font color=#ffffff>Diesen Moment liebe ich besonders.</font>
+
+160
+00:17:19,017 --> 00:17:23,014
+<font color=#ffffff>Ich probiere jetzt.</font>
+
+161
+00:17:28,014 --> 00:17:32,015
+<font color=#ffff00>Ich habe noch kleine Stückchen</font>
+<font color=#ffff00>Orange drauf.</font>
+
+162
+00:17:36,020 --> 00:17:40,014
+<font color=#ffffff>Der Tipp mit etwas saurem drüber ist</font>
+<font color=#ffffff>wichtig.</font>
+
+163
+00:17:40,023 --> 00:17:43,008
+<font color=#ffffff>Sonst wäre es zu süß.</font>
+
+164
+00:17:43,021 --> 00:17:46,001
+<font color=#ffffff>Es hat sehr viel Spaß gemacht.</font>
+
+165
+00:17:46,017 --> 00:17:50,001
+<font color=#ffffff>Das ist sehr lecker.</font>
+
+166
+00:17:51,016 --> 00:17:55,016
+<font color=#ffff00>Vielen Dank fürs zuschauen.</font>
+
+167
+00:17:56,015 --> 00:18:00,015
+<font color=#ffff00>Morgen kommt Peter Escher.</font>
+
+168
+00:18:02,003 --> 00:18:04,017
+<font color=#ffffff>Schöne Weihnachten, meine Liebe.</font>
+

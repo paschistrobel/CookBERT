@@ -1,0 +1,432 @@
+1
+00:00:01,938 --> 00:00:05,418
+<font color=#FFFF00>Das geht auch viel schneller.</font>
+
+2
+00:00:08,978 --> 00:00:12,458
+<font color=#00FFFF>Wir haben Nusswoche.</font>
+
+3
+00:00:13,098 --> 00:00:16,618
+<font color=#00FFFF>Die Nuss</font>
+<font color=#00FFFF>steht bei uns im Vordergrund.</font>
+
+4
+00:00:20,298 --> 00:00:23,818
+<font color=#00FFFF>Dazu hat sich Thomas</font>
+<font color=#00FFFF>etwas Tolles überlegt.</font>
+
+5
+00:00:27,618 --> 00:00:31,098
+<font color=#FFFF00>Schweinebacke, Quitte und Nüsse.</font>
+
+6
+00:00:31,258 --> 00:00:34,698
+<font color=#00FFFF>Ich bin gespannt.</font>
+
+7
+00:00:35,498 --> 00:00:39,018
+<font color=#00FFFF>Lass uns</font>
+<font color=#00FFFF>mit der Schweinebacke anfangen.</font>
+
+8
+00:00:42,218 --> 00:00:46,298
+<font color=#00FFFF>Viele haben Angst, dass man da</font>
+<font color=#00FFFF>etwas verkehrt machen kann.</font>
+
+9
+00:00:46,458 --> 00:00:49,898
+<font color=#00FFFF>Du zeigst uns, wie es geht.</font>
+
+10
+00:00:50,058 --> 00:00:53,898
+<font color=#00FFFF>Aber Hauptdarsteller</font>
+<font color=#00FFFF>in dieser Woche sind die Nüsse.</font>
+
+11
+00:00:54,818 --> 00:00:58,298
+<font color=#FFFF00>Das Fleisch braucht am längsten.</font>
+
+12
+00:00:58,698 --> 00:01:02,178
+<font color=#FFFF00>Deswegen fangen wir damit an.</font>
+
+13
+00:01:06,378 --> 00:01:09,858
+<font color=#FFFF00>Wir benutzen einen Bräter.</font>
+
+14
+00:01:12,978 --> 00:01:16,458
+<font color=#FFFF00>Die Schweinebacken</font>
+<font color=#FFFF00>sind nicht geputzt.</font>
+
+15
+00:01:16,618 --> 00:01:20,098
+<font color=#FFFF00>Da muss man</font>
+<font color=#FFFF00>nicht so vorsichtig sein.</font>
+
+16
+00:01:21,578 --> 00:01:25,058
+<font color=#FFFF00>Die werden scharf angebrachten.</font>
+
+17
+00:01:26,538 --> 00:01:30,018
+<font color=#FFFF00>Du kannst eine Quitte schälen.</font>
+
+18
+00:01:33,858 --> 00:01:37,338
+<font color=#FFFF00>Beim letzten Mal</font>
+<font color=#FFFF00>konntest du das gut.</font>
+
+19
+00:01:40,378 --> 00:01:43,858
+<font color=#00FFFF>Ich mache, wie ich es meine.</font>
+
+20
+00:01:48,018 --> 00:01:51,498
+<font color=#00FFFF>Wir hatten vorhin den Landwirt hier.</font>
+
+21
+00:01:54,778 --> 00:01:58,258
+<font color=#00FFFF>Woher</font>
+<font color=#00FFFF>holst du denn Schweinefleisch?</font>
+
+22
+00:02:00,898 --> 00:02:04,418
+<font color=#FFFF00>Ich habe einen Produzenten</font>
+<font color=#FFFF00>aus der Region.</font>
+
+23
+00:02:08,778 --> 00:02:13,138
+<font color=#FFFF00>Aber ich werde mir das beim</font>
+<font color=#FFFF00>Kollegen Zimmermann mal anschauen.</font>
+
+24
+00:02:15,378 --> 00:02:18,858
+<font color=#00FFFF>Das ist direkt bei dir</font>
+<font color=#00FFFF>um die Ecke von Hannover.</font>
+
+25
+00:02:20,858 --> 00:02:24,338
+<font color=#00FFFF>Man weiß halt, wo es herkommt.</font>
+
+26
+00:02:25,898 --> 00:02:29,378
+<font color=#00FFFF>Die Schweinebacke, von wo ist die?</font>
+
+27
+00:02:29,538 --> 00:02:33,018
+<font color=#00FFFF>Und was sind die Vorzüge?</font>
+
+28
+00:02:45,458 --> 00:02:48,978
+<font color=#FFFF00>Schweinebacke</font>
+<font color=#FFFF00>ist das Bäckchen des Schweins.</font>
+
+29
+00:02:52,298 --> 00:02:55,818
+<font color=#FFFF00>Manchmal</font>
+<font color=#FFFF00>ist da ein Fettdeckel drauf.</font>
+
+30
+00:02:56,498 --> 00:03:00,018
+<font color=#FFFF00>Das wird beim Metzger</font>
+<font color=#FFFF00>aber abgenommen.</font>
+
+31
+00:03:01,458 --> 00:03:04,938
+<font color=#FFFF00>Jetzt kommt etwas Gemüse dazu.</font>
+
+32
+00:03:09,058 --> 00:03:12,738
+<font color=#00FFFF>Die Schweinebacke</font>
+<font color=#00FFFF>hatte ja nicht so einen guten Ruf.</font>
+
+33
+00:03:16,098 --> 00:03:19,578
+<font color=#FFFF00>Wegen Bruce Willis?</font>
+
+34
+00:03:20,858 --> 00:03:24,338
+<font color=#00FFFF>Man dachte ja, das ist Abfall.</font>
+
+35
+00:03:30,378 --> 00:03:33,858
+<font color=#FFFF00>Es kommt ja zum Glück</font>
+<font color=#FFFF00>viel Innereien in Mode.</font>
+
+36
+00:03:39,778 --> 00:03:44,058
+<font color=#FFFF00>Sie finden auch den Weg in</font>
+<font color=#FFFF00>Gourmet-Restaurants auf die Karte.</font>
+
+37
+00:03:44,698 --> 00:03:48,178
+<font color=#FFFF00>Schweinebacke geschmort</font>
+<font color=#FFFF00>ist sehr lecker.</font>
+
+38
+00:03:48,498 --> 00:03:52,018
+<font color=#FFFF00>Es geht Pfeffer dazu.</font>
+
+39
+00:03:52,458 --> 00:03:55,178
+<font color=#FFFF00>Dann löschen wir mit Rotwein ab.</font>
+
+40
+00:03:55,338 --> 00:03:58,658
+<font color=#FFFF00>Viel hilft viel.</font>
+
+41
+00:03:58,938 --> 00:04:01,698
+<font color=#00FFFF>Alkohol verdampft ja.</font>
+
+42
+00:04:01,858 --> 00:04:05,178
+<font color=#00FFFF>Es geht um den Geschmack.</font>
+
+43
+00:04:12,578 --> 00:04:16,058
+<font color=#FFFF00>Jetzt noch Gemüse-Fond dazu.</font>
+
+44
+00:04:18,738 --> 00:04:22,258
+<font color=#00FFFF>Mach erst mal</font>
+<font color=#00FFFF>deine Schweinebacke fertig.</font>
+
+45
+00:04:22,418 --> 00:04:25,818
+<font color=#00FFFF>Wie lange kocht die?</font>
+
+46
+00:04:32,538 --> 00:04:36,818
+<font color=#FFFF00>Die kommt in den Ofen bei 180 Grad</font>
+<font color=#FFFF00>für eine oder 1,5 Stunden.</font>
+
+47
+00:04:36,978 --> 00:04:40,378
+<font color=#FFFF00>Dann müssten sie gar sein.</font>
+
+48
+00:04:46,658 --> 00:04:51,218
+<font color=#FFFF00>Wenn man zwischendurch guckt,</font>
+<font color=#FFFF00>kann man mit dem Messer reinpieken.</font>
+
+49
+00:04:53,298 --> 00:04:56,778
+<font color=#FFFF00>Wenn sie sich gut lösen,</font>
+<font color=#FFFF00>sind sie gar.</font>
+
+50
+00:05:03,778 --> 00:05:07,258
+<font color=#FFFF00>Der Fonds kocht schön ein.</font>
+
+51
+00:05:08,338 --> 00:05:11,818
+<font color=#FFFF00>Am Ende machen wir Butter rein.</font>
+
+52
+00:05:13,258 --> 00:05:16,738
+<font color=#FFFF00>Für unsere karamellisierten Nüsse</font>
+
+53
+00:05:17,098 --> 00:05:20,578
+<font color=#FFFF00>haben wir Wasser</font>
+<font color=#FFFF00>mit Zucker aufgekocht.</font>
+
+54
+00:05:22,778 --> 00:05:26,258
+<font color=#FFFF00>Ungefähr eins zu eins.</font>
+
+55
+00:05:28,458 --> 00:05:32,378
+<font color=#00FFFF>Beim letzten Mal hat man</font>
+<font color=#00FFFF>nur Zucker in die Pfanne getan.</font>
+
+56
+00:05:32,538 --> 00:05:35,978
+<font color=#00FFFF>Warum machst du das anders?</font>
+
+57
+00:05:36,658 --> 00:05:40,138
+<font color=#FFFF00>Ich bin oft</font>
+<font color=#FFFF00>von den Gästen abgelenkt.</font>
+
+58
+00:05:41,578 --> 00:05:45,058
+<font color=#FFFF00>Dann verbrennt der Zucker</font>
+<font color=#FFFF00>nicht so schnell.</font>
+
+59
+00:05:49,258 --> 00:05:52,738
+<font color=#FFFF00>Und es karamellisiert gleichmäßig.</font>
+
+60
+00:05:54,498 --> 00:05:57,978
+<font color=#FFFF00>Und es legt sich gut um die Nüsse.</font>
+
+61
+00:06:01,338 --> 00:06:04,818
+<font color=#FFFF00>Die Quitten</font>
+<font color=#FFFF00>werden in kleine Stücke geschnitten.</font>
+
+62
+00:06:14,938 --> 00:06:18,418
+<font color=#FFFF00>Etwas braunen Zucker</font>
+<font color=#FFFF00>und Quittensaft dazu.</font>
+
+63
+00:06:20,258 --> 00:06:23,738
+<font color=#FFFF00>Dann im eigenen Saft schmoren.</font>
+
+64
+00:06:25,258 --> 00:06:28,698
+<font color=#FFFF00>Bei den Nüssen</font>
+<font color=#FFFF00>muss man immer rühren.</font>
+
+65
+00:06:28,858 --> 00:06:32,218
+<font color=#FFFF00>Das Wasser verdampft.</font>
+
+66
+00:06:32,978 --> 00:06:36,458
+<font color=#00FFFF>Du hast Walnüsse, was noch?</font>
+
+67
+00:06:36,618 --> 00:06:39,378
+<font color=#FFFF00>Mandeln und Haselnüsse.</font>
+
+68
+00:06:39,538 --> 00:06:42,858
+<font color=#00FFFF>Warum diese?</font>
+
+69
+00:06:43,778 --> 00:06:47,258
+<font color=#FFFF00>Haselnüsse</font>
+<font color=#FFFF00>haben ein klassisches Nussaroma.</font>
+
+70
+00:06:47,498 --> 00:06:50,978
+<font color=#FFFF00>Mandeln sind etwas süßer.</font>
+
+71
+00:06:53,858 --> 00:06:56,578
+<font color=#FFFF00>Und die Walnuss ist bitterer.</font>
+
+72
+00:06:56,738 --> 00:07:00,058
+<font color=#00FFFF>Das sieht gut aus.</font>
+
+73
+00:07:01,458 --> 00:07:05,618
+<font color=#FFFF00>Jetzt werden sie langsam stumpf,</font>
+<font color=#FFFF00>weil das Wasser verdampft.</font>
+
+74
+00:07:06,498 --> 00:07:09,978
+<font color=#FFFF00>Zu den süßen Nüssen</font>
+<font color=#FFFF00>kommt jetzt Salz.</font>
+
+75
+00:07:12,058 --> 00:07:15,538
+<font color=#FFFF00>Salz und Zucker sind gute Freunde.</font>
+
+76
+00:07:24,098 --> 00:07:27,578
+<font color=#FFFF00>Jetzt kommt kalte Butter zum Fond.</font>
+
+77
+00:07:29,738 --> 00:07:33,218
+<font color=#00FFFF>Wir sprachen vorhin vom Winterspeck.</font>
+
+78
+00:07:33,498 --> 00:07:36,978
+<font color=#00FFFF>Warum sollen nur die Igel ansetzen?</font>
+
+79
+00:07:41,938 --> 00:07:45,058
+<font color=#FFFF00>Der Mensch</font>
+<font color=#FFFF00>muss im Winter Speck ansetzen.</font>
+
+80
+00:07:45,218 --> 00:07:48,578
+<font color=#FFFF00>Das ist so von der Natur angelegt.</font>
+
+81
+00:07:52,858 --> 00:07:56,338
+<font color=#FFFF00>Die Schweinebacken sind fertig.</font>
+
+82
+00:07:58,178 --> 00:08:01,658
+<font color=#00FFFF>Brauchen wir Teller?</font>
+
+83
+00:08:02,378 --> 00:08:05,858
+<font color=#FFFF00>Nimm ruhig einen tiefen.</font>
+
+84
+00:08:08,378 --> 00:08:11,898
+<font color=#00FFFF>Die Nüsse sind der Hauptdarsteller.</font>
+
+85
+00:08:12,258 --> 00:08:15,778
+<font color=#00FFFF>Die werden auf Backpapier gegeben.</font>
+
+86
+00:08:19,458 --> 00:08:23,498
+<font color=#00FFFF>Wenn die gleich kühl sind,</font>
+<font color=#00FFFF>kann man sie etwas zerschlagen.</font>
+
+87
+00:08:23,698 --> 00:08:26,538
+<font color=#00FFFF>Die Schweinebacke ist fast fertig.</font>
+
+88
+00:08:26,698 --> 00:08:30,058
+<font color=#00FFFF>Wie hast du die Quitten angemacht?</font>
+
+89
+00:08:31,218 --> 00:08:34,738
+<font color=#FFFF00>Da kommt ein bisschen</font>
+<font color=#FFFF00>brauner Zucker rein.</font>
+
+90
+00:08:34,898 --> 00:08:37,498
+<font color=#FFFF00>Ein Schluck Apfelsaft.</font>
+
+91
+00:08:37,658 --> 00:08:41,018
+<font color=#FFFF00>Dann kommt ein Deckel drauf.</font>
+
+92
+00:08:41,298 --> 00:08:44,778
+<font color=#FFFF00>Und dann bei Stufe 1</font>
+<font color=#FFFF00>zwei Stunden köcheln.</font>
+
+93
+00:08:45,458 --> 00:08:48,938
+<font color=#FFFF00>Das schmort und oxidiert etwas,</font>
+<font color=#FFFF00>die werden leicht rot.</font>
+
+94
+00:08:50,218 --> 00:08:53,738
+<font color=#FFFF00>Das macht sich super</font>
+<font color=#FFFF00>mit der Farbe auf dem Teller.</font>
+
+95
+00:08:54,378 --> 00:08:57,778
+<font color=#00FFFF>Wir fangen an und richten an.</font>
+
+96
+00:08:57,938 --> 00:09:00,298
+<font color=#00FFFF>Wir haben noch die Tipps für Sie.</font>
+
+97
+00:09:26,938 --> 00:09:30,418
+<font color=#00FFFF>Morgen</font>
+<font color=#00FFFF>machen wir Tofu-Haselnuss-Nugget.</font>
+
+98
+00:09:32,138 --> 00:09:35,658
+<font color=#FFFF00>Lass es dir schmecken.</font>
+

@@ -1,0 +1,420 @@
+1
+00:00:02,234 --> 00:00:05,114
+<font color=#00FFFF>Wir tun jetzt auch was</font>
+<font color=#00FFFF>für Kopf und Bauch.</font>
+
+2
+00:00:05,474 --> 00:00:07,394
+<font color=#00FFFF>Zora Klipp ist bei uns.</font>
+
+3
+00:00:11,954 --> 00:00:14,114
+<font color=#00FFFF>Zora mit guter Laune.</font>
+<font color=#FFFF00>Wie nett.</font>
+
+4
+00:00:18,714 --> 00:00:21,794
+<font color=#FFFF00>Wir machen Pasta mit viel Sahne.</font>
+
+5
+00:00:21,954 --> 00:00:25,394
+<font color=#FFFF00>Alles ist gut für Leib und Seele.</font>
+
+6
+00:00:25,794 --> 00:00:29,194
+<font color=#FFFF00>Dazu gibt es Chips aus Rote Bete.</font>
+
+7
+00:00:29,354 --> 00:00:32,794
+<font color=#00FFFF>Ich teste gerne.</font>
+
+8
+00:00:33,794 --> 00:00:37,314
+<font color=#00FFFF>Ich schneide mir etwas ab.</font>
+
+9
+00:00:43,474 --> 00:00:46,114
+<font color=#00FFFF>Hat man gehört,</font>
+<font color=#00FFFF>dass sie knackig sind?</font>
+
+10
+00:00:46,274 --> 00:00:49,714
+<font color=#00FFFF>Danke.</font>
+
+11
+00:00:51,114 --> 00:00:53,954
+<font color=#FFFF00>Du kannst Salbei</font>
+<font color=#FFFF00>und Rosmarin zupfen.</font>
+
+12
+00:00:54,114 --> 00:00:57,514
+<font color=#FFFF00>Das kannst du kleinschneiden.</font>
+
+13
+00:01:01,354 --> 00:01:04,354
+<font color=#FFFF00>Ich habe hier Knoblauch.</font>
+
+14
+00:01:04,514 --> 00:01:07,954
+<font color=#FFFF00>Ich nehme ein bisschen.</font>
+
+15
+00:01:08,674 --> 00:01:12,194
+<font color=#00FFFF>Ich brauch eine klare Mengenangabe.</font>
+
+16
+00:01:12,914 --> 00:01:16,394
+<font color=#FFFF00>Das reicht schon.</font>
+
+17
+00:01:17,594 --> 00:01:21,074
+<font color=#FFFF00>Ich würfel die Zwiebel.</font>
+
+18
+00:01:24,634 --> 00:01:28,154
+<font color=#00FFFF>Salbei ist gut.</font>
+
+19
+00:01:29,114 --> 00:01:32,594
+<font color=#FFFF00>Der hat auch</font>
+<font color=#FFFF00>eine beruhigende Wirkung.</font>
+
+20
+00:01:33,754 --> 00:01:37,234
+<font color=#FFFF00>Das kannst du kleinschneiden.</font>
+
+21
+00:01:44,794 --> 00:01:48,234
+<font color=#FFFF00>Ich kann leider kein Plattdeutsch.</font>
+
+22
+00:01:48,394 --> 00:01:51,794
+<font color=#00FFFF>Ich bringe das bei.</font>
+<font color=#FFFFFF>* Sprechen Platt *</font>
+
+23
+00:02:01,874 --> 00:02:05,674
+<font color=#FFFF00>Jetzt kommen die Zwiebeln</font>
+<font color=#FFFF00>und Knoblauch in die Pfanne.</font>
+
+24
+00:02:05,834 --> 00:02:08,834
+<font color=#FFFF00>Man kann das auch weglassen.</font>
+
+25
+00:02:08,994 --> 00:02:12,434
+<font color=#FFFF00>Ich würde das nicht empfehlen.</font>
+
+26
+00:02:13,954 --> 00:02:17,434
+<font color=#00FFFF>Auf keinen Fall.</font>
+
+27
+00:02:20,514 --> 00:02:23,994
+<font color=#00FFFF>Was es das mit Zutaten?</font>
+
+28
+00:02:24,274 --> 00:02:27,794
+<font color=#FFFF00>Die können noch feiner.</font>
+
+29
+00:02:32,434 --> 00:02:35,914
+<font color=#00FFFF>Ein Kochmeister würde sagen:</font>
+
+30
+00:02:44,754 --> 00:02:48,274
+<font color=#00FFFF>Du Döspaddel. Das geht feiner.</font>
+
+31
+00:02:50,954 --> 00:02:53,914
+<font color=#00FFFF>Wie war das bei dir</font>
+<font color=#00FFFF>in der Ausbildung?</font>
+
+32
+00:02:54,074 --> 00:03:01,594
+<font color=#FFFF00>Es waren meistens Männer,</font>
+<font color=#FFFF00>da braucht man ein dickes Fell.</font>
+
+33
+00:03:04,114 --> 00:03:06,914
+<font color=#FFFF00>Ich hab jetzt ein Hokkaido-Kürbis.</font>
+
+34
+00:03:07,074 --> 00:03:10,514
+<font color=#FFFF00>Den habe ich einfach gerast:</font>
+
+35
+00:03:15,234 --> 00:03:18,754
+<font color=#FFFF00>Den braucht man nicht schälen.</font>
+
+36
+00:03:22,034 --> 00:03:25,834
+<font color=#FFFF00>Aus dem restlichen Kürbis</font>
+<font color=#FFFF00>kann man Ofengemüse machen.</font>
+
+37
+00:03:25,994 --> 00:03:29,434
+<font color=#FFFF00>Da braucht man nicht so viel von.</font>
+
+38
+00:03:30,314 --> 00:03:33,794
+<font color=#00FFFF>Was ist das für ein Öl?</font>
+
+39
+00:03:35,274 --> 00:03:38,594
+<font color=#FFFF00>Es ist</font>
+<font color=#FFFF00>geschmacksneutrales Sonnenblumenöl.</font>
+
+40
+00:03:38,754 --> 00:03:42,034
+<font color=#FFFF00>Man kann auch Olivenöl nehmen.</font>
+
+41
+00:03:42,194 --> 00:03:45,634
+<font color=#FFFF00>Es sollte aber nicht</font>
+<font color=#FFFF00>zu heiß werden.</font>
+
+42
+00:03:47,474 --> 00:03:50,994
+<font color=#00FFFF>Warum muss das</font>
+<font color=#00FFFF>neue geschmacksneutral sein?</font>
+
+43
+00:03:52,674 --> 00:03:56,154
+<font color=#FFFF00>Die Kräuter</font>
+<font color=#FFFF00>sind sehr geschmacksintensiv.</font>
+
+44
+00:03:56,674 --> 00:04:00,154
+<font color=#FFFF00>Deswegen habe ich das Öl genommen.</font>
+
+45
+00:04:08,354 --> 00:04:11,834
+<font color=#00FFFF>Ich habe noch Chili genommen.</font>
+
+46
+00:04:16,634 --> 00:04:20,114
+<font color=#00FFFF>Darf man das?</font>
+
+47
+00:04:24,354 --> 00:04:27,874
+<font color=#FFFF00>Eigentlich ist das kontraproduktiv.</font>
+
+48
+00:04:29,074 --> 00:04:32,594
+<font color=#FFFF00>Du kannst gerne den Käse würfeln.</font>
+
+49
+00:04:32,754 --> 00:04:36,274
+<font color=#00FFFF>Wie viel soll ich nehmen?</font>
+
+50
+00:04:36,834 --> 00:04:40,354
+<font color=#FFFF00>Etwa die Hälfte.</font>
+
+51
+00:04:44,234 --> 00:04:47,714
+<font color=#FFFF00>Mein Gemisch lösche ich jetzt</font>
+<font color=#FFFF00>mit Weißwein.</font>
+
+52
+00:04:51,274 --> 00:04:54,794
+<font color=#FFFF00>Dann kommt Sahne dazu.</font>
+
+53
+00:04:59,394 --> 00:05:02,114
+<font color=#FFFF00>Wir gucken gleich nach der Pasta?</font>
+
+54
+00:05:02,274 --> 00:05:05,674
+<font color=#00FFFF>Was ist das für eine.</font>
+
+55
+00:05:09,474 --> 00:05:12,714
+<font color=#FFFF00>Das ist Vollkorn-Penne.</font>
+
+56
+00:05:12,874 --> 00:05:16,314
+<font color=#00FFFF>Warum die?</font>
+
+57
+00:05:18,154 --> 00:05:21,634
+<font color=#FFFF00>Penne haben kleine Röhren.</font>
+
+58
+00:05:22,754 --> 00:05:26,274
+<font color=#FFFF00>Da setzt sich die Soße fest.</font>
+
+59
+00:05:34,074 --> 00:05:37,594
+<font color=#FFFF00>Und Vollkorn hält lange satt.</font>
+
+60
+00:05:42,474 --> 00:05:45,994
+<font color=#00FFFF>Wann weißt du</font>
+<font color=#00FFFF>, dass die Nudeln fertig sind?</font>
+
+61
+00:05:47,554 --> 00:05:51,034
+<font color=#FFFF00>Wenn drinnen kein weißer Rand ist.</font>
+
+62
+00:05:55,994 --> 00:05:59,474
+<font color=#FFFF00>Du kannst deine Sachen</font>
+<font color=#FFFF00>in die Pfanne tun.</font>
+
+63
+00:05:59,634 --> 00:06:03,074
+<font color=#FFFF00>Ich würze das mit Salz.</font>
+
+64
+00:06:06,754 --> 00:06:10,234
+<font color=#00FFFF>Das Rot passt hinein.</font>
+
+65
+00:06:11,394 --> 00:06:14,674
+<font color=#FFFF00>Du hast die sehr grob geschnitten.</font>
+
+66
+00:06:14,834 --> 00:06:18,234
+<font color=#FFFF00>Ich gieße die Nudeln ab.</font>
+
+67
+00:06:18,554 --> 00:06:22,074
+<font color=#00FFFF>Ich hab hier den Käse.</font>
+
+68
+00:06:22,194 --> 00:06:25,594
+<font color=#00FFFF>Kann man anderen nehmen?</font>
+
+69
+00:06:25,754 --> 00:06:29,154
+<font color=#FFFF00>Man kann Feta nehmen.</font>
+
+70
+00:06:30,794 --> 00:06:34,274
+<font color=#FFFF00>Aber Ziegenkäse</font>
+<font color=#FFFF00>wird cremig in der Soße.</font>
+
+71
+00:06:41,714 --> 00:06:45,194
+<font color=#FFFF00>Das lassen wir</font>
+<font color=#FFFF00>einen Moment schmelzen.</font>
+
+72
+00:06:54,914 --> 00:06:58,394
+<font color=#FFFF00>Die Nudeln kommen heiß direkt</font>
+<font color=#FFFF00>in die Pfanne.</font>
+
+73
+00:06:58,634 --> 00:07:02,114
+<font color=#FFFF00>Man soll sie auch direkt verzehren.</font>
+
+74
+00:07:04,154 --> 00:07:07,674
+<font color=#FFFF00>Sie können so</font>
+<font color=#FFFF00>auch die Soße aufsaugen.</font>
+
+75
+00:07:15,874 --> 00:07:19,354
+<font color=#FFFF00>Das war zu schwungvoll.</font>
+
+76
+00:07:21,994 --> 00:07:25,514
+<font color=#00FFFF>Das probiere ich auch.</font>
+
+77
+00:07:26,794 --> 00:07:30,314
+<font color=#FFFF00>Das geht besser als bei mir.</font>
+
+78
+00:07:34,914 --> 00:07:38,394
+<font color=#00FFFF>Ich hole langsam ...</font>
+
+79
+00:07:38,874 --> 00:07:42,354
+<font color=#FFFF00>Die habe ich schon da.</font>
+
+80
+00:07:47,954 --> 00:07:51,434
+<font color=#00FFFF>Die Pasta soll für Platz haben.</font>
+
+81
+00:07:57,034 --> 00:08:00,554
+<font color=#00FFFF>Wir fassen das kurz zusammen.</font>
+
+82
+00:08:09,754 --> 00:08:13,234
+<font color=#00FFFF>Du hast einen Hokkaidokürbis</font>
+<font color=#00FFFF>genommen.</font>
+
+83
+00:08:15,674 --> 00:08:19,194
+<font color=#FFFF00>Man könnte</font>
+<font color=#FFFF00>auch einen Butternut verwenden.</font>
+
+84
+00:08:19,354 --> 00:08:22,834
+<font color=#FFFF00>Den muss man aber schälen.</font>
+
+85
+00:08:34,154 --> 00:08:37,674
+<font color=#FFFF00>Das sieht gut aus.</font>
+
+86
+00:08:37,994 --> 00:08:41,514
+<font color=#FFFF00>Ich habe rumgeschmiert.</font>
+
+87
+00:08:41,674 --> 00:08:45,114
+<font color=#00FFFF>Ich bin Lehrling.</font>
+
+88
+00:08:45,834 --> 00:08:49,354
+<font color=#00FFFF>Irgend wann habe ich es drauf.</font>
+
+89
+00:08:55,994 --> 00:08:59,474
+<font color=#FFFF00>Du kannst Rucola drauf geben.</font>
+
+90
+00:09:01,034 --> 00:09:04,514
+<font color=#00FFFF>Aber nur ein bisschen.</font>
+
+91
+00:09:05,714 --> 00:09:08,834
+<font color=#00FFFF>Ich nehme den zum Probieren.</font>
+
+92
+00:09:08,954 --> 00:09:12,394
+<font color=#00FFFF>Die Chips fehlen noch.</font>
+
+93
+00:09:18,234 --> 00:09:21,554
+<font color=#00FFFF>Ich mach jetzt den Crunch-Test.</font>
+
+94
+00:09:21,714 --> 00:09:25,114
+<font color=#00FFFF>Das ist lecker.</font>
+
+95
+00:09:25,394 --> 00:09:28,914
+<font color=#00FFFF>Jetzt probiere ich.</font>
+
+96
+00:09:34,714 --> 00:09:38,234
+<font color=#00FFFF>Das beste Essen für diesen Winter.</font>
+
+97
+00:09:38,714 --> 00:09:42,154
+<font color=#00FFFF>Chili kommt auch durch.</font>
+
+98
+00:09:42,314 --> 00:09:45,754
+<font color=#00FFFF>Danke.</font>
+
+99
+00:09:46,554 --> 00:09:53,114
+<font color=#00FFFF>Morgen ist Hannes bei uns.</font>
+<font color=#00FFFF>Er macht Gnocchi mit Schwarzwurzeln.</font>
+

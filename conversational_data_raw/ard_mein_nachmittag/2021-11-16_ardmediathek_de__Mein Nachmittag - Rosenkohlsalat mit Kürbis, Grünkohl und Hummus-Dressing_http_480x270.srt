@@ -1,0 +1,609 @@
+1
+00:00:01,365 --> 00:00:04,885
+<font color=#00FFFF>Wir haben hier schon</font>
+<font color=#00FFFF>Grünkohl liegen.</font>
+
+2
+00:00:05,405 --> 00:00:08,685
+<font color=#00FFFF>Johanna Kaiser ist bei uns,</font>
+<font color=#00FFFF>Köchin aus Hamburg.</font>
+
+3
+00:00:08,845 --> 00:00:11,365
+<font color=#00FFFF>Sie ist zum ersten Mal bei uns.</font>
+
+4
+00:00:11,525 --> 00:00:14,845
+<font color=#00FFFF>Was kochst du heute?</font>
+
+5
+00:00:16,645 --> 00:00:20,125
+<font color=#FFFF00>Ich habe mir einen Salat überlegt.</font>
+
+6
+00:00:23,685 --> 00:00:30,565
+<font color=#FFFF00>Ich schiebe gleich den Grünkohl</font>
+<font color=#FFFF00>mit dem Kürbis in den Ofen.</font>
+
+7
+00:00:31,805 --> 00:00:35,805
+<font color=#FFFF00>Dann wird der Grünkohl</font>
+<font color=#FFFF00>nicht geschmort und weichgekocht.</font>
+
+8
+00:00:35,965 --> 00:00:39,405
+<font color=#FFFF00>Er wird richtig knusprig im Ofen.</font>
+
+9
+00:00:41,125 --> 00:00:44,925
+<font color=#FFFF00>Gemeinsam mit dem Rosenkohl</font>
+<font color=#FFFF00>wird es ein schöner Salat.</font>
+
+10
+00:00:45,085 --> 00:00:48,445
+<font color=#00FFFF>Das ist mal etwas ganz anderes.</font>
+
+11
+00:00:48,605 --> 00:00:51,925
+<font color=#00FFFF>Wollen wir mal kurz</font>
+<font color=#00FFFF>deine Fans grüßen?</font>
+
+12
+00:00:52,325 --> 00:00:55,845
+<font color=#00FFFF>Natürlich sitzen alle</font>
+<font color=#00FFFF>vorm Fernseher.</font>
+
+13
+00:00:56,205 --> 00:01:00,405
+<font color=#FFFF00>Liebe Grüße an alle, die heute</font>
+<font color=#FFFF00>für mich eingeschaltet haben.</font>
+
+14
+00:01:01,885 --> 00:01:05,285
+<font color=#00FFFF>Willst du das schon</font>
+<font color=#00FFFF>in den Backofen schieben?</font>
+
+15
+00:01:05,445 --> 00:01:08,245
+<font color=#FFFF00>Ich hobel das hier noch kurz.</font>
+
+16
+00:01:08,445 --> 00:01:11,765
+<font color=#00FFFF>Kann ich dich unterstützen?</font>
+
+17
+00:01:13,965 --> 00:01:17,445
+<font color=#FFFF00>Es gibt später dazu</font>
+<font color=#FFFF00>ein gebratenes Stück Halloumi.</font>
+
+18
+00:01:17,605 --> 00:01:21,045
+<font color=#FFFF00>Das ist der Käse,</font>
+<font color=#FFFF00>den man braten kann.</font>
+
+19
+00:01:21,285 --> 00:01:24,765
+<font color=#FFFF00>Man kennt das als Grillkäse.</font>
+
+20
+00:01:24,925 --> 00:01:28,365
+<font color=#FFFF00>Ich finde das aber</font>
+<font color=#FFFF00>in der Pfanne spannender.</font>
+
+21
+00:01:28,645 --> 00:01:31,325
+<font color=#FFFF00>Dann wird er knusprig</font>
+<font color=#FFFF00>von allen Seiten.</font>
+
+22
+00:01:33,485 --> 00:01:36,085
+<font color=#FFFF00>Ich gebe ihn dir gleich.</font>
+
+23
+00:01:36,245 --> 00:01:39,605
+<font color=#FFFF00>Ich schieb das mal kurz rein.</font>
+
+24
+00:01:39,925 --> 00:01:43,445
+<font color=#FFFF00>Wir machen etwas Öl und Salz drauf.</font>
+
+25
+00:01:43,645 --> 00:01:45,925
+<font color=#FFFF00>Dann vermenge ich das ein wenig.</font>
+
+26
+00:01:52,125 --> 00:01:55,205
+<font color=#00FFFF>Brauchen wir die Weintrauben auch?</font>
+
+27
+00:01:55,365 --> 00:01:58,725
+<font color=#FFFF00>Ja, die brauchen wir auch.</font>
+
+28
+00:02:00,325 --> 00:02:04,165
+<font color=#FFFF00>Ich finde, jeder Salat kann auch</font>
+<font color=#FFFF00>etwas Süßes vertragen.</font>
+
+29
+00:02:07,325 --> 00:02:09,485
+<font color=#00FFFF>Das war die Kühlschrankkamera.</font>
+
+30
+00:02:12,005 --> 00:02:16,245
+<font color=#FFFF00>Den Käse kannst du in ein Zentimeter</font>
+<font color=#FFFF00>dicke Scheiben schneiden.</font>
+
+31
+00:02:18,765 --> 00:02:21,925
+<font color=#00FFFF>Womit machst du weiter?</font>
+
+32
+00:02:22,085 --> 00:02:25,445
+<font color=#FFFF00>Ich starte mit dem Rosenkohl.</font>
+
+33
+00:02:26,445 --> 00:02:29,925
+<font color=#FFFF00>Ich habe</font>
+<font color=#FFFF00>diesen kleinen Hobel mitgebracht.</font>
+
+34
+00:02:32,125 --> 00:02:36,405
+<font color=#FFFF00>Den Kürbis, den Rosenkohl und</font>
+<font color=#FFFF00>die Zwiebeln hobel ich da drüber.</font>
+
+35
+00:02:37,805 --> 00:02:40,845
+<font color=#00FFFF>Kriegt man von dem Rosenkohl</font>
+<font color=#00FFFF>nicht Bauchweh?</font>
+
+36
+00:02:42,405 --> 00:02:45,805
+<font color=#FFFF00>Wir hobeln den Rosenkohl sehr dünn.</font>
+
+37
+00:02:47,925 --> 00:02:51,405
+<font color=#FFFF00>Dadurch wird er angenehmer</font>
+<font color=#FFFF00>zum Essen.</font>
+
+38
+00:02:54,045 --> 00:02:57,725
+<font color=#FFFF00>Bei Kohl sagt man oft,</font>
+<font color=#FFFF00>Kümmel hilft, den zu verdauen.</font>
+
+39
+00:03:01,485 --> 00:03:04,965
+<font color=#FFFF00>Das kann aber auch</font>
+<font color=#FFFF00>Ingwer oder Koriander.</font>
+
+40
+00:03:05,325 --> 00:03:08,805
+<font color=#FFFF00>In das Dressing</font>
+<font color=#FFFF00>kommt noch Ingwer mit hinein.</font>
+
+41
+00:03:08,965 --> 00:03:12,285
+<font color=#FFFF00>Dann bleibt es verdaulich.</font>
+
+42
+00:03:14,245 --> 00:03:17,725
+<font color=#FFFF00>Roher Kohl hat auch Vorteile</font>
+<font color=#FFFF00>bei den Vitaminen.</font>
+
+43
+00:03:26,165 --> 00:03:28,725
+<font color=#00FFFF>Das werden viele Vitamine heute.</font>
+
+44
+00:03:35,845 --> 00:03:38,205
+<font color=#FFFF00>Ich mach schon mal die Pfanne an.</font>
+
+45
+00:03:40,365 --> 00:03:43,845
+<font color=#FFFF00>Darin rösten wir zuerst die Mandeln.</font>
+
+46
+00:03:44,845 --> 00:03:48,325
+<font color=#00FFFF>Soll ich die Weintrauben schon ...</font>
+
+47
+00:03:49,645 --> 00:03:53,165
+<font color=#FFFF00>Ja, ich dachte auch an Scheiben.</font>
+
+48
+00:03:54,485 --> 00:03:57,965
+<font color=#00FFFF>Wir wollen dich</font>
+<font color=#00FFFF>auch etwas kennenlernen.</font>
+
+49
+00:03:58,125 --> 00:04:01,525
+<font color=#00FFFF>Du hast beim Sternekoch gelernt.</font>
+
+50
+00:04:02,805 --> 00:04:06,285
+<font color=#FFFF00>Oh, ich hab die falsche Platte</font>
+<font color=#FFFF00>angemacht.</font>
+
+51
+00:04:10,725 --> 00:04:14,285
+<font color=#FFFF00>Ja, ich hab auf dem Süllberg</font>
+<font color=#FFFF00>in Blankenese gelernt.</font>
+
+52
+00:04:15,645 --> 00:04:19,125
+<font color=#FFFF00>Das ist auch</font>
+<font color=#FFFF00>ein bekannter Fernsehkoch.</font>
+
+53
+00:04:19,285 --> 00:04:22,725
+<font color=#FFFF00>Da habe ich einiges erlebt.</font>
+
+54
+00:04:23,085 --> 00:04:26,565
+<font color=#00FFFF>Warum bist du Köchin geworden?</font>
+
+55
+00:04:30,845 --> 00:04:35,085
+<font color=#FFFF00>Ich habe als Kind, schon bevor ich</font>
+<font color=#FFFF00>in den Kindergarten ging,</font>
+
+56
+00:04:35,245 --> 00:04:38,485
+<font color=#FFFF00>immer die Nachmittage</font>
+<font color=#FFFF00>bei meiner Oma verbracht.</font>
+
+57
+00:04:38,645 --> 00:04:41,645
+<font color=#FFFF00>Ich komme von einem Bauernhof.</font>
+
+58
+00:04:41,805 --> 00:04:45,205
+<font color=#FFFF00>Da hat sie immer</font>
+<font color=#FFFF00>für den ganzen Hof gekocht.</font>
+
+59
+00:04:45,925 --> 00:04:49,525
+<font color=#FFFF00>Ich habe immer den ganzen Tag</font>
+<font color=#FFFF00>in der Küche gesessen.</font>
+
+60
+00:04:50,485 --> 00:04:54,005
+<font color=#FFFF00>Ich habe etwas gebraucht,</font>
+<font color=#FFFF00>um es herauszufinden:</font>
+
+61
+00:04:54,565 --> 00:04:58,725
+<font color=#FFFF00>Aber am Ende war klar,</font>
+<font color=#FFFF00>dass ich in die Richtung gehen will.</font>
+
+62
+00:04:58,885 --> 00:05:02,565
+<font color=#FFFF00>Ich hatte immer schon viel</font>
+<font color=#FFFF00>mit der Gastronomie zu tun.</font>
+
+63
+00:05:03,725 --> 00:05:07,205
+<font color=#00FFFF>Das ist das Wintergemüse</font>
+<font color=#00FFFF>neu entdeckt.</font>
+
+64
+00:05:07,805 --> 00:05:11,285
+<font color=#FFFF00>Eine Suppe kann jeder.</font>
+
+65
+00:05:12,085 --> 00:05:15,925
+<font color=#FFFF00>Aber auch im Herbst kann man</font>
+<font color=#FFFF00>mal gut einen Salat essen.</font>
+
+66
+00:05:16,325 --> 00:05:19,845
+<font color=#FFFF00>Ich habe schon</font>
+<font color=#FFFF00>die Zwiebeln gehobelt.</font>
+
+67
+00:05:20,005 --> 00:05:23,325
+<font color=#FFFF00>Da habe ich Zitronensaft</font>
+<font color=#FFFF00>draufgegeben.</font>
+
+68
+00:05:25,885 --> 00:05:29,005
+<font color=#FFFF00>Wenn man Zwiebeln</font>
+<font color=#FFFF00>im Salat roh nimmt,</font>
+
+69
+00:05:29,165 --> 00:05:32,485
+<font color=#FFFF00>sind sie oft schwer zu verdauen.</font>
+
+70
+00:05:35,445 --> 00:05:39,605
+<font color=#FFFF00>Wenn man da schon Säure dazugibt,</font>
+<font color=#FFFF00>werden die etwas milder.</font>
+
+71
+00:05:39,765 --> 00:05:43,165
+<font color=#FFFF00>Dann sind die nicht mehr so beißend.</font>
+
+72
+00:05:43,325 --> 00:05:46,245
+<font color=#FFFF00>Dann machen wir noch</font>
+<font color=#FFFF00>den Ingwer drauf.</font>
+
+73
+00:05:46,405 --> 00:05:49,765
+<font color=#FFFF00>Im Ofen sieht es schon gut aus.</font>
+
+74
+00:05:57,005 --> 00:06:00,125
+<font color=#FFFF00>Ich habe Umluft und Grill angemacht.</font>
+
+75
+00:06:00,285 --> 00:06:03,485
+<font color=#FFFF00>Dadurch wird es schnell knusprig.</font>
+
+76
+00:06:03,605 --> 00:06:06,965
+<font color=#FFFF00>Der Grünkohl behält noch etwas Biss.</font>
+
+77
+00:06:09,205 --> 00:06:12,685
+<font color=#FFFF00>Ich habe hier</font>
+<font color=#FFFF00>noch eine andere Reibe.</font>
+
+78
+00:06:16,765 --> 00:06:20,285
+<font color=#FFFF00>Damit reibe ich den Ingwer.</font>
+
+79
+00:06:22,325 --> 00:06:25,605
+<font color=#00FFFF>In der Pfanne?</font>
+
+80
+00:06:26,645 --> 00:06:29,365
+<font color=#FFFF00>Da kommt gleich der Käse rein.</font>
+
+81
+00:06:29,525 --> 00:06:32,885
+<font color=#FFFF00>Sie ist aber</font>
+<font color=#FFFF00>noch nicht richtig heiß.</font>
+
+82
+00:06:36,925 --> 00:06:39,565
+<font color=#FFFF00>Zuerst rösten wir Mandeln an.</font>
+
+83
+00:06:39,725 --> 00:06:42,205
+<font color=#FFFF00>Das wird schon braun.</font>
+
+84
+00:06:42,365 --> 00:06:45,685
+<font color=#FFFF00>Das nehmen gleich raus.</font>
+
+85
+00:06:48,205 --> 00:06:51,685
+<font color=#FFFF00>Aber der Grünkohl</font>
+<font color=#FFFF00>braucht immer beide Extreme.</font>
+
+86
+00:06:52,005 --> 00:06:55,285
+<font color=#FFFF00>Er kann gut Frost ab</font>
+<font color=#FFFF00>und braucht auch Brand.</font>
+
+87
+00:07:05,925 --> 00:07:10,405
+<font color=#FFFF00>Das können wir schon auf dem Teller</font>
+<font color=#FFFF00>verteilen auf dem Rosenkohl.</font>
+
+88
+00:07:10,565 --> 00:07:13,965
+<font color=#FFFF00>In derselben Schüssel</font>
+<font color=#FFFF00>machen wir auf das Dressing.</font>
+
+89
+00:07:17,405 --> 00:07:21,565
+<font color=#FFFF00>Ich habe noch ein paar Kapern dabei</font>
+<font color=#FFFF00>und den Star von heute,</font>
+
+90
+00:07:21,725 --> 00:07:25,125
+<font color=#FFFF00>den Hummus.</font>
+
+91
+00:07:25,445 --> 00:07:28,685
+<font color=#00FFFF>Hummus als Dressing -</font>
+<font color=#00FFFF>ich kenn das nur als Dipp.</font>
+
+92
+00:07:29,285 --> 00:07:31,725
+<font color=#FFFF00>Ich mag es auch gerne auf Brot.</font>
+
+93
+00:07:35,765 --> 00:07:37,445
+<font color=#FFFF00>Wir müssen loslegen.</font>
+
+94
+00:07:37,885 --> 00:07:39,605
+<font color=#00FFFF>Wir müssen Gas geben.</font>
+
+95
+00:07:40,205 --> 00:07:42,885
+<font color=#00FFFF>Du hast auch mit Tim Mälzer gekocht.</font>
+
+96
+00:07:52,125 --> 00:07:55,085
+<font color=#FFFF00>Ein Ceasar Dressing</font>
+<font color=#FFFF00>mag ich auch gerne.</font>
+
+97
+00:07:55,245 --> 00:07:58,565
+<font color=#FFFF00>Das ist ein dickes Dressing.</font>
+
+98
+00:07:59,565 --> 00:08:03,045
+<font color=#FFFF00>Ein bisschen Kapern</font>
+<font color=#FFFF00>und Kapernsaft dazu.</font>
+
+99
+00:08:03,725 --> 00:08:07,205
+<font color=#FFFF00>Ein gutes Dressing</font>
+<font color=#FFFF00>braucht auch Senf.</font>
+
+100
+00:08:11,085 --> 00:08:14,285
+<font color=#FFFF00>Dann kommt etwas Salz</font>
+<font color=#FFFF00>und ein bisschen Pfeffer.</font>
+
+101
+00:08:18,165 --> 00:08:21,685
+<font color=#FFFF00>Ich hole mal schnell den Kohl.</font>
+
+102
+00:08:24,405 --> 00:08:25,925
+<font color=#FFFF00>So soll das aussehen.</font>
+
+103
+00:08:30,965 --> 00:08:32,885
+<font color=#00FFFF>Hast du volle Power? </font>
+<font color=#FFFF00>Ja.</font>
+
+104
+00:08:33,285 --> 00:08:35,805
+<font color=#FFFF00>Aber es wird nicht richtig heiß.</font>
+
+105
+00:08:37,765 --> 00:08:40,165
+<font color=#00FFFF>Können wir den Käse dazu legen?</font>
+
+106
+00:08:42,645 --> 00:08:44,765
+<font color=#FFFF00>Ich leg hier mal etwas drauf.</font>
+
+107
+00:08:49,645 --> 00:08:53,125
+<font color=#FFFF00>Der Kohl ist richtig schön knusprig.</font>
+
+108
+00:08:53,885 --> 00:08:57,165
+<font color=#00FFFF>Kannst du das anrichten,</font>
+<font color=#00FFFF>damit wir das sehen?</font>
+
+109
+00:08:57,365 --> 00:08:58,365
+<font color=#FFFF00>Ja, klar.</font>
+
+110
+00:08:59,965 --> 00:09:02,285
+<font color=#FFFF00>Ich gebe hier etwas was drüber.</font>
+
+111
+00:09:03,645 --> 00:09:06,725
+<font color=#FFFF00>Wir bauen den Salat</font>
+<font color=#FFFF00>auf dem Teller zusammen.</font>
+
+112
+00:09:09,405 --> 00:09:12,925
+<font color=#FFFF00>Wir haben den knusprigen Grünkohl.</font>
+
+113
+00:09:13,285 --> 00:09:16,645
+<font color=#FFFF00>Der Kürbis ist auch noch bissfest.</font>
+
+114
+00:09:16,805 --> 00:09:20,125
+<font color=#FFFF00>Aber er ist sehr dünn gehobelt.</font>
+
+115
+00:09:21,525 --> 00:09:24,565
+<font color=#FFFF00>Dann machen wir schnell</font>
+<font color=#FFFF00>das Dressing fertig.</font>
+
+116
+00:09:24,725 --> 00:09:28,165
+<font color=#FFFF00>Da es schon alles drin.</font>
+
+117
+00:09:28,765 --> 00:09:32,285
+<font color=#FFFF00>Wir rühren es durch</font>
+<font color=#FFFF00>und geben Olivenöl dazu.</font>
+
+118
+00:09:33,725 --> 00:09:36,605
+<font color=#00FFFF>Kann ich die Weintrauben dazutun?</font>
+
+119
+00:09:36,765 --> 00:09:40,085
+<font color=#FFFF00>Gerne.</font>
+
+120
+00:09:41,005 --> 00:09:44,485
+<font color=#00FFFF>Etwas Buntes an die Seite.</font>
+
+121
+00:09:45,965 --> 00:09:49,405
+<font color=#FFFF00>Das mit dem Käse</font>
+<font color=#FFFF00>schaffen wir nicht mehr.</font>
+
+122
+00:09:49,565 --> 00:09:52,925
+<font color=#FFFF00>Aber ich habe</font>
+<font color=#FFFF00>etwas anderes vorbereitet.</font>
+
+123
+00:09:54,525 --> 00:09:57,965
+<font color=#00FFFF>Was du aus den Schubladen zauberst.</font>
+
+124
+00:09:58,125 --> 00:10:01,045
+<font color=#FFFF00>Das Dressing ist fertig.</font>
+
+125
+00:10:01,205 --> 00:10:03,165
+<font color=#FFFF00>Davon bekommst du etwas.</font>
+
+126
+00:10:07,925 --> 00:10:10,885
+<font color=#FFFF00>Das sieht schön aus</font>
+<font color=#FFFF00>mit den Weintrauben.</font>
+
+127
+00:10:11,045 --> 00:10:14,405
+<font color=#00FFFF>Ich probiere mal das Dressing.</font>
+
+128
+00:10:15,165 --> 00:10:16,605
+<font color=#00FFFF>Oh, das hat Wumms.</font>
+
+129
+00:10:17,405 --> 00:10:19,445
+<font color=#00FFFF>Das ist eine tolle Kombi.</font>
+
+130
+00:10:22,605 --> 00:10:25,285
+<font color=#FFFF00>Die Mandeln passen auch gut dazu.</font>
+
+131
+00:10:28,485 --> 00:10:32,525
+<font color=#FFFF00>Dann schneiden wir ein Stück</font>
+<font color=#FFFF00>Hühnchen auf und legen es dazu.</font>
+
+132
+00:10:34,325 --> 00:10:37,645
+<font color=#FFFF00>Man kann dazu</font>
+<font color=#FFFF00>ein Protein seiner Wahl legen.</font>
+
+133
+00:10:39,245 --> 00:10:41,965
+<font color=#FFFF00>Den Käse habe ich</font>
+<font color=#FFFF00>nicht mehr geschafft.</font>
+
+134
+00:10:43,685 --> 00:10:45,205
+<font color=#00FFFF>Das sieht toll aus.</font>
+
+135
+00:10:47,085 --> 00:10:49,965
+<font color=#00FFFF>Der Wintergemüse-Salat</font>
+<font color=#00FFFF>mit Hummus-Dressing.</font>
+
+136
+00:10:53,045 --> 00:10:54,565
+<font color=#00FFFF>Das ist super lecker.</font>
+

@@ -1,0 +1,907 @@
+1
+00:00:07,016 --> 00:00:10,023
+<font color=#ffffff>Bei uns ist heute wieder Christian</font>
+<font color=#ffffff>Henze in der Küche.</font>
+
+2
+00:00:11,007 --> 00:00:14,024
+<font color=#ffff00>Hallo Peter.</font>
+
+3
+00:00:15,012 --> 00:00:19,015
+<font color=#ffffff>Du bearbeitest ein beliebtes Winter-</font>
+<font color=#ffffff>Gemüse.</font>
+
+4
+00:00:20,001 --> 00:00:23,009
+<font color=#ffff00>Ich bearbeite dein Lieblingsgemüse.</font>
+
+5
+00:00:23,019 --> 00:00:26,004
+<font color=#ffffff>Mein zukünftiges Lieblingsgemüse.</font>
+
+6
+00:00:26,014 --> 00:00:29,000
+<font color=#ffffff>Du wirst das heute schaffen.</font>
+
+7
+00:00:29,014 --> 00:00:32,007
+<font color=#ffff00>Ich liebe Rosenkohl.</font>
+
+8
+00:00:32,012 --> 00:00:35,023
+<font color=#ffff00>Nicht alle mögen ihn.</font>
+
+9
+00:00:36,007 --> 00:00:39,024
+<font color=#ffffff>Das polarisiert ein bisschen.</font>
+
+10
+00:00:42,003 --> 00:00:45,024
+<font color=#ffff00>Rosenkohl richtig zubereitet ist</font>
+<font color=#ffff00>eine kulinarische Freude.</font>
+
+11
+00:00:49,013 --> 00:00:53,007
+<font color=#ffff00>Man muss in ordentlich putzen, den</font>
+<font color=#ffff00>Strunk abschneiden und auf die</font>
+
+12
+00:00:53,019 --> 00:00:54,018
+<font color=#ffff00>Blätter.</font>
+
+13
+00:00:55,005 --> 00:00:58,013
+<font color=#ffff00>Wenn die Röschen ganz groß sind,</font>
+
+14
+00:00:58,022 --> 00:01:02,006
+<font color=#ffff00>dann kann man die hier leicht</font>
+<font color=#ffff00>einschneiden.</font>
+
+15
+00:01:02,017 --> 00:01:06,006
+<font color=#ffff00>Dann garen sie schneller.</font>
+
+16
+00:01:12,012 --> 00:01:16,016
+<font color=#ffffff>Ich dachte, durch Züchtungen ist</font>
+<font color=#ffffff>Rosenkohl teilweise nicht so bitter</font>
+
+17
+00:01:17,003 --> 00:01:18,000
+<font color=#ffffff>wie früher.</font>
+
+18
+00:01:18,009 --> 00:01:22,000
+<font color=#ffff00>Rosenkohl muss relativ weich gekocht</font>
+<font color=#ffff00>werden.</font>
+
+19
+00:01:30,009 --> 00:01:34,009
+<font color=#ffff00>Dann schmecken wir in Butter-Brösel</font>
+<font color=#ffff00>an.</font>
+
+20
+00:01:47,011 --> 00:01:49,020
+<font color=#ffff00>Das ganze Gericht heißt</font>
+<font color=#ffff00>Rosenkohltopf mit</font>
+
+21
+00:01:50,001 --> 00:01:53,014
+<font color=#ffff00>Schweinefilet-Medaillons, Rahmsauce</font>
+<font color=#ffff00>und Kartoffel-Apfel-Gratin.</font>
+
+22
+00:01:54,001 --> 00:01:54,023
+<font color=#ffffff>Das klingt gut.</font>
+
+23
+00:01:55,009 --> 00:01:58,021
+<font color=#ffff00>Ich gebe dir das Messer.</font>
+
+24
+00:01:59,012 --> 00:02:03,011
+<font color=#ffff00>Du machst den Rosenkohl.</font>
+
+25
+00:02:04,000 --> 00:02:07,005
+<font color=#ffff00>Ich kümmere mich um das Fleisch.</font>
+
+26
+00:02:13,016 --> 00:02:17,019
+<font color=#ffffff>Das blöde am Rosenkohl ist, dass er</font>
+<font color=#ffffff>rund ist.</font>
+
+27
+00:02:18,022 --> 00:02:23,001
+<font color=#ffffff>D. h., er rollt manchmal vom Tisch</font>
+<font color=#ffffff>runter.</font>
+
+28
+00:02:27,016 --> 00:02:30,016
+<font color=#ffffff>Eine Rosenkohl-Pflanze besteht aus</font>
+<font color=#ffffff>bis zu 40 kleinen</font>
+
+29
+00:02:31,005 --> 00:02:32,000
+<font color=#ffffff>Rosenkohl-Köpfchen.</font>
+
+30
+00:02:32,012 --> 00:02:34,006
+<font color=#ffff00>Hast du das gegoogelt?</font>
+
+31
+00:02:34,014 --> 00:02:36,005
+<font color=#ffffff>Nein, gezählt.</font>
+
+32
+00:02:36,016 --> 00:02:40,004
+<font color=#ffff00>O. k.</font>
+
+33
+00:02:43,019 --> 00:02:47,019
+<font color=#ffff00>Das Schweinefilet in 3-4 cm große</font>
+<font color=#ffff00>Medaillons schneiden.</font>
+
+34
+00:02:48,002 --> 00:02:51,017
+<font color=#ffff00>Und dann ein bisschen in Form</font>
+<font color=#ffff00>bringen.</font>
+
+35
+00:02:52,020 --> 00:02:56,023
+<font color=#ffff00>Man kann sie mit dem Messer platt</font>
+<font color=#ffff00>drücken.</font>
+
+36
+00:03:01,003 --> 00:03:04,023
+<font color=#ffff00>Die Medaillons kommen dann mit einem</font>
+<font color=#ffff00>Schluck Öl in die heiße Pfanne.</font>
+
+37
+00:03:05,010 --> 00:03:08,002
+<font color=#ffff00>Mit Salz und Pfeffer würzen.</font>
+
+38
+00:03:08,015 --> 00:03:12,003
+<font color=#ffff00>Das ist keine Hexerei.</font>
+
+39
+00:03:13,018 --> 00:03:17,021
+<font color=#ffffff>Das sagst du so als Profi.</font>
+
+40
+00:03:18,012 --> 00:03:22,010
+<font color=#ffffff>Viele Menschen haben Respekt vor</font>
+<font color=#ffffff>Fleisch.</font>
+
+41
+00:03:22,022 --> 00:03:26,020
+<font color=#ffffff>Das kostet ein bisschen was, das</font>
+<font color=#ffffff>will man nicht versauen.</font>
+
+42
+00:03:39,016 --> 00:03:43,005
+<font color=#ffff00>Fleisch muss man eine gewisse</font>
+<font color=#ffff00>Energie mitgeben.</font>
+
+43
+00:03:43,019 --> 00:03:47,003
+<font color=#ffff00>Also ruhig die Pfanne heiß machen.</font>
+
+44
+00:03:51,003 --> 00:03:55,008
+<font color=#ffffff>Wenn ich Fleisch in der Pfanne oder</font>
+<font color=#ffffff>auf dem Grill zubereitet,</font>
+
+45
+00:03:55,020 --> 00:03:59,019
+<font color=#ffffff>wird es dunkel am Pfannenboden.</font>
+
+46
+00:04:09,014 --> 00:04:13,012
+<font color=#ffff00>Du musst es in Ruhe anbraten lassen,</font>
+<font color=#ffff00>bis es etwas bräuner wird.</font>
+
+47
+00:04:16,003 --> 00:04:19,023
+<font color=#ffff00>Jetzt Salz in das Wasser, dann den</font>
+<font color=#ffff00>Rosenkohl rein.</font>
+
+48
+00:04:23,018 --> 00:04:27,018
+<font color=#ffff00>Wir machen noch eine Sauce.</font>
+
+49
+00:04:28,005 --> 00:04:31,010
+<font color=#ffffff>Wie lange dauert das mit dem</font>
+<font color=#ffffff>Rosenkohl?</font>
+
+50
+00:04:32,001 --> 00:04:34,011
+<font color=#ffff00>5 Minuten etwa.</font>
+
+51
+00:04:35,000 --> 00:04:38,014
+<font color=#ffff00>Das Fleisch dauert noch ein</font>
+<font color=#ffff00>bisschen.</font>
+
+52
+00:04:39,016 --> 00:04:43,018
+<font color=#ffff00>Aus diesem Braten-Ansatz machen wir</font>
+<font color=#ffff00>dann die Sauce.</font>
+
+53
+00:04:46,007 --> 00:04:50,005
+<font color=#ffff00>Jetzt machen wir den Auflauf.</font>
+
+54
+00:04:54,011 --> 00:04:58,011
+<font color=#ffffff>Wir machen alles frisch, außer den</font>
+<font color=#ffffff>Auflauf?</font>
+
+55
+00:04:58,024 --> 00:05:02,024
+<font color=#ffff00>Ja, das mit dem Auflauf würden wir</font>
+<font color=#ffff00>nicht schaffen.</font>
+
+56
+00:05:03,011 --> 00:05:06,024
+<font color=#ffff00>Wir brauchen hier Äpfel, die beim</font>
+<font color=#ffff00>Kochen weich werden.</font>
+
+57
+00:05:08,010 --> 00:05:12,009
+<font color=#ffff00>Also zum Beispiel Boskop.</font>
+
+58
+00:05:16,012 --> 00:05:20,010
+<font color=#ffff00>Das Gratin ist besonders.</font>
+
+59
+00:05:20,022 --> 00:05:24,002
+<font color=#ffff00>Man kann es leicht nachkochen.</font>
+
+60
+00:05:24,012 --> 00:05:26,001
+<font color=#ffffff>Könnte man es auch ohne abzumachen?</font>
+
+61
+00:05:26,014 --> 00:05:28,022
+<font color=#ffff00>Natürlich.</font>
+
+62
+00:05:29,008 --> 00:05:31,017
+<font color=#ffffff>Ich frage für einen Freund.</font>
+
+63
+00:05:32,006 --> 00:05:35,008
+<font color=#ffff00>Marke keine Äpfel?</font>
+
+64
+00:05:35,020 --> 00:05:39,016
+<font color=#ffff00>--Mag er</font>
+
+65
+00:05:41,024 --> 00:05:45,022
+<font color=#ffffff>genau, erst komisch, er ist auch</font>
+<font color=#ffffff>ganz wenig Obst.</font>
+
+66
+00:05:47,015 --> 00:05:51,011
+<font color=#ffffff>Auch Äpfel sind rund und können</font>
+<font color=#ffffff>Wegrollen.</font>
+
+67
+00:05:59,015 --> 00:06:03,017
+<font color=#ffff00>Dieses Gratin mache ich ein bisschen</font>
+<font color=#ffff00>anders, als du vielleicht denkst.</font>
+
+68
+00:06:08,024 --> 00:06:12,020
+<font color=#ffff00>Es kommt nicht roh in die Form,</font>
+<font color=#ffff00>sondern vorsichtig angebrachten.</font>
+
+69
+00:06:13,006 --> 00:06:17,003
+<font color=#ffff00>--angebraten</font>
+
+70
+00:06:20,000 --> 00:06:24,001
+<font color=#ffff00>in Butter mit Zwiebeln und Knoblauch</font>
+<font color=#ffff00>etwas an geschwitzt.</font>
+
+71
+00:06:24,010 --> 00:06:27,000
+<font color=#ffffff>Wie möchtest du den Apfel haben?</font>
+
+72
+00:06:27,014 --> 00:06:31,005
+<font color=#ffff00>Geviertelt.</font>
+
+73
+00:06:32,010 --> 00:06:36,010
+<font color=#ffffff>Alle Zutaten kommen normalerweise</font>
+<font color=#ffffff>roh in eine Auflaufform.</font>
+
+74
+00:06:41,013 --> 00:06:44,023
+<font color=#ffff00>Aber wir kochen das jetzt vor.</font>
+
+75
+00:06:45,013 --> 00:06:49,008
+<font color=#ffff00>Dann geht es schneller.</font>
+
+76
+00:06:50,003 --> 00:06:54,007
+<font color=#ffff00>Wir haben auch ein neues Buch.</font>
+
+77
+00:06:56,013 --> 00:07:00,018
+<font color=#ffffff>Im Zusammenarbeit mit dem MDR</font>
+<font color=#ffffff>entstanden.</font>
+
+78
+00:07:03,005 --> 00:07:07,007
+<font color=#ffffff>Schnelle Rezepte, 15 Minuten, mit 5</font>
+<font color=#ffffff>Zutaten.</font>
+
+79
+00:07:09,001 --> 00:07:13,001
+<font color=#ffffff>Ich habe das Talent, dass ich einen</font>
+<font color=#ffffff>ganzen Einkaufswagen</font>
+
+80
+00:07:13,013 --> 00:07:17,005
+<font color=#ffffff>voll mit Lebensmitteln einkaufe.</font>
+
+81
+00:07:19,007 --> 00:07:23,005
+<font color=#ffffff>Aber aus den Sachen kann man kein</font>
+<font color=#ffffff>einziges komplettes Gericht kochen.</font>
+
+82
+00:07:23,017 --> 00:07:27,014
+<font color=#ffffff>Irgendetwas fehlt bei mir immer.</font>
+
+83
+00:07:28,003 --> 00:07:32,001
+<font color=#ffff00>Gut kochen hat nichts mit aufwendig</font>
+<font color=#ffff00>kochen zu tun.</font>
+
+84
+00:07:33,020 --> 00:07:37,020
+<font color=#ffff00>Mit wenig Zutaten sollte man zum</font>
+<font color=#ffff00>Ziel gelangen.</font>
+
+85
+00:07:45,001 --> 00:07:49,000
+<font color=#ffffff>Du hast jetzt den Apfel schon</font>
+<font color=#ffffff>genommen, klein gemacht und rein in</font>
+
+86
+00:08:09,015 --> 00:08:13,007
+<font color=#ffff00>In der Pfanne habe ich Butter,</font>
+<font color=#ffff00>Zwiebeln, rohe Kartoffeln und die</font>
+
+87
+00:08:13,020 --> 00:08:16,016
+<font color=#ffff00>Äpfel.</font>
+
+88
+00:08:17,002 --> 00:08:20,011
+<font color=#ffff00>Man kann eine kleine Prise Zucker</font>
+<font color=#ffff00>dazu geben.</font>
+
+89
+00:08:23,011 --> 00:08:27,012
+<font color=#ffffff>Sie sehen den QR-Code,</font>
+
+90
+00:08:31,014 --> 00:08:35,010
+<font color=#ffffff>sie werden automatisch zum heutigen</font>
+<font color=#ffffff>Rezept geführt.</font>
+
+91
+00:08:38,002 --> 00:08:41,015
+<font color=#ffff00>Jetzt gießen wir das ganze mit einem</font>
+<font color=#ffff00>Schluck Milch auf.</font>
+
+92
+00:08:42,001 --> 00:08:45,013
+<font color=#ffff00>Und mit etwas Sahne.</font>
+
+93
+00:08:47,017 --> 00:08:51,015
+<font color=#ffff00>Und jetzt ordentlich kochen lassen.</font>
+
+94
+00:08:54,004 --> 00:08:57,024
+<font color=#ffff00>Dann braucht der Auflauf später</font>
+<font color=#ffff00>nicht 45 Minuten, sondern deutlich</font>
+
+95
+00:08:58,012 --> 00:09:01,008
+<font color=#ffff00>weniger Zeit.</font>
+
+96
+00:09:01,021 --> 00:09:04,002
+<font color=#ffff00>Dann haben wir einen schnellen</font>
+<font color=#ffff00>Auflauf gemacht.</font>
+
+97
+00:09:04,014 --> 00:09:06,008
+<font color=#ffff00>Er schmeckt total gut.</font>
+
+98
+00:09:14,000 --> 00:09:17,023
+<font color=#ffffff>Der Rosenkohl müsste jetzt fast</font>
+<font color=#ffffff>fertig sein.</font>
+
+99
+00:09:19,017 --> 00:09:23,017
+<font color=#ffff00>Das Fleisch löst sich von der</font>
+<font color=#ffff00>Pfanne.</font>
+
+100
+00:09:24,020 --> 00:09:28,018
+<font color=#ffffff>Man sollte also warten, bis es sich</font>
+<font color=#ffffff>alleine bewegen kann.</font>
+
+101
+00:09:30,000 --> 00:09:34,001
+<font color=#ffff00>Diesen Fehler macht man oft, vor</font>
+<font color=#ffff00>allem auf dem Grill.</font>
+
+102
+00:09:34,015 --> 00:09:38,019
+<font color=#ffff00>Dass man das Fleisch dann weg zerrt.</font>
+
+103
+00:09:40,009 --> 00:09:42,019
+<font color=#ffffff>Ist das unten ein bisschen schwarz</font>
+<font color=#ffffff>geworden?</font>
+
+104
+00:09:43,003 --> 00:09:46,023
+<font color=#ffff00>Nein.</font>
+
+105
+00:09:47,009 --> 00:09:50,003
+<font color=#ffff00>Jetzt den Braten-Ansatz ablöschen.</font>
+
+106
+00:09:50,016 --> 00:09:51,024
+<font color=#ffff00>Mit Rotwein.</font>
+
+107
+00:09:56,007 --> 00:10:00,002
+<font color=#ffff00>Den Rotwein etwas einkochen lassen.</font>
+
+108
+00:10:03,015 --> 00:10:07,015
+<font color=#ffff00>Jetzt kommt bei dir die Frage, was</font>
+<font color=#ffff00>macht man, wenn man kein Wein will?</font>
+
+109
+00:10:09,021 --> 00:10:13,019
+<font color=#ffff00>Man kann auch Brühe verwenden.</font>
+
+110
+00:10:18,008 --> 00:10:21,000
+<font color=#ffff00>Eine Löffel Senf dazu.</font>
+
+111
+00:10:21,013 --> 00:10:24,022
+<font color=#ffff00>Und etwas Sahne.</font>
+
+112
+00:10:25,013 --> 00:10:29,015
+<font color=#ffffff>Rosenkohl soll gut gegen Erkältungen</font>
+<font color=#ffffff>sein.</font>
+
+113
+00:10:30,002 --> 00:10:33,003
+<font color=#ffffff>Ich hab es im Kopf,</font>
+
+114
+00:10:33,016 --> 00:10:36,024
+<font color=#ffffff>was stand da jetzt?</font>
+
+115
+00:10:41,009 --> 00:10:45,007
+<font color=#ffffff>Das hieß früher Brüsseler Kohl.</font>
+
+116
+00:10:47,007 --> 00:10:50,022
+<font color=#ffffff>Weil er zuerst in Belgien angebaut</font>
+<font color=#ffffff>wurde.</font>
+
+117
+00:10:51,005 --> 00:10:54,018
+<font color=#ffffff>Schauen wir mal.</font>
+
+118
+00:10:55,009 --> 00:10:58,018
+<font color=#ffff00>Und nun?</font>
+
+119
+00:11:01,015 --> 00:11:05,000
+<font color=#ffff00>Peter, du kannst in Ruhe weiter</font>
+<font color=#ffff00>schauen auf deinem Tablet.</font>
+
+120
+00:11:05,011 --> 00:11:09,004
+<font color=#ffff00>Ich kümmere mich um den Auflauf.</font>
+
+121
+00:11:09,012 --> 00:11:12,021
+<font color=#ffff00>Die Kartoffeln haben wir einmal</font>
+<font color=#ffff00>aufgekocht.</font>
+
+122
+00:11:13,008 --> 00:11:16,021
+<font color=#ffff00>Sie haben etwas Konsistenz.</font>
+
+123
+00:11:18,007 --> 00:11:22,003
+<font color=#ffff00>Das ist ein super Trick für Sie,</font>
+<font color=#ffff00>liebe Hobbyköche.</font>
+
+124
+00:11:22,017 --> 00:11:26,012
+<font color=#ffff00>So kann man ein Auflauf sehr schnell</font>
+<font color=#ffff00>gut bereiten.</font>
+
+125
+00:11:27,000 --> 00:11:30,009
+<font color=#ffffff>Das gilt auch für andere auf Läufe</font>
+<font color=#ffffff>mit Kartoffeln.</font>
+
+126
+00:11:31,012 --> 00:11:34,021
+<font color=#ffff00>Ja, du kannst es immer aufkochen</font>
+<font color=#ffff00>vorher.</font>
+
+127
+00:11:35,011 --> 00:11:38,024
+<font color=#ffff00>Da kommt noch etwas Käse dazu.</font>
+
+128
+00:11:40,011 --> 00:11:44,007
+<font color=#ffff00>Mit geriebenem oder geschnittenem</font>
+<font color=#ffff00>Käse.</font>
+
+129
+00:11:47,021 --> 00:11:51,003
+<font color=#ffffff>Rosenkohl ist ein guter pflanzlicher</font>
+<font color=#ffffff>Eiweiß-Lieferant.</font>
+
+130
+00:11:51,017 --> 00:11:53,003
+<font color=#ffffff>Und schützen vor vielen Krankheiten.</font>
+
+131
+00:11:53,015 --> 00:11:57,006
+<font color=#ffff00>Sehr schön.</font>
+
+132
+00:11:58,010 --> 00:12:02,009
+<font color=#ffff00>Kräftigen Käse obendrauf, zum</font>
+<font color=#ffff00>Beispiel einen Gruyere.</font>
+
+133
+00:12:02,021 --> 00:12:06,009
+<font color=#ffff00>Jetzt mit 180°C in den Backofen.</font>
+
+134
+00:12:09,012 --> 00:12:13,000
+<font color=#ffff00>10 Minuten backen, dann ist das</font>
+<font color=#ffff00>Ganze fertig.</font>
+
+135
+00:12:13,008 --> 00:12:16,023
+<font color=#ffff00>Das riecht schon sehr gut.</font>
+
+136
+00:12:26,023 --> 00:12:29,017
+<font color=#ffffff>Die Rosenkohlröschen, was sagst du?</font>
+
+137
+00:12:33,003 --> 00:12:37,007
+<font color=#ffffff>Geht es noch?</font>
+
+138
+00:12:37,023 --> 00:12:41,019
+<font color=#ffff00>Noch ein bisschen.</font>
+
+139
+00:12:42,006 --> 00:12:44,011
+<font color=#ffffff>Sie sollen eher weich sein.</font>
+
+140
+00:12:52,003 --> 00:12:55,016
+<font color=#ffff00>In vielen Kochbüchern steht, in Eis-</font>
+<font color=#ffff00>Wasser abschrecken.</font>
+
+141
+00:12:56,003 --> 00:12:58,022
+<font color=#ffff00>Hast du Eiswürfel zu Hause?</font>
+
+142
+00:12:59,012 --> 00:13:02,022
+<font color=#ffffff>Nie, wenn ich sie brauche.</font>
+
+143
+00:13:05,001 --> 00:13:09,003
+<font color=#ffff00>Blanchieren heißt kochen und schnell</font>
+<font color=#ffff00>kalt werden lassen,</font>
+
+144
+00:13:13,005 --> 00:13:17,009
+<font color=#ffff00>damit die Farbe erhalten bleibt und</font>
+<font color=#ffff00>der Gar-Prozess erhalten bleibt.</font>
+
+145
+00:13:22,000 --> 00:13:25,008
+<font color=#ffff00>Ich bewahre unter fließend kaltem</font>
+<font color=#ffff00>Wasser den Rosenkohl auf.</font>
+
+146
+00:13:25,022 --> 00:13:28,012
+<font color=#ffff00>Und schrecke ihn nicht ab.</font>
+
+147
+00:13:28,024 --> 00:13:32,012
+<font color=#ffff00>Wir haben ja nicht immer Eiswürfel.</font>
+
+148
+00:13:33,011 --> 00:13:36,015
+<font color=#ffff00>Ich bin gespannt, was du gleich zum</font>
+<font color=#ffff00>Rosenkohl sagst.</font>
+
+149
+00:13:37,001 --> 00:13:40,017
+<font color=#ffff00>Er ist schön grün.</font>
+
+150
+00:13:43,009 --> 00:13:46,011
+<font color=#ffffff>Muss der Rosenkohl nichts gewürzt</font>
+<font color=#ffffff>werden?</font>
+
+151
+00:13:47,002 --> 00:13:49,021
+<font color=#ffff00>Warte doch mal ab.</font>
+
+152
+00:13:50,007 --> 00:13:53,024
+<font color=#ffffff>Entschuldigung.</font>
+
+153
+00:13:58,005 --> 00:14:02,004
+<font color=#ffff00>Die Sauce wird eingekocht.</font>
+
+154
+00:14:05,022 --> 00:14:10,003
+<font color=#ffff00>Das Fleisch gart nach in der Sauce.</font>
+
+155
+00:14:12,007 --> 00:14:16,009
+<font color=#ffffff>Du hast heute die einmalige Chance,</font>
+<font color=#ffffff>mir Rosenkohl schmackhaft zu machen.</font>
+
+156
+00:14:16,022 --> 00:14:19,001
+<font color=#ffff00>Etwas Butter.</font>
+
+157
+00:14:19,015 --> 00:14:21,006
+<font color=#ffffff>Darauf habe ich gewartet.</font>
+
+158
+00:14:21,017 --> 00:14:25,004
+<font color=#ffffff>Auf die Butter.</font>
+
+159
+00:14:27,013 --> 00:14:30,010
+<font color=#ffff00>Wir machen eine Brösel-Butter.</font>
+
+160
+00:14:31,001 --> 00:14:34,014
+<font color=#ffff00>Butter aufschäumen.</font>
+
+161
+00:14:35,002 --> 00:14:39,001
+<font color=#ffff00>Ich lasse die Butter zerlaufen.</font>
+
+162
+00:14:41,023 --> 00:14:45,023
+<font color=#ffff00>Toll wäre, wenn sie etwas braun</font>
+<font color=#ffff00>wird, nur ganz leicht.</font>
+
+163
+00:14:46,022 --> 00:14:50,024
+<font color=#ffff00>Damit der Milchzucker in der Butter</font>
+<font color=#ffff00>leicht karamellisieren.</font>
+
+164
+00:14:52,001 --> 00:14:56,003
+<font color=#ffffff>Man darf den richtigen Moment nicht</font>
+<font color=#ffffff>verpassen.</font>
+
+165
+00:14:57,007 --> 00:15:01,002
+<font color=#ffff00>Es ist ein guter Trick, um etwas</font>
+<font color=#ffff00>Gutes noch besser zu machen.</font>
+
+166
+00:15:01,012 --> 00:15:04,016
+<font color=#ffff00>Noch ein bisschen Salz.</font>
+
+167
+00:15:08,018 --> 00:15:12,015
+<font color=#ffff00>Noch ein bisschen.</font>
+
+168
+00:15:17,021 --> 00:15:21,011
+<font color=#ffff00>Was glaubst du, wie oft mir das</font>
+<font color=#ffff00>schon verbrannt ist?</font>
+
+169
+00:15:21,020 --> 00:15:25,009
+<font color=#ffff00>Ich liebe Butter.</font>
+
+170
+00:15:25,018 --> 00:15:29,014
+<font color=#ffff00>Bestes und gesündestes Fett</font>
+<font color=#ffff00>weltweit.</font>
+
+171
+00:15:35,003 --> 00:15:38,020
+<font color=#ffff00>1,5 Esslöffel von den Bröseln dazu.</font>
+
+172
+00:15:39,007 --> 00:15:40,010
+<font color=#ffff00>Und dann den Rosenkohl dazu.</font>
+
+173
+00:15:45,010 --> 00:15:49,007
+<font color=#ffffff>Wir kommen der Sache schon näher.</font>
+
+174
+00:15:49,023 --> 00:15:52,012
+<font color=#ffffff>Jetzt müssen wir noch den Rosenkohl</font>
+<font color=#ffffff>weglassen fängt</font>
+
+175
+00:15:53,002 --> 00:15:56,018
+<font color=#ffffff>das war nur ein Witz.</font>
+
+176
+00:15:58,008 --> 00:16:02,006
+<font color=#ffff00>Meine Oma hat das ganz oft gemacht</font>
+<font color=#ffff00>für uns Kinder.</font>
+
+177
+00:16:04,012 --> 00:16:08,008
+<font color=#ffff00>Rosenkohl mit Brösel-Butter.</font>
+
+178
+00:16:08,023 --> 00:16:12,013
+<font color=#ffff00>Jetzt packen wir das ganze auf den</font>
+<font color=#ffff00>Teller.</font>
+
+179
+00:16:13,003 --> 00:16:16,003
+<font color=#ffffff>Es riecht hervorragend.</font>
+
+180
+00:16:16,015 --> 00:16:20,003
+<font color=#ffffff>Der Auflauf ist auch fertig.</font>
+
+181
+00:16:25,022 --> 00:16:29,022
+<font color=#ffffff>Machst du für mich auch eine kleine</font>
+<font color=#ffffff>Portion?</font>
+
+182
+00:16:33,005 --> 00:16:37,004
+<font color=#ffff00>Ich mach eine große Probier-Portion.</font>
+
+183
+00:16:38,017 --> 00:16:41,014
+<font color=#ffff00>Obendrauf dann die Schweinefilet-</font>
+<font color=#ffff00>Medaillons.</font>
+
+184
+00:16:41,023 --> 00:16:45,018
+<font color=#ffff00>Und die Sauce.</font>
+
+185
+00:16:53,024 --> 00:16:57,024
+<font color=#ffff00>Du musst nachher ganz ehrlich sein.</font>
+
+186
+00:17:01,002 --> 00:17:04,018
+<font color=#ffff00>Jetzt wird es spannend.</font>
+
+187
+00:17:18,022 --> 00:17:22,012
+<font color=#ffff00>Wir haben gemacht Rosenkohl,</font>
+<font color=#ffff00>Schweinefilet-Medaillons und einen</font>
+
+188
+00:17:23,000 --> 00:17:25,021
+<font color=#ffff00>Kartoffel-Apfel-Auflauf.</font>
+
+189
+00:17:26,008 --> 00:17:29,009
+<font color=#ffff00>So kann man nie genug haben,</font>
+<font color=#ffff00>deswegen mache ich hier mehr drauf.</font>
+
+190
+00:17:30,000 --> 00:17:33,013
+<font color=#ffff00>Noch ein bisschen Pfeffer.</font>
+
+191
+00:17:39,000 --> 00:17:43,001
+<font color=#ffff00>Wir haben nur den Kartoffelauflauf</font>
+<font color=#ffff00>vorgedacht.</font>
+
+192
+00:17:43,009 --> 00:17:45,011
+<font color=#ffff00>Sonst haben wir das Live gekocht.</font>
+
+193
+00:17:45,023 --> 00:17:49,007
+<font color=#ffff00>--vorgekocht</font>
+
+194
+00:17:54,005 --> 00:17:57,024
+<font color=#ffffff>die Butter und die Brösel gefallen</font>
+<font color=#ffffff>mir sehr gut an dem Rosenkohl.</font>
+
+195
+00:17:58,010 --> 00:18:02,010
+<font color=#ffffff>In der Kombination finde ich es gut.</font>
+
+196
+00:18:03,020 --> 00:18:07,005
+<font color=#ffffff>Darf ich zwischendurch noch kauen?</font>
+
+197
+00:18:07,013 --> 00:18:10,014
+<font color=#ffffff>Ich muss das Fleisch probieren.</font>
+
+198
+00:18:11,001 --> 00:18:13,023
+<font color=#ffffff>Sehr gut, auch die Sauce.</font>
+
+199
+00:18:14,011 --> 00:18:16,024
+<font color=#ffffff>Jetzt noch den Auflauf.</font>
+
+200
+00:18:17,007 --> 00:18:20,022
+<font color=#ffffff>Ist das die Kartoffel?</font>
+
+201
+00:18:21,009 --> 00:18:24,018
+<font color=#ffff00>Ja, mit Apfel wahrscheinlich.</font>
+
+202
+00:18:25,021 --> 00:18:28,022
+<font color=#ffffff>Die Schüssel vom Apfel ist</font>
+<font color=#ffffff>interessant.</font>
+
+203
+00:18:33,016 --> 00:18:37,012
+<font color=#ffffff>Du hast mich überzeugt vom</font>
+<font color=#ffffff>Rosenkohl.</font>
+
+204
+00:18:38,003 --> 00:18:40,012
+<font color=#ffffff>Probieren Sie es aus, liebe</font>
+<font color=#ffffff>Zuschauer.</font>
+

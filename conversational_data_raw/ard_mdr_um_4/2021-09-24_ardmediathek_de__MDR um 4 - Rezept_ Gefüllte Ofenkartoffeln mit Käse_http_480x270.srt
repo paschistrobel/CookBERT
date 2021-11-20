@@ -1,0 +1,921 @@
+1
+00:00:07,002 --> 00:00:09,018
+<font color=#ffffff>Robin, bevor du uns erzählst, was du</font>
+<font color=#ffffff>machst,</font>
+
+2
+00:00:10,009 --> 00:00:11,024
+<font color=#ffffff>von uns herzlichen Glückwunsch.</font>
+
+3
+00:00:12,013 --> 00:00:16,002
+<font color=#ffff00>Vielen Dank.</font>
+
+4
+00:00:17,008 --> 00:00:21,011
+<font color=#ffffff>Du hast deine Plakette bekommen.</font>
+
+5
+00:00:21,021 --> 00:00:25,023
+<font color=#ffffff>Den 1. Stern für das Restaurant</font>
+<font color=#ffffff>Pietsch.</font>
+
+6
+00:00:26,006 --> 00:00:29,004
+<font color=#ffffff>Für den anderes Restaurant hast du</font>
+<font color=#ffffff>den Stern verteidigen.</font>
+
+7
+00:00:29,016 --> 00:00:31,018
+<font color=#ffffff>Die hast du dich gefühlt?</font>
+
+8
+00:00:32,007 --> 00:00:35,000
+<font color=#ffff00>Das ist immer wieder einzigartig.</font>
+
+9
+00:00:35,012 --> 00:00:37,008
+<font color=#ffff00>Die Tester kommen und man weiß nie,</font>
+
+10
+00:00:37,019 --> 00:00:39,024
+<font color=#ffff00>wann sie da sitzen.</font>
+
+11
+00:00:40,007 --> 00:00:42,008
+<font color=#ffff00>Ich freue mich sehr für mein Team.</font>
+
+12
+00:00:42,023 --> 00:00:45,005
+<font color=#ffff00>Alleine schafft man das nicht.</font>
+
+13
+00:00:45,013 --> 00:00:49,005
+<font color=#ffffff>Wie erfährt man das?</font>
+
+14
+00:00:55,019 --> 00:00:59,019
+<font color=#ffff00>Es gibt einen speziellen Zeitraum,</font>
+<font color=#ffff00>in die man angerufen wird.</font>
+
+15
+00:01:00,009 --> 00:01:04,007
+<font color=#ffff00>Wo man seinen Stern verteidigen</font>
+<font color=#ffff00>muss.</font>
+
+16
+00:01:06,020 --> 00:01:10,019
+<font color=#ffff00>Wenn man eingeladen wird, weiß man,</font>
+<font color=#ffff00>das könnte was werden.</font>
+
+17
+00:01:11,007 --> 00:01:14,004
+<font color=#ffffff>Wir sind sehr stolz darauf, dass du</font>
+<font color=#ffffff>bei uns bist.</font>
+
+18
+00:01:14,016 --> 00:01:17,001
+<font color=#ffff00>Jetzt arbeiten wir wieder.</font>
+
+19
+00:01:17,010 --> 00:01:19,024
+<font color=#ffff00>Zum Thema Käse.</font>
+
+20
+00:01:20,010 --> 00:01:23,023
+<font color=#ffff00>Es ist eine einfache Sache.</font>
+
+21
+00:01:24,013 --> 00:01:27,022
+<font color=#ffff00>Es gibt einfache Kartoffeln.</font>
+
+22
+00:01:28,010 --> 00:01:32,001
+<font color=#ffff00>Salzkartoffeln, die wird gekocht.</font>
+
+23
+00:01:34,004 --> 00:01:37,012
+<font color=#ffff00>Ich habe eine Kräuterquarkfüllung</font>
+<font color=#ffff00>dabei.</font>
+
+24
+00:01:37,024 --> 00:01:41,010
+<font color=#ffff00>Mit Ziegenkäse.</font>
+
+25
+00:01:41,022 --> 00:01:45,022
+<font color=#ffff00>Gebackene Kartoffeln eher</font>
+<font color=#ffff00>amerikanische Art.</font>
+
+26
+00:01:47,004 --> 00:01:51,004
+<font color=#ffff00>Ich habe gedacht, Käse passt gut</font>
+<font color=#ffff00>dazu und Schweinefilet.</font>
+
+27
+00:01:57,002 --> 00:02:01,002
+<font color=#ffff00>Das wird etwas runtergeschnitten und</font>
+<font color=#ffff00>mit Honig automatisiert.</font>
+
+28
+00:02:06,010 --> 00:02:10,009
+<font color=#ffff00>Dazu habe ich einen kleinen Salat</font>
+<font color=#ffff00>mit Jalapenos.</font>
+
+29
+00:02:10,022 --> 00:02:14,021
+<font color=#ffff00>Ich habe die Kartoffeln vor gekocht.</font>
+
+30
+00:02:24,008 --> 00:02:28,010
+<font color=#ffff00>Man kann sie roh nehmen und auf ein</font>
+<font color=#ffff00>Blech tun und Öl drüber machen.</font>
+
+31
+00:02:29,001 --> 00:02:32,012
+<font color=#ffff00>Macht man das im Ofen, bekommen Sie</font>
+<font color=#ffff00>ein gutes Aroma.</font>
+
+32
+00:02:32,020 --> 00:02:36,010
+<font color=#ffffff>Eine bestimmte Kartoffelsorte?</font>
+
+33
+00:02:37,004 --> 00:02:41,004
+<font color=#ffff00>Einfach eine festkochende, große</font>
+<font color=#ffff00>Kartoffel.</font>
+
+34
+00:02:42,010 --> 00:02:46,011
+<font color=#ffff00>Ich mache jetzt etwas Thymian und</font>
+<font color=#ffff00>Rosmarin drauf.</font>
+
+35
+00:02:46,019 --> 00:02:50,001
+<font color=#ffffff>Du hast sie vor gekocht, wie lange?</font>
+
+36
+00:02:50,016 --> 00:02:54,000
+<font color=#ffff00>Ungefähr 10 Minuten.</font>
+
+37
+00:02:56,005 --> 00:02:59,020
+<font color=#ffff00>So ich habe die jetzt mit Salz und</font>
+<font color=#ffff00>Pfeffer gewürzt</font>
+
+38
+00:03:00,010 --> 00:03:02,017
+<font color=#ffff00>und so kommt sie jetzt in den Ofen.</font>
+
+39
+00:03:03,007 --> 00:03:06,016
+<font color=#ffff00>Für 20 Minuten.</font>
+
+40
+00:03:11,021 --> 00:03:15,006
+<font color=#ffff00>Wir legen die dann in Alufolie.</font>
+
+41
+00:03:15,014 --> 00:03:18,007
+<font color=#ffff00>Denn die Kartoffel fällt</font>
+<font color=#ffff00>auseinander.</font>
+
+42
+00:03:18,012 --> 00:03:22,003
+<font color=#ffff00>Es geht auch um das servieren.</font>
+
+43
+00:03:24,011 --> 00:03:27,021
+<font color=#ffff00>Wenn Sie aus dem Ofen kommen, werden</font>
+<font color=#ffff00>sie geöffnet und gefühlt.</font>
+
+44
+00:03:28,011 --> 00:03:31,004
+<font color=#ffff00>Wie fange mit dem Fleisch an.</font>
+
+45
+00:03:31,016 --> 00:03:35,006
+<font color=#ffff00>Die Pfade heizen wir etwas vor.</font>
+
+46
+00:03:35,021 --> 00:03:39,005
+<font color=#ffff00>Ich habe hier ein ganz normales</font>
+<font color=#ffff00>Schweinefilet.</font>
+
+47
+00:03:39,022 --> 00:03:43,009
+<font color=#ffff00>Nichts besonderes, aber irgendwie</font>
+<font color=#ffff00>doch.</font>
+
+48
+00:03:43,017 --> 00:03:47,013
+<font color=#ffff00>Es ist preisgünstiges Fleisch.</font>
+
+49
+00:03:50,019 --> 00:03:53,019
+<font color=#ffff00>Dieses Schweinefleisch wird oft</font>
+<font color=#ffff00>verkannt.</font>
+
+50
+00:03:54,011 --> 00:03:57,024
+<font color=#ffffff>Ein Rinderfilet ist der König.</font>
+
+51
+00:04:09,020 --> 00:04:14,000
+<font color=#ffff00>Aber ich finde auch, Schweinefilet</font>
+<font color=#ffff00>hat einen tollen Geschmack.</font>
+
+52
+00:04:14,008 --> 00:04:18,000
+<font color=#ffff00>Ich möchte hier Rostaromen.</font>
+
+53
+00:04:18,014 --> 00:04:22,011
+<font color=#ffff00>Aber in der kurzen Zeit muss es</font>
+<font color=#ffff00>garen.</font>
+
+54
+00:04:22,023 --> 00:04:26,003
+<font color=#ffff00>Man muss es zaghaft behandeln.</font>
+
+55
+00:04:26,006 --> 00:04:29,020
+<font color=#ffff00>Dann kommt ein weiches Ergebnis</font>
+<font color=#ffff00>raus.</font>
+
+56
+00:04:30,004 --> 00:04:33,015
+<font color=#ffff00>Wenn es zu fest ist, dass es nicht</font>
+<font color=#ffff00>gut.</font>
+
+57
+00:04:37,024 --> 00:04:41,013
+<font color=#ffffff>Selbst Schweinefleisch, wenn es die</font>
+<font color=#ffffff>entsprechende Qualität hat,</font>
+
+58
+00:04:41,024 --> 00:04:43,010
+<font color=#ffffff>muss nicht durchgegart sein.</font>
+
+59
+00:04:43,021 --> 00:04:46,009
+<font color=#ffff00>Das stimmt.</font>
+
+60
+00:04:46,022 --> 00:04:50,015
+<font color=#ffff00>Viele Leute essen Hackfleisch.</font>
+
+61
+00:04:51,020 --> 00:04:55,018
+<font color=#ffff00>Das ist einfach nur rohes</font>
+<font color=#ffff00>Schweinefleisch.</font>
+
+62
+00:05:00,001 --> 00:05:04,000
+<font color=#ffff00>Wenn es außenrum glasig ist, wenn</font>
+<font color=#ffff00>man weiß, wo das Fleisch her ist,</font>
+
+63
+00:05:04,012 --> 00:05:08,007
+<font color=#ffff00>dann ist das alles cool.</font>
+
+64
+00:05:08,016 --> 00:05:12,007
+<font color=#ffff00>In der 2. fange ich mit dem</font>
+<font color=#ffff00>Klassiker Kräuterquark an.</font>
+
+65
+00:05:12,020 --> 00:05:16,006
+<font color=#ffff00>Hier sind die üblichen Kräuter</font>
+<font color=#ffff00>parat.</font>
+
+66
+00:05:18,020 --> 00:05:22,018
+<font color=#ffff00>Nachgeschmack alles reinschneiden,</font>
+<font color=#ffff00>was man zum Beispiel im Garten hat.</font>
+
+67
+00:05:29,023 --> 00:05:32,013
+<font color=#ffff00>Ich habe auch oft ein Bäumchen zu</font>
+<font color=#ffff00>Hause.</font>
+
+68
+00:05:33,001 --> 00:05:36,012
+<font color=#ffff00>Ich vergesse es aber oft zu diesem</font>
+<font color=#ffff00>Punkt</font>
+
+69
+00:05:39,019 --> 00:05:43,020
+<font color=#ffffff>habt ihr im Restaurant auch einen</font>
+<font color=#ffffff>eigenen Garten?</font>
+
+70
+00:05:45,015 --> 00:05:49,014
+<font color=#ffff00>Es wäre ein Traum. Aber wir arbeiten</font>
+<font color=#ffff00>in der Stadt.</font>
+
+71
+00:05:50,002 --> 00:05:54,002
+<font color=#ffff00>Da weiß man, wo es herkommt.</font>
+
+72
+00:05:55,024 --> 00:05:58,022
+<font color=#ffff00>Eine Gärtnerei, nicht weit weg von</font>
+<font color=#ffff00>uns,</font>
+
+73
+00:05:59,013 --> 00:06:03,001
+<font color=#ffff00>die machen ganz viele Sachen für</font>
+<font color=#ffff00>uns.</font>
+
+74
+00:06:04,004 --> 00:06:08,000
+<font color=#ffff00>Ich habe hier etwas Joghurt und</font>
+<font color=#ffff00>schwand zusammengerührt.</font>
+
+75
+00:06:08,016 --> 00:06:12,010
+<font color=#ffff00>Dazu kommt noch etwas</font>
+<font color=#ffff00>Ziegenfrischkäse.</font>
+
+76
+00:06:12,020 --> 00:06:16,010
+<font color=#ffff00>Das bringt ein anderes Aroma mit</font>
+<font color=#ffff00>Reihen.</font>
+
+77
+00:06:17,000 --> 00:06:20,015
+<font color=#ffff00>Das wird jetzt die Quarkfüllung.</font>
+
+78
+00:06:22,013 --> 00:06:24,020
+<font color=#ffffff>Bei Ziegenkäse scheiden sich die</font>
+<font color=#ffffff>Geister.</font>
+
+79
+00:06:25,003 --> 00:06:28,021
+<font color=#ffffff>Ich mag das sehr.</font>
+
+80
+00:06:30,023 --> 00:06:35,002
+<font color=#ffff00>Wenn ich ehrlich bin, es gibt 3</font>
+<font color=#ffff00>Sachen, die ich nicht mache.</font>
+
+81
+00:06:45,016 --> 00:06:49,017
+<font color=#ffff00>Kümmel, meist aus der Büchse und</font>
+<font color=#ffff00>Ziegenkäse-Fan.</font>
+
+82
+00:06:51,006 --> 00:06:55,008
+<font color=#ffff00>Es gibt viele Leute, die das mögen</font>
+<font color=#ffff00>so wie du.</font>
+
+83
+00:06:56,000 --> 00:06:59,022
+<font color=#ffff00>Ich würde lieber Kuhmilchkäse</font>
+<font color=#ffff00>nehmen.</font>
+
+84
+00:07:00,009 --> 00:07:04,012
+<font color=#ffffff>Wenn du es zubereitet, dann musst du</font>
+<font color=#ffffff>das probieren?</font>
+
+85
+00:07:05,000 --> 00:07:08,020
+<font color=#ffff00>Ja, ich muss alles probieren.</font>
+
+86
+00:07:09,010 --> 00:07:12,022
+<font color=#ffff00>Es ist eine persönliche Nummer.</font>
+
+87
+00:07:14,003 --> 00:07:17,023
+<font color=#ffff00>Es ist legitim wenn man sagt, das</font>
+<font color=#ffff00>ist nicht mein Ding.</font>
+
+88
+00:07:19,024 --> 00:07:23,012
+<font color=#ffff00>Dazu kommt noch etwas Knoblauch.</font>
+
+89
+00:07:23,024 --> 00:07:26,013
+<font color=#ffff00>Gar nicht so fein gehackt.</font>
+
+90
+00:07:27,003 --> 00:07:30,012
+<font color=#ffff00>Einige Schalotten kommen auch noch</font>
+<font color=#ffff00>dazu.</font>
+
+91
+00:07:31,010 --> 00:07:35,016
+<font color=#ffffff>Für dich privat würdest du den</font>
+<font color=#ffffff>Ziegenkäse weglassen?</font>
+
+92
+00:07:36,023 --> 00:07:40,015
+<font color=#ffff00>Ja, dann würde ich einfach mehr</font>
+<font color=#ffff00>Quark oder Schwanz nehmen.</font>
+
+93
+00:07:45,017 --> 00:07:48,014
+<font color=#ffff00>Andererseits, weil ich es nicht mag,</font>
+
+94
+00:07:48,022 --> 00:07:52,014
+<font color=#ffff00>weiß ich, dass es schmeckt.</font>
+
+95
+00:07:54,005 --> 00:07:58,000
+<font color=#ffffff>Als ich früher Dinge nicht mochte,</font>
+<font color=#ffffff>hat mir meine Mutter nie gesagt,</font>
+
+96
+00:07:58,013 --> 00:07:59,020
+<font color=#ffffff>was da drin ist.</font>
+
+97
+00:08:00,007 --> 00:08:03,019
+<font color=#ffff00>Das geht bei mir nicht mehr.</font>
+
+98
+00:08:05,008 --> 00:08:09,008
+<font color=#ffff00>Jetzt kommt jedoch etwas Salz und</font>
+<font color=#ffff00>Pfeffer hinzu.</font>
+
+99
+00:08:09,017 --> 00:08:12,021
+<font color=#ffffff>Müssen wir bei der Schweinelenden</font>
+<font color=#ffffff>noch auf etwas 8.?</font>
+
+100
+00:08:13,010 --> 00:08:16,024
+<font color=#ffff00>Das drehe ich gleich um.</font>
+
+101
+00:08:19,024 --> 00:08:23,022
+<font color=#ffffff>-- achten</font>
+
+102
+00:08:26,014 --> 00:08:30,007
+<font color=#ffff00>einfach liegen lassen und nicht</font>
+<font color=#ffff00>umdrehen.</font>
+
+103
+00:08:30,018 --> 00:08:34,003
+<font color=#ffff00>Denn das zieht die Hülle ab.</font>
+
+104
+00:08:44,004 --> 00:08:47,016
+<font color=#ffffff>Manche nehmen eines Spray um den</font>
+<font color=#ffffff>Rost beim Grill an zu sprühen.</font>
+
+105
+00:08:48,003 --> 00:08:51,002
+<font color=#ffffff>Damit das nicht kleben bleibt.</font>
+
+106
+00:08:51,015 --> 00:08:54,023
+<font color=#ffff00>Ich drehe es einfach um und dann</font>
+<font color=#ffff00>sieht es perfekt aus.</font>
+
+107
+00:08:55,014 --> 00:08:58,019
+<font color=#ffffff>Ich hätte ihr einen Deckel drauf</font>
+<font color=#ffffff>gemacht.</font>
+
+108
+00:08:59,013 --> 00:09:02,023
+<font color=#ffff00>Das Garten zu viel,</font>
+
+109
+00:09:03,009 --> 00:09:06,021
+<font color=#ffff00>weil die Hitze da drin gestaut wird.</font>
+
+110
+00:09:08,006 --> 00:09:11,024
+<font color=#ffff00>Ich nehme noch etwas Saft von der</font>
+<font color=#ffff00>Limette für den Quark.</font>
+
+111
+00:09:12,015 --> 00:09:16,005
+<font color=#ffff00>Das ist ein ganz simpelgemachter</font>
+<font color=#ffff00>Quark.</font>
+
+112
+00:09:21,007 --> 00:09:25,004
+<font color=#ffff00>Mehr brauch man dazu nicht. Du</font>
+<font color=#ffff00>kannst mir einen Gefallen tun.</font>
+
+113
+00:09:27,021 --> 00:09:31,019
+<font color=#ffff00>Ich habe hier den Salat schon</font>
+<font color=#ffff00>vorgeschrieben.</font>
+
+114
+00:09:34,018 --> 00:09:38,018
+<font color=#ffff00>Hier nimmst du die kleinen</font>
+<font color=#ffff00>Jalapenos.</font>
+
+115
+00:09:43,010 --> 00:09:47,014
+<font color=#ffff00>Ich drehe hier etwas hoch, wegen der</font>
+<font color=#ffff00>Zeitpunkt</font>
+
+116
+00:09:48,000 --> 00:09:51,000
+<font color=#ffff00>er habe noch 7 Minuten dafür.</font>
+
+117
+00:09:51,014 --> 00:09:55,001
+<font color=#ffff00>Wir kommen zur Käsesauce.</font>
+
+118
+00:09:56,003 --> 00:09:59,023
+<font color=#ffff00>Ein Cheddar-Käse und einen</font>
+<font color=#ffff00>französischen Weichkäse.</font>
+
+119
+00:10:01,004 --> 00:10:04,002
+<font color=#ffff00>Ich nehme etwas Milch in den Topf.</font>
+
+120
+00:10:04,006 --> 00:10:07,003
+<font color=#ffff00>Dazu kommt etwas Sahne.</font>
+
+121
+00:10:07,012 --> 00:10:11,003
+<font color=#ffff00>Aber da muss man vorsichtig machen.</font>
+
+122
+00:10:11,011 --> 00:10:15,007
+<font color=#ffff00>Denn im Käse ist sehr viel Fett</font>
+<font color=#ffff00>enthalten.</font>
+
+123
+00:10:18,016 --> 00:10:22,019
+<font color=#ffff00>Wenn man eine Käsesauce machen, muss</font>
+<font color=#ffff00>man mit der Sahne vorsichtig sein.</font>
+
+124
+00:10:23,006 --> 00:10:26,024
+<font color=#ffff00>Denn aus dem Käse tritt sehr viel</font>
+<font color=#ffff00>Fett aus.</font>
+
+125
+00:10:40,003 --> 00:10:44,005
+<font color=#ffff00>Aber ich erinnere: Fett ist</font>
+<font color=#ffff00>Geschmacksträger.</font>
+
+126
+00:10:48,009 --> 00:10:52,011
+<font color=#ffff00>Man kann dafür Blauschimmel nehmen.</font>
+<font color=#ffff00>Der hatte richtig Kraft.</font>
+
+127
+00:10:58,013 --> 00:11:02,015
+<font color=#ffff00>Eine Blauschimmelsauce, das schmeckt</font>
+<font color=#ffff00>auch gut.</font>
+
+128
+00:11:11,023 --> 00:11:15,024
+<font color=#ffff00>Du machst es gut.</font>
+
+129
+00:11:16,014 --> 00:11:20,010
+<font color=#ffff00>Aber die Jalapenos kannst du kleine</font>
+<font color=#ffff00>Haken.</font>
+
+130
+00:11:21,014 --> 00:11:25,008
+<font color=#ffff00>-- hacken</font>
+
+131
+00:11:25,019 --> 00:11:28,013
+<font color=#ffffff>sind die besonders scharf?</font>
+
+132
+00:11:29,000 --> 00:11:32,009
+<font color=#ffff00>Die sind eher mild.</font>
+
+133
+00:11:36,005 --> 00:11:40,008
+<font color=#ffff00>Nicht so wie Chilis.</font>
+
+134
+00:11:54,018 --> 00:11:58,018
+<font color=#ffff00>Du schabst eine Vanilleschote aus</font>
+<font color=#ffff00>und gibst das Mark dazu.</font>
+
+135
+00:12:04,012 --> 00:12:08,012
+<font color=#ffff00>Da gibt es die Schärfe und die</font>
+<font color=#ffff00>leicht Vanillenote.</font>
+
+136
+00:12:10,011 --> 00:12:13,008
+<font color=#ffff00>Bei dem Fleisch nehme ich jetzt die</font>
+<font color=#ffff00>Temperatur runter.</font>
+
+137
+00:12:14,003 --> 00:12:17,017
+<font color=#ffff00>Und drehe noch einmal.</font>
+
+138
+00:12:20,022 --> 00:12:24,023
+<font color=#ffff00>Jetzt kommen gleich unsere Teller</font>
+<font color=#ffff00>hinzu.</font>
+
+139
+00:12:25,002 --> 00:12:29,001
+<font color=#ffffff>Ich mache etwas Öl hinzu?</font>
+
+140
+00:12:29,018 --> 00:12:33,021
+<font color=#ffff00>Ja, wie zu Hause.</font>
+
+141
+00:12:39,015 --> 00:12:43,007
+<font color=#ffffff>Kannst du mir 2 Löffel zum umrühren</font>
+<font color=#ffffff>geben?</font>
+
+142
+00:12:43,019 --> 00:12:46,016
+<font color=#ffff00>So ist auch gut.</font>
+
+143
+00:12:46,024 --> 00:12:50,013
+<font color=#ffff00>Denn das muss man richtig</font>
+<font color=#ffff00>durchkneten.</font>
+
+144
+00:12:51,000 --> 00:12:54,003
+<font color=#ffff00>Damit das Aroma einziehen kann.</font>
+
+145
+00:13:09,002 --> 00:13:13,002
+<font color=#ffff00>Das hier ist die Sauce.</font>
+
+146
+00:13:16,003 --> 00:13:19,020
+<font color=#ffffff>Liebe Zuschauer, sie können den QR-</font>
+<font color=#ffffff>Code scannen.</font>
+
+147
+00:13:30,015 --> 00:13:34,019
+<font color=#ffff00>Für zu Hause: Richtig durchkneten</font>
+<font color=#ffff00>und in eine Folie geben.</font>
+
+148
+00:13:35,005 --> 00:13:38,015
+<font color=#ffff00>Und dann am nächsten Tag benutzen.</font>
+
+149
+00:13:41,014 --> 00:13:45,014
+<font color=#ffffff>Mittig ist es richtig rosa geworden.</font>
+
+150
+00:13:48,003 --> 00:13:51,015
+<font color=#ffff00>Das ist nicht schlimm, denn wir</font>
+<font color=#ffff00>geben es wieder zurück in die</font>
+
+151
+00:13:51,024 --> 00:13:55,020
+<font color=#ffff00>Pfanne. Da karamellisieren wir es.</font>
+
+152
+00:13:56,003 --> 00:13:59,015
+<font color=#ffff00>Man kann es auch so essen.</font>
+
+153
+00:14:04,015 --> 00:14:08,020
+<font color=#ffff00>Jetzt kommt das in dieselbe Pfanne</font>
+<font color=#ffff00>zurück.</font>
+
+154
+00:14:10,003 --> 00:14:13,012
+<font color=#ffff00>Wichtig ist: Nicht zu heiß.</font>
+
+155
+00:14:13,021 --> 00:14:16,021
+<font color=#ffff00>Dazu kommt etwas Honig.</font>
+
+156
+00:14:17,007 --> 00:14:20,021
+<font color=#ffff00>Dann karamelisiert es.</font>
+
+157
+00:14:23,018 --> 00:14:27,016
+<font color=#ffff00>Wir geben der Süße Zitrone entgegen.</font>
+
+158
+00:14:29,005 --> 00:14:33,005
+<font color=#ffff00>Ich habe noch etwas Salz und Pfeffer</font>
+<font color=#ffff00>hinzugegeben.</font>
+
+159
+00:14:33,013 --> 00:14:37,009
+<font color=#ffff00>Hier muss man vorsichtig machen.</font>
+
+160
+00:14:37,018 --> 00:14:40,018
+<font color=#ffff00>Wenn man das zu lange und zu heiß</font>
+<font color=#ffff00>garen würde,</font>
+
+161
+00:14:41,001 --> 00:14:44,008
+<font color=#ffff00>dann wäre das zu trocken.</font>
+
+162
+00:14:47,001 --> 00:14:49,006
+<font color=#ffffff>Leicht rosa, dann ist es richtig?</font>
+
+163
+00:14:49,022 --> 00:14:53,003
+<font color=#ffff00>Genau.</font>
+
+164
+00:14:54,018 --> 00:14:58,020
+<font color=#ffff00>Und ausstellen, das war es.</font>
+
+165
+00:15:02,005 --> 00:15:06,005
+<font color=#ffffff>Da muss man zu lange warten, bis da</font>
+<font color=#ffffff>keine Stückchen mehr drin sind?</font>
+
+166
+00:15:06,022 --> 00:15:11,001
+<font color=#ffff00>Das macht nichts.</font>
+
+167
+00:15:11,017 --> 00:15:15,016
+<font color=#ffff00>Jetzt hole ich die Kartoffel auch</font>
+<font color=#ffff00>raus.</font>
+
+168
+00:15:16,007 --> 00:15:19,024
+<font color=#ffffff>Es riecht wie Ra Klett.</font>
+
+169
+00:15:20,015 --> 00:15:24,011
+<font color=#ffffff>-- Raclette</font>
+
+170
+00:15:25,014 --> 00:15:29,017
+<font color=#ffff00>jetzt kommt die Folie zum Einsatz.</font>
+
+171
+00:15:32,019 --> 00:15:36,007
+<font color=#ffff00>Man sollte das nicht ganz</font>
+<font color=#ffff00>durchschneiden.</font>
+
+172
+00:15:36,016 --> 00:15:40,006
+<font color=#ffff00>Denn da muss die Füllung rein.</font>
+
+173
+00:15:42,000 --> 00:15:45,009
+<font color=#ffffff>Sie dient also nur als Ständer?</font>
+
+174
+00:15:45,014 --> 00:15:48,002
+<font color=#ffff00>Ja genau.</font>
+
+175
+00:15:48,010 --> 00:15:51,023
+<font color=#ffff00>Es muss einfach nur stehen.</font>
+
+176
+00:15:52,017 --> 00:15:55,022
+<font color=#ffff00>Wir haben schon die verrücktesten</font>
+<font color=#ffff00>Sachen gemacht.</font>
+
+177
+00:16:02,021 --> 00:16:06,021
+<font color=#ffff00>Das kann man gut beim Grillen</font>
+<font color=#ffff00>machen.</font>
+
+178
+00:16:07,004 --> 00:16:10,022
+<font color=#ffffff>Das alles kann man auch einen Tag</font>
+<font color=#ffffff>vorher machen.</font>
+
+179
+00:16:11,021 --> 00:16:14,022
+<font color=#ffff00>Jetzt kommt hier unser Quark drauf.</font>
+
+180
+00:16:15,012 --> 00:16:18,023
+<font color=#ffff00>Das ist richtig schön übertrieben.</font>
+
+181
+00:16:23,003 --> 00:16:26,020
+<font color=#ffff00>Jetzt gehst du zu deiner Schalter</font>
+<font color=#ffff00>und die Sauce wird inzwischen</font>
+
+182
+00:16:27,007 --> 00:16:28,002
+<font color=#ffff00>fertig.</font>
+
+183
+00:16:28,018 --> 00:16:32,001
+<font color=#ffffff>Du kannst dir den Salat übernehmen.</font>
+
+184
+00:16:35,022 --> 00:16:39,010
+<font color=#ffffff>Die eine schöne Sendung.</font>
+
+185
+00:16:40,015 --> 00:16:44,015
+<font color=#ffffff>Robin, kannst du noch einmal</font>
+<font color=#ffffff>zusammenfassen?</font>
+
+186
+00:16:47,012 --> 00:16:50,012
+<font color=#ffff00>Ein schön gemachter Salat von dir,</font>
+
+187
+00:16:51,003 --> 00:16:53,020
+<font color=#ffff00>die Frische, die dazu kommen.</font>
+
+188
+00:16:54,009 --> 00:16:56,014
+<font color=#ffff00>Ich habe einen Kräuterquark dazu.</font>
+
+189
+00:16:57,004 --> 00:16:59,018
+<font color=#ffff00>Der ist ganz simpel gemacht.</font>
+
+190
+00:17:00,005 --> 00:17:03,014
+<font color=#ffff00>Das geht auch mit den Kräutern der</font>
+<font color=#ffff00>Wahl.</font>
+
+191
+00:17:05,011 --> 00:17:09,011
+<font color=#ffff00>Ich habe etwas Schweinefilet</font>
+<font color=#ffff00>angebrachten.</font>
+
+192
+00:17:09,019 --> 00:17:13,008
+<font color=#ffff00>Und etwas Käse dazwischen gesteckt.</font>
+
+193
+00:17:13,016 --> 00:17:17,008
+<font color=#ffff00>Jetzt kommt die Käsesauce dient zu.</font>
+
+194
+00:17:18,023 --> 00:17:22,017
+<font color=#ffff00>Eigentlich ist es nur Käse, Käse,</font>
+<font color=#ffff00>Käse und wieder Käse.</font>
+
+195
+00:17:23,008 --> 00:17:27,004
+<font color=#ffff00>Ich habe nicht mal gewürzt.</font>
+
+196
+00:17:27,024 --> 00:17:31,024
+<font color=#ffff00>Denn der Cheddar-Käse hat ein</font>
+<font color=#ffff00>krasses Aroma.</font>
+
+197
+00:17:33,008 --> 00:17:36,017
+<font color=#ffff00>Manchmal brauche es einfach nicht</font>
+<font color=#ffff00>mehr.</font>
+
+198
+00:17:37,008 --> 00:17:40,019
+<font color=#ffffff>Ich probiere etwas von dem</font>
+<font color=#ffffff>Kräuterquark.</font>
+
+199
+00:17:41,008 --> 00:17:44,021
+<font color=#ffffff>Oh, der ist ganz frisch.</font>
+
+200
+00:17:46,012 --> 00:17:50,019
+<font color=#ffffff>Ich probiere mal was von dem</font>
+<font color=#ffffff>Fleisch.</font>
+
+201
+00:17:51,003 --> 00:17:53,016
+<font color=#ffffff>Das Schweinefilet hast du</font>
+<font color=#ffffff>karamellisierte mit Honig.</font>
+
+202
+00:17:54,007 --> 00:17:57,023
+<font color=#ffff00>Ja, genau.</font>
+
+203
+00:17:58,021 --> 00:18:02,018
+<font color=#ffffff>Liebe Zuschauer, vielen Dank, dass</font>
+<font color=#ffffff>sie zugeschaut haben.</font>
+
+204
+00:18:03,006 --> 00:18:04,009
+<font color=#ffffff>Ein schönes Wochenende, tschüss.</font>
+
+205
+00:18:04,016 --> 00:18:06,006
+<font color=#ffffff>Copyright MDR 2021</font>
+

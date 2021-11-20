@@ -1,0 +1,421 @@
+1
+00:00:02,733 --> 00:00:04,893
+<font color=#00FFFF>Elli Neubert ist dran.</font>
+
+2
+00:00:05,733 --> 00:00:09,293
+<font color=#00FFFF>Schmorgemüse gibt es diese Woche.</font>
+
+3
+00:00:09,853 --> 00:00:12,173
+<font color=#00FFFF>Warum schmorst du Tomaten?</font>
+
+4
+00:00:12,853 --> 00:00:16,413
+<font color=#FFFFFF>Da ist auch viel Melatonin drin,</font>
+<font color=#FFFFFF>glaub ich.</font>
+
+5
+00:00:21,813 --> 00:00:26,333
+<font color=#FFFFFF>Der Fruchtzucker in der Tomate</font>
+<font color=#FFFFFF>wird karamellisiert,</font>
+
+6
+00:00:27,373 --> 00:00:29,853
+<font color=#FFFFFF>wenn man die Tomate schmort.</font>
+
+7
+00:00:30,893 --> 00:00:33,133
+<font color=#FFFFFF>Das wird süß.</font>
+
+8
+00:00:38,213 --> 00:00:42,853
+<font color=#00FFFF>So bunt und so unterschiedlich</font>
+<font color=#00FFFF>wie diese Tomaten, so ist die Welt.</font>
+
+9
+00:00:47,933 --> 00:00:51,133
+<font color=#00FFFF>Ist das nicht schön?</font>
+
+10
+00:00:51,293 --> 00:00:54,653
+<font color=#00FFFF>Das ist verrückt,</font>
+<font color=#00FFFF>das sind alles Tomaten.</font>
+
+11
+00:00:56,813 --> 00:01:00,293
+<font color=#FFFFFF>Ich hab gelesen,</font>
+<font color=#FFFFFF>das Thema ist Schmorgemüse.</font>
+
+12
+00:01:04,573 --> 00:01:06,973
+<font color=#FFFFFF>Aber es kommt doch der Frühling,</font>
+
+13
+00:01:07,053 --> 00:01:10,213
+<font color=#FFFFFF>da will man doch</font>
+<font color=#FFFFFF>nix langes im Ofen haben.</font>
+
+14
+00:01:16,533 --> 00:01:19,853
+<font color=#00FFFF>Da ist also</font>
+<font color=#00FFFF>natürliches Melatonin drin.</font>
+
+15
+00:01:21,053 --> 00:01:24,413
+<font color=#00FFFF>Dann ist das ein gutes Abendessen.</font>
+
+16
+00:01:31,733 --> 00:01:35,253
+<font color=#FFFFFF>Wir aromatisieren die Tomaten.</font>
+
+17
+00:01:39,493 --> 00:01:43,013
+<font color=#FFFFFF>Schneide doch bitte</font>
+<font color=#FFFFFF>die Zitrone in Streifen.</font>
+
+18
+00:01:46,693 --> 00:01:51,133
+<font color=#FFFFFF>Die Tomaten kriegen nur ein</font>
+<font color=#FFFFFF>bisschen Hitze, da platzen sie auf.</font>
+
+19
+00:01:52,173 --> 00:01:55,493
+<font color=#FFFFFF>Das reicht.</font>
+
+20
+00:01:59,893 --> 00:02:03,253
+<font color=#FFFFFF>Am Ende kommen noch</font>
+<font color=#FFFFFF>frische Tomaten dazu.</font>
+
+21
+00:02:04,213 --> 00:02:07,693
+<font color=#FFFFFF>Sie schmoren so bis zehn Minuten.</font>
+
+22
+00:02:13,293 --> 00:02:16,573
+<font color=#FFFFFF>Das kannst du mir rüberschieben.</font>
+
+23
+00:02:23,733 --> 00:02:27,213
+<font color=#FFFFFF>Die ganze Zitronenschale</font>
+<font color=#FFFFFF>kommt mit rein.</font>
+
+24
+00:02:30,053 --> 00:02:32,693
+<font color=#FFFFFF>Dazu Salz.</font>
+
+25
+00:02:32,853 --> 00:02:36,213
+<font color=#FFFFFF>Auch Pfeffer.</font>
+
+26
+00:02:37,613 --> 00:02:41,093
+<font color=#FFFFFF>Und eine Prise Zucker.</font>
+
+27
+00:02:41,533 --> 00:02:45,053
+<font color=#FFFFFF>Der Deckel kommt drauf.</font>
+
+28
+00:02:51,053 --> 00:02:54,533
+<font color=#FFFFFF>Diese Zitronenschale ...</font>
+<font color=#FFFFFF>Ein tolles Aroma.</font>
+
+29
+00:02:55,813 --> 00:02:59,293
+<font color=#FFFFFF>Auch mit Orangenschalen geht das.</font>
+
+30
+00:03:04,453 --> 00:03:07,933
+<font color=#00FFFF>Zu den Schmortomaten</font>
+<font color=#00FFFF>gibt es Schafskäse.</font>
+
+31
+00:03:11,813 --> 00:03:15,293
+<font color=#00FFFF>Und dazu noch</font>
+<font color=#00FFFF>selbst gemachtes Kräuteröl.</font>
+
+32
+00:03:16,013 --> 00:03:19,493
+<font color=#FFFFFF>Das ist ganz einfach.</font>
+
+33
+00:03:21,613 --> 00:03:25,133
+<font color=#FFFFFF>Ich gebe meine Lieblingskräuter</font>
+<font color=#FFFFFF>hier rein.</font>
+
+34
+00:03:26,973 --> 00:03:31,613
+<font color=#FFFFFF>Schnittlauch, Pfefferminze, Koriander</font>
+<font color=#FFFFFF>und alles was da ist.</font>
+
+35
+00:03:34,093 --> 00:03:37,573
+<font color=#FFFFFF>Jetzt hätte ich gern</font>
+<font color=#FFFFFF>noch die Zitrone.</font>
+
+36
+00:03:44,893 --> 00:03:48,373
+<font color=#FFFFFF>Hier habe ich Kräuter,</font>
+<font color=#FFFFFF>Olivenöl und Zitrone.</font>
+
+37
+00:03:53,213 --> 00:03:56,733
+<font color=#FFFFFF>Die Säure kommt in das Öl.</font>
+
+38
+00:03:58,173 --> 00:04:01,693
+<font color=#FFFFFF>Hier kommt Pfeffer und Salz dazu.</font>
+
+39
+00:04:04,333 --> 00:04:07,693
+<font color=#FFFFFF>Auch etwas Zucker.</font>
+
+40
+00:04:09,013 --> 00:04:12,493
+<font color=#FFFFFF>Jetzt püriere ich das ein bisschen.</font>
+
+41
+00:04:14,093 --> 00:04:17,893
+<font color=#00FFFF>Du machst überall,</font>
+<font color=#00FFFF>wo Salz rankommt, auch Zucker ran?</font>
+
+42
+00:04:19,053 --> 00:04:22,573
+<font color=#FFFFFF>Ja ich finde es wichtig,</font>
+<font color=#FFFFFF>dass die Balance stimmt.</font>
+
+43
+00:04:30,893 --> 00:04:33,333
+<font color=#FFFFFF>Ich hab auch gerne Zimt zur Tomate.</font>
+
+44
+00:04:36,133 --> 00:04:38,653
+<font color=#FFFFFF>Das passt aber nicht zum Schafskäse.</font>
+
+45
+00:04:40,333 --> 00:04:43,773
+<font color=#00FFFF>Das kannst du</font>
+<font color=#00FFFF>das nächste Mal probieren.</font>
+
+46
+00:04:47,053 --> 00:04:50,533
+<font color=#FFFFFF>Jetzt macht der hier so einen Krach.</font>
+
+47
+00:04:56,133 --> 00:04:59,653
+<font color=#00FFFF>Der klingt wie eine Ente,</font>
+<font color=#00FFFF>die Probleme hat.</font>
+
+48
+00:05:10,773 --> 00:05:14,293
+<font color=#FFFFFF>Es ist nicht wirklich flüssig.</font>
+
+49
+00:05:14,733 --> 00:05:18,213
+<font color=#FFFFFF>Es ist dick und grün.</font>
+
+50
+00:05:18,373 --> 00:05:21,813
+<font color=#FFFFFF>Es sind vor allem die Kräuter.</font>
+
+51
+00:05:22,013 --> 00:05:25,293
+<font color=#FFFFFF>Das wollen wir als Geschmack haben.</font>
+
+52
+00:05:27,373 --> 00:05:30,893
+<font color=#00FFFF>Kann man nicht auch</font>
+<font color=#00FFFF>Pesto dazu sagen?</font>
+
+53
+00:05:33,413 --> 00:05:36,373
+<font color=#FFFFFF>Ja, aber zu Pesto</font>
+<font color=#FFFFFF>kommt noch Käse und Nüsse.</font>
+
+54
+00:05:37,653 --> 00:05:39,653
+<font color=#FFFFFF>Und es wird gestampft.</font>
+
+55
+00:05:48,253 --> 00:05:51,733
+<font color=#FFFFFF>Ich hab ja noch ein Baguette.</font>
+
+56
+00:06:03,213 --> 00:06:06,733
+<font color=#FFFFFF>Man sieht, das hat ordentlich Saft.</font>
+
+57
+00:06:10,613 --> 00:06:14,093
+<font color=#FFFFFF>Das vermengt sich</font>
+<font color=#FFFFFF>gleich mit dem Kräuteröl.</font>
+
+58
+00:06:14,933 --> 00:06:18,413
+<font color=#FFFFFF>Das ist dann</font>
+<font color=#FFFFFF>wie ein eigenes Dressing.</font>
+
+59
+00:06:19,653 --> 00:06:23,133
+<font color=#00FFFF>Das ist schön bunt.</font>
+
+60
+00:06:24,253 --> 00:06:27,733
+<font color=#FFFFFF>Ich hab noch Mandeln.</font>
+
+61
+00:06:30,613 --> 00:06:34,093
+<font color=#FFFFFF>Wenn man die pur kauft,</font>
+<font color=#FFFFFF>kann man die schön rösten.</font>
+
+62
+00:06:40,893 --> 00:06:44,573
+<font color=#FFFFFF>Ich mach eine Mischung</font>
+<font color=#FFFFFF>aus warmen und kalten Tomaten.</font>
+
+63
+00:06:50,133 --> 00:06:53,893
+<font color=#FFFFFF>Möchtest du lieber Zwiebeln</font>
+<font color=#FFFFFF>schneiden, statt Peperoni?</font>
+
+64
+00:06:54,053 --> 00:06:57,493
+<font color=#00FFFF>Ja, das mache ich.</font>
+
+65
+00:07:05,613 --> 00:07:09,093
+<font color=#FFFFFF>Schmeiß die dann hier rein.</font>
+
+66
+00:07:09,333 --> 00:07:12,813
+<font color=#FFFFFF>Das mische ich</font>
+<font color=#FFFFFF>dann mit dem Kräuteröl.</font>
+
+67
+00:07:13,773 --> 00:07:17,293
+<font color=#FFFFFF>Ich möchte Peperoni</font>
+<font color=#FFFFFF>und Zwiebel nicht pürieren.</font>
+
+68
+00:07:23,133 --> 00:07:26,653
+<font color=#FFFFFF>Das kommt auch</font>
+<font color=#FFFFFF>noch in das Kräuteröl.</font>
+
+69
+00:07:29,813 --> 00:07:33,293
+<font color=#FFFFFF>Wenn man sich bei der Peperoni</font>
+<font color=#FFFFFF>nicht sicher ist,</font>
+
+70
+00:07:35,493 --> 00:07:39,133
+<font color=#FFFFFF>dann kann man die vorher probieren,</font>
+<font color=#FFFFFF>ob sie zu scharf ist.</font>
+
+71
+00:07:41,773 --> 00:07:45,893
+<font color=#FFFFFF>Wenn sie zu scharf ist,</font>
+<font color=#FFFFFF>dann kann man die Kerne rausnehmen.</font>
+
+72
+00:07:49,573 --> 00:07:53,813
+<font color=#FFFFFF>Aber vor allen Dingen das weiße</font>
+<font color=#FFFFFF>Häutchen, da ist sie Schärfe drin.</font>
+
+73
+00:08:15,493 --> 00:08:19,013
+<font color=#FFFFFF>Ich schneide frische Tomaten.</font>
+
+74
+00:08:19,973 --> 00:08:21,933
+<font color=#FFFFFF>Ich mache einen Tomatensalat</font>
+
+75
+00:08:22,013 --> 00:08:25,413
+<font color=#FFFFFF>aus einer Mischung</font>
+<font color=#FFFFFF>mit kalten und heißen Tomaten.</font>
+
+76
+00:08:29,773 --> 00:08:31,933
+<font color=#00FFFF>Wenn man Peperoni schneidet,</font>
+
+77
+00:08:32,013 --> 00:08:35,933
+<font color=#00FFFF>darf man sich nicht</font>
+<font color=#00FFFF>mit den Händen ins Auge fassen.</font>
+
+78
+00:08:40,533 --> 00:08:44,933
+<font color=#FFFFFF>Wenn man etwas Scharfes gegessen</font>
+<font color=#FFFFFF>hat, sollte man Milch trinken.</font>
+
+79
+00:08:47,933 --> 00:08:52,693
+<font color=#FFFFFF>Der scharfe Stoff in der Peperoni</font>
+<font color=#FFFFFF>ist nicht wasserlöslich.</font>
+
+80
+00:09:10,773 --> 00:09:14,293
+<font color=#FFFFFF>Ich richte schon mal an.</font>
+
+81
+00:09:16,373 --> 00:09:19,853
+<font color=#FFFFFF>Ich nehme einfach den Schafskäse.</font>
+
+82
+00:09:23,933 --> 00:09:27,413
+<font color=#00FFFF>Empfiehlst du einen besonderen?</font>
+
+83
+00:09:27,933 --> 00:09:31,453
+<font color=#FFFFFF>Original sollte es</font>
+<font color=#FFFFFF>viel Schafsmilch sein.</font>
+
+84
+00:09:34,373 --> 00:09:37,853
+<font color=#FFFFFF>Es gibt Varianten mit Kuhmilch.</font>
+
+85
+00:09:38,933 --> 00:09:42,413
+<font color=#FFFFFF>Ich finde es großartig</font>
+<font color=#FFFFFF>mit viel Schafsmilch.</font>
+
+86
+00:09:47,333 --> 00:09:50,813
+<font color=#FFFFFF>Es gibt den</font>
+<font color=#FFFFFF>in cremig oder krümelig.</font>
+
+87
+00:09:52,333 --> 00:09:55,813
+<font color=#FFFFFF>Hier darf man nicht</font>
+<font color=#FFFFFF>den Saft vergessen.</font>
+
+88
+00:09:59,933 --> 00:10:03,453
+<font color=#00FFFF>Das Gute ist:</font>
+<font color=#00FFFF>Elli isst sehr gerne selbst.</font>
+
+89
+00:10:08,933 --> 00:10:12,413
+<font color=#00FFFF>Sie machte für sich</font>
+<font color=#00FFFF>auch einen Teller mit.</font>
+
+90
+00:10:30,853 --> 00:10:33,933
+<font color=#FFFFFF>Zu Hause sollte man</font>
+<font color=#FFFFFF>noch Thymian dazu tun.</font>
+
+91
+00:10:34,093 --> 00:10:37,413
+<font color=#FFFFFF>Das habe ich vergessen.</font>
+
+92
+00:10:46,013 --> 00:10:48,813
+<font color=#00FFFF>Elli muss einfach</font>
+<font color=#00FFFF>noch mal wiederkommen.</font>
+
+93
+00:10:48,973 --> 00:10:52,653
+<font color=#00FFFF>Ich probiere gleich -</font>
+<font color=#00FFFF>es sieht hervorragend aus.</font>
+

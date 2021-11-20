@@ -1,0 +1,561 @@
+1
+00:00:01,632 --> 00:00:05,152
+<font color=#00FFFF>Das neue Essen gehen</font>
+<font color=#00FFFF>ist das spazieren.</font>
+
+2
+00:00:05,311 --> 00:00:08,791
+<font color=#00FFFF>Diese Woche</font>
+<font color=#00FFFF>kochen wir Wintergemüse.</font>
+
+3
+00:00:08,951 --> 00:00:12,432
+<font color=#00FFFF>Du hast dir die Rüben rausgesucht.</font>
+
+4
+00:00:14,711 --> 00:00:18,471
+<font color=#FFFFFF>Genau, ich habe kleine Möhren</font>
+<font color=#FFFFFF>in verschiedenen Farben.</font>
+
+5
+00:00:18,672 --> 00:00:21,912
+<font color=#FFFFFF>Und ich habe Pastinake</font>
+<font color=#FFFFFF>und Petersilienwurzel.</font>
+
+6
+00:00:22,112 --> 00:00:25,511
+<font color=#FFFFFF>Was möchtest du?</font>
+
+7
+00:00:25,711 --> 00:00:29,231
+<font color=#FFFFFF>Pastinake oder Petersilienwurzel?</font>
+
+8
+00:00:29,392 --> 00:00:32,831
+<font color=#00FFFF>Das hatten wir gestern schon.</font>
+
+9
+00:00:33,231 --> 00:00:36,711
+<font color=#FFFFFF>Ich verwechsle die beiden.</font>
+
+10
+00:00:38,831 --> 00:00:42,352
+<font color=#00FFFF>Es sieht ziemlich gleich aus.</font>
+
+11
+00:00:44,672 --> 00:00:48,311
+<font color=#00FFFF>Thomas sagte zu mir, die eine</font>
+<font color=#00FFFF>sei klein, die andere größer.</font>
+
+12
+00:00:48,471 --> 00:00:51,912
+<font color=#FFFFFF>Petersilienwurzel ist etwas gelber.</font>
+
+13
+00:00:55,751 --> 00:01:00,352
+<font color=#FFFFFF>Die Pastinake wächst nach außen,</font>
+<font color=#FFFFFF>hier wächst der Strunk nach innen.</font>
+
+14
+00:01:00,551 --> 00:01:03,952
+<font color=#FFFFFF>Das ist der große Unterschied.</font>
+
+15
+00:01:04,831 --> 00:01:08,352
+<font color=#FFFFFF>Du kannst gleich den Schäler haben.</font>
+
+16
+00:01:15,152 --> 00:01:20,311
+<font color=#00FFFF>Wir machen Polenta</font>
+<font color=#00FFFF>mit karamellisierten Rüben</font>
+
+17
+00:01:20,392 --> 00:01:22,031
+<font color=#00FFFF>und Gorgonzola.</font>
+
+18
+00:01:22,192 --> 00:01:25,592
+<font color=#FFFF00>Ich koche gerne fleischlos.</font>
+
+19
+00:01:29,432 --> 00:01:32,912
+<font color=#FFFF00>Man braucht nicht das Steak dazu.</font>
+
+20
+00:01:34,592 --> 00:01:38,071
+<font color=#FFFF00>Ich denke mir gerne</font>
+<font color=#FFFF00>außergewöhnliche Gerichte aus.</font>
+
+21
+00:01:38,872 --> 00:01:42,672
+<font color=#FFFF00>Aber so außergewöhnlich</font>
+<font color=#FFFF00>ist dieses Gericht hier nicht.</font>
+
+22
+00:01:43,551 --> 00:01:47,071
+<font color=#FFFF00>Polenta verarbeiten wir</font>
+<font color=#FFFF00>gleich cremig.</font>
+
+23
+00:01:48,392 --> 00:01:52,551
+<font color=#FFFF00>Die Konsistenz ist mit der</font>
+<font color=#FFFF00>von Kartoffelpüree vergleichbar.</font>
+
+24
+00:01:52,711 --> 00:01:55,872
+<font color=#FFFF00>Der Geschmack erinnert an Risotto.</font>
+
+25
+00:01:56,031 --> 00:01:58,952
+<font color=#FFFF00>Zwiebeln und Knoblauch</font>
+<font color=#FFFF00>sind auch drin.</font>
+
+26
+00:02:10,231 --> 00:02:13,031
+<font color=#00FFFF>Ich habe so ein Messer</font>
+<font color=#00FFFF>und du so eins.</font>
+
+27
+00:02:13,231 --> 00:02:16,632
+<font color=#00FFFF>Da läuft was schief.</font>
+
+28
+00:02:16,791 --> 00:02:20,071
+<font color=#00FFFF>Hast du Angst um meine Finger?</font>
+
+29
+00:02:20,231 --> 00:02:23,672
+<font color=#FFFF00>Niemals.</font>
+
+30
+00:02:23,831 --> 00:02:27,271
+<font color=#FFFF00>Ich gebe Öl in die Pfanne.</font>
+
+31
+00:02:28,192 --> 00:02:31,672
+<font color=#FFFF00>Du brauchst deine Finger noch.</font>
+
+32
+00:02:33,471 --> 00:02:38,031
+<font color=#FFFF00>Ich habe mir schon mal einen Finger</font>
+<font color=#FFFF00>abgeschnitten in der Sendung.</font>
+
+33
+00:02:38,672 --> 00:02:42,192
+<font color=#FFFF00>Dann kurz verbunden</font>
+<font color=#FFFF00>und weitergemacht.</font>
+
+34
+00:02:43,392 --> 00:02:46,872
+<font color=#FFFF00>Es ist ein paar Jahre her.</font>
+
+35
+00:02:48,031 --> 00:02:51,511
+<font color=#FFFF00>Wir haben das Öl in der Pfanne.</font>
+
+36
+00:02:53,031 --> 00:02:56,511
+<font color=#00FFFF>Mit diesem Bild</font>
+<font color=#00FFFF>schlafe ich heute Abend ein.</font>
+
+37
+00:03:00,112 --> 00:03:03,632
+<font color=#FFFF00>Ich lasse das Grün bewusst dran.</font>
+
+38
+00:03:07,471 --> 00:03:10,991
+<font color=#FFFF00>Man kann es</font>
+<font color=#FFFF00>auch zu Pesto verarbeiten.</font>
+
+39
+00:03:11,152 --> 00:03:14,632
+<font color=#FFFF00>Wir geben es</font>
+<font color=#FFFF00>rustikal in die Pfanne.</font>
+
+40
+00:03:15,192 --> 00:03:16,952
+<font color=#FFFF00>Schmeiß deine mal rein.</font>
+
+41
+00:03:24,912 --> 00:03:28,392
+<font color=#FFFF00>Ich hatte letzte Woche</font>
+<font color=#FFFF00>eine Zahn- OP.</font>
+
+42
+00:03:30,392 --> 00:03:33,872
+<font color=#00FFFF>Ich kann es dir</font>
+<font color=#00FFFF>in den Mixer schmeißen.</font>
+
+43
+00:03:35,952 --> 00:03:39,432
+<font color=#FFFF00>Ein bisschen Öl</font>
+<font color=#FFFF00>habe ich reingemacht.</font>
+
+44
+00:03:39,592 --> 00:03:42,511
+<font color=#FFFF00>Damit sie Farbe kriegen.</font>
+
+45
+00:03:42,712 --> 00:03:46,112
+<font color=#FFFF00>Und ein bisschen garen.</font>
+
+46
+00:03:47,511 --> 00:03:51,031
+<font color=#FFFF00>Dann machen wir die Polenta.</font>
+
+47
+00:03:53,952 --> 00:03:57,872
+<font color=#FFFF00>Damit du was zu tun hast,</font>
+<font color=#FFFF00>kannst du den Gorgonzola würfeln.</font>
+
+48
+00:03:58,031 --> 00:04:01,471
+<font color=#FFFF00>Möchtest du Handschuhe?</font>
+
+49
+00:04:03,872 --> 00:04:07,392
+<font color=#FFFF00>Damit kann man</font>
+<font color=#FFFF00>seinen Partner schön ärgern.</font>
+
+50
+00:04:08,712 --> 00:04:11,831
+<font color=#00FFFF>So roch immer</font>
+<font color=#00FFFF>die Sporttasche meines Bruders.</font>
+
+51
+00:04:11,991 --> 00:04:14,031
+<font color=#FFFFFF>Die Füße Gottes.</font>
+
+52
+00:04:14,192 --> 00:04:17,632
+<font color=#FFFFFF>Das sagte mein Vater.</font>
+
+53
+00:04:18,071 --> 00:04:21,551
+<font color=#FFFFFF>Jetzt ein Stück Butter</font>
+<font color=#FFFFFF>in den Topf geben.</font>
+
+54
+00:04:21,712 --> 00:04:25,192
+<font color=#FFFFFF>Dieses Gericht ist sehr mächtig.</font>
+
+55
+00:04:25,551 --> 00:04:29,071
+<font color=#FFFFFF>Man braucht auch mal eine Ausnahme.</font>
+
+56
+00:04:30,912 --> 00:04:34,392
+<font color=#00FFFF>Trotzdem siehst du so aus.</font>
+
+57
+00:04:37,152 --> 00:04:40,632
+<font color=#FFFFFF>Vielleicht sollte ich mal walken.</font>
+
+58
+00:04:41,991 --> 00:04:45,232
+<font color=#00FFFF>Was muss ich</font>
+<font color=#00FFFF>bei Gorgonzola beachten?</font>
+
+59
+00:04:45,392 --> 00:04:48,831
+<font color=#FFFFFF>Beim Kauf nichts.</font>
+
+60
+00:04:49,952 --> 00:04:53,472
+<font color=#FFFFFF>Er wird würziger,</font>
+<font color=#FFFFFF>wenn man ihn lange liegen lässt.</font>
+
+61
+00:04:53,632 --> 00:04:57,031
+<font color=#FFFFFF>Die Rinde abschneiden.</font>
+
+62
+00:05:00,432 --> 00:05:04,472
+<font color=#FFFFFF>Wenn man Gorgonzola nicht mag,</font>
+<font color=#FFFFFF>das sagt meine Oma sicher,</font>
+
+63
+00:05:04,632 --> 00:05:08,031
+<font color=#FFFFFF>dann nimmt man Feta-Käse.</font>
+
+64
+00:05:09,592 --> 00:05:12,192
+<font color=#00FFFF>In Würfel schneiden?</font>
+
+65
+00:05:12,392 --> 00:05:15,511
+<font color=#FFFFFF>Eher klein.</font>
+
+66
+00:05:15,672 --> 00:05:19,112
+<font color=#FFFFFF>Ich schneide Knoblauch.</font>
+
+67
+00:05:22,152 --> 00:05:24,712
+<font color=#FFFFFF>Knoblauch muss</font>
+<font color=#FFFFFF>in fast jedes Gericht.</font>
+
+68
+00:05:24,872 --> 00:05:28,311
+<font color=#FFFFFF>Finde ich.</font>
+
+69
+00:05:28,472 --> 00:05:31,992
+<font color=#FFFFFF>Aber wenn man es nicht mag,</font>
+<font color=#FFFFFF>lässt man es weg.</font>
+
+70
+00:05:33,712 --> 00:05:37,192
+<font color=#FFFFFF>Bei frischem Knoblauch</font>
+<font color=#FFFFFF>riecht man auch nicht so.</font>
+
+71
+00:05:39,032 --> 00:05:42,552
+<font color=#00FFFF>Polenta müssen wir auch noch machen.</font>
+
+72
+00:05:42,751 --> 00:05:46,271
+<font color=#FFFFFF>Es ist noch einiges zu tun.</font>
+
+73
+00:05:48,552 --> 00:05:52,271
+<font color=#FFFFFF>Jetzt fängt es an zu riechen,</font>
+<font color=#FFFFFF>Zwiebeln und Knoblauch.</font>
+
+74
+00:05:52,431 --> 00:05:55,152
+<font color=#FFFFFF>Ich liebe diesen Geruch.</font>
+
+75
+00:05:55,311 --> 00:05:57,791
+<font color=#FFFFFF>Zwiebeln und Knoblauch auf Butter.</font>
+
+76
+00:05:57,951 --> 00:06:01,391
+<font color=#FFFFFF>Mehr brauche ich nicht.</font>
+
+77
+00:06:01,951 --> 00:06:05,032
+<font color=#FFFFFF>Wir haben Milch und Sahne.</font>
+
+78
+00:06:05,192 --> 00:06:08,632
+<font color=#FFFFFF>Es erinnert an Risotto.</font>
+
+79
+00:06:13,672 --> 00:06:16,791
+<font color=#FFFFFF>Bei Risotto</font>
+<font color=#FFFFFF>sind es Brühe und Parmesan.</font>
+
+80
+00:06:16,951 --> 00:06:20,152
+<font color=#FFFFFF>Hier sind es Milch und Sahne.</font>
+
+81
+00:06:20,311 --> 00:06:23,712
+<font color=#FFFFFF>Das ist mit viel Fett.</font>
+
+82
+00:06:46,592 --> 00:06:50,112
+<font color=#FFFFFF>Gleich kommt das Maisgrieß rein.</font>
+
+83
+00:06:54,271 --> 00:06:58,391
+<font color=#FFFFFF>Jetzt geben wir einen kleinen</font>
+<font color=#FFFFFF>Schluck Wasser zu den Möhren.</font>
+
+84
+00:06:58,592 --> 00:07:01,192
+<font color=#FFFFFF>Sie müssen weiter garen.</font>
+
+85
+00:07:01,351 --> 00:07:04,032
+<font color=#00FFFF>Zucker karamellisieren.</font>
+
+86
+00:07:04,192 --> 00:07:07,351
+<font color=#FFFFFF>Das machen wir gleich.</font>
+
+87
+00:07:07,512 --> 00:07:10,911
+<font color=#FFFFFF>Damit er nicht verbrennt.</font>
+
+88
+00:07:12,592 --> 00:07:15,751
+<font color=#FFFFFF>Die müssen etwas weicher werden.</font>
+
+89
+00:07:15,911 --> 00:07:18,431
+<font color=#FFFFFF>Ich muss aufpassen</font>
+<font color=#FFFFFF>mit meinen Zähnen.</font>
+
+90
+00:07:18,592 --> 00:07:21,911
+<font color=#FFFFFF>Wie läuft das?</font>
+
+91
+00:07:22,072 --> 00:07:25,072
+<font color=#FFFFFF>Magst du Gorgonzola?</font>
+
+92
+00:07:25,232 --> 00:07:28,672
+<font color=#00FFFF>Leider nein.</font>
+
+93
+00:07:29,712 --> 00:07:33,232
+<font color=#00FFFF>Alles was so riecht,</font>
+<font color=#00FFFF>kann nicht gut sein.</font>
+
+94
+00:07:34,431 --> 00:07:37,911
+<font color=#00FFFF>Ich mag auch keinen Stinkekäse</font>
+<font color=#00FFFF>im Kühlschrank.</font>
+
+95
+00:07:38,751 --> 00:07:42,271
+<font color=#FFFFFF>Ich weiß, was du meinst.</font>
+
+96
+00:07:42,831 --> 00:07:46,311
+<font color=#FFFFFF>Man muss</font>
+<font color=#FFFFFF>eine gut schließende Dose nehmen.</font>
+
+97
+00:07:46,512 --> 00:07:49,951
+<font color=#00FFFF>Ich probier das auf jeden Fall.</font>
+
+98
+00:07:52,351 --> 00:07:56,712
+<font color=#FFFFFF>Man kann ihn sonst weglassen</font>
+<font color=#FFFFFF>oder ersetzen durch anderen Käse.</font>
+
+99
+00:07:56,871 --> 00:07:59,512
+<font color=#FFFFFF>Magst du Ziegenkäse?</font>
+
+100
+00:07:59,672 --> 00:08:03,112
+<font color=#00FFFF>Ja.</font>
+
+101
+00:08:06,192 --> 00:08:10,632
+<font color=#FFFFFF>Ich hab das Gefühl, du hast öfter</font>
+<font color=#FFFFFF>Probleme mit meinen Rezepten.</font>
+
+102
+00:08:13,391 --> 00:08:16,911
+<font color=#00FFFF>Ich hake nur nach.</font>
+
+103
+00:08:18,592 --> 00:08:26,592
+<font color=#FFFF00>Hier was</font>
+<font color=#FFFF00>von dem Maisgrieß einrieseln.</font>
+
+104
+00:08:28,311 --> 00:08:31,152
+<font color=#FFFF00>Es enthält viel Stärke</font>
+<font color=#FFFF00>und dickt gut ein.</font>
+
+105
+00:08:34,152 --> 00:08:37,391
+<font color=#00FFFF>Wie lange dauert das?</font>
+
+106
+00:08:37,552 --> 00:08:40,992
+<font color=#FFFFFF>Ein paar Minuten.</font>
+
+107
+00:08:41,152 --> 00:08:43,992
+<font color=#FFFFFF>So viel Zeit haben wir nicht.</font>
+
+108
+00:08:44,152 --> 00:08:47,472
+<font color=#FFFFFF>Der Countdown läuft.</font>
+
+109
+00:08:47,632 --> 00:08:51,072
+<font color=#00FFFF>Wir können anrichten.</font>
+
+110
+00:08:52,311 --> 00:08:54,791
+<font color=#00FFFF>Ich habe eine</font>
+<font color=#00FFFF>Zahnzusatzversicherung</font>
+
+111
+00:08:54,951 --> 00:08:57,431
+<font color=#00FFFF>abgeschlossen.</font>
+
+112
+00:08:57,592 --> 00:09:00,032
+<font color=#00FFFF>Tu mir schon mal auf.</font>
+
+113
+00:09:00,192 --> 00:09:02,472
+<font color=#FFFF00>Wir warten noch.</font>
+
+114
+00:09:02,632 --> 00:09:06,072
+<font color=#00FFFF>Lass dir Zeit.</font>
+
+115
+00:09:10,391 --> 00:09:13,911
+<font color=#00FFFF>Pinar von NDR Info</font>
+<font color=#00FFFF>möchte nach Hause.</font>
+
+116
+00:09:15,152 --> 00:09:19,951
+<font color=#FFFFFF>Zucker kommt hier ran.</font>
+
+117
+00:09:24,632 --> 00:09:27,752
+<font color=#FFFFFF>Und ein wenig Chili.</font>
+
+118
+00:09:27,911 --> 00:09:29,552
+<font color=#00FFFF>Wir müssen probieren.</font>
+
+119
+00:09:32,911 --> 00:09:34,791
+<font color=#00FFFF>Jetzt.</font>
+
+120
+00:09:40,232 --> 00:09:43,072
+<font color=#FFFFFF>Das ging schnell.</font>
+
+121
+00:09:43,232 --> 00:09:44,391
+<font color=#00FFFF>Das stimmt.</font>
+
+122
+00:09:53,951 --> 00:09:55,152
+<font color=#00FFFF>Mit Chili.</font>
+
+123
+00:09:57,592 --> 00:10:00,032
+<font color=#00FFFF>Ist noch fest.</font>
+
+124
+00:10:00,192 --> 00:10:03,632
+<font color=#00FFFF>War sehr lecker.</font>
+
+125
+00:10:05,351 --> 00:10:08,831
+<font color=#FFFFFF>Den Gorgonzola lass ich weg.</font>
+
+126
+00:10:08,992 --> 00:10:12,391
+<font color=#00FFFF>Das war das Spannende.</font>
+
+127
+00:10:16,311 --> 00:10:19,311
+<font color=#FFFFFF>Willst du es wagen?</font>
+
+128
+00:10:19,472 --> 00:10:20,831
+<font color=#00FFFF>Nicht so schlimm.</font>
+
+129
+00:10:26,831 --> 00:10:30,951
+<font color=#00FFFF>Morgen geht es auch ums Wintergemüse</font>
+<font color=#00FFFF>und was man draus machen kann.</font>
+

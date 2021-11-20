@@ -1,0 +1,498 @@
+1
+00:00:06,231 --> 00:00:09,711
+<font color=#00FFFF>So ein tolles Rezept.</font>
+
+2
+00:00:10,992 --> 00:00:14,472
+<font color=#00FFFF>Du hast Buchenholz eingelegt</font>
+<font color=#00FFFF>in Wasser.</font>
+
+3
+00:00:16,231 --> 00:00:19,711
+<font color=#FFFF00>Es sollte</font>
+<font color=#FFFF00>mindestens zehn Minuten drin sein.</font>
+
+4
+00:00:20,072 --> 00:00:23,592
+<font color=#FFFF00>Noch besser sind 30 Minuten.</font>
+
+5
+00:00:23,831 --> 00:00:27,351
+<font color=#FFFF00>Jetzt bereiten wir</font>
+<font color=#FFFF00>die Vinaigrette vor.</font>
+
+6
+00:00:28,512 --> 00:00:32,192
+<font color=#FFFF00>Dafür brauchen wir Kartoffeln,</font>
+<font color=#FFFF00>die müssen gar werden.</font>
+
+7
+00:00:34,152 --> 00:00:37,632
+<font color=#FFFF00>Ich habe Öl im Topf</font>
+<font color=#FFFF00>und gebe Schalotten dazu.</font>
+
+8
+00:00:37,872 --> 00:00:41,072
+<font color=#FFFF00>Die Kartoffeln</font>
+<font color=#FFFF00>muss man schön kleinschneiden.</font>
+
+9
+00:00:41,231 --> 00:00:44,672
+<font color=#FFFF00>Das ist wichtig.</font>
+
+10
+00:00:46,112 --> 00:00:49,592
+<font color=#00FFFF>Ich schneide schon mal</font>
+<font color=#00FFFF>die Himbeeren klein.</font>
+
+11
+00:00:49,872 --> 00:00:53,351
+<font color=#FFFF00>Die kannst du halbieren.</font>
+
+12
+00:00:58,192 --> 00:01:02,192
+<font color=#FFFF00>Wenn die Kartoffeln klein sind,</font>
+<font color=#FFFF00>garen sie nicht so lange.</font>
+
+13
+00:01:02,912 --> 00:01:06,432
+<font color=#00FFFF>Wofür hast du die Himbeeren?</font>
+
+14
+00:01:07,791 --> 00:01:11,271
+<font color=#FFFF00>Die geben dem Gericht</font>
+<font color=#FFFF00>eine schöne Säure.</font>
+
+15
+00:01:23,072 --> 00:01:26,751
+<font color=#FFFF00>Für die Vinaigrette</font>
+<font color=#FFFF00>habe ich auch Himbeeressig dabei.</font>
+
+16
+00:01:31,791 --> 00:01:35,992
+<font color=#FFFF00>Jedes Gericht braucht etwas</font>
+<font color=#FFFF00>Herzhaftes und Süßes und Saures.</font>
+
+17
+00:01:36,711 --> 00:01:40,192
+<font color=#FFFF00>Ich habe</font>
+<font color=#FFFF00>einen guten Essig aus Himbeeren.</font>
+
+18
+00:01:40,751 --> 00:01:44,271
+<font color=#FFFF00>Daraus kann man</font>
+<font color=#FFFF00>zwei Esslöffel ins Gericht geben.</font>
+
+19
+00:01:45,912 --> 00:01:49,392
+<font color=#FFFF00>Das fülle ich mit Gemüsebrühe auf.</font>
+
+20
+00:01:50,271 --> 00:01:53,872
+<font color=#FFFF00>Die Mischung lassen wir</font>
+<font color=#FFFF00>auf mittlere Hitze köcheln.</font>
+
+21
+00:01:54,112 --> 00:01:57,592
+<font color=#FFFF00>Ich habe mir</font>
+<font color=#FFFF00>mehlige Kartoffeln genommen.</font>
+
+22
+00:01:59,271 --> 00:02:02,751
+<font color=#FFFF00>Das gibt etwas mehr Bindung</font>
+<font color=#FFFF00>und ist nicht wässrig.</font>
+
+23
+00:02:03,152 --> 00:02:06,672
+<font color=#FFFF00>Jetzt fangen wir an mit dem Fisch.</font>
+
+24
+00:02:07,472 --> 00:02:11,032
+<font color=#FFFF00>Die Himbeeren</font>
+<font color=#FFFF00>kannst du in eine Schale tun.</font>
+
+25
+00:02:11,192 --> 00:02:14,552
+<font color=#FFFF00>Und dann kannst du</font>
+<font color=#FFFF00>die Nüsse halbieren.</font>
+
+26
+00:02:16,952 --> 00:02:19,472
+<font color=#FFFF00>Fisch und Meerrettich kennt jeder.</font>
+
+27
+00:02:24,592 --> 00:02:28,112
+<font color=#FFFF00>Das ist das eingeweichte Buchenholz.</font>
+
+28
+00:02:28,392 --> 00:02:31,912
+<font color=#FFFF00>Es lässt sich flexibel rollen.</font>
+
+29
+00:02:33,152 --> 00:02:36,632
+<font color=#FFFF00>Wichtig ist,</font>
+<font color=#FFFF00>dass es gut eingeweicht ist.</font>
+
+30
+00:02:36,791 --> 00:02:40,152
+<font color=#FFFF00>Jetzt haben wir den Saibling.</font>
+
+31
+00:02:40,432 --> 00:02:43,912
+<font color=#FFFF00>Der hat weniger Fett als Lachs.</font>
+
+32
+00:02:44,672 --> 00:02:48,152
+<font color=#FFFF00>Das passt</font>
+<font color=#FFFF00>ins heutige Ernährungskonzept.</font>
+
+33
+00:02:48,552 --> 00:02:52,072
+<font color=#00FFFF>Dafür hat Matthias</font>
+<font color=#00FFFF>dich schon gelobt.</font>
+
+34
+00:02:52,552 --> 00:02:56,072
+<font color=#00FFFF>Auch mit einer Fettleber</font>
+<font color=#00FFFF>darf man das alles essen.</font>
+
+35
+00:02:56,231 --> 00:02:59,632
+<font color=#FFFF00>Der Fisch wird gesalzen.</font>
+
+36
+00:02:59,791 --> 00:03:03,271
+<font color=#00FFFF>Warum Saibling?</font>
+
+37
+00:03:04,152 --> 00:03:07,672
+<font color=#FFFF00>Das ist ein Fisch aus meiner Region.</font>
+
+38
+00:03:09,192 --> 00:03:12,672
+<font color=#00FFFF>Aber ich könnte auch Lachs nehmen?</font>
+
+39
+00:03:12,872 --> 00:03:16,351
+<font color=#FFFF00>Ja, oder auch Forelle.</font>
+
+40
+00:03:18,152 --> 00:03:21,672
+<font color=#FFFF00>Ich habe hier eine Bio-Zitrone.</font>
+
+41
+00:03:22,271 --> 00:03:24,592
+<font color=#FFFF00>Das wird auf den Fisch gerieben.</font>
+
+42
+00:03:29,271 --> 00:03:32,751
+<font color=#FFFF00>So entwickelt die Zitrone</font>
+<font color=#FFFF00>ihr volles Aroma.</font>
+
+43
+00:03:38,831 --> 00:03:42,311
+<font color=#FFFF00>In der Zwischenzeit</font>
+<font color=#FFFF00>die Pfanne anheizen.</font>
+
+44
+00:03:43,271 --> 00:03:46,751
+<font color=#FFFF00>Später kommt noch Öl dazu.</font>
+
+45
+00:03:47,192 --> 00:03:50,672
+<font color=#FFFF00>Mit dem Koriander</font>
+<font color=#FFFF00>sollte man nicht sparen.</font>
+
+46
+00:03:52,311 --> 00:03:55,791
+<font color=#FFFF00>Der fällt beim Garen</font>
+<font color=#FFFF00>auch noch zusammen.</font>
+
+47
+00:03:57,751 --> 00:04:01,231
+<font color=#00FFFF>Selten,</font>
+<font color=#00FFFF>dass die Kräuter schon dazukommen.</font>
+
+48
+00:04:02,751 --> 00:04:06,231
+<font color=#FFFF00>Das soll den Fisch</font>
+<font color=#FFFF00>schön marinieren.</font>
+
+49
+00:04:06,432 --> 00:04:09,912
+<font color=#FFFF00>Ich habe hier Bänder vorbereitet.</font>
+
+50
+00:04:13,032 --> 00:04:17,152
+<font color=#FFFF00>Man sollte etwas nehmen,</font>
+<font color=#FFFF00>was stabil und hitzebeständig ist.</font>
+
+51
+00:04:17,311 --> 00:04:20,712
+<font color=#FFFF00>Damit wird das eingebunden.</font>
+
+52
+00:04:21,152 --> 00:04:24,632
+<font color=#00FFFF>Kann man auch</font>
+<font color=#00FFFF>Fleisch oder Gemüse so garen?</font>
+
+53
+00:04:25,751 --> 00:04:29,232
+<font color=#FFFF00>Man kann sehr schön Spargel garen.</font>
+
+54
+00:04:31,632 --> 00:04:35,552
+<font color=#FFFF00>Oder auch Käse einpacken,</font>
+<font color=#FFFF00>um ihn auf den Grill zu legen.</font>
+
+55
+00:04:35,712 --> 00:04:39,152
+<font color=#00FFFF>War das deine Idee?</font>
+
+56
+00:04:39,992 --> 00:04:43,472
+<font color=#FFFF00>Nein, es war nicht meine Idee.</font>
+
+57
+00:04:46,112 --> 00:04:50,112
+<font color=#FFFF00>Das Buchenholz gibt es im Baumarkt</font>
+<font color=#FFFF00>in der Grillabteilung.</font>
+
+58
+00:04:52,351 --> 00:04:56,912
+<font color=#FFFF00>Dann kann man mit dem Produkt seiner</font>
+<font color=#FFFF00>Fantasie freien Lauf lassen.</font>
+
+59
+00:05:01,992 --> 00:05:05,472
+<font color=#FFFF00>Die Vinaigrette köchelt.</font>
+
+60
+00:05:06,472 --> 00:05:09,952
+<font color=#FFFF00>Jetzt das Olivenöl in die Pfanne.</font>
+
+61
+00:05:10,432 --> 00:05:13,032
+<font color=#FFFF00>Und dann kommt auch der Fisch dazu.</font>
+
+62
+00:05:27,912 --> 00:05:31,392
+<font color=#FFFF00>Der wird</font>
+<font color=#FFFF00>von allen Seiten angebraten.</font>
+
+63
+00:05:35,351 --> 00:05:43,032
+<font color=#FFFF00>Und das Ganze wird abgeflämmt,</font>
+<font color=#FFFF00>so entwickeln sich Raucharomen.</font>
+
+64
+00:05:45,112 --> 00:05:48,592
+<font color=#00FFFF>Und gesunde Raucharomen.</font>
+
+65
+00:05:48,751 --> 00:05:52,192
+<font color=#FFFF00>Auf jeden Fall.</font>
+
+66
+00:05:55,192 --> 00:05:59,632
+<font color=#FFFF00>Und selbst in den Wintermonaten</font>
+<font color=#FFFF00>kann man sich die Aromen holen.</font>
+
+67
+00:06:09,232 --> 00:06:12,672
+<font color=#FFFF00>Es muss außen einmal</font>
+<font color=#FFFF00>ein bisschen Hitze bekommen.</font>
+
+68
+00:06:12,831 --> 00:06:16,232
+<font color=#FFFF00>Dann kann man</font>
+<font color=#FFFF00>den Bunsenbrenner nehmen</font>
+
+69
+00:06:20,472 --> 00:06:23,952
+<font color=#FFFF00>und dem Ganzen etwas Farbe geben.</font>
+
+70
+00:06:25,392 --> 00:06:29,032
+<font color=#00FFFF>Unser Feuerwehrmann</font>
+<font color=#00FFFF>beobachtet das jetzt ganz genau.</font>
+
+71
+00:06:32,152 --> 00:06:34,791
+<font color=#00FFFF>Der Bunsenbrenner auf das heiße Öl.</font>
+
+72
+00:06:41,992 --> 00:06:45,552
+<font color=#FFFF00>Diesen Vorgang kann man sich sparen.</font>
+
+73
+00:06:45,712 --> 00:06:49,072
+<font color=#FFFF00>Wenn man direkt</font>
+<font color=#FFFF00>auf einem Grill arbeitet.</font>
+
+74
+00:06:50,232 --> 00:06:53,552
+<font color=#FFFF00>Da kommt die Hitze direkt</font>
+<font color=#FFFF00>an den Fisch.</font>
+
+75
+00:06:53,712 --> 00:06:57,072
+<font color=#FFFF00>Dann brauche ich</font>
+<font color=#FFFF00>den Bunsenbrenner nicht.</font>
+
+76
+00:06:58,831 --> 00:07:01,872
+<font color=#FFFF00>Bei dir sieht das auch gut aus.</font>
+
+77
+00:07:02,032 --> 00:07:05,351
+<font color=#00FFFF>Ich bin fertig.</font>
+
+78
+00:07:06,632 --> 00:07:09,712
+<font color=#FFFF00>Jetzt brauche ich</font>
+<font color=#FFFF00>eine feuerfeste Form.</font>
+
+79
+00:07:09,872 --> 00:07:12,751
+<font color=#FFFF00>Da lege ich den Fisch drauf.</font>
+
+80
+00:07:12,912 --> 00:07:16,271
+<font color=#FFFF00>Und dann kommt das in den Ofen.</font>
+
+81
+00:07:16,712 --> 00:07:19,552
+<font color=#FFFF00>Bei 180 Grad für sechs Minuten.</font>
+
+82
+00:07:19,712 --> 00:07:22,751
+<font color=#FFFF00>Dann ist der Fisch fertig.</font>
+
+83
+00:07:22,912 --> 00:07:26,271
+<font color=#FFFF00>Wir haben das vorbereitet.</font>
+
+84
+00:07:26,392 --> 00:07:29,872
+<font color=#00FFFF>Manchmal läuft die Zeit schnell.</font>
+
+85
+00:07:31,952 --> 00:07:35,791
+<font color=#FFFF00>Ich nehme noch die Himbeeren</font>
+<font color=#FFFF00>und mache die Vinaigrette.</font>
+
+86
+00:07:36,232 --> 00:07:39,712
+<font color=#FFFF00>Und auch den restlichen Koriander</font>
+<font color=#FFFF00>nehme ich dazu.</font>
+
+87
+00:07:40,192 --> 00:07:43,552
+<font color=#FFFF00>Das wird eine schöne</font>
+<font color=#FFFF00>grüne fruchtige Mischung.</font>
+
+88
+00:07:43,712 --> 00:07:46,952
+<font color=#FFFF00>Es soll aber</font>
+<font color=#FFFF00>nicht mehr lange kochen.</font>
+
+89
+00:07:47,112 --> 00:07:49,712
+<font color=#FFFF00>Dann holen wir den fertigen Fisch.</font>
+
+90
+00:07:57,552 --> 00:08:00,791
+<font color=#FFFF00>Ich schneide das Band einfach auf.</font>
+
+91
+00:08:14,512 --> 00:08:18,032
+<font color=#FFFF00>Man kann das jetzt</font>
+<font color=#FFFF00>ein bisschen aufmachen.</font>
+
+92
+00:08:18,912 --> 00:08:21,351
+<font color=#FFFF00>Man hört, wie es knistert.</font>
+
+93
+00:08:30,112 --> 00:08:33,632
+<font color=#FFFF00>Ich nehme das</font>
+<font color=#FFFF00>ein bisschen auseinander.</font>
+
+94
+00:08:33,831 --> 00:08:37,351
+<font color=#00FFFF>Das riecht sehr lecker.</font>
+
+95
+00:08:39,552 --> 00:08:43,032
+<font color=#FFFF00>Jetzt gebe ich Vinaigrette</font>
+<font color=#FFFF00>über den Fisch.</font>
+
+96
+00:08:43,311 --> 00:08:46,831
+<font color=#FFFF00>Es sollte nicht so viel sein.</font>
+
+97
+00:08:50,632 --> 00:08:54,112
+<font color=#FFFF00>Denn 80 Prozent sollten gesund sein.</font>
+
+98
+00:08:55,592 --> 00:08:59,112
+<font color=#FFFF00>Die Kartoffeln im Gericht</font>
+<font color=#FFFF00>sollten nicht überwiegen.</font>
+
+99
+00:09:01,632 --> 00:09:05,351
+<font color=#FFFF00>Es kann auch noch ein Blatt</font>
+<font color=#FFFF00>Koriander als Deko drauf.</font>
+
+100
+00:09:05,512 --> 00:09:08,952
+<font color=#FFFF00>Und dann kannst du probieren.</font>
+
+101
+00:09:10,032 --> 00:09:12,791
+<font color=#00FFFF>Einmal für die Kamera.</font>
+
+102
+00:09:12,952 --> 00:09:14,912
+<font color=#00FFFF>Das sieht toll aus.</font>
+
+103
+00:09:28,831 --> 00:09:32,311
+<font color=#00FFFF>Das ist wirklich toll.</font>
+
+104
+00:09:34,032 --> 00:09:37,552
+<font color=#00FFFF>Deine Vinaigrette ist der Hammer.</font>
+
+105
+00:09:39,472 --> 00:09:42,831
+<font color=#FFFF00>Auch mein Mitarbeiter sagte,</font>
+<font color=#FFFF00>das schmeckt sogar.</font>
+
+106
+00:09:42,992 --> 00:09:46,432
+<font color=#FFFF00>Die Kombination fand er seltsam.</font>
+
+107
+00:09:47,192 --> 00:09:50,672
+<font color=#00FFFF>Und der Fisch ist auch toll.</font>
+
+108
+00:09:51,512 --> 00:09:55,872
+<font color=#00FFFF>Dieses leichte Raucharoma</font>
+<font color=#00FFFF>und ganz frisch durch den Koriander.</font>
+
+109
+00:09:56,432 --> 00:09:58,712
+<font color=#00FFFF>Es ist eine tolle kreative Idee.</font>
+
+110
+00:09:58,912 --> 00:10:00,752
+<font color=#00FFFF>Wie immer war es ein Fest.</font>
+
+111
+00:10:03,271 --> 00:10:04,271
+<font color=#00FFFF>Vielen Dank.</font>
+

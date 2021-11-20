@@ -1,0 +1,565 @@
+1
+00:00:00,997 --> 00:00:04,677
+<font color=#00FFFF>Nicht anspruchslos geht es jetzt</font>
+<font color=#00FFFF>in der Küche weiter.</font>
+
+2
+00:00:04,837 --> 00:00:07,317
+<font color=#00FFFF>Hannes ist bei uns.</font>
+
+3
+00:00:07,477 --> 00:00:10,837
+<font color=#00FFFF>Es gibt geschmorten Blumenkohl.</font>
+
+4
+00:00:11,157 --> 00:00:14,637
+<font color=#00FFFF>Warum hast du dich</font>
+<font color=#00FFFF>dafür entschieden?</font>
+
+5
+00:00:16,677 --> 00:00:20,197
+<font color=#FFFF00>Ich bin ein Kohlfreund.</font>
+
+6
+00:00:22,197 --> 00:00:25,677
+<font color=#FFFF00>Blumenkohl ist mein Lieblings-Kohl.</font>
+
+7
+00:00:27,317 --> 00:00:31,677
+<font color=#FFFF00>Ich finde ihn besonders lecker,</font>
+<font color=#FFFF00>wenn er Rostaromen entwickelt.</font>
+
+8
+00:00:31,837 --> 00:00:35,277
+<font color=#FFFF00>Ich habe mir dafür etwas überlegt.</font>
+
+9
+00:00:35,597 --> 00:00:39,077
+<font color=#00FFFF>Es ist extra für uns.</font>
+
+10
+00:00:40,317 --> 00:00:43,837
+<font color=#FFFF00>Ich mache den Blumenkohl</font>
+<font color=#FFFF00>nur für euch.</font>
+
+11
+00:00:44,157 --> 00:00:47,677
+<font color=#FFFF00>Dazu gibt es ein Kartoffelpüree.</font>
+
+12
+00:00:52,717 --> 00:00:55,157
+<font color=#FFFF00>Ich habe frischen Kopfsalat dazu.</font>
+
+13
+00:00:55,317 --> 00:00:58,157
+<font color=#FFFF00>Das wird sehr lecker.</font>
+
+14
+00:00:58,317 --> 00:01:01,677
+<font color=#FFFF00>Ich muss den Kohl erst anbraten.</font>
+
+15
+00:01:07,157 --> 00:01:10,677
+<font color=#00FFFF>In pikantem Sud.</font>
+
+16
+00:01:11,437 --> 00:01:14,957
+<font color=#FFFF00>Das ist etwas Besonderes.</font>
+
+17
+00:01:15,077 --> 00:01:18,437
+<font color=#FFFF00>Du kannst den Knoblauch schälen.</font>
+
+18
+00:01:19,237 --> 00:01:22,077
+<font color=#FFFF00>Ich schneide den Blumenkohl</font>
+<font color=#FFFF00>in Ecken.</font>
+
+19
+00:01:22,237 --> 00:01:24,637
+<font color=#FFFF00>Dann werde ich ihn so anbraten.</font>
+
+20
+00:01:24,797 --> 00:01:27,077
+<font color=#FFFF00>Etwas Öl in die Pfanne.</font>
+
+21
+00:01:27,237 --> 00:01:30,597
+<font color=#FFFF00>Die ist schon heiß.</font>
+
+22
+00:01:31,197 --> 00:01:34,717
+<font color=#00FFFF>Welches Öl nimmst du?</font>
+
+23
+00:01:34,877 --> 00:01:37,317
+<font color=#FFFF00>Das ist ein leichtes Olivenöl.</font>
+
+24
+00:01:37,477 --> 00:01:40,077
+<font color=#FFFF00>Gut, dass du fragst.</font>
+
+25
+00:01:40,277 --> 00:01:43,597
+<font color=#FFFF00>Ich hätte das verheimlicht.</font>
+
+26
+00:01:43,757 --> 00:01:47,237
+<font color=#FFFF00>Ich lege diese Keile so rein.</font>
+
+27
+00:01:50,557 --> 00:01:54,317
+<font color=#FFFF00>Die werden richtig angebraten,</font>
+<font color=#FFFF00>bis sie goldbraun sind.</font>
+
+28
+00:01:55,677 --> 00:01:58,757
+<font color=#00FFFF>Hannes hat den Trick raus.</font>
+
+29
+00:01:58,917 --> 00:02:02,277
+<font color=#00FFFF>Jetzt bin ich schön beschäftigt.</font>
+
+30
+00:02:03,397 --> 00:02:06,917
+<font color=#FFFF00>Du bist jetzt abgelenkt.</font>
+
+31
+00:02:13,917 --> 00:02:17,437
+<font color=#00FFFF>Du sollst auch</font>
+<font color=#00FFFF>besondere Zwiebeln bekommen.</font>
+
+32
+00:02:19,797 --> 00:02:23,277
+<font color=#00FFFF>Damit bin ich</font>
+<font color=#00FFFF>beim Fragen stellen raus.</font>
+
+33
+00:02:23,437 --> 00:02:26,917
+<font color=#FFFF00>Deswegen habe ich das gemacht.</font>
+
+34
+00:02:32,397 --> 00:02:36,757
+<font color=#FFFF00>Dann stellst du keine Fragen,</font>
+<font color=#FFFF00>die ich nicht beantworten kann.</font>
+
+35
+00:02:42,237 --> 00:02:45,277
+<font color=#FFFF00>Ich habe noch</font>
+<font color=#FFFF00>eine Peperoni geschnitten</font>
+
+36
+00:02:45,437 --> 00:02:48,797
+<font color=#FFFF00>und Sellerie vorbereitet.</font>
+
+37
+00:02:50,877 --> 00:02:54,077
+<font color=#FFFF00>Nachher kommen</font>
+<font color=#FFFF00>die Aromaten mit dazu.</font>
+
+38
+00:02:54,237 --> 00:02:57,597
+<font color=#FFFF00>Dann haben wir eine leckere Sauce.</font>
+
+39
+00:03:00,077 --> 00:03:03,557
+<font color=#00FFFF>Muss ich beim Blumenkohl</font>
+<font color=#00FFFF>etwas beachten?</font>
+
+40
+00:03:10,637 --> 00:03:14,837
+<font color=#FFFF00>Die Herausforderung liegt darin,</font>
+<font color=#FFFF00>zu gucken, wann er gar ist.</font>
+
+41
+00:03:15,397 --> 00:03:19,117
+<font color=#FFFF00>Wenn er noch zu bissfest ist,</font>
+<font color=#FFFF00>ist es nicht so lecker.</font>
+
+42
+00:03:19,277 --> 00:03:22,717
+<font color=#FFFF00>Du kannst mir das gleich geben.</font>
+
+43
+00:03:22,917 --> 00:03:26,277
+<font color=#00FFFF>Ich bin noch nicht so weit.</font>
+
+44
+00:03:26,437 --> 00:03:29,757
+<font color=#FFFF00>Ich übe Druck aus.</font>
+
+45
+00:03:30,837 --> 00:03:34,357
+<font color=#00FFFF>Damit kann ich nicht umgehen.</font>
+
+46
+00:03:35,397 --> 00:03:39,037
+<font color=#00FFFF>Ich war immer in der Schule</font>
+<font color=#00FFFF>auf den letzten Drücker.</font>
+
+47
+00:03:41,237 --> 00:03:44,757
+<font color=#FFFF00>Ich auch, eher zu spät als zu früh.</font>
+
+48
+00:03:45,197 --> 00:03:48,677
+<font color=#00FFFF>Effektives Arbeiten.</font>
+
+49
+00:03:49,797 --> 00:03:53,277
+<font color=#FFFF00>Ich habe hier jetzt Tomatenmark.</font>
+
+50
+00:03:54,437 --> 00:03:57,957
+<font color=#FFFF00>Du kannst das in die Schüssel geben.</font>
+
+51
+00:03:58,997 --> 00:04:02,517
+<font color=#FFFF00>Der Knoblauch</font>
+<font color=#FFFF00>ist perfekt dazwischen.</font>
+
+52
+00:04:03,757 --> 00:04:07,237
+<font color=#FFFF00>Da kommt das Aroma gut heraus.</font>
+
+53
+00:04:09,437 --> 00:04:12,957
+<font color=#FFFF00>Das tue ich mit rein.</font>
+
+54
+00:04:15,837 --> 00:04:19,317
+<font color=#00FFFF>Den anderen Knoblauch auch noch?</font>
+<font color=#FFFF00>Das reicht.</font>
+
+55
+00:04:23,957 --> 00:04:27,597
+<font color=#00FFFF>Hannes hat sich heute</font>
+<font color=#00FFFF>kleidungsmäßig zurückgehalten.</font>
+
+56
+00:04:28,157 --> 00:04:30,717
+<font color=#00FFFF>Wir passen perfekt zusammen.</font>
+
+57
+00:04:30,877 --> 00:04:33,917
+<font color=#00FFFF>Der Star ist das Essen.</font>
+
+58
+00:04:34,037 --> 00:04:37,397
+<font color=#FFFF00>Wir haben uns heute abgestimmt.</font>
+
+59
+00:04:37,557 --> 00:04:40,877
+<font color=#FFFF00>Jetzt wird das Ganze geröstet.</font>
+
+60
+00:04:41,037 --> 00:04:44,397
+<font color=#FFFF00>Jetzt kommen Chiliflocken dazu.</font>
+
+61
+00:04:47,837 --> 00:04:50,717
+<font color=#FFFF00>Das geräucherte Paprikapulver</font>
+<font color=#FFFF00>kommt dazu.</font>
+
+62
+00:04:50,877 --> 00:04:53,917
+<font color=#FFFF00>Das brate ich alles mit an.</font>
+
+63
+00:04:54,077 --> 00:04:56,477
+<font color=#FFFF00>Eine gute Prise Salz.</font>
+
+64
+00:04:56,637 --> 00:04:59,957
+<font color=#FFFF00>Und Pfeffer.</font>
+
+65
+00:05:03,757 --> 00:05:07,277
+<font color=#00FFFF>Ist das ein schnelles Gericht?</font>
+
+66
+00:05:21,357 --> 00:05:24,837
+<font color=#FFFF00>Man muss diesen Schmorprozess haben.</font>
+
+67
+00:05:26,557 --> 00:05:30,037
+<font color=#00FFFF>Es ist keine schnelle Nummer.</font>
+
+68
+00:05:31,957 --> 00:05:35,277
+<font color=#FFFF00>Nein. Dazu passt Weißwein.</font>
+
+69
+00:05:35,437 --> 00:05:38,797
+<font color=#FFFF00>Aber man kann es gut vorbereiten.</font>
+
+70
+00:05:39,277 --> 00:05:42,797
+<font color=#FFFF00>Wenn es dann im Ofen schmort.</font>
+
+71
+00:05:48,717 --> 00:05:52,237
+<font color=#00FFFF>Du hast das Aroma heraufbeschworen.</font>
+
+72
+00:05:56,357 --> 00:05:59,837
+<font color=#FFFF00>Das emulgiert mit dem Tomatenmark.</font>
+
+73
+00:06:02,917 --> 00:06:06,397
+<font color=#FFFF00>Das gibt ein kräftiges Sößchen.</font>
+
+74
+00:06:06,637 --> 00:06:10,117
+<font color=#FFFF00>Das lasse ich jetzt so laufen.</font>
+
+75
+00:06:10,597 --> 00:06:14,117
+<font color=#FFFF00>Das Kartoffelpüree</font>
+<font color=#FFFF00>habe ich schon heiß gerührt.</font>
+
+76
+00:06:22,877 --> 00:06:26,477
+<font color=#00FFFF>Beim Püree musst du es</font>
+<font color=#00FFFF>mit meiner Mutter aufnehmen.</font>
+
+77
+00:06:26,637 --> 00:06:28,637
+<font color=#00FFFF>Das wird schwer.</font>
+
+78
+00:06:28,797 --> 00:06:32,157
+<font color=#FFFF00>Dann nehme ich Platz zwei.</font>
+
+79
+00:06:34,117 --> 00:06:37,597
+<font color=#FFFF00>Das ist der leckere Kopfsalat.</font>
+
+80
+00:06:41,837 --> 00:06:44,957
+<font color=#00FFFF>Gibt es einen Tipp für das Püree?</font>
+
+81
+00:06:45,117 --> 00:06:48,437
+<font color=#FFFF00>Das wichtigste ist die Kartoffel.</font>
+
+82
+00:06:48,597 --> 00:06:52,197
+<font color=#FFFF00>Bei uns im Norden gibt es</font>
+<font color=#FFFF00>viele gute Kartoffelbauern.</font>
+
+83
+00:06:52,357 --> 00:06:55,797
+<font color=#FFFF00>Besonders in der Lüneburger Heide.</font>
+
+84
+00:07:02,237 --> 00:07:06,197
+<font color=#FFFF00>Vorwiegend festkochend ist okay,</font>
+<font color=#FFFF00>mehlig muss nicht sein.</font>
+
+85
+00:07:06,397 --> 00:07:10,077
+<font color=#FFFF00>Ich koche die Kartoffel,</font>
+<font color=#FFFF00>bis sie wirklich durch ist.</font>
+
+86
+00:07:10,197 --> 00:07:13,637
+<font color=#FFFF00>Dann wird sie gepresst.</font>
+
+87
+00:07:13,957 --> 00:07:18,917
+<font color=#FFFF00>Dann hebe ich so viel Butter rein,</font>
+<font color=#FFFF00>bis sie keine Butter mehr aufnehmen.</font>
+
+88
+00:07:20,197 --> 00:07:23,677
+<font color=#FFFF00>Nebenbei setze ich</font>
+<font color=#FFFF00>einen Topf mit Milch auf.</font>
+
+89
+00:07:37,637 --> 00:07:41,637
+<font color=#FFFF00>Das hebe ich unter, bis ich</font>
+<font color=#FFFF00>die richtige Cremigkeit habe.</font>
+
+90
+00:07:41,797 --> 00:07:45,237
+<font color=#00FFFF>Sind das passierte Tomaten?</font>
+
+91
+00:07:49,477 --> 00:07:52,957
+<font color=#FFFF00>Genau, dazu etwas Wein.</font>
+
+92
+00:07:58,557 --> 00:08:02,077
+<font color=#00FFFF>Du hast dich um den Salat gekümmert.</font>
+
+93
+00:08:06,397 --> 00:08:09,877
+<font color=#FFFF00>Da kommt alles rein, was bunt ist.</font>
+
+94
+00:08:14,797 --> 00:08:18,797
+<font color=#FFFF00>Bisschen Dressing drüber.</font>
+<font color=#FFFF00>Das ist ein Balsamico Dressing.</font>
+
+95
+00:08:18,957 --> 00:08:22,397
+<font color=#FFFF00>Das Rezept gibt es online.</font>
+
+96
+00:08:24,877 --> 00:08:28,557
+<font color=#FFFF00>Das ist mit Essig und Öl,</font>
+<font color=#FFFF00>etwas Senf für die Bindung,</font>
+
+97
+00:08:28,717 --> 00:08:31,157
+<font color=#FFFF00>Salz und Pfeffer.</font>
+
+98
+00:08:31,277 --> 00:08:34,637
+<font color=#FFFF00>Man kann auch frische Kräuter</font>
+<font color=#FFFF00>dazu machen.</font>
+
+99
+00:08:35,317 --> 00:08:38,797
+<font color=#FFFF00>Zum Beispiel etwas Schnittlauch.</font>
+
+100
+00:08:39,797 --> 00:08:43,277
+<font color=#FFFF00>Dann können wir es schon testen.</font>
+
+101
+00:08:44,557 --> 00:08:47,957
+<font color=#00FFFF>Du hast im Ofen</font>
+<font color=#00FFFF>schon was vorbereitet.</font>
+
+102
+00:08:48,117 --> 00:08:51,437
+<font color=#FFFF00>Das würde sonst zu lange dauern.</font>
+
+103
+00:08:52,677 --> 00:08:56,157
+<font color=#00FFFF>Wie lange war das im Ofen?</font>
+
+104
+00:08:56,357 --> 00:08:59,797
+<font color=#FFFF00>Das war gute 50 Minuten drin.</font>
+
+105
+00:08:59,957 --> 00:09:03,277
+<font color=#FFFF00>Das ist oben richtig angeröstet.</font>
+
+106
+00:09:16,197 --> 00:09:19,677
+<font color=#FFFF00>Das ist schon crunchig,</font>
+<font color=#FFFF00>schön knusprig.</font>
+
+107
+00:09:28,557 --> 00:09:32,037
+<font color=#FFFF00>Das Püree ist, glaube ich, gut.</font>
+
+108
+00:09:33,437 --> 00:09:36,957
+<font color=#FFFF00>Das ist schön cremig.</font>
+
+109
+00:09:43,077 --> 00:09:47,237
+<font color=#FFFF00>Der Blumenkohl hat nachher</font>
+<font color=#FFFF00>nicht mehr so eine schöne Farbe.</font>
+
+110
+00:09:47,357 --> 00:09:50,797
+<font color=#FFFF00>Deswegen haben wir Kopfsalat dazu.</font>
+
+111
+00:09:52,397 --> 00:09:55,917
+<font color=#00FFFF>Verbrenn dich nicht.</font>
+
+112
+00:09:57,957 --> 00:10:01,477
+<font color=#FFFF00>Ich bin hart im Nehmen.</font>
+
+113
+00:10:07,277 --> 00:10:09,357
+<font color=#00FFFF>Blumenkohl ist sehr gesund.</font>
+
+114
+00:10:09,517 --> 00:10:12,877
+<font color=#FFFF00>Es ist unsere</font>
+<font color=#FFFF00>nordische Vitaminbombe.</font>
+
+115
+00:10:16,517 --> 00:10:19,877
+<font color=#FFFF00>Mit Vitamin A und C.</font>
+
+116
+00:10:19,997 --> 00:10:23,357
+<font color=#FFFF00>Es sieht sehr gut aus.</font>
+
+117
+00:10:25,197 --> 00:10:28,677
+<font color=#00FFFF>Schön, wenn ihr von euch selbst</font>
+<font color=#00FFFF>begeistert seid.</font>
+
+118
+00:10:29,637 --> 00:10:33,117
+<font color=#FFFF00>Das hält einen Koch am Leben.</font>
+
+119
+00:10:34,917 --> 00:10:38,437
+<font color=#FFFF00>Wer soll noch etwas sagen?</font>
+
+120
+00:10:38,917 --> 00:10:42,397
+<font color=#00FFFF>Farblich ist das perfekt.</font>
+
+121
+00:10:45,557 --> 00:10:48,477
+<font color=#00FFFF>Bei Ästhetik und Design</font>
+<font color=#00FFFF>bist du weit vorn.</font>
+
+122
+00:10:48,637 --> 00:10:51,677
+<font color=#00FFFF>Geschmacklich natürlich auch.</font>
+
+123
+00:10:51,837 --> 00:10:55,197
+<font color=#FFFF00>Ich reiche dir das durch.</font>
+
+124
+00:10:55,357 --> 00:10:58,837
+<font color=#00FFFF>So sieht es aus.</font>
+
+125
+00:11:08,437 --> 00:11:12,237
+<font color=#00FFFF>Wir fassen zusammen:</font>
+<font color=#00FFFF>Was muss man besonderes beachten?</font>
+
+126
+00:11:22,437 --> 00:11:25,757
+<font color=#00FFFF>Der Blumenkohl muss frisch sein.</font>
+
+127
+00:11:25,917 --> 00:11:29,277
+<font color=#FFFF00>Wenn er dreckig ist,</font>
+<font color=#FFFF00>kann man ihn in Wasser legen.</font>
+
+128
+00:11:29,477 --> 00:11:32,957
+<font color=#FFFF00>Man kann ihn kräftig anbraten.</font>
+
+129
+00:11:33,917 --> 00:11:36,797
+<font color=#FFFF00>Die Rostaromen</font>
+<font color=#FFFF00>machen das Ganze lecker.</font>
+
+130
+00:11:36,917 --> 00:11:40,197
+<font color=#FFFF00>Dann braucht man</font>
+<font color=#FFFF00>das Fleisch nicht mehr.</font>
+
+131
+00:11:40,357 --> 00:11:43,677
+<font color=#FFFF00>Es ist ein tolles</font>
+<font color=#FFFF00>vegetarisches Gericht.</font>
+

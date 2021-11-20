@@ -1,0 +1,498 @@
+1
+00:00:01,581 --> 00:00:05,461
+<font color=#00FFFF>Wir gehen rüber zu dem,</font>
+<font color=#00FFFF>der uns heute glücklich kocht.</font>
+
+2
+00:00:05,621 --> 00:00:08,621
+<font color=#00FFFF>Hannes Schröder.</font>
+
+3
+00:00:08,781 --> 00:00:11,981
+<font color=#FFFF00>Ich arbeite schon mal vor.</font>
+
+4
+00:00:12,141 --> 00:00:15,541
+<font color=#00FFFF>Es gibt Grünkohlcurry.</font>
+
+5
+00:00:18,221 --> 00:00:21,701
+<font color=#FFFF00>Ich habe das schon vorbereitet.</font>
+
+6
+00:00:27,421 --> 00:00:31,101
+<font color=#FFFF00>Dazu gibt es Süßkartoffeln</font>
+<font color=#FFFF00>und geröstete Cashewkerne.</font>
+
+7
+00:00:32,061 --> 00:00:35,581
+<font color=#FFFF00>Ich mach sie in der Pfanne gar.</font>
+
+8
+00:00:35,741 --> 00:00:39,181
+<font color=#FFFF00>Schön kleinschneiden.</font>
+
+9
+00:00:40,141 --> 00:00:43,621
+<font color=#FFFF00>Das Schöne an dem Gericht ist,</font>
+
+10
+00:00:43,901 --> 00:00:47,381
+<font color=#FFFF00>dass es in der Pfanne geht.</font>
+
+11
+00:00:48,421 --> 00:00:51,941
+<font color=#FFFF00>Das ist doch einfach für zu Hause.</font>
+
+12
+00:00:53,541 --> 00:00:56,581
+<font color=#FFFF00>Du kannst den Grünkohl</font>
+<font color=#FFFF00>schon schneiden.</font>
+
+13
+00:00:56,741 --> 00:01:00,181
+<font color=#FFFF00>Grob durchschneiden.</font>
+
+14
+00:01:02,541 --> 00:01:05,661
+<font color=#00FFFF>Hast du eine Schale?</font>
+
+15
+00:01:05,821 --> 00:01:08,821
+<font color=#FFFF00>Wunderbar.</font>
+
+16
+00:01:08,981 --> 00:01:12,261
+<font color=#FFFF00>Ich nehme Sesamöl.</font>
+
+17
+00:01:12,421 --> 00:01:15,861
+<font color=#FFFF00>Für das asiatische Aroma.</font>
+
+18
+00:01:16,061 --> 00:01:18,701
+<font color=#FFFF00>Dann kommen Zwiebeln dazu.</font>
+
+19
+00:01:18,861 --> 00:01:22,301
+<font color=#FFFF00>Und Ingwer.</font>
+
+20
+00:01:23,581 --> 00:01:27,061
+<font color=#FFFF00>Ich mag es einfach.</font>
+
+21
+00:01:27,341 --> 00:01:30,821
+<font color=#FFFF00>Ein tolles Aroma</font>
+<font color=#FFFF00>und eine schöne Schärfe.</font>
+
+22
+00:01:33,421 --> 00:01:36,781
+<font color=#00FFFF>Je größer die Knolle,</font>
+<font color=#00FFFF>desto schärfer der Ingwer?</font>
+
+23
+00:01:36,941 --> 00:01:40,341
+<font color=#FFFF00>Das stimmt.</font>
+
+24
+00:01:43,181 --> 00:01:46,181
+<font color=#FFFF00>Je frischer, desto schärfer.</font>
+
+25
+00:01:46,381 --> 00:01:49,261
+<font color=#FFFF00>Das passt noch mehr.</font>
+
+26
+00:01:49,421 --> 00:01:52,741
+<font color=#FFFF00>Er muss knallgelb sein.</font>
+
+27
+00:01:52,901 --> 00:01:56,301
+<font color=#FFFF00>Knoblauch kommt auch dazu.</font>
+
+28
+00:01:57,421 --> 00:02:00,941
+<font color=#FFFF00>Viele Sachen sind auch schon</font>
+<font color=#FFFF00>an der Curry-Paste.</font>
+
+29
+00:02:04,621 --> 00:02:08,661
+<font color=#FFFF00>Diese Paste besteht aus vielen</font>
+<font color=#FFFF00>verschiedenen Aromastoffen.</font>
+
+30
+00:02:11,301 --> 00:02:14,781
+<font color=#FFFF00>Zum Beispiel</font>
+<font color=#FFFF00>Zitronengras und Kurkuma.</font>
+
+31
+00:02:15,421 --> 00:02:18,701
+<font color=#FFFF00>Die kauft man fertig, diese Paste.</font>
+
+32
+00:02:18,861 --> 00:02:22,301
+<font color=#FFFF00>Die hilft ungemein.</font>
+
+33
+00:02:23,181 --> 00:02:26,701
+<font color=#00FFFF>Bei Curry-Paste muss man aufpassen.</font>
+
+34
+00:02:26,901 --> 00:02:30,421
+<font color=#00FFFF>Grün ist sehr scharf.</font>
+
+35
+00:02:32,141 --> 00:02:35,621
+<font color=#FFFF00>Die gelbe ist die verträgliche.</font>
+
+36
+00:02:39,741 --> 00:02:43,221
+<font color=#FFFF00>Ich habe die Cashewnüsse</font>
+<font color=#FFFF00>aus der Pfanne geholt.</font>
+
+37
+00:02:48,381 --> 00:02:52,101
+<font color=#FFFF00>Die brauchen ein bisschen Farbe,</font>
+<font color=#FFFF00>die muss man rösten.</font>
+
+38
+00:02:53,341 --> 00:02:56,861
+<font color=#00FFFF>Mit Öl?</font>
+
+39
+00:02:58,661 --> 00:03:02,181
+<font color=#FFFF00>Ich mache es am liebsten ohne Öl.</font>
+
+40
+00:03:03,461 --> 00:03:06,981
+<font color=#FFFF00>Ich stelle sie dann in den Ofen.</font>
+
+41
+00:03:12,541 --> 00:03:16,021
+<font color=#FFFF00>Am besten mit einem Timer.</font>
+
+42
+00:03:17,461 --> 00:03:20,941
+<font color=#FFFF00>Jetzt haben sich</font>
+<font color=#FFFF00>die Aromen entfaltet.</font>
+
+43
+00:03:21,861 --> 00:03:24,821
+<font color=#FFFF00>Ich gieße den Gemüsefond dazu.</font>
+
+44
+00:03:24,981 --> 00:03:28,381
+<font color=#FFFF00>Einmal aufkochen.</font>
+
+45
+00:03:31,101 --> 00:03:34,621
+<font color=#FFFF00>Das Gericht ist vegan.</font>
+
+46
+00:03:37,381 --> 00:03:40,901
+<font color=#FFFF00>Ich finde es total lecker</font>
+<font color=#FFFF00>und es ist einfach.</font>
+
+47
+00:03:43,941 --> 00:03:47,461
+<font color=#00FFFF>Wir haben Grünkohl</font>
+<font color=#00FFFF>nur noch bis Ende Februar.</font>
+
+48
+00:03:51,381 --> 00:03:54,901
+<font color=#00FFFF>Wenn man den jetzt kauft</font>
+<font color=#00FFFF>auf dem Markt,</font>
+
+49
+00:03:55,421 --> 00:03:58,941
+<font color=#00FFFF>Woran erkennt man,</font>
+<font color=#00FFFF>dass er frisch ist?</font>
+
+50
+00:04:00,501 --> 00:04:04,021
+<font color=#FFFF00>Er hält sich ziemlich lange.</font>
+
+51
+00:04:07,301 --> 00:04:10,661
+<font color=#FFFF00>Man sollte gucken,</font>
+<font color=#FFFF00>ob er noch griffig ist.</font>
+
+52
+00:04:10,821 --> 00:04:13,101
+<font color=#FFFF00>Und gut durchwaschen.</font>
+
+53
+00:04:13,261 --> 00:04:16,701
+<font color=#FFFF00>Es ist schade,</font>
+
+54
+00:04:17,341 --> 00:04:20,861
+<font color=#FFFF00>wenn es am Ende</font>
+<font color=#FFFF00>zwischen den Zähnen knirscht.</font>
+
+55
+00:04:21,381 --> 00:04:24,901
+<font color=#FFFF00>Ich mache die Nüsse fertig.</font>
+
+56
+00:04:27,461 --> 00:04:30,981
+<font color=#FFFF00>Da kommt Chili dran.</font>
+
+57
+00:04:32,901 --> 00:04:36,381
+<font color=#FFFF00>Und Meersalz.</font>
+
+58
+00:04:37,061 --> 00:04:40,581
+<font color=#FFFF00>Ich mache das in den Mörser rein.</font>
+
+59
+00:04:43,101 --> 00:04:45,621
+<font color=#00FFFF>Hast du deine eigenen Teller dabei?</font>
+
+60
+00:04:45,781 --> 00:04:49,181
+<font color=#FFFF00>Immer.</font>
+
+61
+00:04:50,181 --> 00:04:53,621
+<font color=#00FFFF>Hast du etwas gegen unser Geschirr?</font>
+
+62
+00:04:53,781 --> 00:04:57,221
+<font color=#FFFF00>Es muss Vielfalt rein.</font>
+
+63
+00:04:57,381 --> 00:05:00,901
+<font color=#FFFF00>Das kocht schon wieder schön.</font>
+
+64
+00:05:07,301 --> 00:05:10,821
+<font color=#FFFF00>Die Süßkartoffel ist gar.</font>
+
+65
+00:05:11,701 --> 00:05:15,181
+<font color=#FFFF00>Jetzt kommt</font>
+<font color=#FFFF00>die Kokosnussmilch dazu.</font>
+
+66
+00:05:16,741 --> 00:05:19,741
+<font color=#FFFF00>Ich nehme eine Creme,</font>
+<font color=#FFFF00>die ist etwas dicker.</font>
+
+67
+00:05:19,901 --> 00:05:23,301
+<font color=#FFFF00>Und bindet ab.</font>
+
+68
+00:05:24,341 --> 00:05:27,821
+<font color=#FFFF00>Die ist aus dem Tetrapak.</font>
+
+69
+00:05:28,101 --> 00:05:31,621
+<font color=#FFFF00>Die gibt es aber auch in der Dose.</font>
+
+70
+00:05:32,581 --> 00:05:36,061
+<font color=#00FFFF>Kann man die auch ersetzen?</font>
+
+71
+00:05:39,141 --> 00:05:42,661
+<font color=#00FFFF>Mit Kokosnussmilch.</font>
+
+72
+00:05:43,021 --> 00:05:46,501
+<font color=#00FFFF>Dann kann man mit Stärke abfinden.</font>
+
+73
+00:05:55,301 --> 00:05:58,821
+<font color=#00FFFF>Hierzu passt aber</font>
+<font color=#00FFFF>keine Creme fraiche?</font>
+
+74
+00:06:00,621 --> 00:06:05,141
+<font color=#FFFF00>Die mag ich eigentlich sonst schon,</font>
+<font color=#FFFF00>aber hier passt sie nicht.</font>
+
+75
+00:06:07,541 --> 00:06:11,021
+<font color=#00FFFF>Ich fange an zu mörsern.</font>
+
+76
+00:06:11,181 --> 00:06:14,701
+<font color=#FFFF00>Nur grob.</font>
+
+77
+00:06:16,661 --> 00:06:19,781
+<font color=#FFFF00>Wenn es aufkocht,</font>
+<font color=#FFFF00>kommt der Grünkohl dazu</font>
+
+78
+00:06:19,941 --> 00:06:23,101
+<font color=#FFFF00>und dann köcheln lassen.</font>
+
+79
+00:06:23,261 --> 00:06:25,461
+<font color=#00FFFF>Das geht ja schnell!</font>
+
+80
+00:06:25,621 --> 00:06:29,061
+<font color=#00FFFF>Toll!</font>
+
+81
+00:06:31,901 --> 00:06:35,381
+<font color=#00FFFF>An Vitaminen kaum zu überbieten.</font>
+
+82
+00:06:37,341 --> 00:06:40,461
+<font color=#FFFF00>Der Grünkohl</font>
+<font color=#FFFF00>wird nicht lange gegart.</font>
+
+83
+00:06:40,621 --> 00:06:44,021
+<font color=#FFFF00>Er muss bissfest sein.</font>
+
+84
+00:06:49,621 --> 00:06:52,541
+<font color=#00FFFF>Nur grob oder?</font>
+
+85
+00:06:52,701 --> 00:06:56,101
+<font color=#FFFF00>Das reicht.</font>
+
+86
+00:07:06,221 --> 00:07:09,701
+<font color=#00FFFF>Was du alles angeschleppt hast!</font>
+
+87
+00:07:09,861 --> 00:07:13,301
+<font color=#FFFF00>Der Mörser gehört euch.</font>
+
+88
+00:07:15,061 --> 00:07:18,981
+<font color=#FFFF00>Kurz aufkochen lassen,</font>
+<font color=#FFFF00>damit der Grünkohl zusammenfällt.</font>
+
+89
+00:07:20,141 --> 00:07:23,661
+<font color=#00FFFF>Ich bin gespannt, wie es schmeckt.</font>
+
+90
+00:07:26,341 --> 00:07:33,021
+<font color=#00FFFF>Jeden Tag kochen müssen,</font>
+<font color=#00FFFF>das ist schon schwierig.</font>
+
+91
+00:07:33,821 --> 00:07:37,341
+<font color=#00FFFF>Dafür ist dieses Gericht super.</font>
+
+92
+00:07:38,941 --> 00:07:42,301
+<font color=#00FFFF>Wie lange hält sich der Grünkohl</font>
+<font color=#00FFFF>im Kühlschrank?</font>
+
+93
+00:07:42,461 --> 00:07:45,901
+<font color=#FFFF00>Ich würde ein feuchtes Tuch</font>
+<font color=#FFFF00>drüber machen</font>
+
+94
+00:07:46,101 --> 00:07:49,621
+<font color=#FFFF00>und dann hält er sich</font>
+<font color=#FFFF00>eine ganze Weile.</font>
+
+95
+00:07:52,501 --> 00:07:56,021
+<font color=#FFFF00>Er muss vorher</font>
+<font color=#FFFF00>erst durchgewaschen werden.</font>
+
+96
+00:07:56,541 --> 00:07:59,861
+<font color=#FFFF00>Dann ein Tuch drüber</font>
+<font color=#FFFF00>und in den Kühlschrank.</font>
+
+97
+00:08:00,021 --> 00:08:02,301
+<font color=#FFFF00>Der hält ein paar Tage.</font>
+
+98
+00:08:02,461 --> 00:08:05,021
+<font color=#FFFF00>Endspurt.</font>
+
+99
+00:08:05,181 --> 00:08:08,621
+<font color=#FFFF00>Ich teste das.</font>
+
+100
+00:08:10,701 --> 00:08:13,781
+<font color=#FFFF00>Ich kann mich nicht immer</font>
+<font color=#FFFF00>darauf verlassen,</font>
+
+101
+00:08:13,861 --> 00:08:18,541
+<font color=#FFFF00>dass ich an alles gedacht habe.</font>
+
+102
+00:08:19,461 --> 00:08:21,861
+<font color=#00FFFF>Gibst du das sonst so raus?</font>
+
+103
+00:08:22,021 --> 00:08:25,421
+<font color=#00FFFF>Nein.</font>
+
+104
+00:08:28,061 --> 00:08:31,461
+<font color=#FFFF00>Man merkt,</font>
+<font color=#FFFF00>wie cremig die Sauce ist.</font>
+
+105
+00:08:31,661 --> 00:08:35,061
+<font color=#FFFF00>Auch die Farbe ist schön.</font>
+
+106
+00:08:36,021 --> 00:08:38,981
+<font color=#FFFF00>Ich sehe wäre das in einer Bowl.</font>
+
+107
+00:08:39,141 --> 00:08:42,541
+<font color=#FFFF00>Die sind in Mode.</font>
+
+108
+00:08:44,541 --> 00:08:47,501
+<font color=#FFFF00>Man kann auch Reis dazu machen.</font>
+
+109
+00:08:47,661 --> 00:08:50,501
+<font color=#FFFF00>Oder mit Fleisch.</font>
+
+110
+00:08:50,661 --> 00:08:54,021
+<font color=#FFFF00>Zum Beispiel Hähnchen.</font>
+
+111
+00:08:54,181 --> 00:08:57,581
+<font color=#FFFF00>Wir sind flexibel</font>
+<font color=#FFFF00>bei diesem Gericht.</font>
+
+112
+00:09:02,021 --> 00:09:05,261
+<font color=#FFFF00>Ich mache jetzt noch</font>
+<font color=#FFFF00>hiervon was dazu.</font>
+
+113
+00:09:05,421 --> 00:09:08,861
+<font color=#00FFFF>Das sieht schön aus.</font>
+
+114
+00:09:09,061 --> 00:09:11,821
+<font color=#00FFFF>Vitaminreich ist wichtig im Moment.</font>
+
+115
+00:09:12,061 --> 00:09:13,541
+<font color=#00FFFF>Ich probiere kurz.</font>
+
+116
+00:09:14,341 --> 00:09:16,581
+<font color=#0000FF>Copyright Untertitel: NDR 2021</font>
+

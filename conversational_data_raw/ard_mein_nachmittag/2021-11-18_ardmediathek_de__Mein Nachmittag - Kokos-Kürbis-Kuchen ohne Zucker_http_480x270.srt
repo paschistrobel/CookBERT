@@ -1,0 +1,666 @@
+1
+00:00:01,938 --> 00:00:05,418
+<font color=#00FFFF>Güldane Altekrüger ist bei uns.</font>
+
+2
+00:00:08,818 --> 00:00:12,298
+<font color=#00FFFF>Sie ist eine Bestseller-Autorin.</font>
+
+3
+00:00:12,538 --> 00:00:15,098
+<font color=#00FFFF>Mit deinem Backen kann man abnehmen.</font>
+
+4
+00:00:15,258 --> 00:00:18,298
+<font color=#00FFFF>Auch heute.</font>
+
+5
+00:00:18,458 --> 00:00:21,778
+<font color=#FFFF00>Man nimmt nicht zu.</font>
+
+6
+00:00:22,978 --> 00:00:27,178
+<font color=#FFFF00>Wenn man die Ernährung umstellt,</font>
+<font color=#FFFF00>hält man es besser durch.</font>
+
+7
+00:00:27,338 --> 00:00:30,778
+<font color=#FFFF00>Bei meiner Umstellung</font>
+<font color=#FFFF00>ist es daran gescheitert,</font>
+
+8
+00:00:31,178 --> 00:00:34,658
+<font color=#FFFF00>dass ich Brot</font>
+<font color=#FFFF00>und Kuchen nicht essen durfte.</font>
+
+9
+00:00:34,818 --> 00:00:38,258
+<font color=#FFFF00>Ich liebe das Gebäck,</font>
+<font color=#FFFF00>es hat mir gefehlt.</font>
+
+10
+00:00:38,658 --> 00:00:42,138
+<font color=#FFFF00>Ich habe dann zu</font>
+<font color=#FFFF00>den falschen Zutaten gegriffen.</font>
+
+11
+00:00:42,298 --> 00:00:45,298
+<font color=#FFFF00>Oder zu fertigen Brötchen</font>
+<font color=#FFFF00>aus der Bäckerei.</font>
+
+12
+00:00:45,458 --> 00:00:48,858
+<font color=#FFFF00>Die schlagen auf die Hüfte.</font>
+
+13
+00:00:49,978 --> 00:00:54,658
+<font color=#FFFF00>Ich möchte nicht darauf verzichten,</font>
+<font color=#FFFF00>gesund sein und dabei abnehmen.</font>
+
+14
+00:00:54,818 --> 00:00:58,258
+<font color=#FFFF00>Deshalb habe ich</font>
+<font color=#FFFF00>herumexperimentiert.</font>
+
+15
+00:01:00,178 --> 00:01:03,698
+<font color=#FFFF00>Mein erstes Buch war</font>
+<font color=#FFFF00>Abnehmen mit Brot und Kuchen.</font>
+
+16
+00:01:03,938 --> 00:01:07,418
+<font color=#FFFF00>Das ist ein Bestseller geworden.</font>
+
+17
+00:01:08,698 --> 00:01:12,218
+<font color=#FFFF00>Da habe ich</font>
+<font color=#FFFF00>verschiedene Zutaten hier.</font>
+
+18
+00:01:13,458 --> 00:01:16,938
+<font color=#FFFF00>Heute gibt es Kürbis-Kokos-Kuchen.</font>
+
+19
+00:01:18,618 --> 00:01:20,898
+<font color=#FFFF00>Ich habe Kürbis schon geraspelt.</font>
+
+20
+00:01:21,298 --> 00:01:22,498
+<font color=#FFFF00>Bitte raspel mit.</font>
+
+21
+00:01:26,538 --> 00:01:28,458
+<font color=#FFFF00>Wir nehmen Hokkaido-Kürbis.</font>
+
+22
+00:01:30,818 --> 00:01:33,378
+<font color=#FFFF00>Weil der reich an Ballaststoffen</font>
+<font color=#FFFF00>ist.</font>
+
+23
+00:01:38,578 --> 00:01:42,058
+<font color=#00FFFF>Wofür nimmt man Kürbis?</font>
+
+24
+00:01:44,218 --> 00:01:47,858
+<font color=#FFFF00>Ich habe in diesem Kuchen</font>
+<font color=#FFFF00>auf jedes Fett verzichtet.</font>
+
+25
+00:01:48,018 --> 00:01:50,818
+<font color=#FFFF00>Dafür haben wir den Kürbis drin.</font>
+
+26
+00:01:50,978 --> 00:01:53,898
+<font color=#FFFF00>Der bringt viel Feuchtigkeit mit.</font>
+
+27
+00:01:54,058 --> 00:01:56,858
+<font color=#FFFF00>Wir nehmen auch eine Orange.</font>
+
+28
+00:01:57,018 --> 00:02:00,178
+<font color=#FFFF00>Den Saft einer Orange.</font>
+
+29
+00:02:00,338 --> 00:02:03,658
+<font color=#FFFF00>Das ist unser Ersatz für die Milch.</font>
+
+30
+00:02:04,098 --> 00:02:07,578
+<font color=#FFFF00>Ich spare Kalorien, so weit es geht.</font>
+
+31
+00:02:09,738 --> 00:02:13,218
+<font color=#FFFF00>Ich nehme Zutaten,</font>
+<font color=#FFFF00>die mineralreich sind.</font>
+
+32
+00:02:15,098 --> 00:02:18,618
+<font color=#FFFF00>Und die uns gut tun</font>
+<font color=#FFFF00>und wenig Kalorien haben.</font>
+
+33
+00:02:19,618 --> 00:02:23,138
+<font color=#00FFFF>In der Schwangerschaft</font>
+<font color=#00FFFF>hast du 30 Kilo zugenommen.</font>
+
+34
+00:02:27,378 --> 00:02:30,818
+<font color=#00FFFF>Ich hatte auch 23 mehr.</font>
+
+35
+00:02:30,978 --> 00:02:34,458
+<font color=#00FFFF>Ich hatte nicht nur dicke Füße.</font>
+
+36
+00:02:35,658 --> 00:02:39,498
+<font color=#FFFF00>Ich habe mir gedacht:</font>
+<font color=#FFFF00>Jetzt bin ich schon schwanger ...</font>
+
+37
+00:02:40,138 --> 00:02:44,258
+<font color=#00FFFF>Du hattest schlechte Laune und</font>
+<font color=#00FFFF>hast angefangen, wieder zu essen.</font>
+
+38
+00:02:46,898 --> 00:02:50,298
+<font color=#FFFF00>Ich habe</font>
+<font color=#FFFF00>verschiedene Diäten ausprobiert.</font>
+
+39
+00:02:51,018 --> 00:02:54,498
+<font color=#FFFF00>Mit Intervall-Fasten</font>
+<font color=#FFFF00>und vielem anderen.</font>
+
+40
+00:02:55,978 --> 00:02:59,498
+<font color=#FFFF00>Es hat immer eine Weile gedauert.</font>
+
+41
+00:02:59,938 --> 00:03:03,458
+<font color=#FFFF00>Aber ich wollte dauerhaft</font>
+<font color=#FFFF00>die Ernährung umstellen.</font>
+
+42
+00:03:03,578 --> 00:03:07,058
+<font color=#00FFFF>Und dabei</font>
+<font color=#00FFFF>wolltest du gute Laune haben.</font>
+
+43
+00:03:10,338 --> 00:03:13,978
+<font color=#FFFF00>Essen ohne schlechtes Gewissen</font>
+<font color=#FFFF00>bei guten Blutwerten.</font>
+
+44
+00:03:15,458 --> 00:03:18,938
+<font color=#FFFF00>Ich habe noch keine ideale Figur.</font>
+
+45
+00:03:19,618 --> 00:03:23,098
+<font color=#FFFF00>Für mich ist</font>
+<font color=#FFFF00>gesunde Ernährung Lebenseinstellung.</font>
+
+46
+00:03:23,778 --> 00:03:27,338
+<font color=#FFFF00>Meine Blutwerte sind super,</font>
+<font color=#FFFF00>das ist die Hauptsache.</font>
+
+47
+00:03:28,578 --> 00:03:32,138
+<font color=#FFFF00>Wenn es ein paar Kilo</font>
+<font color=#FFFF00>mehr oder weniger sind, egal.</font>
+
+48
+00:03:34,178 --> 00:03:37,698
+<font color=#00FFFF>Mein Arzt sagte zu mir:</font>
+
+49
+00:03:38,858 --> 00:03:42,338
+<font color=#00FFFF>Sie wollen doch</font>
+<font color=#00FFFF>kein Topmodel werden.</font>
+
+50
+00:03:46,418 --> 00:03:49,898
+<font color=#FFFF00>Eier kommen mit rein</font>
+<font color=#FFFF00>und der Saft einer Orange.</font>
+
+51
+00:03:53,378 --> 00:03:54,378
+<font color=#FFFF00>Eier binden.</font>
+
+52
+00:03:55,938 --> 00:03:59,458
+<font color=#FFFF00>Wer keine Eier essen möchte,</font>
+<font color=#FFFF00>kann Apfelmus nehmen.</font>
+
+53
+00:04:06,738 --> 00:04:10,138
+<font color=#FFFF00>200 Gramm.</font>
+
+54
+00:04:13,178 --> 00:04:16,338
+<font color=#FFFF00>Oder zwei reife Bananen.</font>
+
+55
+00:04:16,498 --> 00:04:19,818
+<font color=#00FFFF>Das bindet dann auch.</font>
+
+56
+00:04:20,018 --> 00:04:22,858
+<font color=#00FFFF>Brauchst du noch mehr?</font>
+
+57
+00:04:23,018 --> 00:04:25,058
+<font color=#FFFF00>Das passt schon.</font>
+
+58
+00:04:25,218 --> 00:04:28,098
+<font color=#FFFF00>Vielen Dank.</font>
+
+59
+00:04:28,298 --> 00:04:31,618
+<font color=#FFFF00>Das geben wir schon hinein.</font>
+
+60
+00:04:35,458 --> 00:04:38,938
+<font color=#FFFF00>Wenn wir den Teig fertigen,</font>
+<font color=#FFFF00>werden wir das sehen.</font>
+
+61
+00:04:43,058 --> 00:04:46,458
+<font color=#FFFF00>Dass man das nicht sehen kann.</font>
+
+62
+00:04:46,618 --> 00:04:49,618
+<font color=#FFFF00>Dafür bindet es sich so gut.</font>
+
+63
+00:04:51,618 --> 00:04:53,778
+<font color=#FFFF00>Das ist Dinkelmehl.</font>
+
+64
+00:04:53,938 --> 00:04:57,258
+<font color=#FFFF00>Vollkornmehl.</font>
+
+65
+00:04:59,898 --> 00:05:03,378
+<font color=#00FFFF>Dinkel-Vollkornmehl.</font>
+
+66
+00:05:04,858 --> 00:05:08,378
+<font color=#FFFF00>Viele vertragen Dinkel viel besser.</font>
+
+67
+00:05:10,818 --> 00:05:14,178
+<font color=#FFFF00>Es hat die ähnlichen Nährwerte</font>
+<font color=#FFFF00>wie Weizenmehl.</font>
+
+68
+00:05:14,338 --> 00:05:17,698
+<font color=#FFFF00>Es ist aber nicht so überzüchtet.</font>
+
+69
+00:05:18,618 --> 00:05:22,138
+<font color=#FFFF00>Das verträgt man besser.</font>
+
+70
+00:05:23,258 --> 00:05:26,778
+<font color=#FFFF00>Manche vertragen Gluten nicht gut.</font>
+
+71
+00:05:27,698 --> 00:05:31,178
+<font color=#FFFF00>Die können es</font>
+<font color=#FFFF00>auch mit Dinkelmehl versuchen.</font>
+
+72
+00:05:32,378 --> 00:05:35,858
+<font color=#FFFF00>Meistens vertragen sie</font>
+<font color=#FFFF00>eher Weizenmehl nicht.</font>
+
+73
+00:05:37,258 --> 00:05:40,778
+<font color=#FFFF00>Es ist gar nicht so das Gluten.</font>
+
+74
+00:05:42,058 --> 00:05:45,538
+<font color=#FFFF00>Die Unverträglichkeit</font>
+<font color=#FFFF00>ist extrem selten.</font>
+
+75
+00:05:45,938 --> 00:05:49,418
+<font color=#FFFF00>Da kann man</font>
+<font color=#FFFF00>gar kein Getreide zu sich nehmen.</font>
+
+76
+00:05:49,898 --> 00:05:53,378
+<font color=#FFFF00>Man muss darauf achten,</font>
+
+77
+00:05:54,458 --> 00:05:58,258
+<font color=#FFFF00>dass nichts mit Gluten</font>
+<font color=#FFFF00>im gleichen Ofen gebacken wird.</font>
+
+78
+00:05:59,338 --> 00:06:02,818
+<font color=#00FFFF>Mit Vollkornmehl</font>
+<font color=#00FFFF>brauche ich mehr Butter.</font>
+
+79
+00:06:11,978 --> 00:06:15,498
+<font color=#FFFF00>Das ist dann das ganze Korn.</font>
+
+80
+00:06:25,858 --> 00:06:28,058
+<font color=#FFFF00>In der Mitte</font>
+<font color=#FFFF00>ist der Mehl-Kern.</font>
+
+81
+00:06:28,138 --> 00:06:33,658
+<font color=#FFFF00>Da geht es</font>
+<font color=#FFFF00>vor allem um den Zucker.</font>
+
+82
+00:06:35,738 --> 00:06:39,978
+<font color=#FFFF00>Ich versuche in meinen Rezepten,</font>
+<font color=#FFFF00>wenig Vollkorn zu nehmen.</font>
+
+83
+00:06:44,018 --> 00:06:47,498
+<font color=#FFFF00>Bei Lowcarb</font>
+<font color=#FFFF00>verzichtet man ganz auf Getreide.</font>
+
+84
+00:06:49,498 --> 00:06:54,058
+<font color=#FFFF00>Aber ich wollte den normalen</font>
+<font color=#FFFF00>Geschmack von Kuchen und Brot haben.</font>
+
+85
+00:06:57,498 --> 00:07:00,898
+<font color=#FFFF00>Deshalb habe ich</font>
+<font color=#FFFF00>mich schlau gelesen.</font>
+
+86
+00:07:01,058 --> 00:07:03,898
+<font color=#FFFF00>Ich backe viel</font>
+<font color=#FFFF00>mit Kleie und Vollkornmehl.</font>
+
+87
+00:07:04,098 --> 00:07:07,498
+<font color=#FFFF00>Das schmeckt wunderbar.</font>
+
+88
+00:07:10,258 --> 00:07:13,778
+<font color=#FFFF00>Ich habe Erythrit hineingepackt.</font>
+
+89
+00:07:13,938 --> 00:07:17,298
+<font color=#FFFF00>Das ist ein Austauschstoff.</font>
+
+90
+00:07:19,258 --> 00:07:21,258
+<font color=#FFFF00>Aus fermentiertem Getreide.</font>
+
+91
+00:07:29,378 --> 00:07:32,898
+<font color=#FFFF00>Es schmeckt</font>
+<font color=#FFFF00>ein bisschen nach Lakritz.</font>
+
+92
+00:07:35,898 --> 00:07:38,458
+<font color=#FFFF00>Wir nehmen</font>
+<font color=#FFFF00>noch geraspelten Kokos hinzu.</font>
+
+93
+00:07:44,658 --> 00:07:48,218
+<font color=#FFFF00>Der ist leider sehr fettig.</font>
+
+94
+00:07:51,058 --> 00:07:54,538
+<font color=#FFFF00>Ruckzuck habe ich</font>
+<font color=#FFFF00>alle Zutaten in dem Topf.</font>
+
+95
+00:07:54,698 --> 00:07:58,058
+<font color=#FFFF00>Ich brauche keine Küchenmaschine.</font>
+
+96
+00:08:04,218 --> 00:08:07,658
+<font color=#FFFF00>Dann haben wir schon unseren Teig.</font>
+
+97
+00:08:07,818 --> 00:08:11,178
+<font color=#00FFFF>Was machst du da?</font>
+
+98
+00:08:12,138 --> 00:08:15,058
+<font color=#FFFF00>Ich habe</font>
+<font color=#FFFF00>das Backpapier nass gemacht.</font>
+
+99
+00:08:15,218 --> 00:08:18,538
+<font color=#FFFF00>Dadurch wird es flexibel.</font>
+
+100
+00:08:18,978 --> 00:08:22,458
+<font color=#FFFF00>Dann kann ich</font>
+<font color=#FFFF00>meine Backform damit auskleiden.</font>
+
+101
+00:08:27,258 --> 00:08:30,738
+<font color=#FFFF00>Ich fette das nicht ein.</font>
+
+102
+00:08:32,218 --> 00:08:35,978
+<font color=#FFFF00>Und nach dem Backen</font>
+<font color=#FFFF00>kann ich es einfach hinausnehmen.</font>
+
+103
+00:08:36,738 --> 00:08:40,818
+<font color=#FFFF00>Dann kann ich die Backform</font>
+<font color=#FFFF00>einfach wieder den Schrank tun.</font>
+
+104
+00:08:46,258 --> 00:08:49,618
+<font color=#00FFFF>Das hast du dir selbst beigebracht.</font>
+
+105
+00:08:49,778 --> 00:08:52,458
+<font color=#FFFF00>Ja, nach und nach.</font>
+
+106
+00:08:52,618 --> 00:08:55,858
+<font color=#FFFF00>Übung macht den Meister.</font>
+
+107
+00:08:56,018 --> 00:08:59,298
+<font color=#FFFF00>Deshalb habe ich immer wieder geübt.</font>
+
+108
+00:08:59,458 --> 00:09:02,818
+<font color=#FFFF00>Meine Kuchen-Rezepte</font>
+<font color=#FFFF00>wurden immer besser.</font>
+
+109
+00:09:03,298 --> 00:09:06,818
+<font color=#FFFF00>Bei 175 Grad kommt das</font>
+<font color=#FFFF00>für 45 Minuten in den Ofen.</font>
+
+110
+00:09:17,498 --> 00:09:21,138
+<font color=#FFFF00>Wenn der Kuchen fertig ist,</font>
+<font color=#FFFF00>kommt ein Topping hinzu.</font>
+
+111
+00:09:21,298 --> 00:09:22,978
+<font color=#FFFF00>Das habe ich vorbereitet.</font>
+
+112
+00:09:23,138 --> 00:09:26,578
+<font color=#FFFF00>Das geht sehr schnell.</font>
+
+113
+00:09:30,258 --> 00:09:33,738
+<font color=#FFFF00>Wir nehmen fettarmen Frischkäse</font>
+<font color=#FFFF00>und Magerquark.</font>
+
+114
+00:09:36,258 --> 00:09:37,538
+<font color=#FFFF00>Das vermengen wir.</font>
+
+115
+00:09:37,938 --> 00:09:40,378
+<font color=#00FFFF>Brauchst du Kokos für oben drüber?</font>
+
+116
+00:09:44,258 --> 00:09:47,738
+<font color=#00FFFF>Wo ist meine Raspel?</font>
+
+117
+00:09:48,098 --> 00:09:51,458
+<font color=#00FFFF>Ich kenne mich in dieser Küche</font>
+<font color=#00FFFF>nicht so gut aus.</font>
+
+118
+00:09:52,618 --> 00:09:54,698
+<font color=#FFFF00>Bitte mache mir etwas Orange.</font>
+
+119
+00:09:58,738 --> 00:10:02,138
+<font color=#FFFF00>Dann kann ich das</font>
+<font color=#FFFF00>in mein Topping machen.</font>
+
+120
+00:10:06,018 --> 00:10:08,858
+<font color=#FFFF00>Magerquark,</font>
+<font color=#FFFF00>Frischkäse, etwas Kokosnuss.</font>
+
+121
+00:10:09,018 --> 00:10:12,378
+<font color=#FFFF00>Die Süße.</font>
+
+122
+00:10:13,178 --> 00:10:16,658
+<font color=#FFFF00>Und Abrieb einer Orangenschale.</font>
+
+123
+00:10:17,058 --> 00:10:20,538
+<font color=#FFFF00>So einfach wie möglich.</font>
+
+124
+00:10:21,418 --> 00:10:24,898
+<font color=#FFFF00>Es muss nur</font>
+<font color=#FFFF00>eine glatte Masse entstehen.</font>
+
+125
+00:10:26,218 --> 00:10:29,778
+<font color=#FFFF00>Ich habe zu Hause</font>
+<font color=#FFFF00>nur eine einfache Küchenmaschine.</font>
+
+126
+00:10:32,818 --> 00:10:36,498
+<font color=#FFFF00>Ich schlage den Eischnee</font>
+<font color=#FFFF00>nicht so gerne mit der Hand.</font>
+
+127
+00:10:36,658 --> 00:10:39,698
+<font color=#FFFF00>Nur dafür benutze ich die Maschine.</font>
+
+128
+00:10:39,858 --> 00:10:43,218
+<font color=#FFFF00>Sonst nicht.</font>
+
+129
+00:10:43,738 --> 00:10:47,258
+<font color=#FFFF00>Der Abrieb der Orange</font>
+<font color=#FFFF00>kommt da hinein.</font>
+
+130
+00:10:49,098 --> 00:10:52,658
+<font color=#FFFF00>Das kommt auf</font>
+<font color=#FFFF00>den gebackenen, ausgekühlten Boden.</font>
+
+131
+00:10:52,818 --> 00:10:54,378
+<font color=#FFFF00>Das ist lecker.</font>
+
+132
+00:10:54,538 --> 00:10:57,858
+<font color=#FFFF00>Ich schneide mal ein Stückchen.</font>
+
+133
+00:11:01,618 --> 00:11:05,098
+<font color=#00FFFF>Kannst du mir</font>
+<font color=#00FFFF>ein Stück geben?</font>
+
+134
+00:11:05,898 --> 00:11:08,258
+<font color=#00FFFF>Jule von NDR Info kam auch schon.</font>
+
+135
+00:11:10,298 --> 00:11:12,498
+<font color=#00FFFF>Ich soll ihr eins übrig lassen.</font>
+
+136
+00:11:15,778 --> 00:11:19,098
+<font color=#FFFF00>Einmal für dich.</font>
+
+137
+00:11:22,458 --> 00:11:25,938
+<font color=#00FFFF>Ich bin ganz gespannt.</font>
+
+138
+00:11:26,578 --> 00:11:30,098
+<font color=#FFFF00>Magst du das überhaupt?</font>
+
+139
+00:11:31,978 --> 00:11:34,898
+<font color=#FFFF00>Das ist ja nicht Jedermanns Sache.</font>
+
+140
+00:11:37,098 --> 00:11:38,458
+<font color=#00FFFF>Sehr lecker.</font>
+
+141
+00:11:38,778 --> 00:11:40,018
+<font color=#00FFFF>Frisch.</font>
+
+142
+00:11:40,538 --> 00:11:42,978
+<font color=#FFFF00>Schmeckt du, dass es fettfrei ist?</font>
+
+143
+00:11:44,458 --> 00:11:47,578
+<font color=#00FFFF>Nein, ich schmecke den Kokos.</font>
+
+144
+00:11:47,778 --> 00:11:50,618
+<font color=#00FFFF>Den Kürbis schmecke ich nicht.</font>
+
+145
+00:11:52,258 --> 00:11:55,578
+<font color=#FFFF00>Ich muss auch mal probieren.</font>
+
+146
+00:11:56,138 --> 00:11:59,178
+<font color=#00FFFF>Das ist besonders lecker.</font>
+
+147
+00:12:00,578 --> 00:12:03,858
+<font color=#00FFFF>Bei Kürbis denkt man,</font>
+<font color=#00FFFF>das kann nicht schmecken.</font>
+
+148
+00:12:04,778 --> 00:12:06,498
+<font color=#00FFFF>Es ist aber sehr lecker.</font>
+
+149
+00:12:07,858 --> 00:12:10,658
+<font color=#00FFFF>Das Rezept ist</font>
+<font color=#00FFFF>auf unserer Online-Seite.</font>
+
+150
+00:12:13,738 --> 00:12:16,298
+<font color=#00FFFF>Da finden Sie</font>
+<font color=#00FFFF>alle Rezepte der Woche.</font>
+

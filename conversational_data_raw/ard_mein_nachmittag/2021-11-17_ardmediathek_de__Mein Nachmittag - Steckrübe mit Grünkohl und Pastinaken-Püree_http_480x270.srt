@@ -1,0 +1,528 @@
+1
+00:00:03,242 --> 00:00:06,722
+<font color=#00FFFF>Wir werden</font>
+<font color=#00FFFF>jetzt vitaminreich kochen.</font>
+
+2
+00:00:07,482 --> 00:00:10,962
+<font color=#00FFFF>Wer ist bei euch</font>
+<font color=#00FFFF>für den Garten zuständig?</font>
+
+3
+00:00:12,762 --> 00:00:16,242
+<font color=#FFFF00>Meine Frau.</font>
+<font color=#FFFF00>Aber in der Küche bin ich der Chef.</font>
+
+4
+00:00:17,122 --> 00:00:20,642
+<font color=#00FFFF>Was gibt es Tolles?</font>
+
+5
+00:00:21,362 --> 00:00:24,682
+<font color=#FFFF00>Gebratenen Grünkohl.</font>
+
+6
+00:00:24,842 --> 00:00:27,642
+<font color=#FFFF00>Mit Knoblauch und Zwiebeln.</font>
+
+7
+00:00:27,802 --> 00:00:31,082
+<font color=#FFFF00>Und Steckrübe.</font>
+
+8
+00:00:31,242 --> 00:00:34,602
+<font color=#FFFF00>Die hat noch einen zweiten Begriff:</font>
+
+9
+00:00:35,202 --> 00:00:38,682
+<font color=#FFFF00>Mecklenburger Ananas.</font>
+
+10
+00:00:41,482 --> 00:00:44,962
+<font color=#FFFF00>Die verändert den Geschmack,</font>
+<font color=#FFFF00>wenn sie noch wächst.</font>
+
+11
+00:00:57,402 --> 00:01:00,882
+<font color=#FFFF00>Mit dem ersten Frost</font>
+<font color=#FFFF00>wird sie rüblich und süßer.</font>
+
+12
+00:01:01,882 --> 00:01:05,362
+<font color=#FFFF00>Wir müssen</font>
+<font color=#FFFF00>heute mit Gewürzen spielen.</font>
+
+13
+00:01:10,082 --> 00:01:13,562
+<font color=#FFFF00>Wir haben Fenchel, Chili, Sternanis.</font>
+
+14
+00:01:15,882 --> 00:01:19,362
+<font color=#FFFF00>Wir machen ein Püree aus Pastinaken.</font>
+
+15
+00:01:20,122 --> 00:01:23,602
+<font color=#FFFF00>Wir schälen mal die Pastinake.</font>
+
+16
+00:01:32,402 --> 00:01:35,882
+<font color=#FFFF00>Schneidest du mir die</font>
+<font color=#FFFF00>bitte in kleine Würfel?</font>
+
+17
+00:01:39,002 --> 00:01:42,482
+<font color=#00FFFF>Ja, das mach ich gerne.</font>
+
+18
+00:01:47,282 --> 00:01:50,762
+<font color=#00FFFF>Mit Kochwurst</font>
+<font color=#00FFFF>schmeckt die sehr gut.</font>
+
+19
+00:01:54,922 --> 00:01:57,562
+<font color=#FFFF00>Die Kochwurst im Ganzen mitgaren.</font>
+
+20
+00:01:57,722 --> 00:02:01,042
+<font color=#FFFF00>Und dann aufschneiden.</font>
+
+21
+00:02:02,282 --> 00:02:05,322
+<font color=#FFFF00>So wird sie am besten.</font>
+
+22
+00:02:05,482 --> 00:02:08,802
+<font color=#FFFF00>Und nicht so dröge.</font>
+
+23
+00:02:10,442 --> 00:02:13,922
+<font color=#FFFF00>Ich schneide auch mal</font>
+<font color=#FFFF00>eine Pastinake klein.</font>
+
+24
+00:02:15,762 --> 00:02:19,282
+<font color=#FFFF00>Die Pastinake</font>
+<font color=#FFFF00>koche ich nur in Wasser.</font>
+
+25
+00:02:19,442 --> 00:02:22,962
+<font color=#FFFF00>Da kommt noch eine Prise Salz rein.</font>
+
+26
+00:02:26,082 --> 00:02:29,842
+<font color=#FFFF00>Lieber Sachen in wenig Wasser kochen</font>
+<font color=#FFFF00>und nachgießen.</font>
+
+27
+00:02:34,682 --> 00:02:38,202
+<font color=#FFFF00>Das ist besser,</font>
+<font color=#FFFF00>als später Kochwasser wegzugießen.</font>
+
+28
+00:02:43,522 --> 00:02:46,722
+<font color=#FFFF00>Mach ruhig noch ein bisschen.</font>
+
+29
+00:02:46,882 --> 00:02:50,202
+<font color=#FFFF00>Wir sind ja viele im Studio.</font>
+
+30
+00:02:52,562 --> 00:02:55,762
+<font color=#00FFFF>Genau, Kollegen -</font>
+<font color=#00FFFF>alle sehr hungrig im Studio.</font>
+
+31
+00:02:58,522 --> 00:03:01,522
+<font color=#FFFF00>Wenn die Rübe</font>
+<font color=#FFFF00>beim Aufschneiden feucht ist,</font>
+
+32
+00:03:03,202 --> 00:03:05,042
+<font color=#FFFF00>ist das ein gutes Zeichen.</font>
+
+33
+00:03:11,322 --> 00:03:14,642
+<font color=#FFFF00>Man sollte sie großzügig schälen.</font>
+
+34
+00:03:16,602 --> 00:03:18,882
+<font color=#FFFF00>Weil die Schale sehr holzig ist.</font>
+
+35
+00:03:23,002 --> 00:03:25,162
+<font color=#FFFF00>Sie ist vielseitig einsetzbar.</font>
+
+36
+00:03:25,602 --> 00:03:27,122
+<font color=#FFFF00>Als Suppe oder Püree.</font>
+
+37
+00:03:38,682 --> 00:03:42,042
+<font color=#FFFF00>Das sieht schon sehr gut aus.</font>
+
+38
+00:03:46,522 --> 00:03:50,002
+<font color=#FFFF00>Die Pastinake</font>
+<font color=#FFFF00>ist gerade mit Wasser bedeckt.</font>
+
+39
+00:03:51,762 --> 00:03:55,562
+<font color=#FFFF00>Damit die Flüssigkeit</font>
+<font color=#FFFF00>viel Geschmack aufnehmen kann.</font>
+
+40
+00:03:56,242 --> 00:03:59,162
+<font color=#FFFF00>Wir machen</font>
+<font color=#FFFF00>keine Sahne oder Butter rein.</font>
+
+41
+00:03:59,322 --> 00:04:02,642
+<font color=#FFFF00>Sondern Kokosmilch.</font>
+
+42
+00:04:02,882 --> 00:04:06,402
+<font color=#00FFFF>Die ist fettärmer?</font>
+
+43
+00:04:09,442 --> 00:04:11,962
+<font color=#FFFF00>Ja, und sie hat ein nussiges Aroma.</font>
+
+44
+00:04:18,922 --> 00:04:22,402
+<font color=#FFFF00>Und hier habe ich frischen Grünkohl.</font>
+
+45
+00:04:23,962 --> 00:04:27,482
+<font color=#00FFFF>Muss man nicht den Frost abwarten?</font>
+
+46
+00:04:36,362 --> 00:04:39,842
+<font color=#FFFF00>Ja, jetzt ist er</font>
+<font color=#FFFF00>noch ein bisschen herber.</font>
+
+47
+00:04:42,122 --> 00:04:44,042
+<font color=#FFFF00>Der Strunk ist sehr holzig.</font>
+
+48
+00:04:44,842 --> 00:04:48,162
+<font color=#FFFF00>Den würde ich deshalb rausnehmen.</font>
+
+49
+00:04:52,242 --> 00:04:55,722
+<font color=#FFFF00>Den Rest hackst du in kleine Stücke.</font>
+
+50
+00:04:56,882 --> 00:05:00,362
+<font color=#00FFFF>Ich mache also die Vorarbeit.</font>
+
+51
+00:05:00,962 --> 00:05:04,442
+<font color=#00FFFF>Ich habe heute gelesen,</font>
+
+52
+00:05:06,682 --> 00:05:10,722
+<font color=#00FFFF>dass Grünkohl doppelt so viel</font>
+<font color=#00FFFF>Vitamin C wie Zitronen hat.</font>
+
+53
+00:05:19,002 --> 00:05:22,482
+<font color=#FFFF00>Ja, das ist Superfood.</font>
+
+54
+00:05:26,402 --> 00:05:31,162
+<font color=#00FFFF>Ich war heute nicht in der Kantine,</font>
+<font color=#00FFFF>weil ich wusste, dass du kommst.</font>
+
+55
+00:05:31,362 --> 00:05:33,522
+<font color=#00FFFF>Da habe ich das gelesen.</font>
+
+56
+00:05:33,642 --> 00:05:37,002
+<font color=#00FFFF>Auch, dass</font>
+<font color=#00FFFF>da viel Chlorophyll drin ist.</font>
+
+57
+00:05:37,602 --> 00:05:41,082
+<font color=#00FFFF>Dass man sich damit entgiften kann.</font>
+
+58
+00:05:47,162 --> 00:05:50,682
+<font color=#FFFF00>Viele machen das auch als Smoothie.</font>
+
+59
+00:05:58,162 --> 00:06:01,642
+<font color=#FFFF00>Man kann ihn auch</font>
+<font color=#FFFF00>zubereiten wie Spinat.</font>
+
+60
+00:06:05,642 --> 00:06:09,162
+<font color=#FFFF00>Die Steckrübe</font>
+<font color=#FFFF00>mache ich in die Auflaufform.</font>
+
+61
+00:06:12,642 --> 00:06:16,162
+<font color=#FFFF00>Jetzt schmecken wir das fein ab.</font>
+
+62
+00:06:16,402 --> 00:06:19,882
+<font color=#FFFF00>Erst ein bisschen Olivenöl.</font>
+
+63
+00:06:37,122 --> 00:06:40,562
+<font color=#FFFF00>Jetzt gehobelten Chili.</font>
+
+64
+00:06:40,722 --> 00:06:43,962
+<font color=#FFFF00>Und jetzt noch Kurkuma.</font>
+
+65
+00:06:44,122 --> 00:06:47,482
+<font color=#FFFF00>Verteil ruhig ordentlich.</font>
+
+66
+00:06:51,722 --> 00:06:55,202
+<font color=#FFFF00>Und jetzt noch mein Lieblingsgewürz:</font>
+<font color=#FFFF00>Fenchelsamen.</font>
+
+67
+00:06:57,722 --> 00:07:01,202
+<font color=#FFFF00>Das ist super-aromatisch.</font>
+
+68
+00:07:01,362 --> 00:07:04,762
+<font color=#FFFF00>Passt auch toll zur Currywurst.</font>
+
+69
+00:07:07,802 --> 00:07:11,282
+<font color=#00FFFF>Anstelle von Kümmel, oder?</font>
+
+70
+00:07:13,922 --> 00:07:17,402
+<font color=#FFFF00>Ja, mach ruhig ordentlich was ran.</font>
+
+71
+00:07:25,322 --> 00:07:28,802
+<font color=#FFFF00>Mit Salz und Pfeffer abschmecken.</font>
+
+72
+00:07:34,402 --> 00:07:37,882
+<font color=#FFFF00>Ich habe mir jetzt</font>
+<font color=#FFFF00>eine Schalotte geschnappt.</font>
+
+73
+00:07:42,802 --> 00:07:46,282
+<font color=#FFFF00>Kann ich auch Knoblauch reinmachen?</font>
+
+74
+00:07:48,042 --> 00:07:51,522
+<font color=#00FFFF>Ja, ich mag Knoblauch.</font>
+
+75
+00:07:56,242 --> 00:07:59,722
+<font color=#FFFF00>Jetzt noch eine Prise Zucker daran.</font>
+
+76
+00:08:09,202 --> 00:08:12,682
+<font color=#FFFF00>Und einen kleinen Löffel Honig.</font>
+
+77
+00:08:15,562 --> 00:08:19,322
+<font color=#FFFF00>Jetzt geht es für</font>
+<font color=#FFFF00>ungefähr 20 Minuten in den Backofen.</font>
+
+78
+00:08:26,162 --> 00:08:29,642
+<font color=#FFFF00>Das schmeckt dann</font>
+<font color=#FFFF00>intensiv nach der Rübe.</font>
+
+79
+00:08:30,482 --> 00:08:34,042
+<font color=#FFFF00>Für den Grünkohl habe ich</font>
+<font color=#FFFF00>schon eine Pfanne aufgesetzt.</font>
+
+80
+00:08:34,202 --> 00:08:37,642
+<font color=#FFFF00>Liegen wir gut in der Zeit?</font>
+
+81
+00:08:40,402 --> 00:08:43,882
+<font color=#00FFFF>Ja, trödeln dürfen wir nicht,</font>
+<font color=#00FFFF>aber wir liegen gut.</font>
+
+82
+00:08:47,122 --> 00:08:50,602
+<font color=#FFFF00>In der heißen Pfanne</font>
+<font color=#FFFF00>schwitze ich die Zwiebeln an.</font>
+
+83
+00:08:50,762 --> 00:08:53,002
+<font color=#FFFF00>Das muss schön brutzeln.</font>
+
+84
+00:08:53,162 --> 00:08:55,682
+<font color=#FFFF00>Dann eine Knoblauchzehe dazu.</font>
+
+85
+00:08:55,842 --> 00:08:58,842
+<font color=#FFFF00>Die hacke ich nur ganz grob.</font>
+
+86
+00:08:59,002 --> 00:09:02,362
+<font color=#FFFF00>Die muss nicht so fein sein.</font>
+
+87
+00:09:09,962 --> 00:09:13,482
+<font color=#FFFF00>Dann schmeckt jeder Happen</font>
+<font color=#FFFF00>ein bisschen anders.</font>
+
+88
+00:09:13,802 --> 00:09:17,322
+<font color=#FFFF00>Da kann gleich der Grünkohl dazu.</font>
+
+89
+00:09:19,442 --> 00:09:22,922
+<font color=#FFFF00>Ein bisschen Salz und Pfeffer,</font>
+<font color=#FFFF00>eine Prise Zucker.</font>
+
+90
+00:09:25,402 --> 00:09:28,882
+<font color=#FFFF00>Und ich habe</font>
+<font color=#FFFF00>jetzt hier meine Pastinaken.</font>
+
+91
+00:09:29,762 --> 00:09:32,602
+<font color=#FFFF00>Man sieht,</font>
+<font color=#FFFF00>das Wasser ist gut eingekocht.</font>
+
+92
+00:09:32,762 --> 00:09:35,562
+<font color=#FFFF00>Ich nehme den Pürierstab.</font>
+
+93
+00:09:35,722 --> 00:09:39,082
+<font color=#FFFF00>Jetzt kommt der Zaubertrick.</font>
+
+94
+00:09:39,202 --> 00:09:42,642
+<font color=#FFFF00>Ich nehme</font>
+<font color=#FFFF00>ein bisschen Kokosmilch dazu.</font>
+
+95
+00:09:45,762 --> 00:09:49,242
+<font color=#FFFF00>Die kommt</font>
+<font color=#FFFF00>einfach auf die heiße Pastinaken.</font>
+
+96
+00:09:51,042 --> 00:09:54,402
+<font color=#FFFF00>Und dann kommt Kreuzkümmel dazu.</font>
+
+97
+00:09:54,562 --> 00:09:57,882
+<font color=#00FFFF>Ja, hau rein.</font>
+
+98
+00:09:59,802 --> 00:10:03,322
+<font color=#FFFF00>Das püriere ich</font>
+<font color=#FFFF00>jetzt schön weich durch.</font>
+
+99
+00:10:03,602 --> 00:10:07,122
+<font color=#00FFFF>Ich hol schon mal die Teller.</font>
+
+100
+00:10:11,442 --> 00:10:14,922
+<font color=#FFFF00>Jetzt fällt hier</font>
+<font color=#FFFF00>schön der Grünkohl zusammen.</font>
+
+101
+00:10:25,922 --> 00:10:29,402
+<font color=#FFFF00>Ich mag das Püree</font>
+<font color=#FFFF00>gern ein bisschen stückig.</font>
+
+102
+00:10:29,642 --> 00:10:33,122
+<font color=#FFFF00>Wie ist das bei dir?</font>
+
+103
+00:10:34,722 --> 00:10:37,562
+<font color=#00FFFF>Finde ich gut,</font>
+<font color=#00FFFF>muss nicht durch das Sieb.</font>
+
+104
+00:10:39,082 --> 00:10:42,642
+<font color=#FFFF00>Die Rüben sehen</font>
+<font color=#FFFF00>jetzt ein bisschen aus wie Fritten.</font>
+
+105
+00:10:46,442 --> 00:10:49,402
+<font color=#FFFF00>So, wir könnten</font>
+<font color=#FFFF00>jetzt schon anrichten.</font>
+
+106
+00:10:49,562 --> 00:10:52,882
+<font color=#FFFF00>Du kannst schon mal probieren.</font>
+
+107
+00:10:53,922 --> 00:10:57,402
+<font color=#00FFFF>Oh, das ist gut.</font>
+
+108
+00:10:58,402 --> 00:11:01,882
+<font color=#00FFFF>Das schmeckt schön knackig.</font>
+
+109
+00:11:07,402 --> 00:11:09,842
+<font color=#FFFF00>Steckrübe drauf, zack, zack, zack.</font>
+
+110
+00:11:13,642 --> 00:11:17,122
+<font color=#FFFF00>Wir haben heute</font>
+<font color=#FFFF00>auf Kalorien geachtet.</font>
+
+111
+00:11:17,762 --> 00:11:21,282
+<font color=#00FFFF>Weihnachten steht er vor der Tür.</font>
+
+112
+00:11:22,402 --> 00:11:24,242
+<font color=#FFFF00>Du bist meine Vorkosterin.</font>
+
+113
+00:11:26,162 --> 00:11:27,522
+<font color=#00FFFF>Erst mal das Püree.</font>
+
+114
+00:11:29,082 --> 00:11:30,082
+<font color=#FFFF00>Fertig ist es.</font>
+
+115
+00:11:31,482 --> 00:11:32,762
+<font color=#00FFFF>Das schmeckt toll.</font>
+
+116
+00:11:37,722 --> 00:11:39,802
+<font color=#00FFFF>Das ist wirklich sehr lecker.</font>
+
+117
+00:11:40,642 --> 00:11:43,842
+<font color=#FFFF00>In Verbindung</font>
+<font color=#FFFF00>mit der Kokosmilch schön cremig.</font>
+
+118
+00:11:48,722 --> 00:11:49,722
+<font color=#FFFF00>Streckrübe ...</font>
+
+119
+00:11:55,362 --> 00:11:57,082
+<font color=#00FFFF>Ich werde es nachkochen.</font>
+
+120
+00:12:06,162 --> 00:12:09,642
+<font color=#00FFFF>Ganz tolles Essen.</font>
+
+121
+00:12:09,882 --> 00:12:12,842
+<font color=#00FFFF>Nur mit regionalem Wintergemüse.</font>
+

@@ -1,0 +1,1008 @@
+1
+00:00:05,023 --> 00:00:10,000
+<font color=#ffffff>Es geht los in der Küche.</font>
+
+2
+00:00:10,012 --> 00:00:13,017
+<font color=#ffffff>Christian Henze ist schon bei der</font>
+<font color=#ffffff>Sache.</font>
+
+3
+00:00:14,005 --> 00:00:17,012
+<font color=#ffffff>Was kochen wir?</font>
+
+4
+00:00:18,000 --> 00:00:21,013
+<font color=#ffff00>Fisch und Spargel.</font>
+
+5
+00:00:27,004 --> 00:00:30,021
+<font color=#ffff00>Ich muss meinem Kollegen Robin</font>
+<font color=#ffff00>Pietsch gute Besserung sagen.</font>
+
+6
+00:00:31,004 --> 00:00:34,019
+<font color=#ffff00>Er ist leider krank heute.</font>
+
+7
+00:00:35,024 --> 00:00:40,006
+<font color=#ffffff>Aber es ist schön, dass du</font>
+<font color=#ffffff>kurzfristig eingesprungen bist.</font>
+
+8
+00:00:47,009 --> 00:00:51,004
+<font color=#ffff00>Meine Mutter hat das beste Spargel-</font>
+<font color=#ffff00>Salat-Rezept der ganzen Welt.</font>
+
+9
+00:00:51,016 --> 00:00:55,000
+<font color=#ffff00>Ich liebe Fisch.</font>
+
+10
+00:00:55,016 --> 00:00:58,013
+<font color=#ffff00>Das hier ist ein schöner Saibling.</font>
+
+11
+00:00:58,021 --> 00:01:02,009
+<font color=#ffff00>Es würde auch Forelle gehen.</font>
+
+12
+00:01:04,019 --> 00:01:08,015
+<font color=#ffff00>Aus diesem Filet werde ich eine</font>
+<font color=#ffff00>Füllung zubereiten.</font>
+
+13
+00:01:12,000 --> 00:01:16,000
+<font color=#ffff00>Bestehend aus frischem Lachs-Filet.</font>
+
+14
+00:01:16,010 --> 00:01:20,008
+<font color=#ffff00>Gewürfelt.</font>
+
+15
+00:01:21,023 --> 00:01:25,022
+<font color=#ffff00>Das ist so ein Grundrezept.</font>
+
+16
+00:01:31,003 --> 00:01:35,004
+<font color=#ffff00>Ein Teil Sahne.</font>
+
+17
+00:01:36,011 --> 00:01:39,013
+<font color=#ffff00>Ein Ei von glücklichen Hühnern.</font>
+
+18
+00:01:40,000 --> 00:01:42,018
+<font color=#ffff00>Nur das Eiweiß.</font>
+
+19
+00:01:43,001 --> 00:01:45,013
+<font color=#ffff00>Das Eigelb hebe ich auf.</font>
+
+20
+00:01:46,004 --> 00:01:49,011
+<font color=#ffff00>Es wird nichts weggeschmissen.</font>
+
+21
+00:01:49,023 --> 00:01:53,007
+<font color=#ffff00>Eine Prise Salz dazu.</font>
+
+22
+00:01:53,019 --> 00:01:57,011
+<font color=#ffff00>Das Salz ist wichtig.</font>
+
+23
+00:01:57,023 --> 00:02:01,011
+<font color=#ffff00>Damit das ganze Fest zusammenhält.</font>
+
+24
+00:02:02,023 --> 00:02:06,023
+<font color=#ffff00>Dann nimmt man einen Mixer.</font>
+
+25
+00:02:10,007 --> 00:02:14,012
+<font color=#ffff00>Es geht nicht mit Pürierstab.</font>
+
+26
+00:02:15,015 --> 00:02:19,015
+<font color=#ffff00>Weil man es nicht so fein pürieren</font>
+<font color=#ffff00>kann.</font>
+
+27
+00:02:21,024 --> 00:02:25,024
+<font color=#ffff00>So habe ich es schon sehr viele</font>
+<font color=#ffff00>Male gemacht.</font>
+
+28
+00:02:30,019 --> 00:02:34,011
+<font color=#ffff00>Alles kommt gekühlt in eine</font>
+<font color=#ffff00>Schüssel.</font>
+
+29
+00:02:35,002 --> 00:02:38,013
+<font color=#ffff00>Dann wird es fein püriert.</font>
+
+30
+00:02:40,007 --> 00:02:44,010
+<font color=#ffff00>Wichtig ist, dass die Zutaten alle</font>
+<font color=#ffff00>kalt sind.</font>
+
+31
+00:02:47,016 --> 00:02:51,013
+<font color=#ffff00>Anschließend stellt man das ganze</font>
+<font color=#ffff00>ein bisschen in den Gefrierschrank.</font>
+
+32
+00:02:51,024 --> 00:02:55,014
+<font color=#ffff00>Dann sieht es so aus.</font>
+
+33
+00:02:56,001 --> 00:02:59,014
+<font color=#ffff00>Das ist schon alles.</font>
+
+34
+00:03:06,013 --> 00:03:10,009
+<font color=#ffff00>Jetzt habe ich ein Fleisch-</font>
+<font color=#ffff00>Plattiereisen.</font>
+
+35
+00:03:14,004 --> 00:03:18,004
+<font color=#ffff00>Ein Stückchen Klarsichtfolie.</font>
+
+36
+00:03:19,003 --> 00:03:23,002
+<font color=#ffff00>Vorsichtig abschneiden.</font>
+
+37
+00:03:28,011 --> 00:03:31,001
+<font color=#ffff00>Dann kommt das Fisch-Filet auf das</font>
+<font color=#ffff00>Brett.</font>
+
+38
+00:03:31,017 --> 00:03:35,003
+<font color=#ffff00>Ich schneide die Haut weg.</font>
+
+39
+00:03:35,017 --> 00:03:39,013
+<font color=#ffff00>Das funktioniert ganz einfach.</font>
+
+40
+00:03:42,009 --> 00:03:46,005
+<font color=#ffff00>Somit hat man das Fisch-Filet und</font>
+<font color=#ffff00>die Haut.</font>
+
+41
+00:03:47,000 --> 00:03:49,015
+<font color=#ffffff>Die Haut kriegt die Katze?</font>
+
+42
+00:03:50,002 --> 00:03:53,011
+<font color=#ffff00>Nein.</font>
+
+43
+00:03:53,023 --> 00:03:56,018
+<font color=#ffff00>Eine Zuschauerin hat mir unlängst</font>
+<font color=#ffff00>gesagt,</font>
+
+44
+00:03:57,003 --> 00:04:00,016
+<font color=#ffff00>dass das nicht gut für Katzen wäre.</font>
+
+45
+00:04:06,004 --> 00:04:10,003
+<font color=#ffff00>Das Fisch-Filet kommt in die</font>
+<font color=#ffff00>Klarsichtfolie.</font>
+
+46
+00:04:11,012 --> 00:04:14,020
+<font color=#ffff00>Dann das Fisch-Filet etwas klopfen.</font>
+
+47
+00:04:15,007 --> 00:04:18,020
+<font color=#ffff00>Wie ein Wiener Schnitzel.</font>
+
+48
+00:04:26,003 --> 00:04:29,020
+<font color=#ffffff>Das sollte man aber frisch holen?</font>
+
+49
+00:04:32,005 --> 00:04:36,006
+<font color=#ffffff>Würde ein tiefgekühltes Filet</font>
+<font color=#ffffff>aufzunehmen?</font>
+
+50
+00:04:38,024 --> 00:04:42,024
+<font color=#ffff00>Gefrorene Fische oder auch Fleisch</font>
+<font color=#ffff00>finde ich nicht schlimm.</font>
+
+51
+00:04:46,018 --> 00:04:50,021
+<font color=#ffff00>Ein frisches Produkt eingefroren,</font>
+<font color=#ffff00>damit geht das auch.</font>
+
+52
+00:04:51,005 --> 00:04:55,008
+<font color=#ffff00>Das Filet habe ich leicht gesalzen.</font>
+
+53
+00:04:57,010 --> 00:05:01,010
+<font color=#ffff00>Und dann kommt diese Masse hier</font>
+<font color=#ffff00>drauf.</font>
+
+54
+00:05:13,021 --> 00:05:17,015
+<font color=#ffff00>Diese Fisch-Füllung dünn auf den</font>
+<font color=#ffff00>Fisch streichen.</font>
+
+55
+00:05:18,006 --> 00:05:21,019
+<font color=#ffff00>Das ist eine tolle Arbeit.</font>
+
+56
+00:05:22,010 --> 00:05:24,018
+<font color=#ffffff>Ist das frischer Bärlauch?</font>
+
+57
+00:05:25,003 --> 00:05:28,008
+<font color=#ffffff>Lecker.</font>
+
+58
+00:05:28,024 --> 00:05:32,014
+<font color=#ffff00>Das ist nicht jedermanns Sache.</font>
+
+59
+00:05:33,009 --> 00:05:37,006
+<font color=#ffff00>Aber Bärlauch ist passend für die</font>
+<font color=#ffff00>Jahreszeit.</font>
+
+60
+00:05:40,021 --> 00:05:44,017
+<font color=#ffff00>Obendrauf kommt ein bisschen von</font>
+<font color=#ffff00>der Lachs-Füllung.</font>
+
+61
+00:05:45,016 --> 00:05:49,015
+<font color=#ffff00>Und obendrauf ein Stückchen</font>
+<font color=#ffff00>frischer Lachs.</font>
+
+62
+00:05:53,000 --> 00:05:56,019
+<font color=#ffff00>Wenn das bei Ihnen nicht klappt,</font>
+<font color=#ffff00>diese Rolle...</font>
+
+63
+00:05:57,007 --> 00:06:00,020
+<font color=#ffffff>Warum sollte das nicht klappen?</font>
+
+64
+00:06:01,019 --> 00:06:05,015
+<font color=#ffff00>Wenn das nicht klappt, rufen Sie</font>
+<font color=#ffff00>mich einfach an.</font>
+
+65
+00:06:06,003 --> 00:06:09,015
+<font color=#ffffff>Dann klappt es mit Sicherheit nicht.</font>
+
+66
+00:06:12,004 --> 00:06:15,001
+<font color=#ffff00>Ich lasse das überlappen.</font>
+
+67
+00:06:15,016 --> 00:06:17,023
+<font color=#ffff00>Und ziehe das hier fest.</font>
+
+68
+00:06:18,011 --> 00:06:22,001
+<font color=#ffff00>Ich drehe die Folie nach oben.</font>
+
+69
+00:06:24,000 --> 00:06:28,000
+<font color=#ffffff>Das sieht aus wie Sushi.</font>
+
+70
+00:06:28,004 --> 00:06:30,010
+<font color=#ffff00>Diese Rolle kann ich eindringen.</font>
+
+71
+00:06:30,022 --> 00:06:34,008
+<font color=#ffff00>--eindrehen</font>
+
+72
+00:06:36,018 --> 00:06:40,010
+<font color=#ffff00>das ganze mit Alufolie fixieren.</font>
+
+73
+00:06:44,009 --> 00:06:48,010
+<font color=#ffffff>Kann man das auch mit Backpapier</font>
+<font color=#ffffff>machen?</font>
+
+74
+00:06:48,018 --> 00:06:51,018
+<font color=#ffff00>Das ist ein bisschen schwerer.</font>
+
+75
+00:06:52,006 --> 00:06:55,015
+<font color=#ffff00>Die Folie kommt er wieder weg.</font>
+
+76
+00:07:01,019 --> 00:07:05,018
+<font color=#ffff00>Das ganze kommt in leicht siedendes</font>
+<font color=#ffff00>Wasser,</font>
+
+77
+00:07:08,015 --> 00:07:12,008
+<font color=#ffff00>obendrauf ein Stück Küchenpapier.</font>
+
+78
+00:07:17,019 --> 00:07:21,023
+<font color=#ffff00>Damit das ganze mit Wasser benetzt</font>
+<font color=#ffff00>ist.</font>
+
+79
+00:07:25,004 --> 00:07:28,024
+<font color=#ffff00>Wir haben schon die Hälfte</font>
+<font color=#ffff00>geschafft.</font>
+
+80
+00:07:31,000 --> 00:07:35,002
+<font color=#ffffff>Wir haben noch sehr viel Zeit, die</font>
+<font color=#ffffff>Rolle kannst du noch mal ausrollen.</font>
+
+81
+00:07:35,015 --> 00:07:37,017
+<font color=#ffff00>Naja, wir haben 40 %.</font>
+
+82
+00:07:38,004 --> 00:07:41,017
+<font color=#ffff00>Wir kommen zum Spargel.</font>
+
+83
+00:07:45,005 --> 00:07:47,023
+<font color=#ffff00>Möchtest du ein bisschen schälen?</font>
+
+84
+00:07:48,013 --> 00:07:52,002
+<font color=#ffffff>Kann ich machen.</font>
+
+85
+00:07:55,003 --> 00:07:59,007
+<font color=#ffffff>Gibst du mir einen Schäler?</font>
+
+86
+00:07:59,024 --> 00:08:03,023
+<font color=#ffff00>Ich war so geblendet vom Spargel.</font>
+
+87
+00:08:05,005 --> 00:08:09,001
+<font color=#ffff00>Frischer Spargel erkennt man daran,</font>
+
+88
+00:08:09,013 --> 00:08:12,022
+<font color=#ffff00>dass die Kappen geschlossen sind.</font>
+
+89
+00:08:14,024 --> 00:08:18,005
+<font color=#ffff00>Und die Schnittseite unten ist</font>
+<font color=#ffff00>nicht sehr trocken.</font>
+
+90
+00:08:18,017 --> 00:08:22,002
+<font color=#ffff00>Leicht an getrocknet kann es sein.</font>
+
+91
+00:08:23,015 --> 00:08:27,014
+<font color=#ffff00>Das ist ein Indiz dafür, dass er</font>
+<font color=#ffff00>frisch ist.</font>
+
+92
+00:08:30,002 --> 00:08:33,023
+<font color=#ffff00>Du bist ein Profi im Schälen.</font>
+
+93
+00:08:36,012 --> 00:08:39,010
+<font color=#ffff00>Hast du so einen Schäler wie ich</font>
+<font color=#ffff00>hier?</font>
+
+94
+00:08:40,000 --> 00:08:43,009
+<font color=#ffffff>Ja, so einen.</font>
+
+95
+00:08:43,018 --> 00:08:47,009
+<font color=#ffff00>Den Spargel auf den Unterarm</font>
+<font color=#ffff00>nehmen.</font>
+
+96
+00:08:49,003 --> 00:08:52,023
+<font color=#ffff00>Und von oben nach unten schön</font>
+<font color=#ffff00>schälen.</font>
+
+97
+00:08:55,015 --> 00:08:58,012
+<font color=#ffff00>Spargel muss ordentlich geschält</font>
+<font color=#ffff00>werden.</font>
+
+98
+00:08:58,016 --> 00:09:02,015
+<font color=#ffff00>Und nicht schnell.</font>
+
+99
+00:09:10,007 --> 00:09:14,015
+<font color=#ffff00>Wir haben Wett-Schälen in meiner</font>
+<font color=#ffff00>Küche.</font>
+
+100
+00:09:17,012 --> 00:09:21,013
+<font color=#ffff00>Aber dann haben wir nicht</font>
+<font color=#ffff00>ordentlich geschält.</font>
+
+101
+00:09:24,020 --> 00:09:28,008
+<font color=#ffff00>wenn schön geschält ist, bleibt der</font>
+<font color=#ffff00>Anschnitt übrig.</font>
+
+102
+00:09:28,016 --> 00:09:32,008
+<font color=#ffff00>Und die Schale.</font>
+
+103
+00:09:36,023 --> 00:09:40,023
+<font color=#ffff00>Wenn der Spargel gekocht wird, der</font>
+<font color=#ffff00>braucht ja ein bisschen,</font>
+
+104
+00:09:47,011 --> 00:09:51,011
+<font color=#ffff00>dann gebe ich die Schalen und die</font>
+<font color=#ffff00>Anschnitte mit rein.</font>
+
+105
+00:09:52,006 --> 00:09:56,005
+<font color=#ffff00>Das Wasser muss noch gewürzt</font>
+<font color=#ffff00>werden.</font>
+
+106
+00:10:06,003 --> 00:10:09,008
+<font color=#ffff00>Der Spargel-Fond</font>
+
+107
+00:10:09,023 --> 00:10:13,009
+<font color=#ffff00>ist total einfach.</font>
+
+108
+00:10:17,014 --> 00:10:21,019
+<font color=#ffffff>Was hältst du von den Spargel-</font>
+<font color=#ffffff>Töpfen, in denen der Spargel steht?</font>
+
+109
+00:10:22,006 --> 00:10:26,006
+<font color=#ffff00>Das braucht die Welt nicht,</font>
+<font color=#ffff00>völliger Quatsch.</font>
+
+110
+00:10:26,018 --> 00:10:30,014
+<font color=#ffff00>Ich mache das mit Teelöffeln.</font>
+
+111
+00:10:33,005 --> 00:10:36,022
+<font color=#ffff00>2 gehäufte Teelöffel Zucker und ein</font>
+<font color=#ffff00>Teelöffel Salz.</font>
+
+112
+00:10:37,013 --> 00:10:40,022
+<font color=#ffff00>Also relativ viele Gewürze.</font>
+
+113
+00:10:42,004 --> 00:10:46,000
+<font color=#ffff00>Viele Wege führen nach Rom.</font>
+
+114
+00:10:46,008 --> 00:10:50,001
+<font color=#ffff00>Ich finde das sehr gut.</font>
+
+115
+00:10:52,014 --> 00:10:55,023
+<font color=#ffff00>Mit einer Scheibe Orange und einer</font>
+<font color=#ffff00>Scheibe Zitrone.</font>
+
+116
+00:10:56,009 --> 00:10:59,023
+<font color=#ffff00>Die gebe ich hier rein.</font>
+
+117
+00:11:00,007 --> 00:11:04,011
+<font color=#ffff00>So mache ich das immer, ich finde</font>
+<font color=#ffff00>das lecker.</font>
+
+118
+00:11:05,010 --> 00:11:09,010
+<font color=#ffff00>Das gibt dem Spargel eine elegante</font>
+<font color=#ffff00>Note.</font>
+
+119
+00:11:10,013 --> 00:11:14,018
+<font color=#ffff00>Man lässt ihn 10 Minuten köcheln.</font>
+
+120
+00:11:15,001 --> 00:11:18,018
+<font color=#ffff00>Später testen wir, wie weit er ist.</font>
+
+121
+00:11:19,001 --> 00:11:22,018
+<font color=#ffff00>Er muss sich leicht biegen.</font>
+
+122
+00:11:27,019 --> 00:11:31,009
+<font color=#ffff00>Wir machen jetzt eine Vinaigrette.</font>
+
+123
+00:11:31,017 --> 00:11:35,006
+<font color=#ffff00>Das habe ich ja schon angekündigt.</font>
+
+124
+00:11:41,024 --> 00:11:45,020
+<font color=#ffffff>Hier haben wir den QR-Code für Sie,</font>
+<font color=#ffffff>liebe Zuschauer.</font>
+
+125
+00:11:48,003 --> 00:11:52,007
+<font color=#ffffff>Dort finden Sie die Anleitung und</font>
+<font color=#ffffff>die Einkaufsliste für die Zutaten.</font>
+
+126
+00:11:52,019 --> 00:11:56,018
+<font color=#ffff00>Gekochte, geschälte Eier.</font>
+
+127
+00:11:59,000 --> 00:12:02,010
+<font color=#ffff00>Kannst du sie der Länge nach</font>
+<font color=#ffff00>halbieren und in dünne Streifen</font>
+
+128
+00:12:02,022 --> 00:12:06,011
+<font color=#ffff00>schneiden?</font>
+
+129
+00:12:07,018 --> 00:12:11,014
+<font color=#ffff00>Die Vinaigrette ist auch nicht</font>
+<font color=#ffff00>schwer.</font>
+
+130
+00:12:13,008 --> 00:12:17,012
+<font color=#ffff00>An Ostern haben wir zu Hause</font>
+<font color=#ffff00>Ostereier genommen.</font>
+
+131
+00:12:17,021 --> 00:12:21,020
+<font color=#ffffff>Bei dir gab es zu Ostern schon</font>
+<font color=#ffffff>Spargel?</font>
+
+132
+00:12:22,007 --> 00:12:25,023
+<font color=#ffff00>Ja, der von meiner Mutter.</font>
+
+133
+00:12:28,000 --> 00:12:32,000
+<font color=#ffff00>Für die Vinaigrette nehmen wir</font>
+<font color=#ffff00>Zucker.</font>
+
+134
+00:12:32,008 --> 00:12:35,021
+<font color=#ffffff>Passt das so?</font>
+
+135
+00:12:36,008 --> 00:12:39,021
+<font color=#ffff00>Dünne Scheiben.</font>
+
+136
+00:12:42,007 --> 00:12:46,007
+<font color=#ffffff>Streifen und Scheiben, dass es nicht</font>
+<font color=#ffffff>das gleiche.</font>
+
+137
+00:12:56,020 --> 00:13:00,019
+<font color=#ffff00>Salz, Zucker, einen Löffel scharfer</font>
+<font color=#ffff00>oder mittelscharfer Senf.</font>
+
+138
+00:13:01,006 --> 00:13:04,024
+<font color=#ffff00>Dazu etwas Süßes.</font>
+
+139
+00:13:06,017 --> 00:13:10,012
+<font color=#ffff00>Zum Beispiel Mango-Chutney.</font>
+
+140
+00:13:11,003 --> 00:13:14,022
+<font color=#ffffff>Was wäre eine Alternative?</font>
+
+141
+00:13:16,001 --> 00:13:20,001
+<font color=#ffff00>Honig oder süße Chilisauce.</font>
+
+142
+00:13:21,012 --> 00:13:25,008
+<font color=#ffff00>Oder Aprikosenmarmelade zum</font>
+<font color=#ffff00>Beispiel.</font>
+
+143
+00:13:25,023 --> 00:13:29,016
+<font color=#ffff00>Wir geben Essig dazu.</font>
+
+144
+00:13:31,009 --> 00:13:35,009
+<font color=#ffff00>Ich habe einen weißen Balsamico-</font>
+<font color=#ffff00>Essig verwendet.</font>
+
+145
+00:13:36,012 --> 00:13:40,008
+<font color=#ffff00>Wenn man die nicht hat, ist das</font>
+<font color=#ffff00>auch kein Weltuntergang.</font>
+
+146
+00:13:42,000 --> 00:13:45,024
+<font color=#ffff00>Aber der weiße Balsamico-Essig hat</font>
+<font color=#ffff00>eine feinen Säure.</font>
+
+147
+00:13:48,001 --> 00:13:51,022
+<font color=#ffff00>So lange rühren, bis sich Salz und</font>
+<font color=#ffff00>Zucker gelöst haben.</font>
+
+148
+00:13:56,010 --> 00:14:00,010
+<font color=#ffff00>Ein Teil Essig und 2 Teile Öl, das</font>
+<font color=#ffff00>ist die Faustregel.</font>
+
+149
+00:14:01,017 --> 00:14:05,020
+<font color=#ffff00>Das Öl kommt langsam rein.</font>
+
+150
+00:14:07,017 --> 00:14:11,017
+<font color=#ffff00>Olivenöl ist gut, oder Rapskernöl</font>
+
+151
+00:14:16,008 --> 00:14:20,008
+<font color=#ffff00>Das ist extrem gesund.</font>
+
+152
+00:14:23,005 --> 00:14:27,005
+<font color=#ffff00>Wir haben die Roulade, den Spargel,</font>
+<font color=#ffff00>das Dressing.</font>
+
+153
+00:14:27,021 --> 00:14:31,024
+<font color=#ffff00>Könntest du die Eier noch etwas</font>
+<font color=#ffff00>kleiner machen?</font>
+
+154
+00:14:32,015 --> 00:14:36,011
+<font color=#ffffff>Ja, natürlich.</font>
+
+155
+00:14:37,018 --> 00:14:41,012
+<font color=#ffff00>Ein paar Pinienkerne dazu.</font>
+
+156
+00:14:45,019 --> 00:14:49,021
+<font color=#ffff00>Die können geröstet sein oder auch</font>
+<font color=#ffff00>nicht.</font>
+
+157
+00:14:50,006 --> 00:14:54,005
+<font color=#ffff00>Dann ist die Vinaigrette fertig.</font>
+
+158
+00:15:01,023 --> 00:15:05,008
+<font color=#ffff00>Jetzt mache ich eine Sauce</font>
+<font color=#ffff00>Hollandaise für Faule.</font>
+
+159
+00:15:05,015 --> 00:15:09,007
+<font color=#ffff00>Etwas Brühe.</font>
+
+160
+00:15:11,009 --> 00:15:15,011
+<font color=#ffff00>Zu dieser kräftigen Brühe kommt</font>
+<font color=#ffff00>Zitronensaft.</font>
+
+161
+00:15:19,019 --> 00:15:23,012
+<font color=#ffff00>Das genaue Rezept haben wir ja im</font>
+<font color=#ffff00>QR-Code.</font>
+
+162
+00:15:26,005 --> 00:15:29,019
+<font color=#ffffff>Genau, und auf unserer</font>
+<font color=#ffffff>Internetseite.</font>
+
+163
+00:15:30,009 --> 00:15:34,000
+<font color=#ffff00>Dann Computer dazu.</font>
+
+164
+00:15:34,012 --> 00:15:38,007
+<font color=#ffff00>--kommt Butter dazu</font>
+
+165
+00:15:40,015 --> 00:15:44,020
+<font color=#ffff00>Essig und eine Prise Salz.</font>
+
+166
+00:15:49,002 --> 00:15:52,020
+<font color=#ffffff>Viele trauen sich nicht, eine Sauce</font>
+<font color=#ffffff>Hollandaise selbst zu machen.</font>
+
+167
+00:15:53,011 --> 00:15:56,020
+<font color=#ffffff>Die kann ja leicht kippen.</font>
+
+168
+00:15:57,007 --> 00:16:01,003
+<font color=#ffff00>Das ist mir auch schon passiert.</font>
+
+169
+00:16:09,012 --> 00:16:13,013
+<font color=#ffff00>Die Brühe mit dem Essig wird</font>
+<font color=#ffff00>erhitzt.</font>
+
+170
+00:16:16,023 --> 00:16:20,015
+<font color=#ffff00>Dann kommt ein Ei hinzu.</font>
+
+171
+00:16:26,021 --> 00:16:30,020
+<font color=#ffff00>Und dann brauchen wir ein Sahne-</font>
+<font color=#ffff00>Siphon.</font>
+
+172
+00:16:31,007 --> 00:16:35,006
+<font color=#ffffff>Das habe ich schon lange nicht mehr</font>
+<font color=#ffffff>gesehen.</font>
+
+173
+00:16:36,005 --> 00:16:40,004
+<font color=#ffffff>Man macht ja weniger Schlagsahne</font>
+<font color=#ffffff>heutzutage.</font>
+
+174
+00:16:46,018 --> 00:16:50,016
+<font color=#ffff00>Ich liebe Sahne, und Schokolade.</font>
+
+175
+00:16:51,011 --> 00:16:55,008
+<font color=#ffff00>Das ganze flüssig werden lassen.</font>
+
+176
+00:16:56,014 --> 00:17:00,010
+<font color=#ffff00>Und in so einen Topf geben.</font>
+
+177
+00:17:00,022 --> 00:17:02,008
+<font color=#ffff00>Das Eigelb kommt hinzu.</font>
+
+178
+00:17:02,020 --> 00:17:06,002
+<font color=#ffff00>Ein Ei.</font>
+
+179
+00:17:06,014 --> 00:17:10,001
+<font color=#ffff00>Dann einmal mit dem Mixer rein.</font>
+
+180
+00:17:11,002 --> 00:17:14,023
+<font color=#ffff00>Es muss schnell gehen, jetzt ist es</font>
+<font color=#ffff00>ja noch warm.</font>
+
+181
+00:17:19,013 --> 00:17:23,014
+<font color=#ffff00>Einmal in dieses Gefäß einfüllen.</font>
+
+182
+00:17:31,006 --> 00:17:34,018
+<font color=#ffff00>Den Rest kennen wir ja.</font>
+
+183
+00:17:35,006 --> 00:17:38,019
+<font color=#ffff00>Und jetzt schütteln.</font>
+
+184
+00:17:42,015 --> 00:17:45,020
+<font color=#ffff00>Wenn man sich genau an das Rezept</font>
+<font color=#ffff00>hält, ist das eine tolle</font>
+
+185
+00:17:46,007 --> 00:17:48,017
+<font color=#ffff00>Geschichte.</font>
+
+186
+00:17:49,007 --> 00:17:52,006
+<font color=#ffff00>Man hat richtig viel Sauce</font>
+<font color=#ffff00>Hollandaise,</font>
+
+187
+00:17:56,008 --> 00:18:00,011
+<font color=#ffff00>ohne dass sie gerinnen kann.</font>
+
+188
+00:18:10,023 --> 00:18:14,015
+<font color=#ffff00>Wenn du dich entscheiden müsstest</font>
+<font color=#ffff00>zwischen Spargel und Fisch?</font>
+
+189
+00:18:14,023 --> 00:18:18,015
+<font color=#ffffff>Ich würde den Fisch nehmen.</font>
+
+190
+00:18:19,010 --> 00:18:23,012
+<font color=#ffffff>Wieso muss ich mich entscheiden?</font>
+
+191
+00:18:24,007 --> 00:18:28,000
+<font color=#ffff00>Unser Gast hat gesagt, dass er</font>
+<font color=#ffff00>lieber Spargel haben möchte.</font>
+
+192
+00:18:28,012 --> 00:18:31,017
+<font color=#ffffff>Er mag Fisch nicht so.</font>
+
+193
+00:18:32,008 --> 00:18:35,020
+<font color=#ffff00>Ich schneide die Rolle auf.</font>
+
+194
+00:18:37,021 --> 00:18:41,017
+<font color=#ffff00>12-15 Minuten ist die Rolle drin.</font>
+
+195
+00:18:54,001 --> 00:18:57,022
+<font color=#ffff00>Diesen Fisch setze ich auf den</font>
+<font color=#ffff00>Teller.</font>
+
+196
+00:18:58,010 --> 00:19:02,005
+<font color=#ffffff>Das sieht lecker aus.</font>
+
+197
+00:19:02,010 --> 00:19:06,008
+<font color=#ffff00>Die Vinaigrette kommt dazu.</font>
+
+198
+00:19:09,004 --> 00:19:13,002
+<font color=#ffff00>Anja, kannst du mir die Eier in die</font>
+<font color=#ffff00>Schüssel geben?</font>
+
+199
+00:19:13,010 --> 00:19:17,006
+<font color=#ffff00>Und jetzt schütteln.</font>
+
+200
+00:19:23,003 --> 00:19:27,000
+<font color=#ffff00>Tada, das ist unsere Sauce</font>
+<font color=#ffff00>Hollandaise.</font>
+
+201
+00:19:27,015 --> 00:19:31,003
+<font color=#ffff00>Obendrauf kommt reichlich Ei.</font>
+
+202
+00:19:33,001 --> 00:19:37,000
+<font color=#ffffff>Eine weiße Sauce Hollandaise</font>
+
+203
+00:19:39,002 --> 00:19:43,000
+<font color=#ffffff>Das sieht sehr lecker aus.</font>
+
+204
+00:19:44,012 --> 00:19:47,014
+<font color=#ffff00>Und ich gebe viel Bärlauch hinzu.</font>
+
+205
+00:19:47,023 --> 00:19:51,015
+<font color=#ffffff>Das sieht super aus.</font>
+
+206
+00:19:52,002 --> 00:19:56,000
+<font color=#ffff00>Der Fisch ist ein bisschen</font>
+<font color=#ffff00>aufwendig.</font>
+
+207
+00:19:56,007 --> 00:19:59,003
+<font color=#ffff00>Aber ich wollte das einfach mal</font>
+<font color=#ffff00>machen.</font>
+
+208
+00:20:08,005 --> 00:20:12,008
+<font color=#ffffff>Während ich erzählt habe,</font>
+
+209
+00:20:13,003 --> 00:20:16,020
+<font color=#ffffff>ist der Koch zur Höchstform</font>
+<font color=#ffffff>aufgelaufen.</font>
+
+210
+00:20:20,020 --> 00:20:24,017
+<font color=#ffff00>Ich habe dir einen Teller</font>
+<font color=#ffff00>hergerichtet.</font>
+
+211
+00:20:25,004 --> 00:20:28,017
+<font color=#ffffff>Hast du schon gekostet?</font>
+
+212
+00:20:31,006 --> 00:20:34,017
+<font color=#ffffff>Entschuldigung, ich muss das mal</font>
+<font color=#ffffff>probieren.</font>
+
+213
+00:20:35,000 --> 00:20:38,014
+<font color=#ffffff>Lecker.</font>
+
+214
+00:20:39,003 --> 00:20:42,022
+<font color=#ffff00>Spargel ist gut.</font>
+
+215
+00:20:45,005 --> 00:20:48,012
+<font color=#ffff00>Ist dir die Vinaigrette zu scharf?</font>
+
+216
+00:20:49,003 --> 00:20:52,012
+<font color=#ffffff>Nein, gar nicht.</font>
+
+217
+00:20:53,013 --> 00:20:57,012
+<font color=#ffffff>Du kannst deiner Mutter viele Grüße</font>
+<font color=#ffffff>ausrichten.</font>
+
+218
+00:20:57,024 --> 00:21:01,022
+<font color=#ffffff>Jetzt wird noch die Fischrolle</font>
+<font color=#ffffff>gekostet.</font>
+
+219
+00:21:02,013 --> 00:21:06,014
+<font color=#ffffff>Du darfst wiederkommen.</font>
+
+220
+00:21:07,008 --> 00:21:11,008
+<font color=#ffffff>Das ist ein schönes leichtes</font>
+<font color=#ffffff>Frühlingsessen.</font>
+
+221
+00:21:17,022 --> 00:21:21,022
+<font color=#ffffff>Die Sauce Hollandaise, da kann man</font>
+<font color=#ffffff>so viel nehmen, werden will.</font>
+
+222
+00:21:23,002 --> 00:21:23,010
+<font color=#ffffff>Was es Schönes und Neues</font>
+<font color=#ffffff>in puncto Heimkino gibt,</font>
+
+223
+00:21:23,014 --> 00:21:25,016
+<font color=#ffffff>Ein Gläschen Wein oder Traubensaft.</font>
+
+224
+00:21:25,019 --> 00:21:27,018
+<font color=#ffffff>erklärt Technikexperte Marco Ammer.</font>
+
+225
+00:21:27,022 --> 00:21:30,023
+<font color=#ffffff>Wie Sie das richtige Gerät</font>
+<font color=#ffffff>für Ihre Bedürfnisse finden.</font>
+
+226
+00:21:31,002 --> 00:21:34,007
+<font color=#ffffff>Schließlich finden hoffentlich bald</font>
+<font color=#ffffff>die Olympischen Spiele</font>
+
+227
+00:21:34,010 --> 00:21:36,017
+<font color=#ffffff>und die Fußball-Europameisterschaft</font>
+<font color=#ffffff>statt.</font>
+
+228
+00:21:36,021 --> 00:21:38,004
+<font color=#ffffff>Das war es von uns für diese Woche.</font>
+

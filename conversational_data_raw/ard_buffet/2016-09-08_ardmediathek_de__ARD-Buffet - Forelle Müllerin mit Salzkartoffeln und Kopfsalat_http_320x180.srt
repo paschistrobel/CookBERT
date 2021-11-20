@@ -1,0 +1,337 @@
+1
+00:00:01,215 --> 00:00:03,175
+<font color=#ffffff>Da antwortest du alle Fragen.</font>
+
+2
+00:00:04,735 --> 00:00:07,375
+<font color=#ffffff>Jetzt kommen wir</font>
+<font color=#ffffff>zu einem anderen Klassiker.</font>
+
+3
+00:00:08,735 --> 00:00:11,375
+<font color=#ffffff>Diesen kann man definitiv in den</font>
+<font color=#ffffff>Mund nehmen.</font>
+
+4
+00:00:13,055 --> 00:00:15,015
+<font color=#ffffff>Forelle Müllerin.</font>
+
+5
+00:00:18,855 --> 00:00:21,975
+<font color=#ffff00>Hier ist alles essbar bis</font>
+<font color=#ffff00>auf Besteck und Porzellan.</font>
+
+6
+00:00:24,655 --> 00:00:26,615
+<font color=#ffff00>Wie war es vom Geschmack?</font>
+
+7
+00:00:27,815 --> 00:00:29,775
+<font color=#ffffff>Nachhaltig.</font>
+
+8
+00:00:32,615 --> 00:00:35,815
+<font color=#ffff00>Ich hoffe, dass dieser</font>
+<font color=#ffff00>Geschmack auch nachhaltig ist.</font>
+
+9
+00:00:36,295 --> 00:00:39,015
+<font color=#ffff00>Forelle Müllerin erinnert mich</font>
+<font color=#ffff00>an die Heimat.</font>
+
+10
+00:00:39,495 --> 00:00:41,575
+<font color=#ffff00>Ich habe hier eine schöner Forelle.</font>
+
+11
+00:00:43,175 --> 00:00:45,375
+<font color=#ffffff>Das passt gut zum Tag</font>
+<font color=#ffffff>der Heimatküche.</font>
+
+12
+00:00:55,175 --> 00:00:58,135
+<font color=#ffffff>Ich weiß, dass sie so heiß,</font>
+<font color=#ffffff>weil Mehl enthalten ist.</font>
+
+13
+00:00:58,175 --> 00:01:00,135
+<font color=#ffff00>Richtig.</font>
+
+14
+00:01:03,455 --> 00:01:07,415
+<font color=#ffff00>Man kann sie vorher waschen, aber</font>
+<font color=#ffff00>wenn sie frisch ist, muss man nicht</font>
+
+15
+00:01:07,455 --> 00:01:09,415
+<font color=#ffff00>unbedingt.</font>
+
+16
+00:01:09,495 --> 00:01:11,775
+<font color=#ffff00>Wenn man</font>
+<font color=#ffff00>eine Forelle blau machen will,</font>
+
+17
+00:01:17,935 --> 00:01:19,855
+<font color=#ffff00>sie also in Essig-Wasser gart,</font>
+
+18
+00:01:21,055 --> 00:01:23,015
+<font color=#ffff00>darf man sie nicht waschen.</font>
+
+19
+00:01:26,135 --> 00:01:28,095
+<font color=#ffff00>Wegen des Schleims.</font>
+
+20
+00:01:32,175 --> 00:01:35,775
+<font color=#ffff00>Ich Würze die Forelle von außen</font>
+<font color=#ffff00>und innen mit Salz und Pfeffer.</font>
+
+21
+00:01:40,855 --> 00:01:43,775
+<font color=#ffff00>Säubern, Säulen</font>
+<font color=#ffff00>und Salzen hat man früher gesagt.</font>
+
+22
+00:01:47,575 --> 00:01:51,735
+<font color=#ffff00>Heute muss man das nicht mehr Säue</font>
+<font color=#ffff00>an da man bessere Kühlmöglichkeiten</font>
+
+23
+00:01:51,815 --> 00:01:53,775
+<font color=#ffff00>hat.</font>
+
+24
+00:01:54,775 --> 00:01:56,735
+<font color=#ffffff>Ganz klassisch.</font>
+
+25
+00:02:08,575 --> 00:02:11,255
+<font color=#ffff00>Es darf nicht zu viel Mail</font>
+<font color=#ffff00>an dem Fisch kleben,</font>
+
+26
+00:02:12,495 --> 00:02:14,855
+<font color=#ffff00>sonst bleiben die Mandeln</font>
+<font color=#ffff00>nicht hängen.</font>
+
+27
+00:02:16,335 --> 00:02:18,295
+<font color=#ffff00>Ei ist auch dabei.</font>
+
+28
+00:02:22,055 --> 00:02:24,015
+<font color=#ffff00>Eine kleine Panier-Straße.</font>
+
+29
+00:02:26,335 --> 00:02:28,295
+<font color=#ffffff>Es wird eine schöne Kruste.</font>
+
+30
+00:02:32,575 --> 00:02:36,495
+<font color=#ffff00>Ich habe schon mal drei vorbereitet,</font>
+<font color=#ffff00>die kommen gleich in den Ofen.</font>
+
+31
+00:02:40,455 --> 00:02:43,855
+<font color=#ffff00>Zu Hause kann man sie nacheinander</font>
+<font color=#ffff00>in der Pfanne anbraten.</font>
+
+32
+00:02:47,135 --> 00:02:53,975
+<font color=#ffff00>Etwas Butter darf nicht fehlen,</font>
+<font color=#ffff00>das gibt einen schönen Geschmack.</font>
+
+33
+00:02:54,015 --> 00:02:57,575
+<font color=#ffffff>Auch der Fisch hat das Zeug dazu,</font>
+<font color=#ffffff>ein Gaumenkitzel zu werden.</font>
+
+34
+00:02:57,855 --> 00:02:59,815
+<font color=#ffffff>Dein Fisch ist jetzt auch soweit.</font>
+
+35
+00:03:06,375 --> 00:03:09,095
+<font color=#ffff00>Er kommt 16 Minuten in den Ofen</font>
+<font color=#ffff00>bei 180° Umluft.</font>
+
+36
+00:03:14,375 --> 00:03:17,655
+<font color=#ffff00>Nachher zeige ich euch,</font>
+<font color=#ffff00>wie man ihn richtig bearbeitet.</font>
+
+37
+00:03:21,295 --> 00:03:24,015
+<font color=#ffff00>Zu der Forelle machen wir</font>
+<font color=#ffff00>ein paar Kartoffeln.</font>
+
+38
+00:03:33,455 --> 00:03:35,735
+<font color=#ffff00>Der Fisch ist ganz,</font>
+<font color=#ffff00>wegen der Päckchen.</font>
+
+39
+00:03:36,615 --> 00:03:38,615
+<font color=#ffff00>Das ist eine Delikatesse.</font>
+
+40
+00:03:40,615 --> 00:03:42,575
+<font color=#ffff00>Dazu mache ich Kartoffeln.</font>
+
+41
+00:03:46,055 --> 00:03:48,015
+<font color=#ffff00>Ich bringe die Kartoffel in Form.</font>
+
+42
+00:03:52,295 --> 00:03:55,935
+<font color=#ffff00>Wenn alle die gleiche Form haben,</font>
+<font color=#ffff00>ist die Garzeit auch gleich.</font>
+
+43
+00:03:55,975 --> 00:03:58,215
+<font color=#ffff00>Auf dem Teller sieht es</font>
+<font color=#ffff00>auch schön aus.</font>
+
+44
+00:04:02,375 --> 00:04:04,295
+<font color=#ffffff>Wie geht das?</font>
+
+45
+00:04:05,335 --> 00:04:07,295
+<font color=#ffff00>Man halbiert die Kartoffel.</font>
+
+46
+00:04:09,415 --> 00:04:12,495
+<font color=#ffff00>Dann schneidet man</font>
+<font color=#ffff00>an beiden Seiten einmal entlang.</font>
+
+47
+00:04:13,375 --> 00:04:15,455
+<font color=#ffff00>Die Kartoffel bekommt so eine Form.</font>
+
+48
+00:04:16,255 --> 00:04:18,215
+<font color=#ffff00>Dann ist es schon fertig.</font>
+
+49
+00:04:20,015 --> 00:04:22,735
+<font color=#ffff00>Aus dem Rest kann man</font>
+<font color=#ffff00>eine schöne Suppe machen.</font>
+
+50
+00:04:27,175 --> 00:04:29,535
+<font color=#ffff00>Das war früher Arbeit für die</font>
+<font color=#ffff00>Lehrlinge.</font>
+
+51
+00:04:36,615 --> 00:04:39,175
+<font color=#ffff00>Das wird heute nicht mehr so</font>
+<font color=#ffff00>häufig gemacht.</font>
+
+52
+00:04:48,975 --> 00:04:51,895
+<font color=#ffff00>Früher in der Ausbildung</font>
+<font color=#ffff00>wird klassisch toniert.</font>
+
+53
+00:04:57,095 --> 00:04:59,615
+<font color=#ffff00>Ich mache</font>
+<font color=#ffff00>ein Joghurt-Zitronendressing.</font>
+
+54
+00:05:03,135 --> 00:05:05,095
+<font color=#ffff00>Ich Würze mit Salz und Pfeffer.</font>
+
+55
+00:05:06,815 --> 00:05:08,775
+<font color=#ffff00>Etwas Öl.</font>
+
+56
+00:05:19,335 --> 00:05:21,855
+<font color=#ffff00>Ich reibe etwas Zitronenschale</font>
+<font color=#ffff00>mit hinzu.</font>
+
+57
+00:05:23,330 --> 00:05:25,755
+<font color=#ffff00>Viele Patientenverfügungen</font>
+<font color=#ffff00>sind ungültig.</font>
+
+58
+00:05:25,955 --> 00:05:27,955
+<font color=#ffff00>Auch darum geht es bei uns heute.</font>
+
+59
+00:05:29,435 --> 00:05:31,395
+<font color=#ffffff>Vielen Dank, Hannelore.</font>
+
+60
+00:05:34,435 --> 00:05:37,075
+<font color=#ffffff>Ist der Fisch so geworden,</font>
+<font color=#ffffff>wie du es wolltest?</font>
+
+61
+00:05:37,155 --> 00:05:39,075
+<font color=#ffff00>Ja.</font>
+
+62
+00:05:39,995 --> 00:05:41,955
+<font color=#ffff00>Es ist gut geworden.</font>
+
+63
+00:05:45,315 --> 00:05:47,955
+<font color=#ffff00>Wenn man jetzt die Flosse</font>
+<font color=#ffff00>herausziehen kann,</font>
+
+64
+00:05:47,995 --> 00:05:49,995
+<font color=#ffff00>dann ist der Fisch gar.</font>
+
+65
+00:05:51,555 --> 00:05:53,555
+<font color=#ffffff>Ein schöner Trick.</font>
+
+66
+00:05:58,115 --> 00:06:01,195
+<font color=#ffffff>Das ist die Frage für viele,</font>
+<font color=#ffffff>wie mache ich es richtig?</font>
+
+67
+00:06:10,515 --> 00:06:13,275
+<font color=#ffff00>Ich zeige euch jetzt,</font>
+<font color=#ffff00>wo die Bäckchen stecken.</font>
+
+68
+00:06:14,115 --> 00:06:16,075
+<font color=#ffff00>Die sind direkt hinter dem Auge.</font>
+
+69
+00:06:21,395 --> 00:06:23,395
+<font color=#ffff00>Die gebe ich extra auf die Teller.</font>
+
+70
+00:06:25,715 --> 00:06:27,675
+<font color=#ffff00>Mann geht oben am Kopf entlang.</font>
+
+71
+00:06:35,155 --> 00:06:37,875
+<font color=#ffff00>Dann geht man mit dem Löffel</font>
+<font color=#ffff00>entlang der Gräte,</font>
+
+72
+00:06:38,075 --> 00:06:40,035
+<font color=#ffff00>dann kann man es abheben.</font>
+
+73
+00:06:41,595 --> 00:06:43,555
+<font color=#ffffff>Lässt es sich lösen?</font>
+
+74
+00:06:44,315 --> 00:06:46,315
+<font color=#ffff00>Ja das klappt gut.</font>
+
+75
+00:06:46,795 --> 00:06:46,795
+<font color=#ffffff>So soll es sein.</font>
+

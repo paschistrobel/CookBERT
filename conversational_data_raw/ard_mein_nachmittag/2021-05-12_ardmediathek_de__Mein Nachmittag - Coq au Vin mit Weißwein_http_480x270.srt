@@ -1,0 +1,543 @@
+1
+00:00:08,304 --> 00:00:11,304
+<font color=#FFFF00>Wir machen heute Coq au Vin.</font>
+
+2
+00:00:11,423 --> 00:00:14,784
+<font color=#FFFF00>Ich habe den vorbereitet.</font>
+
+3
+00:00:14,983 --> 00:00:18,104
+<font color=#FFFF00>Der wird eingelegt mit Wein.</font>
+
+4
+00:00:18,264 --> 00:00:21,624
+<font color=#FFFF00>Wir haben Weißwein genommen.</font>
+
+5
+00:00:22,384 --> 00:00:25,864
+<font color=#FFFF00>Der lag 24 Stunden in der Marinade.</font>
+
+6
+00:00:26,423 --> 00:00:29,903
+<font color=#FFFF00>Ich lege ihn jetzt trocken.</font>
+
+7
+00:00:36,784 --> 00:00:40,304
+<font color=#FFFF00>Viele kennen das</font>
+<font color=#FFFF00>als Rotwein-Gericht.</font>
+
+8
+00:00:43,064 --> 00:00:46,584
+<font color=#FFFF00>Ich habe es</font>
+<font color=#FFFF00>in Sanddorn und Weißwein eingelegt.</font>
+
+9
+00:00:49,544 --> 00:00:53,023
+<font color=#FFFF00>Heute gibt es</font>
+<font color=#FFFF00>Coq au Vin mit Sanddorn.</font>
+
+10
+00:00:54,304 --> 00:00:57,824
+<font color=#FFFF00>Mit norddeutscher Variante.</font>
+
+11
+00:01:01,463 --> 00:01:04,064
+<font color=#00FFFF>Ich sehe Kräutern,</font>
+<font color=#00FFFF>Zwiebeln, was noch?</font>
+
+12
+00:01:04,224 --> 00:01:07,704
+<font color=#FFFF00>Knoblauch.</font>
+
+13
+00:01:07,904 --> 00:01:11,224
+<font color=#00FFFF>Kann ich dir helfen?</font>
+
+14
+00:01:11,943 --> 00:01:15,423
+<font color=#FFFF00>Du kannst die Petersilie zupfen.</font>
+
+15
+00:01:23,023 --> 00:01:26,503
+<font color=#FFFF00>Ich brate in der Zeit</font>
+<font color=#FFFF00>die Fleischteile an.</font>
+
+16
+00:01:31,943 --> 00:01:35,423
+<font color=#FFFF00>Es ist ohnehin schon sehr nass,</font>
+<font color=#FFFF00>das Fleisch.</font>
+
+17
+00:01:39,544 --> 00:01:43,023
+<font color=#FFFF00>Durch das Marinieren.</font>
+
+18
+00:01:45,864 --> 00:01:49,864
+<font color=#00FFFF>Ich möchte dich nicht ablenken,</font>
+<font color=#00FFFF>die Pfanne ist sehr heiß.</font>
+
+19
+00:01:52,664 --> 00:01:56,144
+<font color=#FFFF00>Klassisch ist es</font>
+<font color=#FFFF00>mit einem Hähnchen gemacht.</font>
+
+20
+00:01:56,904 --> 00:02:00,983
+<font color=#FFFF00>Früher hat man versucht,</font>
+<font color=#FFFF00>alles an Fleisch zur verarbeiten,</font>
+
+21
+00:02:01,144 --> 00:02:04,463
+<font color=#FFFF00>was es im Haushalt gab.</font>
+
+22
+00:02:04,624 --> 00:02:07,983
+<font color=#FFFF00>Auch die älteren Hähnchen</font>
+<font color=#FFFF00>wurden mariniert.</font>
+
+23
+00:02:09,064 --> 00:02:12,584
+<font color=#FFFF00>So wurde das Fleisch zart.</font>
+
+24
+00:02:17,904 --> 00:02:22,624
+<font color=#00FFFF>Ich habe gehört, dass es eigentlich</font>
+<font color=#00FFFF>ein einjähriger Hahn sein muss.</font>
+
+25
+00:02:23,384 --> 00:02:26,904
+<font color=#FFFF00>Das ist für die Hausfrau</font>
+<font color=#FFFF00>manchmal etwas schwierig.</font>
+
+26
+00:02:28,463 --> 00:02:31,983
+<font color=#FFFF00>Mein Hühnchen ist aus dem Biomarkt.</font>
+
+27
+00:02:45,824 --> 00:02:50,423
+<font color=#FFFF00>So kann man dem Bio-Händler des</font>
+<font color=#FFFF00>Vertrauens das Hühnchen abnehmen.</font>
+
+28
+00:02:50,584 --> 00:02:53,943
+<font color=#FFFF00>Ich füge die Pilze hinzu.</font>
+
+29
+00:03:01,224 --> 00:03:04,744
+<font color=#00FFFF>Mir fehlt ein Messer.</font>
+
+30
+00:03:05,104 --> 00:03:08,624
+<font color=#FFFF00>Und die Schalotten.</font>
+
+31
+00:03:08,784 --> 00:03:12,104
+<font color=#FFFF00>Und den Knoblauch.</font>
+
+32
+00:03:15,784 --> 00:03:19,264
+<font color=#00FFFF>Coq au Vin klingt so schwierig.</font>
+
+33
+00:03:19,423 --> 00:03:22,384
+<font color=#FFFF00>Es ist aber recht einfach.</font>
+
+34
+00:03:22,503 --> 00:03:25,864
+<font color=#FFFF00>Man kann es vorbereiten.</font>
+
+35
+00:03:26,584 --> 00:03:29,904
+<font color=#FFFF00>Am zweiten Tag kann man es anbraten.</font>
+
+36
+00:03:30,064 --> 00:03:33,423
+<font color=#FFFF00>Dann kocht es sich von allein.</font>
+
+37
+00:03:36,184 --> 00:03:39,704
+<font color=#FFFF00>Wir wollen</font>
+<font color=#FFFF00>das Coq au Vin flambieren.</font>
+
+38
+00:03:47,104 --> 00:03:50,584
+<font color=#FFFF00>Dazu muss es sehr heiß sein.</font>
+
+39
+00:03:51,344 --> 00:03:54,824
+<font color=#FFFF00>Sonst kann</font>
+<font color=#FFFF00>der Alkohol nicht brennen.</font>
+
+40
+00:03:55,503 --> 00:03:58,983
+<font color=#00FFFF>Was muss man noch beachten?</font>
+
+41
+00:04:01,264 --> 00:04:04,744
+<font color=#FFFF00>Man sollte die Dunstabzugshaube</font>
+<font color=#FFFF00>ausschalten.</font>
+
+42
+00:04:09,023 --> 00:04:12,503
+<font color=#FFFF00>Damit die Flammen</font>
+<font color=#FFFF00>nicht zu hoch schlagen.</font>
+
+43
+00:04:12,943 --> 00:04:16,423
+<font color=#FFFF00>Ein Stück zur Seite gehen.</font>
+
+44
+00:04:18,503 --> 00:04:21,904
+<font color=#00FFFF>Der Feuerwehrmann</font>
+<font color=#00FFFF>ist auch schon aufgestanden.</font>
+
+45
+00:04:22,064 --> 00:04:25,424
+<font color=#FFFF00>Der hat schon Angst.</font>
+
+46
+00:04:27,624 --> 00:04:30,664
+<font color=#FFFF00>Man sieht sehr schön,</font>
+<font color=#FFFF00>dass das Fleisch brät.</font>
+
+47
+00:04:30,824 --> 00:04:34,264
+<font color=#FFFF00>Im eigenen Saft.</font>
+
+48
+00:04:35,344 --> 00:04:38,344
+<font color=#FFFF00>Wir können mit dem Feuer starten.</font>
+
+49
+00:04:38,503 --> 00:04:41,824
+<font color=#FFFF00>Mit Cognac.</font>
+
+50
+00:04:42,064 --> 00:04:45,544
+<font color=#FFFF00>Der darf ein paar Prozent haben.</font>
+
+51
+00:04:48,864 --> 00:04:52,384
+<font color=#00FFFF>Endlich mal Feuer in der Sendung.</font>
+
+52
+00:04:55,224 --> 00:04:57,344
+<font color=#00FFFF>Das muss von alleine ausgehen.</font>
+
+53
+00:04:57,503 --> 00:05:00,904
+<font color=#FFFF00>Ja.</font>
+
+54
+00:05:04,664 --> 00:05:08,184
+<font color=#FFFF00>Jetzt gießen wir den Sud an.</font>
+
+55
+00:05:14,384 --> 00:05:17,704
+<font color=#FFFF00>Wir lassen es aufkochen.</font>
+
+56
+00:05:18,784 --> 00:05:21,503
+<font color=#FFFF00>Ich habe die Kräuter aufgehoben.</font>
+
+57
+00:05:21,664 --> 00:05:24,384
+<font color=#FFFF00>Die kommen dazu.</font>
+
+58
+00:05:24,544 --> 00:05:27,864
+<font color=#FFFF00>Dazu Pfeffer.</font>
+
+59
+00:05:32,224 --> 00:05:35,704
+<font color=#FFFF00>Auch gleich in die Pilze.</font>
+
+60
+00:05:38,064 --> 00:05:41,544
+<font color=#FFFF00>Wenn das Huhn kocht,</font>
+
+61
+00:05:42,744 --> 00:05:45,744
+<font color=#FFFF00>können wir das in den Ofen geben.</font>
+
+62
+00:05:45,904 --> 00:05:49,224
+<font color=#00FFFF>Wie lange?</font>
+
+63
+00:05:50,584 --> 00:05:54,463
+<font color=#FFFF00>Je nachdem, wie groß die Teile sind.</font>
+
+64
+00:05:54,544 --> 00:05:59,544
+<font color=#FFFF00>Wenn es fertig gegart ist,</font>
+<font color=#FFFF00>die Sauce einkochen.</font>
+
+65
+00:06:02,264 --> 00:06:04,943
+<font color=#FFFF00>Die Sauce binden.</font>
+
+66
+00:06:05,104 --> 00:06:08,424
+<font color=#FFFF00>Dann ist es fast fertig.</font>
+
+67
+00:06:12,424 --> 00:06:15,904
+<font color=#00FFFF>Wir haben heute</font>
+<font color=#00FFFF>über Ausflüge geredet.</font>
+
+68
+00:06:18,344 --> 00:06:21,864
+<font color=#00FFFF>Kriegt ihr schon Anfragen?</font>
+
+69
+00:06:23,943 --> 00:06:27,424
+<font color=#FFFF00>Wir haben einen Starttermin</font>
+<font color=#FFFF00>vereinbart. Intern.</font>
+
+70
+00:06:28,503 --> 00:06:32,064
+<font color=#FFFF00>So kann schon alles erledigt werden.</font>
+
+71
+00:06:32,664 --> 00:06:36,503
+<font color=#FFFF00>Wir sind auf qualitativ</font>
+<font color=#FFFF00>hochwertige Artikel angewiesen.</font>
+
+72
+00:06:36,664 --> 00:06:39,943
+<font color=#FFFF00>Die Lieferketten müssen stimmen.</font>
+
+73
+00:06:40,104 --> 00:06:42,664
+<font color=#FFFF00>Dann gehen wir wieder an den Start,</font>
+
+74
+00:06:42,824 --> 00:06:46,184
+<font color=#FFFF00>wenn die Politik es zulässt.</font>
+
+75
+00:06:48,344 --> 00:06:51,704
+<font color=#FFFF00>Wir brauchen 14 Tage,</font>
+<font color=#FFFF00>um das Ganze hochzufahren.</font>
+
+76
+00:06:51,864 --> 00:06:55,264
+<font color=#FFFF00>Ab in den Ofen.</font>
+
+77
+00:07:04,664 --> 00:07:08,184
+<font color=#FFFF00>Ich habe dafür schon</font>
+<font color=#FFFF00>das Hühnchen vorbereitet.</font>
+
+78
+00:07:12,983 --> 00:07:16,463
+<font color=#FFFF00>Nach dem Garen</font>
+<font color=#FFFF00>die Sauce reduzieren und abbinden.</font>
+
+79
+00:07:18,144 --> 00:07:21,664
+<font color=#FFFF00>Dazu die Sanddornbeeren.</font>
+
+80
+00:07:26,384 --> 00:07:29,904
+<font color=#FFFF00>Es gibt sie tiefgekühlt.</font>
+
+81
+00:07:31,704 --> 00:07:35,184
+<font color=#FFFF00>Ich mache das Gericht</font>
+<font color=#FFFF00>gern mit Honig.</font>
+
+82
+00:07:35,983 --> 00:07:39,463
+<font color=#FFFF00>Der ist süß und aromatisch.</font>
+
+83
+00:07:46,503 --> 00:07:50,023
+<font color=#FFFF00>Damit werden die Pilze</font>
+<font color=#FFFF00>und die Zwiebeln glasiert.</font>
+
+84
+00:07:55,784 --> 00:07:59,264
+<font color=#00FFFF>Kann man Sanddorn auch so essen?</font>
+
+85
+00:08:00,904 --> 00:08:04,424
+<font color=#FFFF00>Man kann ihn auch so roh essen.</font>
+
+86
+00:08:04,744 --> 00:08:08,224
+<font color=#FFFF00>Ich ich gebe dir</font>
+<font color=#FFFF00>ein Stück zum Probieren.</font>
+
+87
+00:08:08,824 --> 00:08:12,344
+<font color=#FFFF00>Es ist roh nicht so gesund.</font>
+
+88
+00:08:15,824 --> 00:08:19,344
+<font color=#FFFF00>Und vom Geschmack her</font>
+<font color=#FFFF00>ist es nicht so toll.</font>
+
+89
+00:08:21,503 --> 00:08:25,344
+<font color=#00FFFF>Ich weiß jetzt, warum er</font>
+<font color=#00FFFF>die Zitrone des Nordens heißt.</font>
+
+90
+00:08:25,503 --> 00:08:28,943
+<font color=#00FFFF>Sehr sauer.</font>
+
+91
+00:08:34,264 --> 00:08:37,664
+<font color=#FFFF00>Unsere Schalotten</font>
+<font color=#FFFF00>sind jetzt schön glasiert.</font>
+
+92
+00:08:37,824 --> 00:08:41,184
+<font color=#FFFF00>Haben eine schöne Farbe bekommen.</font>
+
+93
+00:08:41,904 --> 00:08:45,384
+<font color=#FFFF00>Ich gebe jetzt alles zum Hühnchen.</font>
+
+94
+00:08:45,584 --> 00:08:48,664
+<font color=#FFFF00>Dann ist unser Gericht fertig.</font>
+
+95
+00:08:51,824 --> 00:08:55,064
+<font color=#00FFFF>Das ging schnell.</font>
+
+96
+00:08:55,224 --> 00:08:58,584
+<font color=#00FFFF>Was muss man beachten?</font>
+
+97
+00:09:03,023 --> 00:09:06,503
+<font color=#FFFF00>Das Marinieren ist wichtig.</font>
+
+98
+00:09:06,904 --> 00:09:10,424
+<font color=#FFFF00>Die Zeit sollte man sich nehmen.</font>
+
+99
+00:09:11,904 --> 00:09:15,384
+<font color=#FFFF00>Das gibt dem Gericht</font>
+<font color=#FFFF00>das gewisse Etwas.</font>
+
+100
+00:09:16,904 --> 00:09:20,384
+<font color=#00FFFF>Warum ein französisches Gericht?</font>
+
+101
+00:09:26,304 --> 00:09:29,784
+<font color=#FFFF00>Das Hotel hat</font>
+<font color=#FFFF00>einen französischen Einschlag.</font>
+
+102
+00:09:34,304 --> 00:09:38,744
+<font color=#FFFF00>Was ist klassischer als französische</font>
+<font color=#FFFF00>Küche in so einem Schloss?</font>
+
+103
+00:09:42,983 --> 00:09:46,704
+<font color=#FFFF00>Aber ich wandle die Gerichte</font>
+<font color=#FFFF00>gern mecklenburgisch ab.</font>
+
+104
+00:09:48,864 --> 00:09:52,264
+<font color=#FFFF00>Die Petersilie kommt jetzt</font>
+<font color=#FFFF00>über das Gericht.</font>
+
+105
+00:09:52,424 --> 00:09:55,744
+<font color=#FFFF00>Auch wegen der Farbe.</font>
+
+106
+00:09:57,424 --> 00:10:00,944
+<font color=#FFFF00>Sonst ist alles so gelb und braun.</font>
+
+107
+00:10:04,264 --> 00:10:07,744
+<font color=#00FFFF>Wir schauen noch mal auf die Tipps.</font>
+
+108
+00:10:22,104 --> 00:10:25,584
+<font color=#00FFFF>Der Alkohol muss hochprozentig sein.</font>
+
+109
+00:10:34,744 --> 00:10:38,224
+<font color=#00FFFF>Und den Sanddorn nicht</font>
+<font color=#00FFFF>mit Zucker bestreuen.</font>
+
+110
+00:10:38,744 --> 00:10:41,704
+<font color=#FFFF00>Sehr schön.</font>
+
+111
+00:10:44,624 --> 00:10:47,983
+<font color=#00FFFF>Wir probieren.</font>
+
+112
+00:10:48,983 --> 00:10:52,224
+<font color=#00FFFF>Hast du auch einen Teller?</font>
+
+113
+00:10:52,384 --> 00:10:55,704
+<font color=#FFFF00>Nein, alles gut.</font>
+
+114
+00:10:55,864 --> 00:10:59,064
+<font color=#00FFFF>Du denkst nur an andere.</font>
+
+115
+00:10:59,224 --> 00:11:02,544
+<font color=#FFFF00>Ich nehme mir auch einen Teller.</font>
+
+116
+00:11:03,784 --> 00:11:07,264
+<font color=#00FFFF>Es ist auf jeden Fall sehr zart.</font>
+
+117
+00:11:07,503 --> 00:11:10,983
+<font color=#FFFF00>Die Haut mag nicht jeder.</font>
+
+118
+00:11:11,144 --> 00:11:14,503
+<font color=#FFFF00>Man muss die Haut nicht mitessen.</font>
+
+119
+00:11:15,744 --> 00:11:19,224
+<font color=#00FFFF>Sie ist nicht kross.</font>
+
+120
+00:11:20,424 --> 00:11:23,904
+<font color=#FFFF00>Das geht nicht bei dem Garen.</font>
+
+121
+00:11:26,104 --> 00:11:28,664
+<font color=#00FFFF>Was könnte es noch</font>
+<font color=#00FFFF>als Beilage geben?</font>
+
+122
+00:11:28,824 --> 00:11:32,224
+<font color=#FFFF00>Kartoffeln.</font>
+
+123
+00:11:33,704 --> 00:11:37,224
+<font color=#FFFF00>Oder Baguette.</font>
+
+124
+00:11:42,023 --> 00:11:44,264
+<font color=#00FFFF>Sehr zart.</font>
+
+125
+00:11:44,424 --> 00:11:47,744
+<font color=#00FFFF>Sehr lecker.</font>
+
+126
+00:11:50,344 --> 00:11:53,864
+<font color=#00FFFF>Das Aroma kommt gut durch.</font>
+

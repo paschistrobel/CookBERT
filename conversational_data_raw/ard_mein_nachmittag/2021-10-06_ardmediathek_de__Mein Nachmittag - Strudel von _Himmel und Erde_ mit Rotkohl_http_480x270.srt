@@ -1,0 +1,716 @@
+1
+00:00:00,738 --> 00:00:02,298
+<font color=#00FFFF>Oder, Sabine?</font>
+
+2
+00:00:02,618 --> 00:00:05,018
+<font color=#00FFFF>Wir kochen heute: Himmel un Ääd.</font>
+
+3
+00:00:05,218 --> 00:00:06,938
+<font color=#00FFFF>Oder Himmel und Erde.</font>
+
+4
+00:00:10,098 --> 00:00:13,418
+<font color=#00FFFF>Würde eine Gräfin so etwas essen?</font>
+
+5
+00:00:14,578 --> 00:00:18,018
+<font color=#FFFF00>Die Gräfin würde</font>
+<font color=#FFFF00>so etwas wohl nicht essen.</font>
+
+6
+00:00:18,458 --> 00:00:21,938
+<font color=#FFFF00>Früher war das etwas für arme Leute.</font>
+
+7
+00:00:29,138 --> 00:00:32,578
+<font color=#FFFF00>Ich habe heute Rotkohl mitgemacht.</font>
+
+8
+00:00:34,418 --> 00:00:37,018
+<font color=#FFFF00>Den machen wir nicht klassisch.</font>
+
+9
+00:00:37,178 --> 00:00:40,538
+<font color=#FFFF00>Wir machen ihn im Ofen.</font>
+
+10
+00:00:40,818 --> 00:00:44,298
+<font color=#FFFF00>Ich habe die Form</font>
+<font color=#FFFF00>mit Knoblauchöl eingestrichen.</font>
+
+11
+00:00:44,498 --> 00:00:47,618
+<font color=#FFFF00>Also Olivenöl</font>
+<font color=#FFFF00>mit püriertem Knoblauch.</font>
+
+12
+00:00:48,858 --> 00:00:52,218
+<font color=#FFFF00>Den Rotkohl</font>
+<font color=#FFFF00>habe ich mit Knoblauchöl mariniert.</font>
+
+13
+00:00:56,778 --> 00:01:00,298
+<font color=#00FFFF>Das sieht von hier aus</font>
+<font color=#00FFFF>wie Blutwurst.</font>
+
+14
+00:01:05,818 --> 00:01:08,618
+<font color=#00FFFF>Bei wie viel Grad</font>
+<font color=#00FFFF>kommt das in den Ofen?</font>
+
+15
+00:01:08,778 --> 00:01:11,498
+<font color=#FFFF00>So 160.</font>
+
+16
+00:01:11,658 --> 00:01:14,258
+<font color=#FFFF00>Es darf nicht zu heiß sein.</font>
+
+17
+00:01:14,458 --> 00:01:17,738
+<font color=#FFFF00>Es wird schnell bitter.</font>
+
+18
+00:01:21,258 --> 00:01:28,058
+<font color=#00FFFF>Ich bin zum Helfen hier.</font>
+<font color=#00FFFF>Sag Bescheid, wenn ich helfen kann.</font>
+
+19
+00:01:28,418 --> 00:01:31,938
+<font color=#FFFF00>Du kannst die Strudel einpacken.</font>
+
+20
+00:01:32,098 --> 00:01:35,578
+<font color=#FFFF00>Ich rühre die Masse zusammen.</font>
+
+21
+00:01:36,138 --> 00:01:39,618
+<font color=#FFFF00>Kartoffel ist eine Basis.</font>
+
+22
+00:01:39,858 --> 00:01:43,338
+<font color=#FFFF00>Ich habe Backkartoffeln genommen.</font>
+
+23
+00:01:44,738 --> 00:01:49,018
+<font color=#FFFF00>Ich habe eine rohe Kartoffel</font>
+<font color=#FFFF00>in Olivenöl knusprig angebraten.</font>
+
+24
+00:01:54,018 --> 00:01:57,458
+<font color=#FFFF00>Unser Apfel darf nicht fehlen.</font>
+
+25
+00:01:59,298 --> 00:02:02,818
+<font color=#FFFF00>Und für die Würze Estragon-Öl.</font>
+
+26
+00:02:07,858 --> 00:02:12,018
+<font color=#FFFF00>Ich habe den Estragon klein</font>
+<font color=#FFFF00>geschnitten und mit Öl püriert.</font>
+
+27
+00:02:12,218 --> 00:02:15,818
+<font color=#00FFFF>Sieht aus wie Pesto.</font>
+<font color=#FFFF00>Ist so ähnlich.</font>
+
+28
+00:02:16,098 --> 00:02:19,498
+<font color=#FFFF00>Das wird verrührt.</font>
+
+29
+00:02:19,658 --> 00:02:23,018
+<font color=#FFFF00>Die Kartoffel ist schon gewürzt.</font>
+
+30
+00:02:23,178 --> 00:02:26,658
+<font color=#FFFF00>Schon parat.</font>
+
+31
+00:02:29,658 --> 00:02:32,418
+<font color=#00FFFF>Ich hole Löffel zum Probieren.</font>
+
+32
+00:02:32,578 --> 00:02:35,258
+<font color=#00FFFF>Sieht lecker aus.</font>
+
+33
+00:02:35,418 --> 00:02:37,778
+<font color=#FFFF00>Kannst du probieren.</font>
+
+34
+00:02:44,938 --> 00:02:47,538
+<font color=#00FFFF>Super!</font>
+
+35
+00:02:47,738 --> 00:02:50,138
+<font color=#00FFFF>Schöne Mischung.</font>
+
+36
+00:02:50,298 --> 00:02:53,618
+<font color=#00FFFF>Herzhaft und süß.</font>
+
+37
+00:02:55,778 --> 00:02:59,218
+<font color=#FFFF00>Ja, das ist typisch mecklenburgisch.</font>
+
+38
+00:02:59,378 --> 00:03:02,698
+<font color=#FFFF00>Das kenne ich aus meiner Kindheit.</font>
+
+39
+00:03:02,898 --> 00:03:06,618
+<font color=#FFFF00>Mecklenburger essen</font>
+<font color=#FFFF00>auch mal eine süße Hauptmahlzeit.</font>
+
+40
+00:03:07,378 --> 00:03:10,858
+<font color=#FFFF00>Man kann den Strudelteig</font>
+<font color=#FFFF00>auch selber herstellen.</font>
+
+41
+00:03:11,018 --> 00:03:14,578
+<font color=#FFFF00>Ich habe die Version</font>
+<font color=#FFFF00>aus dem Einzelhandel genommen.</font>
+
+42
+00:03:14,738 --> 00:03:18,138
+<font color=#FFFF00>Wir legen die Masse drauf.</font>
+
+43
+00:03:18,298 --> 00:03:21,338
+<font color=#FFFF00>Wir werden</font>
+<font color=#FFFF00>drei Strudel herausbekommen.</font>
+
+44
+00:03:24,578 --> 00:03:27,898
+<font color=#FFFF00>Dann wird es eingewickelt.</font>
+
+45
+00:03:29,498 --> 00:03:32,978
+<font color=#FFFF00>Ein bisschen einschlagen.</font>
+
+46
+00:03:33,178 --> 00:03:36,418
+<font color=#00FFFF>Der Teig ist ja hauchdünn. </font>
+<font color=#FFFF00>Ja.</font>
+
+47
+00:03:36,578 --> 00:03:39,938
+<font color=#00FFFF>Man sieht die Füllung dadurch.</font>
+
+48
+00:03:40,098 --> 00:03:43,498
+<font color=#FFFF00>Ich habe eine Form vorbereitet.</font>
+
+49
+00:03:43,698 --> 00:03:47,458
+<font color=#00FFFF>Bei der mecklenburgischen Küche</font>
+<font color=#00FFFF>ist immer Süßes dabei.</font>
+
+50
+00:03:47,658 --> 00:03:51,778
+<font color=#00FFFF>Bist du schon mal aus der Heimat</font>
+<font color=#00FFFF>weggegangen, um zu lernen?</font>
+
+51
+00:03:51,938 --> 00:03:54,618
+<font color=#FFFF00>Nicht so richtig.</font>
+
+52
+00:03:54,778 --> 00:03:58,098
+<font color=#FFFF00>Ich war eine Saison in Österreich.</font>
+
+53
+00:03:59,098 --> 00:04:02,578
+<font color=#FFFF00>Du kannst jetzt helfen.</font>
+<font color=#FFFF00>Einstreichen.</font>
+
+54
+00:04:04,018 --> 00:04:07,858
+<font color=#FFFF00>Am besten das Ganze,</font>
+<font color=#FFFF00>damit die Schichten nicht verkleben.</font>
+
+55
+00:04:14,658 --> 00:04:18,138
+<font color=#FFFF00>Ich habe hier</font>
+<font color=#FFFF00>eine Sauce vorbereitet.</font>
+
+56
+00:04:19,018 --> 00:04:21,618
+<font color=#FFFF00>Die braucht man</font>
+<font color=#FFFF00>in Mecklenburg immer.</font>
+
+57
+00:04:24,218 --> 00:04:27,618
+<font color=#00FFFF>Brauche ich auch immer.</font>
+
+58
+00:04:27,778 --> 00:04:31,138
+<font color=#00FFFF>Einfach so? </font>
+<font color=#FFFF00>Genau.</font>
+
+59
+00:04:31,298 --> 00:04:34,458
+<font color=#FFFF00>Ein bisschen</font>
+<font color=#FFFF00>verteilen und einschlagen.</font>
+
+60
+00:04:34,618 --> 00:04:37,738
+<font color=#00FFFF>Guck nicht so streng!</font>
+
+61
+00:04:38,898 --> 00:04:40,978
+<font color=#00FFFF>Sabine ist Küchendirektorin.</font>
+
+62
+00:04:41,138 --> 00:04:44,178
+<font color=#00FFFF>Das muss man wissen.</font>
+
+63
+00:04:44,338 --> 00:04:47,698
+<font color=#00FFFF>Die einzige, die ich kenne.</font>
+
+64
+00:04:48,338 --> 00:04:51,818
+<font color=#00FFFF>Was macht man als Küchendirektorin?</font>
+
+65
+00:04:51,978 --> 00:04:55,458
+<font color=#FFFF00>Man schaut, dass es läuft,</font>
+<font color=#FFFF00>wie es laufen soll.</font>
+
+66
+00:04:55,778 --> 00:04:58,338
+<font color=#FFFF00>Veranstaltungsplanung,</font>
+<font color=#FFFF00>Absprachen ...</font>
+
+67
+00:05:01,738 --> 00:05:04,218
+<font color=#FFFF00>Das sieht gut aus.</font>
+
+68
+00:05:04,378 --> 00:05:06,258
+<font color=#FFFF00>Jetzt einschlagen.</font>
+
+69
+00:05:06,458 --> 00:05:09,778
+<font color=#00FFFF>Alles klar.</font>
+
+70
+00:05:11,098 --> 00:05:14,178
+<font color=#FFFF00>Schau, dass die Enden</font>
+<font color=#FFFF00>nicht so herausfallen.</font>
+
+71
+00:05:14,338 --> 00:05:15,378
+<font color=#00FFFF>Ich verstehe.</font>
+
+72
+00:05:18,178 --> 00:05:21,538
+<font color=#00FFFF>Oh!</font>
+
+73
+00:05:21,738 --> 00:05:25,218
+<font color=#00FFFF>Kurz die Kamera weg halten.</font>
+
+74
+00:05:25,378 --> 00:05:28,098
+<font color=#00FFFF>Ich nehme noch einen Teig.</font>
+
+75
+00:05:28,218 --> 00:05:31,538
+<font color=#FFFF00>Kannst du ruhig.</font>
+
+76
+00:05:31,698 --> 00:05:34,458
+<font color=#00FFFF>Sonst fällt das</font>
+<font color=#00FFFF>komplett auseinander.</font>
+
+77
+00:05:34,618 --> 00:05:37,978
+<font color=#FFFF00>Noch einmal drehen.</font>
+
+78
+00:05:41,218 --> 00:05:43,498
+<font color=#FFFF00>Dann schlägst du die Enden ein.</font>
+
+79
+00:05:43,698 --> 00:05:46,698
+<font color=#FFFF00>Genau.</font>
+
+80
+00:05:46,858 --> 00:05:50,218
+<font color=#FFFF00>Sonst fällt die Füllung heraus.</font>
+
+81
+00:05:50,378 --> 00:05:53,858
+<font color=#FFFF00>Dann das letzte Stück mit einrollen.</font>
+
+82
+00:05:56,738 --> 00:05:59,018
+<font color=#00FFFF>Gerettet. Vielen Dank.</font>
+
+83
+00:05:59,178 --> 00:06:02,538
+<font color=#FFFF00>Sieht toll aus.</font>
+
+84
+00:06:02,738 --> 00:06:06,218
+<font color=#00FFFF>Danke, das sagt die Direktorin.</font>
+
+85
+00:06:06,938 --> 00:06:10,418
+<font color=#FFFF00>Für die Sauce habe ich</font>
+<font color=#FFFF00>die Schalotten geschnitten.</font>
+
+86
+00:06:10,578 --> 00:06:14,018
+<font color=#FFFF00>Die schwitze ich in Olivenöl an.</font>
+
+87
+00:06:14,178 --> 00:06:17,538
+<font color=#FFFF00>So.</font>
+
+88
+00:06:22,538 --> 00:06:26,498
+<font color=#00FFFF>Du hast gesagt, du bist</font>
+<font color=#00FFFF>nicht so weit weg aus der Heimat.</font>
+
+89
+00:06:26,658 --> 00:06:29,378
+<font color=#00FFFF>Und wieder in der Heimat gelandet.</font>
+
+90
+00:06:29,538 --> 00:06:32,858
+<font color=#FFFF00>Ja, Mecklenburg</font>
+<font color=#FFFF00>ist ein schönes Land.</font>
+
+91
+00:06:33,578 --> 00:06:37,058
+<font color=#FFFF00>Ich bin da geboren,</font>
+<font color=#FFFF00>habe meine Familie da.</font>
+
+92
+00:06:37,378 --> 00:06:40,018
+<font color=#FFFF00>Es ist ein schönes Leben</font>
+<font color=#FFFF00>und Arbeiten.</font>
+
+93
+00:06:40,178 --> 00:06:42,818
+<font color=#FFFF00>Ich bin angekommen.</font>
+
+94
+00:06:42,978 --> 00:06:46,338
+<font color=#00FFFF>Warum soll man dann weg?</font>
+
+95
+00:06:47,978 --> 00:06:51,498
+<font color=#00FFFF>Ist wirklich ein schönes Land.</font>
+<font color=#FFFF00>Auf jeden Fall.</font>
+
+96
+00:06:51,978 --> 00:06:55,138
+<font color=#FFFF00>Ich schneide doch Apfelwürfel.</font>
+
+97
+00:06:55,298 --> 00:06:58,618
+<font color=#FFFF00>Die kommen zu den Schalotten dazu.</font>
+
+98
+00:06:58,858 --> 00:07:02,218
+<font color=#FFFF00>Ich habe einen</font>
+<font color=#FFFF00>fruchtigen Apfel genommen.</font>
+
+99
+00:07:02,378 --> 00:07:05,738
+<font color=#FFFF00>Pink Lady ist das.</font>
+
+100
+00:07:07,858 --> 00:07:11,538
+<font color=#FFFF00>Wer es sauer mag,</font>
+<font color=#FFFF00>kann Richtung Boskoop herber gehen.</font>
+
+101
+00:07:11,778 --> 00:07:15,258
+<font color=#00FFFF>Die Kamera zeigt</font>
+<font color=#00FFFF>mich die ganze Zeit.</font>
+
+102
+00:07:18,058 --> 00:07:21,538
+<font color=#00FFFF>Ich zerreiße eins nach dem anderen.</font>
+
+103
+00:07:24,298 --> 00:07:27,818
+<font color=#00FFFF>Erzähle noch mal von dem Apfel.</font>
+
+104
+00:07:29,178 --> 00:07:32,658
+<font color=#FFFF00>Ich habe Pink Lady genommen.</font>
+
+105
+00:07:37,778 --> 00:07:42,578
+<font color=#FFFF00>Den Strudel schickt man bei 180-200</font>
+<font color=#FFFF00>Grad für 15 Minuten in den Ofen.</font>
+
+106
+00:07:43,978 --> 00:07:47,538
+<font color=#FFFF00>Je nachdem,</font>
+<font color=#FFFF00>wie groß er gewickelt ist.</font>
+
+107
+00:07:47,698 --> 00:07:51,018
+<font color=#FFFF00>Und wie viele Schichten</font>
+<font color=#FFFF00>man genommen hat.</font>
+
+108
+00:07:56,058 --> 00:07:59,538
+<font color=#00FFFF>Dann stoßen wir mit Apfelsaft an.</font>
+
+109
+00:07:59,698 --> 00:08:03,178
+<font color=#FFFF00>Das haben wir uns verdient.</font>
+
+110
+00:08:07,458 --> 00:08:10,938
+<font color=#00FFFF>Das wird die Sauce? </font>
+<font color=#FFFF00>Ja.</font>
+
+111
+00:08:11,258 --> 00:08:14,778
+<font color=#FFFF00>Wie eine warme Vinaigrette.</font>
+
+112
+00:08:15,178 --> 00:08:18,418
+<font color=#FFFF00>Wir löschen das</font>
+<font color=#FFFF00>mit weißem Balsamico ab.</font>
+
+113
+00:08:20,698 --> 00:08:24,018
+<font color=#00FFFF>Ich trinke schon mal.</font>
+
+114
+00:08:25,658 --> 00:08:28,498
+<font color=#00FFFF>Prost!</font>
+
+115
+00:08:30,218 --> 00:08:33,098
+<font color=#FFFF00>Ist gut.</font>
+
+116
+00:08:33,258 --> 00:08:36,178
+<font color=#FFFF00>Das muss nicht so lange kochen.</font>
+
+117
+00:08:36,338 --> 00:08:38,418
+<font color=#FFFF00>Die Schalotten waren schon gar.</font>
+
+118
+00:08:40,698 --> 00:08:44,178
+<font color=#FFFF00>Die Äpfel sollen</font>
+<font color=#FFFF00>nicht so weich werden.</font>
+
+119
+00:08:50,298 --> 00:08:53,778
+<font color=#FFFF00>Das würzen wir mit dem Estragon-Öl.</font>
+
+120
+00:08:53,938 --> 00:08:56,018
+<font color=#FFFF00>Ich nehme den Löffel mal raus.</font>
+
+121
+00:08:56,178 --> 00:08:59,378
+<font color=#FFFF00>Perfekt.</font>
+
+122
+00:09:00,858 --> 00:09:02,898
+<font color=#00FFFF>Obwohl es ein neuer Löffel ist.</font>
+
+123
+00:09:03,058 --> 00:09:06,498
+<font color=#00FFFF>Lecker!</font>
+
+124
+00:09:07,938 --> 00:09:11,458
+<font color=#00FFFF>Das kann man alles selber machen.</font>
+<font color=#FFFF00>Ja.</font>
+
+125
+00:09:11,818 --> 00:09:15,298
+<font color=#FFFF00>Den Strudelteig</font>
+<font color=#FFFF00>könnte man auch machen.</font>
+
+126
+00:09:15,538 --> 00:09:17,938
+<font color=#FFFF00>Sonst ist soweit nichts fertig.</font>
+
+127
+00:09:18,098 --> 00:09:20,898
+<font color=#00FFFF>So ist es fertig.</font>
+
+128
+00:09:21,098 --> 00:09:23,778
+<font color=#FFFF00>Die Sauce steht.</font>
+
+129
+00:09:23,938 --> 00:09:26,498
+<font color=#FFFF00>Die Strudel sind im Ofen.</font>
+
+130
+00:09:26,658 --> 00:09:30,018
+<font color=#FFFF00>Ich habe alles schon vorbereitet.</font>
+
+131
+00:09:30,938 --> 00:09:34,458
+<font color=#FFFF00>Sonst würde es zu lange dauern.</font>
+
+132
+00:09:34,578 --> 00:09:38,058
+<font color=#00FFFF>26 Minuten sind vorbei.</font>
+
+133
+00:09:38,498 --> 00:09:41,978
+<font color=#FFFF00>Genau,</font>
+<font color=#FFFF00>ich habe den fertigen Rotkohl.</font>
+
+134
+00:09:44,098 --> 00:09:47,578
+<font color=#00FFFF>Was ist der Unterschied</font>
+<font color=#00FFFF>zu dem im Topf?</font>
+
+135
+00:09:48,538 --> 00:09:52,018
+<font color=#FFFF00>Der ist mehr gekocht</font>
+<font color=#FFFF00>und entwickelt andere Aromen.</font>
+
+136
+00:09:57,538 --> 00:10:01,458
+<font color=#FFFF00>Wir fügen die Säure,</font>
+<font color=#FFFF00>die man sonst in den Rotkohl kocht,</font>
+
+137
+00:10:01,618 --> 00:10:04,538
+<font color=#FFFF00>als Topping später dazu.</font>
+
+138
+00:10:04,698 --> 00:10:07,698
+<font color=#FFFF00>Das ergibt andere Aromen.</font>
+
+139
+00:10:09,298 --> 00:10:11,418
+<font color=#00FFFF>Das sieht köstlich aus!</font>
+
+140
+00:10:11,578 --> 00:10:14,898
+<font color=#00FFFF>Ich mache Platz.</font>
+
+141
+00:10:17,538 --> 00:10:21,058
+<font color=#00FFFF>Ich bin gespannt aufs Probieren.</font>
+
+142
+00:10:21,218 --> 00:10:22,778
+<font color=#00FFFF>Wir haben Tipps für Sie:</font>
+
+143
+00:10:34,338 --> 00:10:37,058
+<font color=#00FFFF>Das mit dem Öl</font>
+<font color=#00FFFF>hat Sabine auch gemacht.</font>
+
+144
+00:10:41,378 --> 00:10:44,818
+<font color=#00FFFF>Das sieht gut aus.</font>
+
+145
+00:10:45,058 --> 00:10:48,618
+<font color=#00FFFF>Das was du als Sauce bezeichnest,</font>
+<font color=#00FFFF>sieht saftig aus.</font>
+
+146
+00:10:48,778 --> 00:10:51,898
+<font color=#00FFFF>Es ist keine klassische Sauce.</font>
+
+147
+00:10:52,058 --> 00:10:54,978
+<font color=#FFFF00>Ich würde es</font>
+<font color=#FFFF00>auch nicht drüber geben.</font>
+
+148
+00:10:55,138 --> 00:10:58,178
+<font color=#FFFF00>Der Teig soll knusprig bleiben.</font>
+
+149
+00:10:58,338 --> 00:11:01,698
+<font color=#FFFF00>Da wäre es dann nicht so schön.</font>
+
+150
+00:11:03,378 --> 00:11:07,218
+<font color=#00FFFF>Das sieht auch ein bisschen</font>
+<font color=#00FFFF>asiatisch aus mit dem Teig.</font>
+
+151
+00:11:07,618 --> 00:11:11,098
+<font color=#FFFF00>Könnte man</font>
+<font color=#FFFF00>als Frühlingsrolle betitelt.</font>
+
+152
+00:11:12,898 --> 00:11:16,378
+<font color=#00FFFF>Mecklenburgische Frühlingsrolle</font>
+<font color=#00FFFF>im Herbst!</font>
+
+153
+00:11:17,218 --> 00:11:20,458
+<font color=#00FFFF>Strudel von Himmel un Ääd.</font>
+
+154
+00:11:20,618 --> 00:11:23,938
+<font color=#00FFFF>Dazu eine Scheibe Rotkohl.</font>
+
+155
+00:11:25,218 --> 00:11:28,458
+<font color=#00FFFF>Und eine selbstgemachte Sauce.</font>
+
+156
+00:11:28,618 --> 00:11:31,578
+<font color=#00FFFF>Ich probiere den Rotkohl.</font>
+
+157
+00:11:31,738 --> 00:11:34,618
+<font color=#FFFF00>Ich habe den Strudel angeschnitten.</font>
+
+158
+00:11:34,778 --> 00:11:38,098
+<font color=#FFFF00>Es ist eine schöne Struktur.</font>
+
+159
+00:11:40,098 --> 00:11:43,458
+<font color=#FFFF00>Das ist so ein bisschen</font>
+<font color=#FFFF00>ein kleines Farbenspiel.</font>
+
+160
+00:11:43,618 --> 00:11:46,098
+<font color=#00FFFF>Der Rotkohl ist sehr lecker.</font>
+
+161
+00:11:46,258 --> 00:11:49,618
+<font color=#00FFFF>Der hat eine leckere Säure.</font>
+
+162
+00:11:51,178 --> 00:11:52,938
+<font color=#00FFFF>Ich probiere den Strudel.</font>
+
+163
+00:11:53,098 --> 00:11:55,498
+<font color=#00FFFF>Toll!</font>
+
+164
+00:11:57,978 --> 00:12:01,338
+<font color=#00FFFF>Tolles Gericht!</font>
+
+165
+00:12:01,978 --> 00:12:05,458
+<font color=#00FFFF>Das Rezept gibt es</font>
+<font color=#00FFFF>bei uns auf der Homepage.</font>
+

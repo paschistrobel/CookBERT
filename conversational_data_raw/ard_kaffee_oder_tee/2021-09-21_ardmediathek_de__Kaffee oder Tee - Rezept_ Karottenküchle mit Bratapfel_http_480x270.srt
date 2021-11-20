@@ -1,0 +1,642 @@
+1
+00:00:03,520 --> 00:00:06,140
+<font color=#ffffff>
+	Im Hintergrund kocht Caroline
+	</font>
+<font color=#ffffff>
+	Autenrieth.
+	</font>
+
+2
+00:00:18,840 --> 00:00:21,040
+<font color=#ffffff>
+	Der Apfel kommt heute ganz groß
+	</font>
+<font color=#ffffff>
+	raus.
+	</font>
+
+3
+00:00:23,280 --> 00:00:26,320
+<font color=#ffffff>
+	Zum einen als Bratapfel,
+	</font>
+<font color=#ffffff>
+	als eine Art Bratapfel.
+	</font>
+
+4
+00:00:36,560 --> 00:00:38,240
+<font color=#ffff00>
+	DECODER-TEST
+	</font>
+
+5
+00:00:47,760 --> 00:00:49,580
+<font color=#00ff00>
+	ein Apfelkompott aus dem Ofen.
+	</font>
+
+6
+00:00:52,200 --> 00:00:54,080
+<font color=#00ff00>
+	Ich nehme einen Boskop-Apfel.
+	</font>
+
+7
+00:00:55,320 --> 00:00:58,040
+<font color=#00ff00>
+	Am besten nimmt man einen
+	</font>
+<font color=#00ff00>
+	säuerlichen Apfel.
+	</font>
+
+8
+00:01:11,760 --> 00:01:13,440
+<font color=#ffffff>
+	Sonst gar nichts?
+	</font>
+
+9
+00:01:13,800 --> 00:01:15,480
+<font color=#ffffff>
+	Auch keine Gewürze?
+	</font>
+
+10
+00:01:15,800 --> 00:01:17,480
+<font color=#00ff00>
+	Nein.
+	</font>
+
+11
+00:01:26,280 --> 00:01:28,320
+<font color=#00ff00>
+	Ja, es muss ein Koch-Apfel sein.
+	</font>
+
+12
+00:01:29,200 --> 00:01:32,040
+<font color=#00ff00>
+	Es darf auf keinen Fall ein süßer
+	</font>
+<font color=#00ff00>
+	Apfel sein.
+	</font>
+
+13
+00:01:40,200 --> 00:01:42,080
+<font color=#00ff00>
+	Dann Butter.
+	</font>
+
+14
+00:01:52,360 --> 00:01:54,760
+<font color=#00ff00>
+	Den Apfel aushölen
+	</font>
+<font color=#00ff00>
+	und Butter ins Loch.
+	</font>
+
+15
+00:02:00,880 --> 00:02:02,600
+<font color=#00ff00>
+	Es soll ja herzhaft sein.
+	</font>
+
+16
+00:02:31,360 --> 00:02:33,200
+<font color=#00ff00>
+	Ja, oder auch Apfelmost.
+	</font>
+
+17
+00:02:41,440 --> 00:02:44,120
+<font color=#00ff00>
+	Ja, das gibt eine ganz köstliche
+	</font>
+<font color=#00ff00>
+	Geschichte.
+	</font>
+
+18
+00:02:51,440 --> 00:02:53,720
+<font color=#00ff00>
+	Es soll nicht braten, trocken
+	</font>
+<font color=#00ff00>
+	werden.
+	</font>
+
+19
+00:03:09,440 --> 00:03:12,520
+<font color=#00ff00>
+	Man kann ab und zu reinschauen,
+	</font>
+<font color=#00ff00>
+	wie es aussieht.
+	</font>
+
+20
+00:03:15,600 --> 00:03:18,560
+<font color=#00ff00>
+	Man es mit Biss will,
+	</font>
+<font color=#00ff00>
+	nimmt man es früher raus.
+	</font>
+
+21
+00:03:23,640 --> 00:03:25,460
+<font color=#00ff00>
+	Jetzt die Karottenküchle.
+	</font>
+
+22
+00:03:36,160 --> 00:03:38,440
+<font color=#00ff00>
+	Dann habe ich die Karotten
+	</font>
+<font color=#00ff00>
+	geraspelt.
+	</font>
+
+23
+00:03:38,760 --> 00:03:40,560
+<font color=#00ff00>
+	Ganz simpel.
+	</font>
+
+24
+00:03:40,880 --> 00:03:42,560
+<font color=#00ff00>
+	Etwas Kartoffeln dazu.
+	</font>
+
+25
+00:03:45,800 --> 00:03:48,120
+<font color=#00ff00>
+	Das macht das ganze noch herzhafter.
+	</font>
+
+26
+00:03:49,040 --> 00:03:51,080
+<font color=#00ff00>
+	Und es wird dann auch knuspriger.
+	</font>
+
+27
+00:03:52,600 --> 00:03:54,620
+<font color=#ffffff>
+	Die Kartoffel macht es knusprig?
+	</font>
+
+28
+00:04:16,840 --> 00:04:18,440
+<font color=#00ff00>
+	Dann noch rote Zwiebeln.
+	</font>
+
+29
+00:04:19,560 --> 00:04:21,800
+<font color=#00ff00>
+	Am besten eine milde Zwiebeln
+	</font>
+<font color=#00ff00>
+	nehmen.
+	</font>
+
+30
+00:04:22,800 --> 00:04:24,640
+<font color=#00ff00>
+	Eine Gemüsezwiebel geht auch.
+	</font>
+
+31
+00:04:27,360 --> 00:04:29,920
+<font color=#ffffff>
+	Es ist nicht ohne,
+	</font>
+<font color=#ffffff>
+	die Zwiebel zu reiben.
+	</font>
+
+32
+00:04:34,680 --> 00:04:37,800
+<font color=#00ff00>
+	Ich bin da gar kein Held.
+	</font>
+<font color=#00ff00>
+	Ich passe gar nicht auf.
+	</font>
+
+33
+00:04:38,840 --> 00:04:41,160
+<font color=#00ff00>
+	Dann wird es vielen Angst und Bange.
+	</font>
+
+34
+00:04:48,320 --> 00:04:54,120
+<font color=#ffffff>
+	Ist die Stärke der Kartoffel
+	</font>
+<font color=#ffffff>
+	ausreichend für die Bindung?
+	</font>
+
+35
+00:05:04,280 --> 00:05:06,160
+<font color=#00ff00>
+	Und dann noch das Mehl.
+	</font>
+
+36
+00:05:09,280 --> 00:05:11,760
+<font color=#00ff00>
+	Da mache ich jetzt einen Mini-Teig
+	</font>
+<font color=#00ff00>
+	raus.
+	</font>
+
+37
+00:05:15,720 --> 00:05:17,600
+<font color=#00ff00>
+	Das gibt einen zähen Teig.
+	</font>
+
+38
+00:05:21,120 --> 00:05:23,000
+<font color=#ffffff>
+	Ein bisschen Salz.
+	</font>
+
+39
+00:05:29,280 --> 00:05:31,960
+<font color=#00ff00>
+	Hier machen wir auch
+	</font>
+<font color=#00ff00>
+	Salz und Pfeffer dazu.
+	</font>
+
+40
+00:05:34,600 --> 00:05:36,640
+<font color=#00ff00>
+	Dann tun wir das hier ausdrücken.
+	</font>
+
+41
+00:05:42,600 --> 00:05:45,760
+<font color=#00ff00>
+	Man kann die Karotten
+	</font>
+<font color=#00ff00>
+	vielleicht 20 Minuten vorher
+	</font>
+
+42
+00:05:48,800 --> 00:05:52,360
+<font color=#00ff00>
+	in Salz einlegen, sodass man sie
+	</font>
+<font color=#00ff00>
+	besser ausdrücken kann.
+	</font>
+
+43
+00:05:52,760 --> 00:05:54,720
+<font color=#00ff00>
+	Das ist dann unsere Masse,
+	</font>
+
+44
+00:06:02,280 --> 00:06:04,640
+<font color=#ffffff>
+	Karotten, Äpfel, Zwiebel, Ei,
+	</font>
+<font color=#ffffff>
+	Thymian.
+	</font>
+
+45
+00:06:08,120 --> 00:06:11,560
+<font color=#ffffff>
+	Es ist eine saisonale Küche und
+	</font>
+<font color=#ffffff>
+	kostet auch nicht viel.
+	</font>
+
+46
+00:06:14,840 --> 00:06:17,280
+<font color=#ffffff>
+	Das ist ja unser Schwerpunkt dieser
+	</font>
+<font color=#ffffff>
+	Woche.
+	</font>
+
+47
+00:06:17,640 --> 00:06:19,600
+<font color=#00ff00>
+	Es hat sich immer angestrengt an,
+	</font>
+
+48
+00:06:24,400 --> 00:06:26,280
+<font color=#00ff00>
+	Saisonal und regional,
+	</font>
+
+49
+00:06:29,240 --> 00:06:31,920
+<font color=#00ff00>
+	es ist aber alles einfacher,
+	</font>
+<font color=#00ff00>
+	als man denkt.
+	</font>
+
+50
+00:06:38,120 --> 00:06:40,280
+<font color=#00ff00>
+	Dann hat man so viele Möglichkeiten.
+	</font>
+
+51
+00:06:42,760 --> 00:06:44,800
+<font color=#00ff00>
+	Klimafreundlich zu kochen
+	</font>
+<font color=#00ff00>
+	macht Spaß.
+	</font>
+
+52
+00:06:55,800 --> 00:06:59,200
+<font color=#00ff00>
+	Wenn die Sachen Saison haben,
+	</font>
+<font color=#00ff00>
+	sind sie auch am besten.
+	</font>
+
+53
+00:07:22,840 --> 00:07:25,800
+<font color=#ffffff>
+	Und wer keine Zeit hat,
+	</font>
+<font color=#ffffff>
+	auf den Markt zu gehen,
+	</font>
+
+54
+00:07:26,720 --> 00:07:29,640
+<font color=#ffffff>
+	es gibt wunderbare Tabellen,
+	</font>
+<font color=#ffffff>
+	wo man sehen kann,
+	</font>
+
+55
+00:07:35,960 --> 00:07:38,400
+<font color=#00ff00>
+	Auch die Supermärkte sind gut
+	</font>
+<font color=#00ff00>
+	bestückt.
+	</font>
+
+56
+00:07:51,320 --> 00:07:55,000
+<font color=#00ff00>
+	Es hätte schon heißer sein können.
+	</font>
+<font color=#00ff00>
+	Aber es ist in Ordnung.
+	</font>
+
+57
+00:08:06,520 --> 00:08:09,080
+<font color=#00ff00>
+	Man muss es nicht eng nehmen
+	</font>
+<font color=#00ff00>
+	mit der Form.
+	</font>
+
+58
+00:08:19,560 --> 00:08:21,665
+<font color=#00ff00>
+	Aber ich finde kleine Puffer süß.
+	</font>
+
+59
+00:08:34,920 --> 00:08:38,440
+<font color=#ffffff>
+	Caroline Autenrieth ist bei uns in
+	</font>
+<font color=#ffffff>
+	der Küche am werkeln.
+	</font>
+
+60
+00:08:54,280 --> 00:08:57,120
+<font color=#ffffff>
+	Wie lange müssen die rohen
+	</font>
+<font color=#ffffff>
+	Kartoffeln Backen?
+	</font>
+
+61
+00:08:58,600 --> 00:09:01,880
+<font color=#00ff00>
+	Sie sind ganz klein, aber sie müssen
+	</font>
+<font color=#00ff00>
+	von jeder Seite
+	</font>
+
+62
+00:09:16,400 --> 00:09:19,040
+<font color=#00ff00>
+	Man hätte auch Butterschmalz nehmen
+	</font>
+<font color=#00ff00>
+	können.
+	</font>
+
+63
+00:09:26,120 --> 00:09:28,000
+<font color=#00ff00>
+	Und es ist trotzdem raffiniert.
+	</font>
+
+64
+00:09:29,760 --> 00:09:32,960
+<font color=#00ff00>
+	Ich kann diese Puffer
+	</font>
+<font color=#00ff00>
+	auch mit Kräuterquark machen.
+	</font>
+
+65
+00:09:50,960 --> 00:09:53,400
+<font color=#ffffff>
+	Sie gehören zu deinen
+	</font>
+<font color=#ffffff>
+	Lieblingsgerichten.
+	</font>
+
+66
+00:10:07,520 --> 00:10:10,800
+<font color=#ffffff>
+	Ich habe schon einiges deiner
+	</font>
+<font color=#ffffff>
+	Lieblingsessen erlebt.
+	</font>
+
+67
+00:10:19,120 --> 00:10:21,760
+<font color=#ffffff>
+	Sie sind unkompliziert, sie machen
+	</font>
+<font color=#ffffff>
+	was her.
+	</font>
+
+68
+00:10:27,120 --> 00:10:29,280
+<font color=#ffffff>
+	Sie haben einen Theken Besonderheit.
+	</font>
+
+69
+00:10:34,600 --> 00:10:37,720
+<font color=#00ff00>
+	Immer, wenn man etwas gebraten oder
+	</font>
+<font color=#00ff00>
+	frittiert hat,
+	</font>
+
+70
+00:10:38,080 --> 00:10:40,240
+<font color=#00ff00>
+	noch ein bisschen Salz drauf machen.
+	</font>
+
+71
+00:10:44,880 --> 00:10:46,480
+<font color=#00ff00>
+	So muss es sein.
+	</font>
+
+72
+00:10:54,480 --> 00:10:56,480
+<font color=#00ff00>
+	Man kann es auch weniger backen,
+	</font>
+
+73
+00:10:57,360 --> 00:10:59,240
+<font color=#00ff00>
+	dann bleibt der Apfel ganz.
+	</font>
+
+74
+00:11:00,040 --> 00:11:01,940
+<font color=#00ff00>
+	Dann ist er nur innen weich.
+	</font>
+
+75
+00:11:18,960 --> 00:11:23,440
+<font color=#00ff00>
+	Aber auf jeden Fall mit in den Ofen
+	</font>
+<font color=#00ff00>
+	damit, denn sie bringen Geschmack.
+	</font>
+
+76
+00:11:38,120 --> 00:11:42,040
+<font color=#00ff00>
+	Das kann man auch warmhalten,
+	</font>
+<font color=#00ff00>
+	wenn man ganz viele machen will.
+	</font>
+
+77
+00:11:45,160 --> 00:11:46,920
+<font color=#ffffff>
+	Das Apfelmus sieht super aus.
+	</font>
+
+78
+00:11:55,520 --> 00:11:57,400
+<font color=#00ff00>
+	Man sollte es aber warm essen.
+	</font>
+
+79
+00:11:58,480 --> 00:12:00,360
+<font color=#00ff00>
+	Für mich ist es sensationell.
+	</font>
+
+80
+00:12:06,520 --> 00:12:08,860
+<font color=#ffffff>
+	Wenn ich Sie richtig verstanden
+	</font>
+<font color=#ffffff>
+	habe,
+	</font>
+
+81
+00:12:18,520 --> 00:12:20,240
+<font color=#ffffff>
+	Frisch vom Feld auf den Teller.
+	</font>
+
+82
+00:12:20,920 --> 00:12:22,920
+<font color=#00ffff>
+	Gute Lebensmittel sind wichtig.
+	</font>
+
+83
+00:12:32,840 --> 00:12:34,640
+<font color=#00ff00>
+	Das finde ich auch.
+	</font>
+
+84
+00:12:34,960 --> 00:12:36,680
+<font color=#00ffff>
+	Sehr gut.
+	</font>
+
+85
+00:12:37,280 --> 00:12:39,160
+<font color=#ffffff>
+	Der hat eine leichte Säure.
+	</font>
+
+86
+00:12:53,120 --> 00:12:54,800
+<font color=#00ff00>
+	einen Apfel zu genießen.
+	</font>
+

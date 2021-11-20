@@ -1,0 +1,767 @@
+1
+00:00:01,658 --> 00:00:04,618
+<font color=#00FFFF>Da kriegt man direkt Lust auf mehr.</font>
+
+2
+00:00:05,538 --> 00:00:08,218
+<font color=#00FFFF>Aber Müsli ist nicht unser Ding.</font>
+
+3
+00:00:08,458 --> 00:00:09,858
+<font color=#00FFFF>Es wird Tabouleh.</font>
+
+4
+00:00:11,258 --> 00:00:13,538
+<font color=#00FFFF>Bohnenmus und Hähnchenbrust.</font>
+
+5
+00:00:13,978 --> 00:00:16,738
+<font color=#FFFF00>Es kommt aus der arabischen Küche.</font>
+
+6
+00:00:17,738 --> 00:00:20,298
+<font color=#FFFF00>Wir fangen an mit dem Bohnenmus.</font>
+
+7
+00:00:20,698 --> 00:00:22,898
+<font color=#FFFF00>Ich mache das in den Mixer.</font>
+
+8
+00:00:24,298 --> 00:00:27,578
+<font color=#00FFFF>Und ich darf gleich</font>
+<font color=#00FFFF>den Stab rein halten?</font>
+
+9
+00:00:28,618 --> 00:00:31,178
+<font color=#FFFF00>Ja, wir haben ja eine Barriere.</font>
+
+10
+00:00:31,938 --> 00:00:34,338
+<font color=#00FFFF>Ja ja, ist schon in Ordnung.</font>
+
+11
+00:00:34,618 --> 00:00:36,698
+<font color=#FFFF00>Das ist nicht so einfach.</font>
+
+12
+00:00:37,218 --> 00:00:39,018
+<font color=#FFFF00>Das sind weiße Bohnen.</font>
+
+13
+00:00:39,578 --> 00:00:41,378
+<font color=#FFFF00>Die sind aus der Dose.</font>
+
+14
+00:00:41,498 --> 00:00:43,458
+<font color=#FFFF00>Die habe ich abgewaschen</font>
+
+15
+00:00:44,218 --> 00:00:48,618
+<font color=#FFFF00>und damit die Flüssigkeit</font>
+<font color=#FFFF00>abgewaschen, die mit drin ist.</font>
+
+16
+00:00:48,938 --> 00:00:52,338
+<font color=#00FFFF>Diese Diskussion gibt es immer.</font>
+
+17
+00:00:52,658 --> 00:00:55,578
+<font color=#00FFFF>Zum Beispiel</font>
+<font color=#00FFFF>bei Bohnen oder Kichererbsen.</font>
+
+18
+00:00:55,738 --> 00:00:57,298
+<font color=#00FFFF>Abwaschen oder nicht?</font>
+
+19
+00:00:57,458 --> 00:01:00,818
+<font color=#FFFF00>Abwaschen.</font>
+
+20
+00:01:00,938 --> 00:01:04,298
+<font color=#FFFF00>Meistens wasche ich es ab.</font>
+
+21
+00:01:05,338 --> 00:01:08,858
+<font color=#FFFF00>Sonst hat es</font>
+<font color=#FFFF00>eine unschöne Konsistenz.</font>
+
+22
+00:01:11,898 --> 00:01:15,418
+<font color=#FFFF00>Das macht es unangenehm sämig.</font>
+
+23
+00:01:17,458 --> 00:01:20,938
+<font color=#FFFF00>Das ist Sesampaste, Tahin.</font>
+
+24
+00:01:21,098 --> 00:01:24,498
+<font color=#00FFFF>Gibt es mittlerweile überall.</font>
+
+25
+00:01:27,178 --> 00:01:30,858
+<font color=#FFFF00>Salz, Kreuzkümmel,</font>
+<font color=#FFFF00>Zitronensaft und Olivenöl.</font>
+
+26
+00:01:34,738 --> 00:01:36,778
+<font color=#FFFF00>Und ein Schluck Wasser.</font>
+
+27
+00:01:37,898 --> 00:01:41,018
+<font color=#FFFF00>Jetzt müssen wir gucken,</font>
+<font color=#FFFF00>ob das reicht.</font>
+
+28
+00:01:41,418 --> 00:01:43,778
+<font color=#00FFFF>Ich mach das mal.</font>
+
+29
+00:01:43,898 --> 00:01:45,938
+<font color=#00FFFF>Was machst du?</font>
+
+30
+00:01:49,418 --> 00:01:52,898
+<font color=#FFFF00>Das ist Bulgur.</font>
+
+31
+00:01:53,218 --> 00:01:56,618
+<font color=#FFFF00>Den habe ich nach Anleitung gekocht.</font>
+
+32
+00:01:56,778 --> 00:02:00,138
+<font color=#FFFF00>Das ist doch harmlos</font>
+<font color=#FFFF00>mit dem Pürierstab!</font>
+
+33
+00:02:01,218 --> 00:02:03,738
+<font color=#FFFF00>Er hat nicht so Lust.</font>
+
+34
+00:02:03,898 --> 00:02:07,218
+<font color=#00FFFF>Ich mach das schon.</font>
+
+35
+00:02:07,738 --> 00:02:11,018
+<font color=#00FFFF>Aber du sollst nebenbei</font>
+<font color=#00FFFF>weiter arbeiten können.</font>
+
+36
+00:02:11,178 --> 00:02:13,338
+<font color=#FFFF00>Hört sich lahm an.</font>
+
+37
+00:02:13,498 --> 00:02:16,818
+<font color=#00FFFF>Wird schon.</font>
+
+38
+00:02:18,818 --> 00:02:22,338
+<font color=#FFFF00>Ich nehme die Petersilie,</font>
+<font color=#FFFF00>reiße die Stängel ab.</font>
+
+39
+00:02:24,138 --> 00:02:26,578
+<font color=#FFFF00>Den Rest schneide ich klein.</font>
+
+40
+00:02:27,418 --> 00:02:30,978
+<font color=#00FFFF>Tabouleh ist sozusagen</font>
+<font color=#00FFFF>ein Petersilien-Salat.</font>
+
+41
+00:02:31,978 --> 00:02:34,338
+<font color=#00FFFF>Das klingt erst mal komisch.</font>
+
+42
+00:02:34,898 --> 00:02:38,138
+<font color=#FFFF00>Bei uns besser bekannt</font>
+<font color=#FFFF00>als Bulgur-Salat.</font>
+
+43
+00:02:38,218 --> 00:02:42,098
+<font color=#FFFF00>Das ist der, der immer</font>
+<font color=#FFFF00>am Buffet übrig bleibt.</font>
+
+44
+00:02:42,458 --> 00:02:43,778
+<font color=#00FFFF>Nein!</font>
+
+45
+00:02:44,418 --> 00:02:46,898
+<font color=#FFFF00>Er ist nicht immer so beliebt.</font>
+
+46
+00:02:47,298 --> 00:02:50,538
+<font color=#00FFFF>Wir sorgen dafür,</font>
+<font color=#00FFFF>dass er beliebt wird.</font>
+
+47
+00:02:51,138 --> 00:02:54,458
+<font color=#FFFF00>Man kann auch Granatapfel</font>
+<font color=#FFFF00>rein machen.</font>
+
+48
+00:02:55,298 --> 00:02:57,258
+<font color=#FFFF00>Dann wird er fruchtiger.</font>
+
+49
+00:02:57,778 --> 00:03:01,218
+<font color=#FFFF00>Ich gebe dir noch mal</font>
+<font color=#FFFF00>ein bisschen Wasser.</font>
+
+50
+00:03:02,458 --> 00:03:05,938
+<font color=#00FFFF>Es ist jetzt eher</font>
+<font color=#00FFFF>so ein bisschen dicklicher.</font>
+
+51
+00:03:08,098 --> 00:03:10,418
+<font color=#FFFF00>Ich geb dir noch mal was.</font>
+
+52
+00:03:10,498 --> 00:03:13,738
+<font color=#00FFFF>Reicht.</font>
+<font color=#00FFFF>Wir wollen ja keine Suppe haben.</font>
+
+53
+00:03:13,898 --> 00:03:17,258
+<font color=#00FFFF>Das war vielleicht zu viel.</font>
+
+54
+00:03:19,578 --> 00:03:22,338
+<font color=#FFFF00>Viel Petersilie, Bulgur.</font>
+
+55
+00:03:23,018 --> 00:03:25,578
+<font color=#FFFF00>Jetzt kommt Garam Masala dazu.</font>
+
+56
+00:03:26,498 --> 00:03:27,698
+<font color=#00FFFF>Garam Masala.</font>
+
+57
+00:03:28,498 --> 00:03:30,658
+<font color=#FFFF00>Das kann man fertig so kaufen.</font>
+
+58
+00:03:31,938 --> 00:03:35,338
+<font color=#FFFF00>Tomatenwürfel, Zwiebelwürfel.</font>
+
+59
+00:03:35,498 --> 00:03:38,178
+<font color=#00FFFF>Vollgas.</font>
+
+60
+00:03:38,338 --> 00:03:41,698
+<font color=#FFFF00>Das sieht gut aus.</font>
+
+61
+00:03:42,618 --> 00:03:46,098
+<font color=#FFFF00>Etwas Salz und Pfeffer.</font>
+
+62
+00:03:46,498 --> 00:03:48,698
+<font color=#FFFF00>Jetzt noch Zitronenabrieb.</font>
+
+63
+00:03:49,178 --> 00:03:50,498
+<font color=#00FFFF>Okay.</font>
+
+64
+00:03:51,458 --> 00:03:53,098
+<font color=#FFFF00>Okay! Du bist gespannt?</font>
+
+65
+00:03:54,098 --> 00:03:56,258
+<font color=#00FFFF>Ich habe Hunger.</font>
+
+66
+00:03:56,418 --> 00:03:57,778
+<font color=#FFFF00>Ich auch.</font>
+
+67
+00:03:58,338 --> 00:04:01,338
+<font color=#00FFFF>Rede nicht so lange, mach doch mal!</font>
+
+68
+00:04:02,138 --> 00:04:04,938
+<font color=#FFFF00>Oh, jetzt ist ein Kern</font>
+<font color=#FFFF00>mit reingeflogen.</font>
+
+69
+00:04:06,018 --> 00:04:09,978
+<font color=#FFFF00>So, ein bisschen Zitronensaft</font>
+<font color=#FFFF00>und ein bisschen Olivenöl.</font>
+
+70
+00:04:10,098 --> 00:04:11,618
+<font color=#00FFFF>Auf jeden Fall gesund.</font>
+
+71
+00:04:11,778 --> 00:04:13,218
+<font color=#00FFFF>Und optisch schön.</font>
+
+72
+00:04:13,378 --> 00:04:14,858
+<font color=#FFFF00>Genau.</font>
+
+73
+00:04:15,338 --> 00:04:18,218
+<font color=#FFFF00>Das lassen wir ziehen.</font>
+
+74
+00:04:19,178 --> 00:04:22,418
+<font color=#00FFFF>Das muss ich jetzt</font>
+<font color=#00FFFF>noch hoch anpreisen:</font>
+
+75
+00:04:23,458 --> 00:04:25,578
+<font color=#00FFFF>Wir machen Rückwärtsgaren.</font>
+
+76
+00:04:26,178 --> 00:04:27,618
+<font color=#00FFFF>Das hat Zora gesagt.</font>
+
+77
+00:04:28,058 --> 00:04:29,578
+<font color=#00FFFF>Was ist das?</font>
+
+78
+00:04:30,498 --> 00:04:35,818
+<font color=#00FFFF>Ich kenne nur die Rückwärtsrolle -</font>
+<font color=#00FFFF>das macht jetzt keinen Sinn.</font>
+
+79
+00:04:36,778 --> 00:04:41,818
+<font color=#FFFF00>Nee, das heißt, dass man das Gargut</font>
+<font color=#FFFF00>zuerst niedrig durchgart.</font>
+
+80
+00:04:42,258 --> 00:04:45,538
+<font color=#FFFF00>Danach gibt man</font>
+<font color=#FFFF00>in der Pfanne die Farbe.</font>
+
+81
+00:04:45,978 --> 00:04:48,698
+<font color=#00FFFF>Okay. Und Vorwärtsgaren wäre ...</font>
+
+82
+00:04:48,778 --> 00:04:51,178
+<font color=#FFFF00>Erst anbraten, dann im Ofen.</font>
+
+83
+00:04:51,498 --> 00:04:54,058
+<font color=#00FFFF>Aha, da haben wir</font>
+<font color=#00FFFF>wieder was gelernt.</font>
+
+84
+00:04:54,378 --> 00:04:58,738
+<font color=#FFFF00>So verliert die Hähnchenbrust</font>
+<font color=#FFFF00>am wenigsten Fleischsaft.</font>
+
+85
+00:04:59,378 --> 00:05:02,298
+<font color=#FFFF00>Es tritt am wenigsten</font>
+<font color=#FFFF00>aus dem Fleisch aus.</font>
+
+86
+00:05:02,978 --> 00:05:07,378
+<font color=#FFFF00>Man hat kaum Gewichtsverlust.</font>
+
+87
+00:05:07,538 --> 00:05:10,658
+<font color=#FFFF00>Aber der Geschmack bleibt erhalten.</font>
+
+88
+00:05:11,218 --> 00:05:15,698
+<font color=#FFFF00>Die war jetzt ungefähr</font>
+<font color=#FFFF00>eine Dreiviertelstunde im Ofen.</font>
+
+89
+00:05:16,658 --> 00:05:18,498
+<font color=#FFFF00>Bei ungefähr 80 Grad.</font>
+
+90
+00:05:19,618 --> 00:05:22,658
+<font color=#00FFFF>Okay, also bei niedriger Temperatur.</font>
+
+91
+00:05:24,098 --> 00:05:27,058
+<font color=#FFFF00>Ich habe Wasser</font>
+<font color=#FFFF00>mit in den Ofen gestellt.</font>
+
+92
+00:05:27,218 --> 00:05:30,258
+<font color=#FFFF00>Dann trocknet es nicht aus.</font>
+
+93
+00:05:30,378 --> 00:05:33,458
+<font color=#FFFF00>Einfach eine Schüssel Wasser.</font>
+
+94
+00:05:33,858 --> 00:05:37,578
+<font color=#FFFF00>Das Huhn wurde vorher</font>
+<font color=#FFFF00>gepfeffert und gesalzen.</font>
+
+95
+00:05:37,898 --> 00:05:42,298
+<font color=#FFFF00>Obwohl, ich sehe gerade,</font>
+<font color=#FFFF00>ich habe nur eine gepfeffert.</font>
+
+96
+00:05:42,978 --> 00:05:47,498
+<font color=#00FFFF>Du bist meistens die,</font>
+<font color=#00FFFF>die vegetarisch oder vegan kocht.</font>
+
+97
+00:05:48,458 --> 00:05:49,978
+<font color=#00FFFF>So zu 99 %.</font>
+
+98
+00:05:50,978 --> 00:05:54,458
+<font color=#00FFFF>Aber diese Woche</font>
+<font color=#00FFFF>geht es bei uns ums Huhn.</font>
+
+99
+00:05:55,658 --> 00:05:57,858
+<font color=#00FFFF>Worauf sollte man achten?</font>
+
+100
+00:06:00,178 --> 00:06:03,018
+<font color=#FFFF00>Ich tue mich schwer mit Huhn.</font>
+
+101
+00:06:03,698 --> 00:06:06,578
+<font color=#FFFF00>Es ist nicht sehr ergiebig.</font>
+
+102
+00:06:07,258 --> 00:06:12,858
+<font color=#FFFF00>Man braucht mehrere Hühner, wenn</font>
+<font color=#FFFF00>man eine Familie versorgen will.</font>
+
+103
+00:06:13,658 --> 00:06:15,618
+<font color=#FFFF00>Das finde ich brutal.</font>
+
+104
+00:06:16,418 --> 00:06:20,698
+<font color=#FFFF00>Und die Hühnerhaltung</font>
+<font color=#FFFF00>ist meistens auch nicht gut.</font>
+
+105
+00:06:21,378 --> 00:06:25,498
+<font color=#00FFFF>Es muss aus guter Haltung kommen.</font>
+
+106
+00:06:26,058 --> 00:06:27,418
+<font color=#FFFF00>Genau.</font>
+
+107
+00:06:27,498 --> 00:06:29,138
+<font color=#FFFF00>Auf jeden Fall.</font>
+
+108
+00:06:31,178 --> 00:06:34,298
+<font color=#FFFF00>Ich würde zu einem Fleischer gehen.</font>
+
+109
+00:06:35,178 --> 00:06:37,818
+<font color=#FFFF00>Nicht in den Supermarkt.</font>
+
+110
+00:06:38,778 --> 00:06:40,938
+<font color=#FFFF00>Das ist oft heikel.</font>
+
+111
+00:06:41,458 --> 00:06:44,938
+<font color=#FFFF00>Ich würde fragen,</font>
+<font color=#FFFF00>woher das Tier kommt.</font>
+
+112
+00:06:45,618 --> 00:06:49,978
+<font color=#00FFFF>Zora würde gerne sogar wissen,</font>
+<font color=#00FFFF>wie das Huhn hieß.</font>
+
+113
+00:06:50,378 --> 00:06:51,738
+<font color=#FFFF00>Genau!</font>
+
+114
+00:06:52,498 --> 00:06:55,618
+<font color=#FFFF00>Das habe ich jetzt im Ofen gegart.</font>
+
+115
+00:06:56,058 --> 00:06:57,938
+<font color=#FFFF00>Jetzt kommt Farbe.</font>
+
+116
+00:06:58,418 --> 00:07:01,538
+<font color=#FFFF00>Rosmarin und Thymian ist mit drin.</font>
+
+117
+00:07:02,018 --> 00:07:03,338
+<font color=#00FFFF>Und Knoblauch.</font>
+
+118
+00:07:03,978 --> 00:07:06,458
+<font color=#FFFF00>Den haben wir vergessen!</font>
+
+119
+00:07:06,538 --> 00:07:08,578
+<font color=#FFFF00>Du musst noch mal.</font>
+
+120
+00:07:08,778 --> 00:07:10,978
+<font color=#FFFF00>Dann haben wir es fast.</font>
+
+121
+00:07:12,618 --> 00:07:15,898
+<font color=#00FFFF>Nicht, dass der Knoblauch fehlt.</font>
+
+122
+00:07:16,898 --> 00:07:20,218
+<font color=#00FFFF>Wenn man immer Masken tragen muss,</font>
+
+123
+00:07:20,738 --> 00:07:24,378
+<font color=#00FFFF>kann man Knoblauch essen</font>
+<font color=#00FFFF>so viel man will.</font>
+
+124
+00:07:24,458 --> 00:07:26,378
+<font color=#00FFFF>Keiner beschwert sich.</font>
+
+125
+00:07:29,298 --> 00:07:32,538
+<font color=#FFFF00>Man saut immer rum bei dem Fleisch.</font>
+
+126
+00:07:33,738 --> 00:07:35,178
+<font color=#00FFFF>So.</font>
+
+127
+00:07:40,738 --> 00:07:43,218
+<font color=#FFFF00>Dann schieb mal rüber.</font>
+
+128
+00:07:43,818 --> 00:07:45,698
+<font color=#00FFFF>Ja, mach entspannt.</font>
+
+129
+00:07:46,178 --> 00:07:48,218
+<font color=#00FFFF>Aber ich habe Hunger.</font>
+
+130
+00:07:48,778 --> 00:07:50,178
+<font color=#FFFF00>Ich probiere.</font>
+
+131
+00:07:53,018 --> 00:07:56,498
+<font color=#00FFFF>Wenn man</font>
+<font color=#00FFFF>vegetarischer unterwegs ist:</font>
+
+132
+00:07:57,098 --> 00:08:02,658
+<font color=#00FFFF>Was würdest du sonst zum Tabouleh</font>
+<font color=#00FFFF>und Bohnenmus machen?</font>
+
+133
+00:08:03,378 --> 00:08:07,698
+<font color=#FFFF00>Ich würde einen Blumenkohl</font>
+<font color=#FFFF00>im Ofen schmoren.</font>
+
+134
+00:08:08,578 --> 00:08:11,738
+<font color=#FFFF00>Quasi als Braten im Ofen garen.</font>
+
+135
+00:08:12,378 --> 00:08:15,538
+<font color=#FFFF00>Den kann man auch schön würzen.</font>
+
+136
+00:08:16,098 --> 00:08:18,578
+<font color=#FFFF00>Im Ofen eine Stunde garen.</font>
+
+137
+00:08:18,738 --> 00:08:22,978
+<font color=#FFFF00>Dann hat man danach</font>
+<font color=#FFFF00>quasi Blumenkohl-Steaks.</font>
+
+138
+00:08:24,458 --> 00:08:25,698
+<font color=#00FFFF>Okay.</font>
+
+139
+00:08:26,138 --> 00:08:30,618
+<font color=#00FFFF>Das Rezept zur Hähnchenbrust</font>
+<font color=#00FFFF>gibt es bei uns online.</font>
+
+140
+00:08:32,378 --> 00:08:35,138
+<font color=#00FFFF>Dann gibt es das gleich für mich.</font>
+
+141
+00:08:35,618 --> 00:08:39,978
+<font color=#00FFFF>Vielleicht auch für</font>
+<font color=#00FFFF>unseren Kollegen Thorsten Schröder</font>
+
+142
+00:08:40,178 --> 00:08:41,458
+<font color=#00FFFF>von NDR Info.</font>
+
+143
+00:08:42,538 --> 00:08:45,858
+<font color=#00FFFF>Der wollte gestern</font>
+<font color=#00FFFF>auch schon was haben.</font>
+
+144
+00:08:46,018 --> 00:08:47,418
+<font color=#FFFF00>Es ist heiß hier.</font>
+
+145
+00:08:49,578 --> 00:08:52,578
+<font color=#00FFFF>Das ist ja ungewöhnlich beim Kochen.</font>
+
+146
+00:08:53,258 --> 00:08:54,618
+<font color=#FFFF00>Ja, ne?</font>
+
+147
+00:08:55,538 --> 00:08:57,978
+<font color=#FFFF00>Es ist so schön saftig hier.</font>
+
+148
+00:08:58,218 --> 00:09:00,738
+<font color=#FFFF00>Der ganze Fleischsaft ist noch drin.</font>
+
+149
+00:09:00,818 --> 00:09:03,578
+<font color=#00FFFF>Das kommt von</font>
+<font color=#00FFFF>dem langsamen Garen?</font>
+
+150
+00:09:04,098 --> 00:09:05,538
+<font color=#FFFF00>Genau.</font>
+
+151
+00:09:07,058 --> 00:09:08,498
+<font color=#00FFFF>Sieht gut aus.</font>
+
+152
+00:09:09,618 --> 00:09:11,378
+<font color=#00FFFF>Wir haben noch Tipps:</font>
+
+153
+00:09:18,778 --> 00:09:21,858
+<font color=#00FFFF>"Aromatisieren"</font>
+<font color=#00FFFF>sollte da eigentlich stehen.</font>
+
+154
+00:09:22,538 --> 00:09:24,458
+<font color=#00FFFF>Denken Sie es sich einfach.</font>
+
+155
+00:09:28,498 --> 00:09:30,698
+<font color=#FFFF00>Du darfst probieren.</font>
+
+156
+00:09:31,658 --> 00:09:34,218
+<font color=#00FFFF>Wir müssen es einmal genießen.</font>
+
+157
+00:09:35,298 --> 00:09:36,658
+<font color=#00FFFF>So sieht das aus.</font>
+
+158
+00:09:37,258 --> 00:09:40,538
+<font color=#00FFFF>Hähnchenbrust</font>
+<font color=#00FFFF>mit Tabouleh und Bohnenmus.</font>
+
+159
+00:09:40,738 --> 00:09:42,058
+<font color=#00FFFF>Lecker!</font>
+
+160
+00:09:42,458 --> 00:09:44,938
+<font color=#00FFFF>Zumindest ahne ich das.</font>
+
+161
+00:09:46,258 --> 00:09:48,738
+<font color=#00FFFF>Ich kann es noch nicht sagen.</font>
+
+162
+00:09:50,498 --> 00:09:53,378
+<font color=#00FFFF>Ich muss mich erst sortieren.</font>
+
+163
+00:09:54,338 --> 00:09:56,658
+<font color=#FFFF00>Ich mache mal den Herd aus.</font>
+
+164
+00:09:57,298 --> 00:09:58,698
+<font color=#00FFFF>Ich probiere.</font>
+
+165
+00:09:59,098 --> 00:10:01,698
+<font color=#00FFFF>Ich fange an mit dem Hähnchen.</font>
+
+166
+00:10:02,338 --> 00:10:05,658
+<font color=#FFFF00>Ich esse es so selten.</font>
+
+167
+00:10:06,218 --> 00:10:09,738
+<font color=#00FFFF>Ich auch, aber gestern</font>
+<font color=#00FFFF>gab es hier auch schon Huhn.</font>
+
+168
+00:10:09,818 --> 00:10:11,858
+<font color=#00FFFF>Sonst esse ich selten Fleisch.</font>
+
+169
+00:10:12,018 --> 00:10:13,858
+<font color=#00FFFF>Es ist sehr saftig.</font>
+
+170
+00:10:14,018 --> 00:10:15,498
+<font color=#FFFF00>Lecker!</font>
+
+171
+00:10:17,338 --> 00:10:18,818
+<font color=#00FFFF>Das Bohnenmus ...</font>
+
+172
+00:10:19,618 --> 00:10:25,178
+<font color=#00FFFF>Was sagst du zur Konsistenz?</font>
+<font color=#00FFFF>Selten war ein Bohnenmus so gut, ne?</font>
+
+173
+00:10:25,658 --> 00:10:27,738
+<font color=#00FFFF>Hab ich sensationell gerührt.</font>
+
+174
+00:10:28,178 --> 00:10:29,578
+<font color=#FFFF00>Ein Traum!</font>
+
+175
+00:10:31,338 --> 00:10:33,898
+<font color=#00FFFF>Wir genießen das gleich weiter.</font>
+
+176
+00:10:34,058 --> 00:10:38,418
+<font color=#00FFFF>Thorsten Schröder guckt gleich</font>
+<font color=#00FFFF>sicher um die Ecke und möchte auch.</font>
+
+177
+00:10:38,498 --> 00:10:39,818
+<font color=#00FFFF>Das kriegen wir hin.</font>
+
+178
+00:10:39,898 --> 00:10:43,218
+<font color=#00FFFF>Aber vorher bringst du uns</font>
+<font color=#00FFFF>auf den neuesten Stand.</font>
+
+179
+00:10:43,338 --> 00:10:45,498
+<font color=#0000FF>Copyright Untertitel: NDR 2021</font>
+

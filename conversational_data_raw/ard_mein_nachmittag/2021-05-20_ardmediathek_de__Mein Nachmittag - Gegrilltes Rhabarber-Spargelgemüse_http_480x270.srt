@@ -1,0 +1,848 @@
+1
+00:00:03,146 --> 00:00:05,906
+<font color=#00FFFF>Aus dem Restaurant Goldschätzchen.</font>
+
+2
+00:00:06,186 --> 00:00:10,226
+<font color=#00FFFF>Er macht was mit Rhabarber,</font>
+<font color=#00FFFF>denn wir haben Rhabarberwoche.</font>
+
+3
+00:00:10,346 --> 00:00:12,146
+<font color=#00FFFF>Es gibt Landhuhn dazu.</font>
+
+4
+00:00:12,306 --> 00:00:14,226
+<font color=#00FFFF>Herzlich willkommen.</font>
+
+5
+00:00:14,786 --> 00:00:16,386
+<font color=#FFFF00>Ja, danke schön.</font>
+
+6
+00:00:17,346 --> 00:00:20,426
+<font color=#FFFF00>Wir haben jetzt</font>
+<font color=#FFFF00>Spargel- und Rhabarber-Zeit.</font>
+
+7
+00:00:21,666 --> 00:00:25,906
+<font color=#FFFF00>Wir machen heute ein nicht</font>
+<font color=#FFFF00>so typisches Spargelgericht.</font>
+
+8
+00:00:26,946 --> 00:00:30,346
+<font color=#FFFF00>Heute machen wir</font>
+<font color=#FFFF00>gegrillten Spargel, roh.</font>
+
+9
+00:00:31,986 --> 00:00:35,666
+<font color=#FFFF00>Hast du schon mal von gegrilltem</font>
+<font color=#FFFF00>Rhabarber gehört?</font>
+
+10
+00:00:35,786 --> 00:00:37,066
+<font color=#00FFFF>Nein.</font>
+
+11
+00:00:37,426 --> 00:00:40,946
+<font color=#FFFF00>Genau, den machen wir.</font>
+
+12
+00:00:41,306 --> 00:00:44,786
+<font color=#FFFF00>Wir machen einen Gewürzrub.</font>
+<font color=#FFFF00>Weißt du, was das ist?</font>
+
+13
+00:00:44,986 --> 00:00:47,106
+<font color=#00FFFF>Weiß ich nicht.</font>
+
+14
+00:00:48,266 --> 00:00:51,586
+<font color=#FFFF00>Das ist ein trockenes Gewürz.</font>
+
+15
+00:00:51,826 --> 00:00:54,626
+<font color=#FFFF00>Man kann da auch</font>
+<font color=#FFFF00>nasse Marinaden machen.</font>
+
+16
+00:00:54,866 --> 00:00:58,706
+<font color=#FFFF00>Aber wenn man die auf den Grill</font>
+<font color=#FFFF00>legt, fangen die Feuer.</font>
+
+17
+00:00:58,986 --> 00:01:01,546
+<font color=#FFFF00>Das hast du</font>
+<font color=#FFFF00>beim Trockengewürz nicht.</font>
+
+18
+00:01:01,786 --> 00:01:03,506
+<font color=#FFFF00>Du kannst schon starten.</font>
+
+19
+00:01:03,786 --> 00:01:07,146
+<font color=#FFFF00>Ich hab hier ganze Fenchelsamen.</font>
+<font color=#00FFFF>Alles rein? </font>
+<font color=#FFFF00>Ja.</font>
+
+20
+00:01:08,066 --> 00:01:11,466
+<font color=#FFFF00>Dann haben wir bunten Pfeffer.</font>
+<font color=#FFFF00>Das kommt rein.</font>
+
+21
+00:01:11,866 --> 00:01:12,866
+<font color=#FFFF00>Das sind?</font>
+
+22
+00:01:14,186 --> 00:01:15,906
+<font color=#00FFFF>Das ist auch Gewürze ...</font>
+
+23
+00:01:16,426 --> 00:01:19,946
+<font color=#FFFF00>Koriandersamen sind das.</font>
+
+24
+00:01:20,466 --> 00:01:22,626
+<font color=#00FFFF>Musst du mich so vorführen ...</font>
+
+25
+00:01:23,906 --> 00:01:26,826
+<font color=#00FFFF>Ich kenne nur Korianderblätter.</font>
+
+26
+00:01:26,946 --> 00:01:30,426
+<font color=#FFFF00>Mach das schön fein.</font>
+
+27
+00:01:30,906 --> 00:01:34,386
+<font color=#00FFFF>Wir verwenden zu Hause</font>
+<font color=#00FFFF>nur Korianderblätter.</font>
+
+28
+00:01:37,386 --> 00:01:40,026
+<font color=#FFFF00>Wir haben hier auch frische Blätter.</font>
+
+29
+00:01:41,066 --> 00:01:44,586
+<font color=#FFFF00>Aber die Samen</font>
+<font color=#FFFF00>sind perfekt für die Gewürze.</font>
+
+30
+00:01:44,946 --> 00:01:47,746
+<font color=#FFFF00>Frische Kräuter</font>
+<font color=#FFFF00>würden jetzt verbrennen.</font>
+
+31
+00:01:47,946 --> 00:01:51,266
+<font color=#FFFF00>Wir machen heute</font>
+<font color=#FFFF00>eine Landhuhn-Keule.</font>
+
+32
+00:01:53,226 --> 00:01:56,386
+<font color=#FFFF00>Diese Hähnchenkeule</font>
+<font color=#FFFF00>kennt man ja vom Grillen.</font>
+
+33
+00:01:56,546 --> 00:01:59,666
+<font color=#FFFF00>Wir nehmen jetzt den Knochen raus.</font>
+
+34
+00:01:59,866 --> 00:02:03,386
+<font color=#FFFF00>Das ist ein ganz tolles Fleisch.</font>
+
+35
+00:02:03,906 --> 00:02:07,746
+<font color=#FFFF00>Es wird nicht trocken auf dem Grill</font>
+<font color=#FFFF00>oder in der Pfanne.</font>
+
+36
+00:02:07,946 --> 00:02:10,226
+<font color=#FFFF00>Ich nehme jetzt den Knochen raus.</font>
+
+37
+00:02:10,386 --> 00:02:12,466
+<font color=#00FFFF>Das duftet schon.</font>
+
+38
+00:02:13,266 --> 00:02:15,946
+<font color=#FFFF00>Das sieht gut aus.</font>
+
+39
+00:02:17,106 --> 00:02:20,746
+<font color=#FFFF00>Du musst das nicht ganz so fein</font>
+<font color=#FFFF00>machen, das mag ich.</font>
+
+40
+00:02:21,746 --> 00:02:24,666
+<font color=#00FFFF>Du lobst ja richtig.</font>
+<font color=#FFFF00>Das gehört dazu.</font>
+
+41
+00:02:25,066 --> 00:02:28,146
+<font color=#00FFFF>Machst du das bei dir</font>
+<font color=#00FFFF>in der Küche auch?</font>
+
+42
+00:02:28,306 --> 00:02:32,266
+<font color=#FFFF00>Ich mach bei mir Stimmung</font>
+<font color=#FFFF00>in der Küche. Das gehört dazu.</font>
+
+43
+00:02:34,586 --> 00:02:37,066
+<font color=#FFFF00>Du hast da noch Paprika, edelsüß.</font>
+
+44
+00:02:37,866 --> 00:02:40,666
+<font color=#FFFF00>Mach alles rein.</font>
+
+45
+00:02:40,826 --> 00:02:43,826
+<font color=#FFFF00>Und Ras el-Hanout.</font>
+<font color=#FFFF00>Das kennst du natürlich.</font>
+
+46
+00:02:44,226 --> 00:02:45,866
+<font color=#00FFFF>Das kenn ich natürlich!</font>
+
+47
+00:02:46,146 --> 00:02:48,146
+<font color=#FFFF00>Welche Gewürze sind da drin?</font>
+
+48
+00:02:48,386 --> 00:02:51,626
+<font color=#00FFFF>Das ist ein Gemisch aus Nordafrika.</font>
+<font color=#00FFFF>Marokko oder so.</font>
+
+49
+00:02:51,666 --> 00:02:55,546
+<font color=#FFFF00>Mit Bockshornklee,</font>
+<font color=#FFFF00>Curry, Kurkuma, Kreuzkümmel ...</font>
+
+50
+00:02:55,666 --> 00:02:57,866
+<font color=#00FFFF>Ich kipp alles rein. </font>
+<font color=#FFFF00>Mach rein.</font>
+
+51
+00:02:58,226 --> 00:03:00,866
+<font color=#FFFF00>Dann habe ich noch Meersalz.</font>
+
+52
+00:03:02,186 --> 00:03:05,266
+<font color=#FFFF00>Davon machen wir nicht alles rein.</font>
+
+53
+00:03:06,306 --> 00:03:08,586
+<font color=#FFFF00>Das sieht gut aus.</font>
+
+54
+00:03:08,666 --> 00:03:11,946
+<font color=#FFFF00>Dann habe ich noch braunen Zucker.</font>
+
+55
+00:03:12,466 --> 00:03:15,946
+<font color=#FFFF00>Der karamellisiert nachher</font>
+<font color=#FFFF00>schön im Ofen.</font>
+
+56
+00:03:16,346 --> 00:03:19,426
+<font color=#00FFFF>Das ist aber nicht nur</font>
+<font color=#00FFFF>brauner Zucker, oder?</font>
+
+57
+00:03:19,586 --> 00:03:20,826
+<font color=#FFFF00>Doch.</font>
+
+58
+00:03:21,266 --> 00:03:25,386
+<font color=#00FFFF>Ich dachte, da wäre noch Zimt dabei.</font>
+<font color=#FFFF00>Würde auch gut passen.</font>
+
+59
+00:03:25,826 --> 00:03:28,626
+<font color=#00FFFF>Ich mache ein paar Löffel rein.</font>
+<font color=#00FFFF>Wie viel?</font>
+
+60
+00:03:29,066 --> 00:03:30,546
+<font color=#FFFF00>Drei. Sei mutig.</font>
+
+61
+00:03:30,946 --> 00:03:34,426
+<font color=#00FFFF>Ich bin mutig und mache vier rein.</font>
+
+62
+00:03:37,026 --> 00:03:39,026
+<font color=#FFFF00>Man sieht, schön marmoriert.</font>
+
+63
+00:03:40,026 --> 00:03:44,106
+<font color=#FFFF00>Jetzt werden wir dein Gewürz ...</font>
+<font color=#FFFF00>Das mischt du noch durch.</font>
+
+64
+00:03:44,706 --> 00:03:47,506
+<font color=#00FFFF>Das Rauslösen ging sehr schnell.</font>
+
+65
+00:03:47,906 --> 00:03:51,106
+<font color=#FFFF00>Ich hab das Filet</font>
+<font color=#FFFF00>so aufs Schneidebrett gelegt</font>
+
+66
+00:03:51,346 --> 00:03:54,266
+<font color=#FFFF00>und dann sieht man,</font>
+<font color=#FFFF00>wie der Knochen läuft.</font>
+
+67
+00:03:54,426 --> 00:03:58,586
+<font color=#FFFF00>Dann mit der Messerspitze</font>
+<font color=#FFFF00>oberhalb des Knochens langführen.</font>
+
+68
+00:03:58,626 --> 00:04:00,426
+<font color=#FFFF00>Das geht ganz einfach.</font>
+
+69
+00:04:00,626 --> 00:04:04,986
+<font color=#FFFF00>Die Metzger</font>
+<font color=#FFFF00>machen das auch schon fertig.</font>
+
+70
+00:04:05,226 --> 00:04:08,666
+<font color=#FFFF00>Das ist ein dankbares Fleisch</font>
+<font color=#FFFF00>fürn Grill.</font>
+
+71
+00:04:08,826 --> 00:04:11,626
+<font color=#00FFFF>Meine Mischung ist hier fertig.</font>
+
+72
+00:04:11,786 --> 00:04:14,266
+<font color=#FFFF00>Dann schieb mir das mal rüber.</font>
+
+73
+00:04:14,346 --> 00:04:17,626
+<font color=#FFFF00>Möchtest du noch etwas machen?</font>
+
+74
+00:04:17,786 --> 00:04:21,146
+<font color=#00FFFF>Dafür bin ich ja hier.</font>
+
+75
+00:04:23,146 --> 00:04:26,186
+<font color=#FFFF00>Ich hab schon etwas vorbereitet.</font>
+
+76
+00:04:26,306 --> 00:04:29,706
+<font color=#FFFF00>Ich hab weißen und grünen Spargel.</font>
+
+77
+00:04:32,386 --> 00:04:35,826
+<font color=#FFFF00>Grünen Spargel</font>
+<font color=#FFFF00>muss man nicht schälen.</font>
+
+78
+00:04:36,746 --> 00:04:38,826
+<font color=#FFFF00>Da ist die Schale recht dünn.</font>
+
+79
+00:04:39,506 --> 00:04:42,666
+<font color=#FFFF00>Da muss man nur das Ende</font>
+<font color=#FFFF00>noch mal abschneiden</font>
+
+80
+00:04:42,946 --> 00:04:45,306
+<font color=#FFFF00>und den nass hält im Kühlschrank.</font>
+
+81
+00:04:45,426 --> 00:04:49,186
+<font color=#FFFF00>Und beim weißen Spargel</font>
+<font color=#FFFF00>muss man den Quietschtest machen.</font>
+
+82
+00:04:49,346 --> 00:04:52,746
+<font color=#FFFF00>Dann weiß man, dass er frisch ist.</font>
+
+83
+00:04:52,946 --> 00:04:57,466
+<font color=#FFFF00>Oder wenn man das Ende abschneidet,</font>
+<font color=#FFFF00>dass es dann schön nass ist.</font>
+
+84
+00:04:58,106 --> 00:05:01,386
+<font color=#FFFF00>Den Rhabarber</font>
+<font color=#FFFF00>habe ich auch schon geschält.</font>
+
+85
+00:05:01,946 --> 00:05:04,746
+<font color=#FFFF00>Den kennst du ja auch. </font>
+<font color=#00FFFF>Den kenn ich.</font>
+
+86
+00:05:05,986 --> 00:05:09,266
+<font color=#FFFF00>Da zieht man mit dem Messer</font>
+<font color=#FFFF00>die Fäden etwas ab.</font>
+
+87
+00:05:09,506 --> 00:05:11,586
+<font color=#FFFF00>Das hab ich für dich gemacht.</font>
+
+88
+00:05:11,706 --> 00:05:15,506
+<font color=#00FFFF>Hier ist noch was übrig geblieben.</font>
+<font color=#00FFFF>Ich besser das aus.</font>
+
+89
+00:05:16,066 --> 00:05:19,026
+<font color=#FFFF00>Wir können noch etwas Rot</font>
+<font color=#FFFF00>in der Pfanne haben.</font>
+
+90
+00:05:21,986 --> 00:05:25,266
+<font color=#00FFFF>Wie viele Leute</font>
+<font color=#00FFFF>seid ihr bei euch in der Küche?</font>
+
+91
+00:05:25,426 --> 00:05:28,106
+<font color=#FFFF00>Wir sind 16 oder 18 Köche.</font>
+
+92
+00:05:29,626 --> 00:05:32,706
+<font color=#FFFF00>Das Restaurant heißt Goldschätzchen.</font>
+
+93
+00:05:34,866 --> 00:05:37,386
+<font color=#00FFFF>Das sieht wunderbar aus.</font>
+
+94
+00:05:37,546 --> 00:05:40,946
+<font color=#FFFF00>Da kann man jetzt hin.</font>
+
+95
+00:05:41,106 --> 00:05:44,666
+<font color=#FFFF00>In Schleswig-Holstein</font>
+<font color=#FFFF00>haben wir seit einer Woche auf.</font>
+
+96
+00:05:44,826 --> 00:05:48,466
+<font color=#FFFF00>Wir freuen uns.</font>
+<font color=#FFFF00>Seit Montag haben wir wieder Gäste.</font>
+
+97
+00:05:49,146 --> 00:05:52,506
+<font color=#FFFF00>Es ist wie ein neues Restaurant.</font>
+
+98
+00:05:53,626 --> 00:05:57,946
+<font color=#FFFF00>Wir waren schon sehr nervös.</font>
+<font color=#FFFF00>Aber ich habe ein ganz tolles Team.</font>
+
+99
+00:05:58,146 --> 00:06:00,986
+<font color=#FFFF00>Wir freuen uns,</font>
+<font color=#FFFF00>wieder Gäste zu haben.</font>
+
+100
+00:06:01,306 --> 00:06:03,786
+<font color=#00FFFF>Nach fünf Monaten ... </font>
+<font color=#FFFF00>Sieben!</font>
+
+101
+00:06:04,146 --> 00:06:07,626
+<font color=#00FFFF>Da muss man erst wieder</font>
+<font color=#00FFFF>in die Routine kommen.</font>
+
+102
+00:06:07,986 --> 00:06:10,586
+<font color=#FFFF00>Das war schon eine Aufgabe.</font>
+
+103
+00:06:10,866 --> 00:06:13,786
+<font color=#FFFF00>Wir haben ein paar Bänke</font>
+<font color=#FFFF00>rausgestellt.</font>
+
+104
+00:06:13,946 --> 00:06:17,146
+<font color=#FFFF00>Wir haben uns</font>
+<font color=#FFFF00>einen schönen Biergarten gemach.</font>
+
+105
+00:06:17,266 --> 00:06:19,946
+<font color=#00FFFF>Jetzt machst du die Hollandaise? </font>
+<font color=#FFFF00>Ja.</font>
+
+106
+00:06:20,106 --> 00:06:24,026
+<font color=#FFFF00>Hast du die schon mal selbergemacht?</font>
+<font color=#00FFFF>Ich hab's versucht.</font>
+
+107
+00:06:26,826 --> 00:06:29,586
+<font color=#FFFF00>Da trauen sich viele nicht ran.</font>
+
+108
+00:06:29,906 --> 00:06:34,386
+<font color=#FFFF00>Dann nimmt man eher mal die</font>
+<font color=#FFFF00>aus der Packung.</font>
+
+109
+00:06:35,026 --> 00:06:38,386
+<font color=#00FFFF>Die habe ich zu Hause</font>
+<font color=#00FFFF>auch immer parat.</font>
+
+110
+00:06:38,586 --> 00:06:40,426
+<font color=#00FFFF>Dann probier ich es selber</font>
+
+111
+00:06:40,586 --> 00:06:43,666
+<font color=#00FFFF>und meist nehm ich dann</font>
+<font color=#00FFFF>die aus der Packung.</font>
+
+112
+00:06:43,826 --> 00:06:45,906
+<font color=#FFFF00>Auch die kann man verfeinern.</font>
+
+113
+00:06:46,506 --> 00:06:48,506
+<font color=#00FFFF>Ich schneide das hier mal.</font>
+
+114
+00:06:48,666 --> 00:06:50,906
+<font color=#FFFF00>Einfach in der Mitte durch.</font>
+
+115
+00:06:51,066 --> 00:06:54,546
+<font color=#FFFF00>Dann salzen wir den.</font>
+
+116
+00:06:55,426 --> 00:06:58,666
+<font color=#FFFF00>Dadurch werden der Spargel</font>
+<font color=#FFFF00>und Rhabarber nachher</font>
+
+117
+00:06:58,786 --> 00:07:01,066
+<font color=#FFFF00>schnell in der Pfanne gar.</font>
+
+118
+00:07:02,346 --> 00:07:03,906
+<font color=#00FFFF>Erster wichtiger Tipp:</font>
+
+119
+00:07:04,426 --> 00:07:07,706
+<font color=#00FFFF>Spargel und Rhabarber für Pfanne</font>
+<font color=#00FFFF>einmal salzen.</font>
+
+120
+00:07:08,466 --> 00:07:10,106
+<font color=#00FFFF>Dann gart er schneller.</font>
+
+121
+00:07:10,906 --> 00:07:13,706
+<font color=#FFFF00>Man kann den auch im Backofen garen.</font>
+
+122
+00:07:15,826 --> 00:07:20,266
+<font color=#FFFF00>Wenn ich den Spargel mach mit</font>
+<font color=#FFFF00>Katenschinken und Pellkartoffeln,</font>
+
+123
+00:07:20,586 --> 00:07:23,146
+<font color=#FFFF00>dann koch ich den</font>
+<font color=#FFFF00>in salzigem Wasser.</font>
+
+124
+00:07:24,146 --> 00:07:27,986
+<font color=#FFFF00>Du kannst die Stangen</font>
+<font color=#FFFF00>schon mal rüberlegen.</font>
+
+125
+00:07:29,546 --> 00:07:32,586
+<font color=#FFFF00>Dann lege ich die in die Pfanne.</font>
+
+126
+00:07:32,746 --> 00:07:36,666
+<font color=#00FFFF>Und du teilst den durch?</font>
+<font color=#FFFF00>Ja, einmal teilen in der Mitte.</font>
+
+127
+00:07:37,146 --> 00:07:39,786
+<font color=#FFFF00>Die Idee dahinter ist:</font>
+
+128
+00:07:40,026 --> 00:07:42,586
+<font color=#FFFF00>Wir haben das Gemüse aufgeschnitten.</font>
+
+129
+00:07:42,706 --> 00:07:44,946
+<font color=#FFFF00>Dann streue ich jetzt</font>
+<font color=#FFFF00>das Salz drauf.</font>
+
+130
+00:07:45,386 --> 00:07:49,546
+<font color=#FFFF00>Das Wasser geht dann raus</font>
+<font color=#FFFF00>und die Zellstruktur öffnet sich.</font>
+
+131
+00:07:51,946 --> 00:07:54,866
+<font color=#FFFF00>Dann wird es schnell gar.</font>
+
+132
+00:07:57,626 --> 00:07:59,786
+<font color=#FFFF00>Rhabarber ist ja ein Gemüse.</font>
+
+133
+00:08:00,306 --> 00:08:03,466
+<font color=#00FFFF>Das heißt,</font>
+<font color=#00FFFF>Rhabarberkuchen ist Gemüsekuchen.</font>
+
+134
+00:08:04,346 --> 00:08:06,906
+<font color=#FFFF00>Letztendlich ja.</font>
+
+135
+00:08:08,386 --> 00:08:12,066
+<font color=#FFFF00>Wir können uns jetzt</font>
+<font color=#FFFF00>der Hollandaise widmen.</font>
+
+136
+00:08:17,426 --> 00:08:20,946
+<font color=#00FFFF>Könnte man das</font>
+<font color=#00FFFF>mit dem Pürierer machen?</font>
+
+137
+00:08:21,386 --> 00:08:24,866
+<font color=#FFFF00>Das wäre etwas schwieriger.</font>
+
+138
+00:08:25,786 --> 00:08:30,146
+<font color=#FFFF00>Ich würde das mit 'nem Schneebesen</font>
+<font color=#FFFF00>machen auf 'ner Kasserolle.</font>
+
+139
+00:08:31,306 --> 00:08:35,346
+<font color=#FFFF00>Ich habe Eigelbe getrennt</font>
+<font color=#FFFF00>und in den Topf getan.</font>
+
+140
+00:08:35,826 --> 00:08:39,106
+<font color=#FFFF00>Da kommt noch Rhabarbersaft hinzu.</font>
+
+141
+00:08:39,226 --> 00:08:41,586
+<font color=#FFFF00>Das schlag ich auf dem Feuer auf.</font>
+
+142
+00:08:42,466 --> 00:08:44,986
+<font color=#FFFF00>Den Spargel lassen wir noch ziehen.</font>
+
+143
+00:08:47,026 --> 00:08:49,026
+<font color=#FFFF00>Siehst du die Bläschen?</font>
+
+144
+00:08:52,026 --> 00:08:56,346
+<font color=#FFFF00>Wenn die verschwunden sind,</font>
+<font color=#FFFF00>mache ich die Butter hinzu.</font>
+
+145
+00:09:00,466 --> 00:09:03,986
+<font color=#00FFFF>Ich mach schon mal den Spargel</font>
+<font color=#00FFFF>in die Pfanne.</font>
+
+146
+00:09:05,826 --> 00:09:08,426
+<font color=#FFFF00>Mit dem Schnittbild nach oben.</font>
+
+147
+00:09:13,266 --> 00:09:15,906
+<font color=#FFFF00>Ich nehme mal</font>
+<font color=#FFFF00>deinen tollen Gewürzrub.</font>
+
+148
+00:09:18,426 --> 00:09:20,946
+<font color=#FFFF00>Da braucht man</font>
+<font color=#FFFF00>nicht zimperlich sein.</font>
+
+149
+00:09:21,346 --> 00:09:23,546
+<font color=#FFFF00>So 200 Grad für 16, 18 Minuten.</font>
+
+150
+00:09:27,626 --> 00:09:29,906
+<font color=#FFFF00>Das hast du sehr schön gemacht.</font>
+
+151
+00:09:33,466 --> 00:09:35,986
+<font color=#FFFF00>Das geht direkt in den Backofen.</font>
+
+152
+00:09:37,186 --> 00:09:39,866
+<font color=#FFFF00>du hast den Spargel im Blick? </font>
+<font color=#00FFFF>Ja.</font>
+
+153
+00:09:43,786 --> 00:09:46,626
+<font color=#00FFFF>Wie lange</font>
+<font color=#00FFFF>bleibt das Fleisch im Ofen?</font>
+
+154
+00:09:46,786 --> 00:09:50,106
+<font color=#FFFF00>Ca. 20 Minuten.</font>
+
+155
+00:09:51,386 --> 00:09:53,826
+<font color=#00FFFF>Hast du dafür eine braune Soße?</font>
+
+156
+00:09:54,186 --> 00:09:56,106
+<font color=#FFFF00>Das ist meine Hollandaise.</font>
+
+157
+00:09:56,706 --> 00:09:59,626
+<font color=#FFFF00>Die hab ich schon vorbereitet.</font>
+
+158
+00:10:05,626 --> 00:10:08,026
+<font color=#FFFF00>Jetzt grillt das schön an.</font>
+
+159
+00:10:08,266 --> 00:10:10,946
+<font color=#FFFF00>Dann mach ich noch etwas Öl rauf.</font>
+
+160
+00:10:12,786 --> 00:10:15,226
+<font color=#FFFF00>Hörst du das? So muss das klingen.</font>
+
+161
+00:10:17,346 --> 00:10:21,786
+<font color=#00FFFF>Wenn Sie das riechen könnten,</font>
+<font color=#00FFFF>das ist atemberaubend.</font>
+
+162
+00:10:23,026 --> 00:10:26,626
+<font color=#FFFF00>Ich hab das Eigelb aufgeschlagen</font>
+<font color=#FFFF00>mit etwas Butter.</font>
+
+163
+00:10:27,106 --> 00:10:30,546
+<font color=#FFFF00>Jetzt kommt Blaubeersenf rein.</font>
+
+164
+00:10:31,066 --> 00:10:34,546
+<font color=#FFFF00>Man kann auch</font>
+<font color=#FFFF00>Blaubeermarmelade nehmen.</font>
+
+165
+00:10:38,466 --> 00:10:41,986
+<font color=#FFFF00>Und ein bisschen Rhabarbersaft.</font>
+
+166
+00:10:45,946 --> 00:10:50,026
+<font color=#FFFF00>Ich brauche noch etwas braunen</font>
+<font color=#FFFF00>Zucker für die Hollandaise.</font>
+
+167
+00:10:50,866 --> 00:10:53,066
+<font color=#FFFF00>Das passt.</font>
+
+168
+00:10:53,226 --> 00:10:56,586
+<font color=#FFFF00>Dann sind wir fast startklar.</font>
+
+169
+00:10:58,346 --> 00:11:01,826
+<font color=#00FFFF>Ich hol schon mal das Fleisch.</font>
+<font color=#FFFF00>Gerne.</font>
+
+170
+00:11:04,066 --> 00:11:06,266
+<font color=#FFFF00>Ich bin startklar.</font>
+
+171
+00:11:10,306 --> 00:11:12,346
+<font color=#00FFFF>Ich gebe dir das mal rüber.</font>
+
+172
+00:11:17,266 --> 00:11:20,386
+<font color=#00FFFF>Ich mag das,</font>
+<font color=#00FFFF>wenn es am Ende hektisch wird.</font>
+
+173
+00:11:20,986 --> 00:11:23,426
+<font color=#00FFFF>Hat was von Restaurant-Küche.</font>
+
+174
+00:11:27,946 --> 00:11:31,266
+<font color=#FFFF00>Jetzt haben wir den Spargel</font>
+<font color=#FFFF00>schön angebraten.</font>
+
+175
+00:11:31,586 --> 00:11:34,386
+<font color=#FFFF00>Der darf noch Farbe haben.</font>
+
+176
+00:11:35,466 --> 00:11:37,746
+<font color=#00FFFF>Ein schönes Grillmuster.</font>
+
+177
+00:11:43,266 --> 00:11:46,106
+<font color=#00FFFF>Wir brauchen noch Messer und Gabel.</font>
+
+178
+00:11:48,346 --> 00:11:51,346
+<font color=#FFFF00>Das Landhuhn schneide ich noch auf.</font>
+
+179
+00:11:55,866 --> 00:11:59,346
+<font color=#00FFFF>Bevor wir gleich überleiten ...</font>
+
+180
+00:12:02,266 --> 00:12:05,506
+<font color=#00FFFF>Zora Klipp ist heute bei DAS!</font>
+
+181
+00:12:08,266 --> 00:12:10,826
+<font color=#00FFFF>Sie kocht ja auch bei uns.</font>
+
+182
+00:12:16,986 --> 00:12:20,946
+<font color=#FFFF00>Du kriegst noch etwas</font>
+<font color=#FFFF00>vom Koriander und von der Minze.</font>
+
+183
+00:12:23,186 --> 00:12:24,986
+<font color=#FFFF00>Guten Appetit.</font>
+
+184
+00:12:25,386 --> 00:12:27,186
+<font color=#00FFFF>Wahnsinn.</font>
+
+185
+00:12:28,826 --> 00:12:32,346
+<font color=#00FFFF>Ich will erst</font>
+<font color=#00FFFF>den Rhabarber probieren.</font>
+
+186
+00:12:37,026 --> 00:12:38,426
+<font color=#00FFFF>Ein Traum.</font>
+
+187
+00:12:39,666 --> 00:12:41,826
+<font color=#00FFFF>Dann noch mal das Landhuhn.</font>
+
+188
+00:12:43,226 --> 00:12:44,866
+<font color=#00FFFF>Das ist super.</font>
+
+189
+00:12:47,186 --> 00:12:49,066
+<font color=#00FFFF>Ein Traum.</font>
+
+190
+00:12:49,226 --> 00:12:53,146
+<font color=#00FFFF>Auf unserer Homepage</font>
+<font color=#00FFFF>können Sie das Rezept nachlesen.</font>
+

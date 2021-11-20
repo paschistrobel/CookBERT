@@ -1,0 +1,800 @@
+1
+00:00:04,007 --> 00:00:08,003
+<font color=#ffffff>Da ist er.</font>
+
+2
+00:00:08,019 --> 00:00:12,007
+<font color=#ffffff>Noch mal herzlich willkommen.</font>
+
+3
+00:00:15,000 --> 00:00:18,019
+<font color=#ffffff>Wir kochen heute Pasta Spezial.</font>
+
+4
+00:00:21,018 --> 00:00:25,021
+<font color=#ffffff>Wir haben diese Woche auch schon</font>
+<font color=#ffffff>über Intervallfasten gesprochen.</font>
+
+5
+00:00:28,018 --> 00:00:32,020
+<font color=#ffffff>Das passt mit Abnehmen und Pasta</font>
+<font color=#ffffff>nicht zusammen.</font>
+
+6
+00:00:33,011 --> 00:00:37,008
+<font color=#ffff00>Man muss einfach ein paar Sachen</font>
+<font color=#ffff00>beachten.</font>
+
+7
+00:00:37,012 --> 00:00:41,012
+<font color=#ffff00>Natürlich sind Nudeln Kohlehydrate.</font>
+
+8
+00:00:41,016 --> 00:00:45,012
+<font color=#ffff00>Aber es gibt auch Nudeln aus</font>
+<font color=#ffff00>Kichererbsen.</font>
+
+9
+00:00:46,019 --> 00:00:50,018
+<font color=#ffff00>Das können wir uns mit einem</font>
+<font color=#ffff00>Parmesan.</font>
+
+10
+00:00:55,000 --> 00:00:59,005
+<font color=#ffff00>Und mit Safran-Tomaten,</font>
+<font color=#ffff00>Parmaschinken und einer Melone.</font>
+
+11
+00:00:59,013 --> 00:01:01,024
+<font color=#ffffff>Die Nudeln sehen etwas anders aus.</font>
+
+12
+00:01:02,010 --> 00:01:06,000
+<font color=#ffffff>Schmecken sie auch anders?</font>
+
+13
+00:01:11,009 --> 00:01:15,010
+<font color=#ffff00>Sie schmecken etwas anders, sind</font>
+<font color=#ffff00>etwas nussiger.</font>
+
+14
+00:01:16,001 --> 00:01:18,023
+<font color=#ffff00>Beim Kochen muss man aufpassen.</font>
+
+15
+00:01:19,014 --> 00:01:23,002
+<font color=#ffff00>Sie werden schnell zu weich.</font>
+
+16
+00:01:24,022 --> 00:01:27,024
+<font color=#ffffff>Kriegst du es auf den Punkt?</font>
+
+17
+00:01:28,013 --> 00:01:32,001
+<font color=#ffff00>Wir passen beide auf.</font>
+
+18
+00:01:33,022 --> 00:01:38,001
+<font color=#ffffff>Das Rezept ist aus unserem</font>
+<font color=#ffffff>gemeinsamen Buch.</font>
+
+19
+00:01:38,021 --> 00:01:43,000
+<font color=#ffffff>Der MDR und Christian Hinze.</font>
+
+20
+00:01:45,024 --> 00:01:50,002
+<font color=#ffffff>Schlank geht auch anders, so heißt</font>
+<font color=#ffffff>das Buch.</font>
+
+21
+00:01:51,015 --> 00:01:55,015
+<font color=#ffffff>Auf Seite 186 finden Sie es.</font>
+
+22
+00:02:07,011 --> 00:02:11,007
+<font color=#ffffff>Ich spreche.</font>
+
+23
+00:02:12,007 --> 00:02:16,008
+<font color=#ffffff>Dieses Buch ist ein</font>
+<font color=#ffffff>Verkaufsschlager.</font>
+
+24
+00:02:17,007 --> 00:02:21,009
+<font color=#ffffff>Jetzt musst du liefern.</font>
+
+25
+00:02:22,015 --> 00:02:26,016
+<font color=#ffff00>Wir machen einen knusprigen</font>
+<font color=#ffff00>Parmesan.</font>
+
+26
+00:02:27,003 --> 00:02:30,022
+<font color=#ffff00>Man nennt ihn auch das mediterrane</font>
+<font color=#ffff00>Gold.</font>
+
+27
+00:02:31,009 --> 00:02:34,014
+<font color=#ffff00>Bitte kaufen sie ihn nicht</font>
+<font color=#ffff00>gerieben.</font>
+
+28
+00:02:35,001 --> 00:02:38,016
+<font color=#ffff00>Den muss man immer am Stück kaufen.</font>
+
+29
+00:02:41,011 --> 00:02:45,001
+<font color=#ffff00>1/4 davon schreibst du auf der</font>
+<font color=#ffff00>groben Seite.</font>
+
+30
+00:02:45,015 --> 00:02:48,024
+<font color=#ffff00>--reibst</font>
+
+31
+00:02:52,004 --> 00:02:56,004
+<font color=#ffffff>ich nehme 1/3.</font>
+
+32
+00:02:57,005 --> 00:03:01,003
+<font color=#ffff00>Dazu mache ich Safran-Tomaten.</font>
+
+33
+00:03:05,011 --> 00:03:09,007
+<font color=#ffff00>Es soll gesund sein, wir 8. auf</font>
+<font color=#ffff00>verschiedene Faktoren.</font>
+
+34
+00:03:11,020 --> 00:03:15,022
+<font color=#ffff00>Schlank geht auch anders, heißt,</font>
+
+35
+00:03:19,003 --> 00:03:23,008
+<font color=#ffff00>wir bedienen uns der modernsten</font>
+<font color=#ffff00>ernährungsphysiologischen</font>
+
+36
+00:03:25,006 --> 00:03:29,006
+<font color=#ffff00>Faktoren.</font>
+
+37
+00:03:30,009 --> 00:03:34,009
+<font color=#ffff00>Knoblauch, Olivenöl, Tomate.</font>
+
+38
+00:03:39,007 --> 00:03:43,007
+<font color=#ffff00>Das ist wirklich etwas besonderes.</font>
+
+39
+00:03:47,001 --> 00:03:50,023
+<font color=#ffff00>Rene ist der anspruchsvollste</font>
+<font color=#ffff00>Tester.</font>
+
+40
+00:03:54,021 --> 00:03:58,020
+<font color=#ffffff>Johann Lafer machte Königsberger</font>
+<font color=#ffffff>Clubs.</font>
+
+41
+00:03:59,012 --> 00:04:02,021
+<font color=#ffffff>--Klopse.</font>
+
+42
+00:04:10,012 --> 00:04:14,005
+<font color=#ffff00>Also Safran-Tomaten.</font>
+
+43
+00:04:14,023 --> 00:04:19,006
+<font color=#ffff00>Ganz normale, reife Tomaten.</font>
+
+44
+00:04:19,014 --> 00:04:23,000
+<font color=#ffff00>Es sieht gut aus, was du gemacht</font>
+<font color=#ffff00>hast.</font>
+
+45
+00:04:23,011 --> 00:04:26,024
+<font color=#ffff00>Wir haben hier Backpapier drunter</font>
+<font color=#ffff00>gelegt.</font>
+
+46
+00:04:27,014 --> 00:04:30,003
+<font color=#ffff00>Da muss man im Nachhinein nicht</font>
+<font color=#ffff00>putzen.</font>
+
+47
+00:04:30,015 --> 00:04:33,004
+<font color=#ffff00>Das kommt jetzt in den Ofen.</font>
+
+48
+00:04:33,016 --> 00:04:36,013
+<font color=#ffffff>Geputzt hättest du ja.</font>
+
+49
+00:04:36,023 --> 00:04:40,014
+<font color=#ffffff>Du hast jetzt also Arbeit gespart.</font>
+
+50
+00:04:45,004 --> 00:04:48,015
+<font color=#ffff00>Knoblauch, Olivenöl, Tomaten,</font>
+<font color=#ffff00>Lorbeerblätter, dazu Honig.</font>
+
+51
+00:04:48,023 --> 00:04:50,022
+<font color=#ffffff>Ein Löffelchen?</font>
+
+52
+00:04:51,006 --> 00:04:54,021
+<font color=#ffff00>Ja.</font>
+
+53
+00:04:55,012 --> 00:04:57,010
+<font color=#ffff00>Und dann das teuerste Gewürz der</font>
+<font color=#ffff00>Welt.</font>
+
+54
+00:04:57,017 --> 00:05:01,014
+<font color=#ffff00>Safran.</font>
+
+55
+00:05:03,004 --> 00:05:07,002
+<font color=#ffff00>Safran ist kulinarisch ganz weit</font>
+<font color=#ffff00>vorn.</font>
+
+56
+00:05:11,015 --> 00:05:14,008
+<font color=#ffff00>Er ist ein bisschen scharf, da tut</font>
+<font color=#ffff00>sich was.</font>
+
+57
+00:05:14,024 --> 00:05:18,010
+<font color=#ffff00>Es ist einfach lecker.</font>
+
+58
+00:05:21,008 --> 00:05:25,002
+<font color=#ffff00>Zu dem Honig passt ein Schluck</font>
+<font color=#ffff00>Essig.</font>
+
+59
+00:05:29,004 --> 00:05:33,003
+<font color=#ffff00>Noch Salz dazu und fertig sind die</font>
+<font color=#ffff00>Safran-Tomaten.</font>
+
+60
+00:05:34,019 --> 00:05:38,017
+<font color=#ffff00>Fertig.</font>
+
+61
+00:05:41,019 --> 00:05:45,018
+<font color=#ffff00>Der Topf war zu heiß.</font>
+
+62
+00:05:46,004 --> 00:05:50,000
+<font color=#ffffff>Ich wollte das mit dem Honig aus</font>
+<font color=#ffffff>testen.</font>
+
+63
+00:05:52,009 --> 00:05:56,006
+<font color=#ffff00>Wir kommen zu den Nudeln.</font>
+
+64
+00:05:58,024 --> 00:06:02,017
+<font color=#ffff00>Kichererbsen, Linsen, davon gibt es</font>
+<font color=#ffff00>Nudeln.</font>
+
+65
+00:06:03,006 --> 00:06:05,021
+<font color=#ffff00>Die haben weniger Kohlehydrate.</font>
+
+66
+00:06:06,006 --> 00:06:09,021
+<font color=#ffff00>Sie sehen aus wie normale Nudeln.</font>
+
+67
+00:06:10,006 --> 00:06:13,018
+<font color=#ffff00>Aber sie werden beim Kochen schnell</font>
+<font color=#ffff00>weich.</font>
+
+68
+00:06:14,004 --> 00:06:17,017
+<font color=#ffff00>Ich werfe sie in kochendes</font>
+<font color=#ffff00>Salzwasser.</font>
+
+69
+00:06:20,014 --> 00:06:24,009
+<font color=#ffffff>Normale Nudeln kocht man nach</font>
+<font color=#ffffff>Gefühl.</font>
+
+70
+00:06:24,017 --> 00:06:28,009
+<font color=#ffffff>Aber bei Diesel muss man drauf 8..</font>
+
+71
+00:06:28,012 --> 00:06:32,010
+<font color=#ffff00>Ich probiere ab und zu mal.</font>
+
+72
+00:06:38,001 --> 00:06:41,023
+<font color=#ffffff>Was sagt denn das Rezept Buch zu der</font>
+<font color=#ffffff>Zeit?</font>
+
+73
+00:06:42,020 --> 00:06:46,021
+<font color=#ffff00>Es kommt auch immer auf die Nudeln</font>
+<font color=#ffff00>drauf an.</font>
+
+74
+00:06:47,012 --> 00:06:51,004
+<font color=#ffff00>Man muss auf die Packungsbeilage</font>
+<font color=#ffff00>gucken.</font>
+
+75
+00:06:56,009 --> 00:06:59,006
+<font color=#ffff00>Wir haben unseren Parmesan</font>
+<font color=#ffff00>Backofen.</font>
+
+76
+00:06:59,015 --> 00:07:03,000
+<font color=#ffff00>Der wird schön knusprig.</font>
+
+77
+00:07:03,012 --> 00:07:07,000
+<font color=#ffff00>Aufpassen, dass er nicht zu dunkel</font>
+<font color=#ffff00>wird.</font>
+
+78
+00:07:07,009 --> 00:07:09,024
+<font color=#ffff00>Wir haben schon die Safran-Tomaten</font>
+<font color=#ffff00>fertig.</font>
+
+79
+00:07:10,015 --> 00:07:13,002
+<font color=#ffff00>Und jetzt kochen die Nudeln.</font>
+
+80
+00:07:13,018 --> 00:07:17,003
+<font color=#ffff00>Jetzt machen wir noch Sauce.</font>
+
+81
+00:07:17,019 --> 00:07:21,011
+<font color=#ffff00>Wir schneiden eine Zwiebel.</font>
+
+82
+00:07:24,000 --> 00:07:28,004
+<font color=#ffffff>Ich habe mir angewöhnt, die Zwiebel</font>
+<font color=#ffffff>einzuschreiten.</font>
+
+83
+00:07:29,023 --> 00:07:33,021
+<font color=#ffffff>Freunde sind immer begeistert.</font>
+
+84
+00:07:34,004 --> 00:07:37,022
+<font color=#ffffff>Ich sage mal, ich habe es bei dir</font>
+<font color=#ffffff>gelernt.</font>
+
+85
+00:07:38,017 --> 00:07:42,014
+<font color=#ffff00>Kannst du bitte noch etwas Parmesan</font>
+<font color=#ffff00>reiben?</font>
+
+86
+00:07:48,001 --> 00:07:51,022
+<font color=#ffff00>Wir machen eine einfache Parmesan-</font>
+<font color=#ffff00>Sauce.</font>
+
+87
+00:07:54,001 --> 00:07:58,003
+<font color=#ffff00>Die Zwiebeln werden an geschwitzt</font>
+<font color=#ffff00>und mit Sahne abgelöscht.</font>
+
+88
+00:08:02,001 --> 00:08:05,023
+<font color=#ffff00>Man fragt sich, wie das mit</font>
+<font color=#ffff00>Abnehmen zusammenpasst.</font>
+
+89
+00:08:08,008 --> 00:08:12,013
+<font color=#ffff00>Es passt, wenn man nur etwas Sahne</font>
+<font color=#ffff00>nimmt.</font>
+
+90
+00:08:12,020 --> 00:08:15,003
+<font color=#ffff00>Eine Diät wird am Herd entschieden.</font>
+
+91
+00:08:15,012 --> 00:08:19,006
+<font color=#ffff00>Es muss schmecken.</font>
+
+92
+00:08:19,018 --> 00:08:23,018
+<font color=#ffffff>Das hat Herr Lafer auch gesagt.</font>
+
+93
+00:08:24,005 --> 00:08:27,018
+<font color=#ffffff>Wenn es nicht schmeckt, funktioniert</font>
+<font color=#ffffff>es nicht.</font>
+
+94
+00:08:28,007 --> 00:08:31,013
+<font color=#ffffff>Dann macht man nach 2 Wochen nicht</font>
+<font color=#ffffff>weiter.</font>
+
+95
+00:08:32,004 --> 00:08:36,000
+<font color=#ffff00>Es gibt eine große Gemeinschaft.</font>
+
+96
+00:08:37,021 --> 00:08:42,002
+<font color=#ffffff>Das stimmt, wir haben eine eigene</font>
+<font color=#ffffff>Facebook-Gruppe.</font>
+
+97
+00:08:43,023 --> 00:08:47,020
+<font color=#ffffff>Wir haben über 4000 Mitglieder.</font>
+
+98
+00:08:51,015 --> 00:08:54,018
+<font color=#ffffff>Hier können Sie alles nachverfolgen.</font>
+
+99
+00:08:55,006 --> 00:08:58,017
+<font color=#ffffff>Es gibt viele Tipps.</font>
+
+100
+00:09:00,014 --> 00:09:04,017
+<font color=#ffffff>Ich lobe dich und du bist immer so</font>
+<font color=#ffffff>laut.</font>
+
+101
+00:09:06,019 --> 00:09:10,022
+<font color=#ffffff>Es gibt Menschen, die mitmachen und</font>
+<font color=#ffffff>Tipps teilen.</font>
+
+102
+00:09:12,021 --> 00:09:16,020
+<font color=#ffffff>Auch das finden Sie im Internet.</font>
+
+103
+00:09:19,012 --> 00:09:22,011
+<font color=#ffffff>Was sagt die Kichererbsen?</font>
+
+104
+00:09:23,000 --> 00:09:26,011
+<font color=#ffff00>Der geht es gut.</font>
+
+105
+00:09:29,000 --> 00:09:33,001
+<font color=#ffff00>Ich habe noch ein bisschen berührt</font>
+<font color=#ffff00>und Parmesan zur Sauce gegeben.</font>
+
+106
+00:09:34,015 --> 00:09:38,019
+<font color=#ffff00>Ich liebe Parmesan.</font>
+
+107
+00:09:40,001 --> 00:09:42,008
+<font color=#ffffff>Ich kann den auch einfach am Stück</font>
+<font color=#ffffff>essen.</font>
+
+108
+00:09:42,023 --> 00:09:46,011
+<font color=#ffffff>Sehr lecker.</font>
+
+109
+00:09:46,019 --> 00:09:50,013
+<font color=#ffff00>Die Sauce kommt kein Mail oder so.</font>
+
+110
+00:09:51,000 --> 00:09:54,016
+<font color=#ffff00>--Mehl</font>
+
+111
+00:10:00,002 --> 00:10:04,003
+<font color=#ffff00>die Nudeln sind von der Konsistenz,</font>
+<font color=#ffff00>ich geb dir mal eine...</font>
+
+112
+00:10:05,018 --> 00:10:09,022
+<font color=#ffff00>Die sind von der Konsistenz anders</font>
+<font color=#ffff00>als normale Nudeln.</font>
+
+113
+00:10:10,010 --> 00:10:14,003
+<font color=#ffffff>Sie sind etwas mehlig.</font>
+
+114
+00:10:21,000 --> 00:10:24,011
+<font color=#ffff00>Ich bin nicht klein, aber das hier</font>
+<font color=#ffff00>ist hoch.</font>
+
+115
+00:10:24,024 --> 00:10:27,017
+<font color=#ffffff>Ich gucke mal für dich.</font>
+
+116
+00:10:28,011 --> 00:10:31,008
+<font color=#ffffff>Kein Problem, ich kann rein gucken.</font>
+
+117
+00:10:31,020 --> 00:10:34,018
+<font color=#ffffff>Der Parmesan muss noch ein bisschen.</font>
+
+118
+00:10:35,010 --> 00:10:37,023
+<font color=#ffff00>Ich gieße die Nudeln jetzt ab.</font>
+
+119
+00:10:38,009 --> 00:10:41,011
+<font color=#ffff00>Ja, die müssen raus.</font>
+
+120
+00:10:42,002 --> 00:10:45,015
+<font color=#ffff00>Sie ziehen in der Sauce noch nach.</font>
+
+121
+00:10:51,004 --> 00:10:55,005
+<font color=#ffff00>Und dann kommen sie in die Sauce</font>
+<font color=#ffff00>rein.</font>
+
+122
+00:10:57,006 --> 00:11:01,008
+<font color=#ffffff>Ich verstehe, die ziehen nach.</font>
+
+123
+00:11:02,011 --> 00:11:04,021
+<font color=#ffff00>Oh je, dass Zitronenöl.</font>
+
+124
+00:11:05,006 --> 00:11:07,017
+<font color=#ffff00>Das war Glück.</font>
+
+125
+00:11:08,004 --> 00:11:11,013
+<font color=#ffff00>Das sind die Nudeln.</font>
+
+126
+00:11:17,003 --> 00:11:21,000
+<font color=#ffff00>Der Parmesan braucht noch.</font>
+
+127
+00:11:27,005 --> 00:11:31,005
+<font color=#ffff00>Was soll ich machen?</font>
+
+128
+00:11:31,013 --> 00:11:35,005
+<font color=#ffffff>Ich habe eine Frage zur Melone.</font>
+
+129
+00:11:38,005 --> 00:11:40,008
+<font color=#ffffff>Du hast an der Melone geklopft.</font>
+
+130
+00:11:40,020 --> 00:11:44,006
+<font color=#ffffff>Warum?</font>
+
+131
+00:11:56,002 --> 00:12:00,001
+<font color=#ffffff>Wie überprüfst du die Qualität der</font>
+<font color=#ffffff>Melone?</font>
+
+132
+00:12:00,015 --> 00:12:04,018
+<font color=#ffff00>Sehr gut funktioniert das bei einer</font>
+<font color=#ffff00>Wassermelone.</font>
+
+133
+00:12:07,011 --> 00:12:11,009
+<font color=#ffff00>Wenn sie stumpf klingt, ist das</font>
+<font color=#ffff00>Fruchtfleisch wahrscheinlich weich.</font>
+
+134
+00:12:11,017 --> 00:12:14,009
+<font color=#ffff00>Bei der hier bin ich nicht ganz</font>
+<font color=#ffff00>sicher.</font>
+
+135
+00:12:14,016 --> 00:12:18,010
+<font color=#ffff00>Aber ich glaube, sie ist gut.</font>
+
+136
+00:12:20,003 --> 00:12:24,009
+<font color=#ffffff>Sie müssen einem bestimmenden Klang</font>
+<font color=#ffffff>haben?</font>
+
+137
+00:12:24,022 --> 00:12:28,006
+<font color=#ffff00>Sie solle nicht stumpf klingen.</font>
+
+138
+00:12:47,004 --> 00:12:50,022
+<font color=#ffff00>Schneide mal an der Spitze die</font>
+<font color=#ffff00>Chilis..</font>
+
+139
+00:12:51,007 --> 00:12:55,000
+<font color=#ffffff>Ist es angebrannt?</font>
+
+140
+00:12:55,006 --> 00:12:59,005
+<font color=#ffff00>So muss es ausschauen.</font>
+
+141
+00:13:07,017 --> 00:13:11,019
+<font color=#ffff00>Das lassen wir kalt werden.</font>
+
+142
+00:13:12,002 --> 00:13:15,003
+<font color=#ffff00>Die Pasta ist fertig.</font>
+
+143
+00:13:15,019 --> 00:13:19,006
+<font color=#ffff00>Und die Melone sieht toll aus.</font>
+
+144
+00:13:28,005 --> 00:13:32,004
+<font color=#ffffff>Was für eine Melone ist das?</font>
+
+145
+00:13:32,016 --> 00:13:36,015
+<font color=#ffff00>Sie richtig schön süßlich.</font>
+
+146
+00:13:39,021 --> 00:13:43,024
+<font color=#ffff00>Wir haben Glück mit dieser</font>
+<font color=#ffff00>Honigmelone.</font>
+
+147
+00:13:45,010 --> 00:13:49,006
+<font color=#ffff00>Es gibt zu den Nudeln einen schönen</font>
+<font color=#ffff00>Salat.</font>
+
+148
+00:13:49,022 --> 00:13:53,010
+<font color=#ffffff>Was machen wir mit dem roten Zeug?</font>
+
+149
+00:14:01,023 --> 00:14:06,001
+<font color=#ffff00>Chili ist eines der beliebtesten</font>
+<font color=#ffff00>Gewürze weltweit.</font>
+
+150
+00:14:08,003 --> 00:14:12,003
+<font color=#ffffff>Natürlich haben wir das Rezept auch</font>
+<font color=#ffffff>auf unserer Internetseite.</font>
+
+151
+00:14:18,006 --> 00:14:21,024
+<font color=#ffffff>Sie können auch den QR-Code</font>
+<font color=#ffffff>einscannen.</font>
+
+152
+00:14:24,000 --> 00:14:27,022
+<font color=#ffffff>Hier sehen Sie das Rezept.</font>
+
+153
+00:14:29,004 --> 00:14:33,000
+<font color=#ffffff>Es liegt gleich auf unserer</font>
+<font color=#ffffff>Ratgeber-Startseite.</font>
+
+154
+00:14:35,023 --> 00:14:39,019
+<font color=#ffffff>Hier ist auch die Einkaufsliste und</font>
+<font color=#ffffff>die Beschreibung.</font>
+
+155
+00:14:40,006 --> 00:14:43,019
+<font color=#ffffff>Und so soll es am Ende aussehen.</font>
+
+156
+00:14:46,008 --> 00:14:50,005
+<font color=#ffff00>Ich tue mein Bestes, dass es so</font>
+<font color=#ffff00>aussieht.</font>
+
+157
+00:14:53,014 --> 00:14:57,016
+<font color=#ffff00>Dort kommt der Chili ran.</font>
+
+158
+00:15:00,002 --> 00:15:04,002
+<font color=#ffff00>Ich habe Zitronenöl, das ist sehr</font>
+<font color=#ffff00>fein.</font>
+
+159
+00:15:05,005 --> 00:15:08,011
+<font color=#ffff00>Dazu noch schwarzer Pfeffer und</font>
+<font color=#ffff00>eine Prise Salz.</font>
+
+160
+00:15:08,023 --> 00:15:12,010
+<font color=#ffff00>Pinienkerne.</font>
+
+161
+00:15:20,002 --> 00:15:24,001
+<font color=#ffffff>Es gibt so einen Typ aus Dubai, der</font>
+<font color=#ffffff>immer das Salz so wirft.</font>
+
+162
+00:15:30,005 --> 00:15:34,006
+<font color=#ffff00>Wir kommen zum schönsten Teil, zum</font>
+<font color=#ffff00>anrichten.</font>
+
+163
+00:15:34,012 --> 00:15:38,011
+<font color=#ffff00>Ich dachte, das Essen.</font>
+
+164
+00:15:39,013 --> 00:15:43,012
+<font color=#ffff00>Zieh mal den Parmesan vom</font>
+<font color=#ffff00>Backpapier.</font>
+
+165
+00:15:46,007 --> 00:15:49,020
+<font color=#ffff00>Jetzt könntest du den etwas zupfen.</font>
+
+166
+00:15:50,015 --> 00:15:53,021
+<font color=#ffff00>Ich richte die Nudeln an.</font>
+
+167
+00:15:58,024 --> 00:16:02,023
+<font color=#ffff00>Ich mache das jetzt ganz langsam.</font>
+
+168
+00:16:06,004 --> 00:16:10,000
+<font color=#ffff00>Kochen hat viel mit Erotik zu tun.</font>
+
+169
+00:16:10,015 --> 00:16:13,024
+<font color=#ffffff>Auch wenn du kochst?</font>
+
+170
+00:16:19,017 --> 00:16:23,016
+<font color=#ffff00>Ich kann ja mal nur mit Schürze</font>
+<font color=#ffff00>kochen.</font>
+
+171
+00:16:24,017 --> 00:16:28,013
+<font color=#ffff00>Nein, wir konzentrieren uns auf das</font>
+<font color=#ffff00>Rezept.</font>
+
+172
+00:16:29,008 --> 00:16:33,008
+<font color=#ffff00>Hierauf kommen die Safran-Tomaten.</font>
+
+173
+00:16:46,011 --> 00:16:50,005
+<font color=#ffff00>Und streust da den Kusper-Parmesan</font>
+<font color=#ffff00>rauf.</font>
+
+174
+00:16:56,020 --> 00:17:00,020
+<font color=#ffff00>Und dazu den ganz einfachen</font>
+<font color=#ffff00>Melonensalat.</font>
+
+175
+00:17:03,001 --> 00:17:07,001
+<font color=#ffff00>Dazu kommt der gebratene</font>
+<font color=#ffff00>Parmaschinken.</font>
+
+176
+00:17:11,005 --> 00:17:15,005
+<font color=#ffff00>Es kann einfach ein roher Schinken</font>
+<font color=#ffff00>sein.</font>
+
+177
+00:17:23,001 --> 00:17:27,002
+<font color=#ffff00>Dann hat man die Melone, den</font>
+<font color=#ffff00>Schinken, das schmeckt super.</font>
+
+178
+00:17:28,008 --> 00:17:32,009
+<font color=#ffff00>Die Pasta hat nicht so viele</font>
+<font color=#ffff00>Kohlenhydrate.</font>
+
+179
+00:17:33,000 --> 00:17:36,018
+<font color=#ffff00>Die kann man sich mal gönnen</font>
+<font color=#ffff00>zusammen mit dem Parmesan.</font>
+

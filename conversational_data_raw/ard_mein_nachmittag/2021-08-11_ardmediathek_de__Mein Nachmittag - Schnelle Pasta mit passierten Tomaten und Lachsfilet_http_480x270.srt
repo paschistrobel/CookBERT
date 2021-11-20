@@ -1,0 +1,449 @@
+1
+00:00:01,898 --> 00:00:05,378
+<font color=#00FFFF>Vielen Dank.</font>
+
+2
+00:00:05,458 --> 00:00:06,898
+<font color=#00FFFF>Ich wechsel den Ort.</font>
+
+3
+00:00:06,978 --> 00:00:09,818
+<font color=#00FFFF>Von der Finanzberatung</font>
+<font color=#00FFFF>zur Magenberatung.</font>
+
+4
+00:00:11,658 --> 00:00:13,938
+<font color=#FFFF00>Keine Magenberatung ohne Arbeit.</font>
+
+5
+00:00:14,818 --> 00:00:16,618
+<font color=#FFFF00>Ich schieb dir was rüber.</font>
+
+6
+00:00:17,178 --> 00:00:19,538
+<font color=#00FFFF>Hannes macht eine schnelle Pasta.</font>
+
+7
+00:00:26,778 --> 00:00:29,338
+<font color=#FFFF00>Du darfst</font>
+<font color=#FFFF00>die Kirschtomaten vierteln.</font>
+
+8
+00:00:36,658 --> 00:00:40,498
+<font color=#FFFF00>Ich versuche, eine erfrischende</font>
+<font color=#FFFF00>Tomatensauce zu machen.</font>
+
+9
+00:00:42,258 --> 00:00:44,618
+<font color=#FFFF00>Die Kirschtomate ist dafür ideal.</font>
+
+10
+00:00:46,698 --> 00:00:48,898
+<font color=#FFFF00>Aber andere Tomaten gehen auch.</font>
+
+11
+00:00:50,578 --> 00:00:52,738
+<font color=#FFFF00>Die Tomate muss nur reif sein.</font>
+
+12
+00:00:55,658 --> 00:00:58,938
+<font color=#00FFFF>Wir haben über Tomaten</font>
+<font color=#00FFFF>was gelernt diese Woche.</font>
+
+13
+00:00:59,378 --> 00:01:02,578
+<font color=#00FFFF>Sie sind das</font>
+<font color=#00FFFF>beliebteste Gemüse der Deutschen.</font>
+
+14
+00:01:02,698 --> 00:01:05,258
+<font color=#00FFFF>Sie sind verwandt mit der Kartoffel.</font>
+
+15
+00:01:07,538 --> 00:01:09,978
+<font color=#00FFFF>Es gibt viele verschiedene Sorten.</font>
+
+16
+00:01:16,458 --> 00:01:17,458
+<font color=#FFFF00>Ohne Ende.</font>
+
+17
+00:01:18,378 --> 00:01:20,378
+<font color=#FFFF00>Das ist eine tolle Vielfalt.</font>
+
+18
+00:01:20,538 --> 00:01:23,898
+<font color=#FFFF00>Die setzt sich in Deutschland</font>
+<font color=#FFFF00>auch wieder durch.</font>
+
+19
+00:01:28,218 --> 00:01:30,498
+<font color=#FFFF00>Es gibt gelbe, grüne, längliche.</font>
+
+20
+00:01:31,178 --> 00:01:33,458
+<font color=#FFFF00>Ich mag gerne Ochsenherztomaten.</font>
+
+21
+00:01:36,698 --> 00:01:38,418
+<font color=#00FFFF>Ich finde sie formschön.</font>
+
+22
+00:01:48,618 --> 00:01:51,898
+<font color=#FFFF00>Ich habe eine Muschel-förmige Nudel</font>
+<font color=#FFFF00>ausgewählt.</font>
+
+23
+00:01:58,458 --> 00:01:59,978
+<font color=#00FFFF>Er sagt Muschelnudel.</font>
+
+24
+00:02:01,098 --> 00:02:05,098
+<font color=#00FFFF>Original italienisch kann er</font>
+<font color=#00FFFF>es nicht so gut aussprechen.</font>
+
+25
+00:02:20,978 --> 00:02:22,698
+<font color=#FFFF00>Du bist gut vorbereitet.</font>
+
+26
+00:02:25,298 --> 00:02:26,738
+<font color=#FFFF00>Dazu habe ich Lachs.</font>
+
+27
+00:02:27,018 --> 00:02:29,538
+<font color=#FFFF00>Den habe ich in Würfel geschnitten.</font>
+
+28
+00:02:38,298 --> 00:02:41,138
+<font color=#FFFF00>Ich habe das Filet</font>
+<font color=#FFFF00>in Würfel geschnitten.</font>
+
+29
+00:02:44,098 --> 00:02:46,178
+<font color=#FFFF00>Am besten ohne Tran und Haut.</font>
+
+30
+00:02:47,178 --> 00:02:49,698
+<font color=#FFFF00>Wir braten das kurz und knackig an.</font>
+
+31
+00:02:57,018 --> 00:02:59,938
+<font color=#00FFFF>Hast hast du noch was</font>
+<font color=#00FFFF>in die Pfanne getan?</font>
+
+32
+00:03:01,738 --> 00:03:03,298
+<font color=#FFFF00>Ein bisschen Olivenöl.</font>
+
+33
+00:03:05,138 --> 00:03:06,698
+<font color=#FFFF00>Etwas Salz kommt dazu.</font>
+
+34
+00:03:12,418 --> 00:03:15,778
+<font color=#FFFF00>Als nächstes kannst du</font>
+<font color=#FFFF00>die schön kleinschneiden.</font>
+
+35
+00:03:18,218 --> 00:03:20,058
+<font color=#FFFF00>Ich bereite die Sauce vor.</font>
+
+36
+00:03:23,298 --> 00:03:27,298
+<font color=#FFFF00>Am besten ein Gefäß nehmen,</font>
+<font color=#FFFF00>in dem man gut pürieren kann.</font>
+
+37
+00:03:44,138 --> 00:03:46,778
+<font color=#FFFF00>Dann kommt</font>
+<font color=#FFFF00>frischer Limettensaft rein.</font>
+
+38
+00:03:50,178 --> 00:03:51,978
+<font color=#FFFF00>Salz, Pfeffer, Knoblauch.</font>
+
+39
+00:03:54,138 --> 00:03:55,498
+<font color=#FFFF00>Dann noch Olivenöl.</font>
+
+40
+00:04:00,818 --> 00:04:02,378
+<font color=#FFFF00>Das wird fein püriert.</font>
+
+41
+00:04:09,858 --> 00:04:11,378
+<font color=#FFFF00>Das erspare ich euch.</font>
+
+42
+00:04:18,978 --> 00:04:20,778
+<font color=#FFFF00>Ich habe das vorbereitet.</font>
+
+43
+00:04:20,898 --> 00:04:22,978
+<font color=#FFFF00>Das ist ähnlich wie Gazpacho.</font>
+
+44
+00:04:34,498 --> 00:04:35,658
+<font color=#00FFFF>Sieht schön aus.</font>
+
+45
+00:04:42,258 --> 00:04:43,978
+<font color=#00FFFF>Was sind das für Oliven?</font>
+
+46
+00:04:52,218 --> 00:04:53,218
+<font color=#FFFF00>Kalamata.</font>
+
+47
+00:04:54,498 --> 00:04:55,578
+<font color=#00FFFF>Was können die?</font>
+
+48
+00:04:58,298 --> 00:05:00,298
+<font color=#FFFF00>Das sind griechische Oliven.</font>
+
+49
+00:05:00,378 --> 00:05:02,938
+<font color=#FFFF00>Die haben viel Fleisch, sind dunkel.</font>
+
+50
+00:05:05,778 --> 00:05:07,338
+<font color=#FFFF00>Sie sind relativ mild.</font>
+
+51
+00:05:09,138 --> 00:05:13,138
+<font color=#FFFF00>Die Pasta kann heiß wie sie ist</font>
+<font color=#FFFF00>direkt in die gute Stube.</font>
+
+52
+00:05:17,578 --> 00:05:21,218
+<font color=#00FFFF>Nicht alles separat machen,</font>
+<font color=#00FFFF>sondern direkt zusammen.</font>
+
+53
+00:05:29,378 --> 00:05:31,818
+<font color=#FFFF00>Ich mach noch frische Tomate rein.</font>
+
+54
+00:05:36,818 --> 00:05:38,978
+<font color=#00FFFF>Muss ich auf irgendwas achten?</font>
+
+55
+00:05:39,538 --> 00:05:42,618
+<font color=#00FFFF>Wie lange muss der Fisch</font>
+<font color=#00FFFF>in der Pfanne sein?</font>
+
+56
+00:05:46,258 --> 00:05:51,258
+<font color=#FFFF00>Wenn der Fisch fast durch ist, mach</font>
+<font color=#FFFF00>ich die Tomatensauce noch mal heiß.</font>
+
+57
+00:05:51,578 --> 00:05:53,298
+<font color=#FFFF00>Dann ist es fast fertig.</font>
+
+58
+00:05:53,978 --> 00:05:56,138
+<font color=#FFFF00>Wenn ich deine Oliven bekomme.</font>
+
+59
+00:06:04,978 --> 00:06:06,618
+<font color=#FFFF00>Ich schwenke das durch.</font>
+
+60
+00:06:08,178 --> 00:06:10,618
+<font color=#FFFF00>Die Sauce legt sich um die Nudeln.</font>
+
+61
+00:06:17,898 --> 00:06:18,898
+<font color=#FFFF00>Oliven zu mir.</font>
+
+62
+00:06:20,818 --> 00:06:21,898
+<font color=#FFFF00>Das reicht mir.</font>
+
+63
+00:06:22,098 --> 00:06:25,018
+<font color=#00FFFF>Du musst ja auch nicht</font>
+<font color=#00FFFF>alle Oliven nehmen.</font>
+
+64
+00:06:26,138 --> 00:06:29,858
+<font color=#00FFFF>Die sehen ein bisschen aus</font>
+<font color=#00FFFF>wie angebratene Würstchen.</font>
+
+65
+00:06:31,778 --> 00:06:32,778
+<font color=#FFFF00>Pfeffer noch.</font>
+
+66
+00:06:34,378 --> 00:06:36,178
+<font color=#00FFFF>Du hast den Herd noch an.</font>
+
+67
+00:06:37,618 --> 00:06:39,778
+<font color=#FFFF00>Ich arbeite immer unter Strom.</font>
+
+68
+00:06:44,178 --> 00:06:45,458
+<font color=#00FFFF>Das sieht gut aus.</font>
+
+69
+00:06:50,378 --> 00:06:52,218
+<font color=#FFFF00>Ich hab Teller schon hier.</font>
+
+70
+00:06:55,258 --> 00:06:57,818
+<font color=#FFFF00>Du könntest schon mal Besteck holen.</font>
+
+71
+00:06:58,018 --> 00:07:00,458
+<font color=#00FFFF>Wie würdest du das Besteck wählen?</font>
+
+72
+00:07:00,818 --> 00:07:02,018
+<font color=#00FFFF>Gabel und Löffel?</font>
+
+73
+00:07:05,098 --> 00:07:06,098
+<font color=#FFFF00>Ja.</font>
+
+74
+00:07:07,298 --> 00:07:08,818
+<font color=#FFFF00>Löffel für die Sauce.</font>
+
+75
+00:07:12,818 --> 00:07:13,898
+<font color=#00FFFF>Wir haben Zeit.</font>
+
+76
+00:07:14,898 --> 00:07:18,058
+<font color=#00FFFF>Die schnelle Pasta von Hannes</font>
+<font color=#00FFFF>war so schnell,</font>
+
+77
+00:07:18,218 --> 00:07:21,018
+<font color=#00FFFF>dass Ilka heute</font>
+<font color=#00FFFF>viel eher beginnen kann.</font>
+
+78
+00:07:26,578 --> 00:07:28,498
+<font color=#00FFFF>Hannes wollte uns beweisen,</font>
+
+79
+00:07:28,578 --> 00:07:31,498
+<font color=#00FFFF>dass er in acht Minuten</font>
+<font color=#00FFFF>Pasta machen kann.</font>
+
+80
+00:07:32,658 --> 00:07:34,818
+<font color=#FFFF00>Ich bin noch gar nicht fertig.</font>
+
+81
+00:07:43,138 --> 00:07:45,138
+<font color=#FFFF00>Es muss noch Pecorino drauf.</font>
+
+82
+00:07:47,178 --> 00:07:49,378
+<font color=#00FFFF>Es gibt ja Menschen, die sagen,</font>
+
+83
+00:07:53,698 --> 00:07:56,858
+<font color=#00FFFF>man kann zu Lachs</font>
+<font color=#00FFFF>nicht auch noch Käse essen.</font>
+
+84
+00:08:03,138 --> 00:08:04,858
+<font color=#FFFF00>Das ist Geschmackssache.</font>
+
+85
+00:08:05,098 --> 00:08:06,298
+<font color=#FFFF00>Ich mag es gerne.</font>
+
+86
+00:08:06,898 --> 00:08:08,058
+<font color=#FFFF00>Auch bei Scampi.</font>
+
+87
+00:08:10,258 --> 00:08:12,818
+<font color=#FFFF00>Der Italiener würde es nicht machen.</font>
+
+88
+00:08:16,738 --> 00:08:19,298
+<font color=#00FFFF>Ich zeige Ihnen</font>
+<font color=#00FFFF>noch mal das Gericht.</font>
+
+89
+00:08:29,058 --> 00:08:31,618
+<font color=#00FFFF>Man muss aufpassen</font>
+<font color=#00FFFF>bei diesen Nudeln,</font>
+
+90
+00:08:33,138 --> 00:08:35,338
+<font color=#00FFFF>in die sich die Sauce reinlegt.</font>
+
+91
+00:08:35,738 --> 00:08:37,018
+<font color=#00FFFF>Das ist sehr heiß.</font>
+
+92
+00:08:40,138 --> 00:08:41,578
+<font color=#FFFF00>Ich esse immer heiß.</font>
+
+93
+00:08:42,578 --> 00:08:45,778
+<font color=#00FFFF>Du schmeckst nichts mehr,</font>
+<font color=#00FFFF>das erklärt einiges.</font>
+
+94
+00:09:02,698 --> 00:09:06,178
+<font color=#00FFFF>Das ist mehr als gelungen.</font>
+
+95
+00:09:06,338 --> 00:09:07,938
+<font color=#00FFFF>Ich nehme noch Parmesan.</font>
+
+96
+00:09:36,018 --> 00:09:39,498
+<font color=#FFFF00>Vielleicht sind es die ersten</font>
+<font color=#FFFF00>Oliven, die du magst.</font>
+
+97
+00:09:40,098 --> 00:09:43,578
+<font color=#00FFFF>Vielleicht, mal gucken.</font>
+
+98
+00:09:46,858 --> 00:09:49,858
+<font color=#FFFF00>Ich mag gerne Oliven.</font>
+
+99
+00:09:50,018 --> 00:09:53,378
+<font color=#FFFF00>Ich mag auch gerne Fisch.</font>
+
+100
+00:09:54,258 --> 00:09:57,578
+<font color=#FFFF00>Und ich esse gerne alles mit Käse.</font>
+
+101
+00:09:57,738 --> 00:10:01,058
+<font color=#00FFFF>Das schmeckt lecker.</font>
+
+102
+00:10:05,378 --> 00:10:08,858
+<font color=#00FFFF>Machst du mit Tomaten</font>
+<font color=#00FFFF>am liebsten Tomatensauce?</font>
+
+103
+00:10:10,258 --> 00:10:13,738
+<font color=#FFFF00>Ich esse alles gerne mit Tomaten.</font>
+
+104
+00:10:19,578 --> 00:10:23,058
+<font color=#FFFF00>Ich finde, sie geben jeder Sauce</font>
+<font color=#FFFF00>etwas Besonderes.</font>
+
+105
+00:10:23,218 --> 00:10:26,698
+<font color=#FFFF00>Sie gehören in jede Sauce.</font>
+

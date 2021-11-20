@@ -1,0 +1,612 @@
+1
+00:00:00,813 --> 00:00:06,893
+<font color=#00FFFF>Also immer</font>
+<font color=#00FFFF>auf die Haltbarkeit achten.</font>
+
+2
+00:00:06,973 --> 00:00:11,893
+<font color=#FFFF00>Wir können auf Frische achten.</font>
+
+3
+00:00:11,973 --> 00:00:16,053
+<font color=#00FFFF>Elli Neubert ist bei uns.</font>
+
+4
+00:00:16,133 --> 00:00:23,973
+<font color=#FFFF00>Ich mache einen</font>
+<font color=#FFFF00>lauwarmen Kartoffel-Spargelsalat.</font>
+
+5
+00:00:24,053 --> 00:00:29,093
+<font color=#FFFF00>Da drauf kommen Kartoffelchips.</font>
+
+6
+00:00:29,173 --> 00:00:38,133
+<font color=#FFFF00>Bei grünem Spargel sollten</font>
+<font color=#FFFF00>die Knospen geschlossen sein.</font>
+
+7
+00:00:44,053 --> 00:00:50,413
+<font color=#FFFF00>Ähnlich wie bei weißem Spargel soll</font>
+<font color=#FFFF00>er quietschen, wenn er frisch ist.</font>
+
+8
+00:00:50,613 --> 00:00:53,813
+<font color=#FFFF00>Er schmeckt ein bisschen lustiger.</font>
+
+9
+00:00:54,133 --> 00:01:11,573
+<font color=#FFFF00>Grüner Spargel ist für Faule,</font>
+<font color=#FFFF00>die muss man nicht abschälen.</font>
+
+10
+00:01:15,253 --> 00:01:18,733
+<font color=#FFFF00>Wenn er frisch ist,</font>
+<font color=#FFFF00>kommt unten Flüssigkeit raus.</font>
+
+11
+00:01:18,893 --> 00:01:23,653
+<font color=#FFFF00>Wenn ich mir nicht sicher bin,</font>
+<font color=#FFFF00>wie fest die Schale ist,</font>
+
+12
+00:01:23,733 --> 00:01:26,013
+<font color=#FFFF00>schneide ich ein Stück ab.</font>
+
+13
+00:01:26,373 --> 00:01:30,973
+<font color=#FFFF00>Ich probiere dann.</font>
+<font color=#FFFF00>Ich weiß, du machst das auch.</font>
+
+14
+00:01:31,133 --> 00:01:34,813
+<font color=#FFFF00>Wenn man die gut kauen kann,</font>
+<font color=#FFFF00>muss man sie nicht schälen.</font>
+
+15
+00:01:42,293 --> 00:01:45,733
+<font color=#FFFF00>Solange er zart ist,</font>
+<font color=#FFFF00>muss man ihn nicht schälen.</font>
+
+16
+00:01:49,213 --> 00:01:54,973
+<font color=#FFFF00>Könntest du mir die Gurke längs</font>
+<font color=#FFFF00>halbieren und die Kerne rauskratzen?</font>
+
+17
+00:01:55,133 --> 00:01:57,893
+<font color=#FFFF00>Und bitte in Scheiben schneiden.</font>
+
+18
+00:01:58,053 --> 00:02:00,853
+<font color=#FFFF00>Ich habe schon Kartoffeln gekocht.</font>
+
+19
+00:02:01,013 --> 00:02:03,573
+<font color=#FFFF00>Das sind Drillinge.</font>
+
+20
+00:02:03,733 --> 00:02:07,053
+<font color=#FFFF00>Mit etwas Kümmel im Wasser.</font>
+
+21
+00:02:08,933 --> 00:02:12,413
+<font color=#FFFF00>Die lasse ich noch ausdampfen,</font>
+
+22
+00:02:16,853 --> 00:02:20,853
+<font color=#FFFF00>denn das Wasser geht raus und</font>
+<font color=#FFFF00>der Geschmack intensiviert sich.</font>
+
+23
+00:02:23,653 --> 00:02:26,453
+<font color=#FFFF00>Ein halber Teelöffel Kümmel</font>
+<font color=#FFFF00>im Kochwasser</font>
+
+24
+00:02:26,533 --> 00:02:28,693
+<font color=#FFFF00>ist gut für den Geschmack.</font>
+
+25
+00:02:28,893 --> 00:02:32,213
+<font color=#00FFFF>Warum nimmst du grünen Spargel?</font>
+
+26
+00:02:33,373 --> 00:02:36,853
+<font color=#FFFF00>Ich mag den lieber und ich bin faul.</font>
+
+27
+00:02:38,373 --> 00:02:41,853
+<font color=#FFFF00>Ich schneide ihn schräg in Scheiben.</font>
+
+28
+00:02:45,773 --> 00:02:49,453
+<font color=#FFFF00>Du legst ihn am besten aufs Brett</font>
+<font color=#FFFF00>und kratzt es raus.</font>
+
+29
+00:02:50,413 --> 00:02:54,253
+<font color=#FFFF00>Wenn du den Löffel schräg hältst,</font>
+<font color=#FFFF00>fällt es dir leichter.</font>
+
+30
+00:02:54,453 --> 00:02:57,853
+<font color=#FFFF00>So ist gut.</font>
+
+31
+00:03:04,013 --> 00:03:07,533
+<font color=#FFFF00>Ich pikse zwei Eiern.</font>
+
+32
+00:03:09,893 --> 00:03:13,893
+<font color=#FFFF00>Die brauchen sechs Minuten,</font>
+<font color=#FFFF00>wenn sie Raumtemperatur haben.</font>
+
+33
+00:03:15,173 --> 00:03:18,653
+<font color=#FFFF00>Wenn sie aus dem Kühlschrank</font>
+<font color=#FFFF00>zum Beispiel kommen,</font>
+
+34
+00:03:19,333 --> 00:03:22,853
+<font color=#FFFF00>etwa 30-40 Sekunden länger.</font>
+
+35
+00:03:23,693 --> 00:03:27,173
+<font color=#00FFFF>Warum muss ich die Kerne rausmachen?</font>
+
+36
+00:03:33,213 --> 00:03:36,693
+<font color=#FFFF00>Muss man nicht,</font>
+<font color=#FFFF00>aber es verwässert sonst.</font>
+
+37
+00:03:38,053 --> 00:03:44,653
+<font color=#FFFF00>Ich nehme Sahne ...</font>
+
+38
+00:03:49,853 --> 00:03:53,333
+<font color=#FFFF00>Ich nehme auch Limette,</font>
+<font color=#FFFF00>da ist die Säure spitze.</font>
+
+39
+00:03:54,293 --> 00:03:56,933
+<font color=#00FFFF>Gerinnt das nicht in der Sahne?</font>
+
+40
+00:03:57,093 --> 00:04:00,453
+<font color=#FFFF00>Jein.</font>
+
+41
+00:04:05,293 --> 00:04:08,773
+<font color=#FFFF00>Es macht etwas Ähnliches</font>
+<font color=#FFFF00>wie Gerinnen.</font>
+
+42
+00:04:12,533 --> 00:04:15,693
+<font color=#FFFF00>Man kann auch Essig nehmen</font>
+<font color=#FFFF00>oder Zitronensaft.</font>
+
+43
+00:04:15,853 --> 00:04:19,253
+<font color=#FFFF00>Ich nehme heute die Limette.</font>
+
+44
+00:04:22,813 --> 00:04:26,293
+<font color=#FFFF00>Wir haben auch viel Sahne,</font>
+<font color=#FFFF00>daher nehme ich zwei.</font>
+
+45
+00:04:28,333 --> 00:04:31,813
+<font color=#00FFFF>Fertig! </font>
+<font color=#FFFF00>Ja ja.</font>
+
+46
+00:04:37,653 --> 00:04:41,133
+<font color=#FFFF00>Schneide bitte den Spargel</font>
+<font color=#FFFF00>in Scheiben.</font>
+
+47
+00:04:43,653 --> 00:04:47,133
+<font color=#FFFF00>Die Sahne ist noch dünn.</font>
+
+48
+00:04:47,293 --> 00:04:50,733
+<font color=#FFFF00>Ich gebe noch etwas mehr</font>
+<font color=#FFFF00>Limettensaft dazu.</font>
+
+49
+00:04:52,253 --> 00:04:55,573
+<font color=#FFFF00>Es gerinnt,</font>
+<font color=#FFFF00>aber es wird nicht flockig.</font>
+
+50
+00:04:55,733 --> 00:04:59,053
+<font color=#FFFF00>Es ist wie ein Joghurtdressing.</font>
+
+51
+00:04:59,653 --> 00:05:03,053
+<font color=#00FFFF>Vorher haben wir</font>
+<font color=#00FFFF>einen Test dazu gesehen.</font>
+
+52
+00:05:03,213 --> 00:05:06,573
+<font color=#00FFFF>Das hier ist einfacher</font>
+<font color=#00FFFF>und schmeckt sicherlich besser.</font>
+
+53
+00:05:09,853 --> 00:05:16,413
+<font color=#FFFF00>Ich kann selber auch</font>
+<font color=#FFFF00>die Säure und die Süße bestimmen.</font>
+
+54
+00:05:18,133 --> 00:05:21,613
+<font color=#FFFF00>Die Spitzen kannst du ganz lassen</font>
+<font color=#FFFF00>oder halbieren.</font>
+
+55
+00:05:24,053 --> 00:05:27,613
+<font color=#FFFF00>Bei mir heißt es immer:</font>
+<font color=#FFFF00>Wer schneidet, entscheidet.</font>
+
+56
+00:05:27,773 --> 00:05:30,933
+<font color=#00FFFF>Das ist kinderleicht.</font>
+
+57
+00:05:31,093 --> 00:05:34,453
+<font color=#00FFFF>Dressing, selber gemacht.</font>
+
+58
+00:05:36,693 --> 00:05:40,173
+<font color=#00FFFF>Spargel und Gurken in kleine Stücke.</font>
+
+59
+00:05:40,933 --> 00:05:44,453
+<font color=#00FFFF>Die Eier blubbern.</font>
+
+60
+00:05:46,973 --> 00:05:50,013
+<font color=#00FFFF>Wir müssen die Temperatur</font>
+<font color=#00FFFF>im Blick behalten.</font>
+
+61
+00:05:50,093 --> 00:05:52,693
+<font color=#00FFFF>Wenn sie aus dem Kühlschrank kommen,</font>
+
+62
+00:05:52,853 --> 00:05:55,413
+<font color=#00FFFF>brauchen Sie</font>
+<font color=#00FFFF>eine halbe Minute länger.</font>
+
+63
+00:05:55,573 --> 00:05:59,013
+<font color=#FFFF00>Ich nehme den Schnittlauch.</font>
+
+64
+00:06:03,613 --> 00:06:07,133
+<font color=#FFFF00>Ich würze mit roter Zwiebel.</font>
+
+65
+00:06:07,693 --> 00:06:11,213
+<font color=#FFFF00>Es kommt Saft und Zucker dazu.</font>
+
+66
+00:06:15,053 --> 00:06:17,653
+<font color=#FFFF00>Das zieht Flüssigkeit raus</font>
+
+67
+00:06:17,733 --> 00:06:22,133
+<font color=#FFFF00>und ist dann nicht so scharf</font>
+<font color=#FFFF00>für den Spargel.</font>
+
+68
+00:06:22,293 --> 00:06:25,613
+<font color=#FFFF00>Die Spargelspitzen gebe ich hinein.</font>
+
+69
+00:06:26,013 --> 00:06:29,413
+<font color=#FFFF00>Du gibst den Rest ins Dressing.</font>
+
+70
+00:06:29,573 --> 00:06:32,573
+<font color=#FFFF00>Die Eier brauchen noch 2,5 Minuten.</font>
+
+71
+00:06:32,733 --> 00:06:36,053
+<font color=#FFFF00>Ich kümmere mich um die Kartoffeln.</font>
+
+72
+00:06:38,093 --> 00:06:41,573
+<font color=#FFFF00>Auch hier ist etwas für Faule:</font>
+
+73
+00:06:42,693 --> 00:06:45,133
+<font color=#FFFF00>Das sind kleine, zarte Kartoffeln.</font>
+
+74
+00:06:45,293 --> 00:06:48,533
+<font color=#FFFF00>Neue Ernte.</font>
+
+75
+00:06:48,693 --> 00:06:52,013
+<font color=#FFFF00>Die kann man mit Schale verwenden.</font>
+
+76
+00:06:53,893 --> 00:06:57,373
+<font color=#00FFFF>Wenn man weiß,</font>
+<font color=#00FFFF>dass sie nicht behandelt wurden ...</font>
+
+77
+00:06:57,533 --> 00:06:59,773
+<font color=#FFFF00>Die Schale ist fein und dünn.</font>
+
+78
+00:06:59,933 --> 00:07:02,933
+<font color=#FFFF00>Die kann man gut mitessen.</font>
+
+79
+00:07:03,093 --> 00:07:06,333
+<font color=#00FFFF>Da ist das ganze Leben noch drin.</font>
+
+80
+00:07:06,533 --> 00:07:09,853
+<font color=#FFFF00>Genau, darin steckt auch Geschmack.</font>
+
+81
+00:07:11,533 --> 00:07:15,173
+<font color=#FFFF00>Kartoffeln roh, wäre blöd,</font>
+<font color=#FFFF00>deshalb habe ich gekocht.</font>
+
+82
+00:07:17,893 --> 00:07:21,133
+<font color=#FFFF00>Mit Spargel</font>
+<font color=#FFFF00>schmeckt das schön intensiv.</font>
+
+83
+00:07:21,293 --> 00:07:24,613
+<font color=#FFFF00>Dann zieht es noch etwas.</font>
+
+84
+00:07:25,013 --> 00:07:28,533
+<font color=#FFFF00>Es wird wie so ein lauwarmer Salat.</font>
+
+85
+00:07:30,053 --> 00:07:35,653
+<font color=#FFFF00>Ich bereite noch etwas Kleines vor:</font>
+
+86
+00:07:35,733 --> 00:07:38,093
+<font color=#FFFF00>für den Crunch.</font>
+
+87
+00:07:38,533 --> 00:07:42,053
+<font color=#FFFF00>Ich habe noch frittierte Kartoffeln.</font>
+
+88
+00:07:44,613 --> 00:07:48,133
+<font color=#00FFFF>Sind die gesund?</font>
+
+89
+00:07:50,773 --> 00:07:54,253
+<font color=#FFFF00>Naja, Kartoffelchips sind fettig,</font>
+
+90
+00:07:54,613 --> 00:07:57,893
+<font color=#FFFF00>aber ansonsten</font>
+<font color=#FFFF00>sind es nur Kartoffeln und Fett.</font>
+
+91
+00:07:58,053 --> 00:08:00,653
+<font color=#FFFF00>Ohne Zusatzstoffe und Aromen.</font>
+
+92
+00:08:00,813 --> 00:08:04,133
+<font color=#FFFF00>Die hier sind nur gesalzen.</font>
+
+93
+00:08:04,493 --> 00:08:07,053
+<font color=#FFFF00>Und gewürzt mit Paprikapulver.</font>
+
+94
+00:08:07,213 --> 00:08:10,573
+<font color=#FFFF00>Das habe ich selber gemacht.</font>
+
+95
+00:08:11,053 --> 00:08:14,533
+<font color=#FFFF00>Es ist geräuchertes Paprikapulver.</font>
+
+96
+00:08:16,933 --> 00:08:19,933
+<font color=#00FFFF>So weiß man,</font>
+<font color=#00FFFF>welche Zusatzstoffe drin sind.</font>
+
+97
+00:08:20,093 --> 00:08:23,013
+<font color=#00FFFF>Richtig schön geräuchert.</font>
+
+98
+00:08:23,173 --> 00:08:26,533
+<font color=#00FFFF>Elli, ich bin gespannt.</font>
+
+99
+00:08:27,453 --> 00:08:30,933
+<font color=#00FFFF>Du kannst schon mal ...</font>
+
+100
+00:08:32,293 --> 00:08:35,933
+<font color=#00FFFF>Wenn der Kartoffelsalat</font>
+<font color=#00FFFF>mit dem Spargel lauwarm ist,</font>
+
+101
+00:08:36,493 --> 00:08:39,853
+<font color=#00FFFF>muss man nicht warten,</font>
+<font color=#00FFFF>bis er runtergekühlt ist.</font>
+
+102
+00:08:40,013 --> 00:08:41,373
+<font color=#00FFFF>Du richtest an.</font>
+
+103
+00:08:41,533 --> 00:08:44,893
+<font color=#FFFF00>Ja.</font>
+
+104
+00:08:45,053 --> 00:08:48,413
+<font color=#FFFF00>Gleich muss ich noch</font>
+<font color=#FFFF00>die Eier pellen.</font>
+
+105
+00:08:52,333 --> 00:08:56,893
+<font color=#00FFFF>Hast du letzte Nacht</font>
+<font color=#00FFFF>den großen Mond gesehen?</font>
+
+106
+00:08:56,973 --> 00:08:59,133
+<font color=#00FFFF>Man nennt ihn auch Supermond.</font>
+
+107
+00:08:59,213 --> 00:09:03,213
+<font color=#00FFFF>Der war ziemlich dicht an der Erde,</font>
+<font color=#00FFFF>also richtig dicht,</font>
+
+108
+00:09:03,293 --> 00:09:05,453
+<font color=#00FFFF>357.380 Kilometer.</font>
+
+109
+00:09:06,373 --> 00:09:11,573
+<font color=#00FFFF>Und es war Vollmond - man hatte</font>
+<font color=#00FFFF>das Gefühl, er ist zum Greifen nahe.</font>
+
+110
+00:09:12,093 --> 00:09:16,453
+<font color=#00FFFF>Der Punkt, auf dem der Mond sich</font>
+<font color=#00FFFF>auf seiner Umlaufbahn befindet,</font>
+
+111
+00:09:16,533 --> 00:09:21,493
+<font color=#00FFFF>wenn er der Erde besonders nahe ist,</font>
+<font color=#00FFFF>heißt - für Klookschieter: Perigäum.</font>
+
+112
+00:09:21,573 --> 00:09:22,853
+<font color=#00FFFF>Weest Bescheed.</font>
+
+113
+00:09:29,373 --> 00:09:32,293
+<font color=#00FFFF>Deswegen ist der Mond so dicht dran.</font>
+
+114
+00:09:32,453 --> 00:09:34,973
+<font color=#00FFFF>Also ein Supermond.</font>
+
+115
+00:09:35,133 --> 00:09:38,453
+<font color=#00FFFF>Ich freue mich aufs Ei.</font>
+
+116
+00:09:40,093 --> 00:09:43,573
+<font color=#FFFF00>Ich mache jetzt hier Superei.</font>
+
+117
+00:09:44,493 --> 00:09:47,613
+<font color=#00FFFF>Wie lange hast du sie gekocht?</font>
+
+118
+00:09:47,733 --> 00:09:50,533
+<font color=#FFFF00>Sechs Minuten.</font>
+
+119
+00:09:50,693 --> 00:09:54,013
+<font color=#FFFF00>Sie waren nicht im Kühlschrank.</font>
+
+120
+00:09:54,373 --> 00:09:57,853
+<font color=#00FFFF>Meine koche ich nur 4-5 Minuten.</font>
+
+121
+00:10:00,213 --> 00:10:02,693
+<font color=#FFFF00>Dann ist das Weiße noch flüssig.</font>
+
+122
+00:10:02,853 --> 00:10:06,213
+<font color=#FFFF00>Das kann ich nicht leiden.</font>
+
+123
+00:10:06,453 --> 00:10:09,653
+<font color=#FFFF00>Am Sonntag vor allem</font>
+<font color=#FFFF00>muss das Ei richtig sein.</font>
+
+124
+00:10:09,813 --> 00:10:12,813
+<font color=#FFFF00>Und bei mir ist es so richtig.</font>
+
+125
+00:10:12,893 --> 00:10:15,093
+<font color=#FFFF00>Ist das zu fest? </font>
+<font color=#00FFFF>Nein.</font>
+
+126
+00:10:15,413 --> 00:10:17,373
+<font color=#00FFFF>Morgen kommt Volker Fuhrwerk</font>
+
+127
+00:10:17,453 --> 00:10:21,093
+<font color=#00FFFF>und kocht gebratenen Spargel</font>
+<font color=#00FFFF>mit gebeiztem Eigelb.</font>
+
+128
+00:10:30,293 --> 00:10:33,773
+<font color=#00FFFF>Heute haben wir gekochtes Ei.</font>
+
+129
+00:10:34,453 --> 00:10:37,933
+<font color=#00FFFF>Geh mal rüber!</font>
+
+130
+00:10:38,493 --> 00:10:42,453
+<font color=#00FFFF>Ich will schnell probieren,</font>
+<font color=#00FFFF>bevor die Nachrichten kommen.</font>
+
+131
+00:10:42,613 --> 00:10:45,573
+<font color=#00FFFF>Zuhause wollen alle wissen,</font>
+<font color=#00FFFF>ob es schmeckt.</font>
+
+132
+00:10:45,733 --> 00:10:49,133
+<font color=#00FFFF>Das Rezept</font>
+<font color=#00FFFF>ist bei uns auf der Homepage.</font>
+
+133
+00:10:50,493 --> 00:10:54,013
+<font color=#00FFFF>Da finden Sie auch den Clip dazu.</font>
+
+134
+00:10:54,893 --> 00:10:58,373
+<font color=#00FFFF>Lecker.</font>
+
+135
+00:10:58,893 --> 00:11:02,373
+<font color=#00FFFF>Das Dressing ist fantastisch.</font>
+
+136
+00:11:04,573 --> 00:11:08,213
+<font color=#FFFF00>Durch das geräucherte Paprikapulver</font>
+<font color=#FFFF00>ist es herzhaft.</font>
+
+137
+00:11:08,413 --> 00:11:11,893
+<font color=#FFFF00>Obwohl es vegetarisch ist.</font>
+
+138
+00:11:13,053 --> 00:11:16,573
+<font color=#FFFF00>Und die sauren Zwiebeln,</font>
+<font color=#FFFF00>das weiße Ei ...</font>
+
+139
+00:11:25,133 --> 00:11:28,373
+<font color=#FFFF00>Die Chips ... </font>
+<font color=#00FFFF>Das ging ratzfatz.</font>
+

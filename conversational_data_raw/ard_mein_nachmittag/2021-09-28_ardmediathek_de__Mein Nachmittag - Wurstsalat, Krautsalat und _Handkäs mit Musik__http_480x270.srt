@@ -1,0 +1,511 @@
+1
+00:00:01,602 --> 00:00:05,082
+<font color=#00FFFF>Wir sind zurück in der Küche.</font>
+
+2
+00:00:05,602 --> 00:00:08,802
+<font color=#00FFFF>Heute gibt es die Winzerküche.</font>
+
+3
+00:00:08,962 --> 00:00:11,282
+<font color=#00FFFF>Vieles ist schon auf diesem Teller.</font>
+
+4
+00:00:11,442 --> 00:00:14,362
+<font color=#00FFFF>Was ist das?</font>
+
+5
+00:00:15,522 --> 00:00:16,522
+<font color=#FFFF00>Die Musik.</font>
+
+6
+00:00:17,122 --> 00:00:19,682
+<font color=#FFFF00>Wir haben hier</font>
+<font color=#FFFF00>den Handkäs mit Musik.</font>
+
+7
+00:00:23,082 --> 00:00:25,602
+<font color=#FFFF00>Er badet in Weißwein, Essig und Öl.</font>
+
+8
+00:00:41,842 --> 00:00:43,842
+<font color=#FFFF00>Ich habe Balsamico genommen.</font>
+
+9
+00:00:49,802 --> 00:00:52,082
+<font color=#FFFF00>Dieser Essig hat sehr viel Süße.</font>
+
+10
+00:00:53,282 --> 00:00:54,722
+<font color=#FFFF00>Das gefällt mir gut.</font>
+
+11
+00:00:55,762 --> 00:00:59,282
+<font color=#FFFF00>Und ganz wichtig</font>
+<font color=#FFFF00>sind Schalotten und Kümmel.</font>
+
+12
+00:01:01,802 --> 00:01:05,322
+<font color=#FFFF00>Ich mag es, wenn man den</font>
+<font color=#FFFF00>ganz frisch aus der Marinade holt.</font>
+
+13
+00:01:05,402 --> 00:01:09,402
+<font color=#FFFF00>Er wird dann etwas glitschig.</font>
+
+14
+00:01:09,562 --> 00:01:12,002
+<font color=#00FFFF>Man kann den tagelang drin lassen.</font>
+
+15
+00:01:12,162 --> 00:01:15,002
+<font color=#FFFF00>Die roten Zwiebeln gären</font>
+<font color=#FFFF00>nach einer Zeit.</font>
+
+16
+00:01:16,082 --> 00:01:19,362
+<font color=#FFFF00>Aber ein bis zwei Nächte</font>
+<font color=#FFFF00>kann er gut vertragen.</font>
+
+17
+00:01:21,602 --> 00:01:25,522
+<font color=#FFFF00>Der Handkäs wird aus dem Quark</font>
+<font color=#FFFF00>von saurer Milch gemacht.</font>
+
+18
+00:01:26,402 --> 00:01:28,682
+<font color=#FFFF00>Da steigen vermutlich viele aus.</font>
+
+19
+00:01:28,922 --> 00:01:30,202
+<font color=#FFFF00>Ich liebe es sehr.</font>
+
+20
+00:01:31,002 --> 00:01:34,202
+<font color=#FFFF00>Er wird von außen glasig,</font>
+<font color=#FFFF00>wenn er reifer wird.</font>
+
+21
+00:01:39,402 --> 00:01:42,722
+<font color=#00FFFF>Kann ich ihn kosten?</font>
+
+22
+00:01:43,042 --> 00:01:46,522
+<font color=#FFFF00>Ich geb dir das mal rüber.</font>
+
+23
+00:01:47,762 --> 00:01:51,242
+<font color=#00FFFF>Das wird ein harter Tag für mich.</font>
+
+24
+00:01:55,122 --> 00:01:57,362
+<font color=#FFFF00>Der liegt da bis er verzerrt wird.</font>
+
+25
+00:02:01,522 --> 00:02:05,002
+<font color=#FFFF00>Dazu mache ich</font>
+<font color=#FFFF00>einen schnellen Krautsalat.</font>
+
+26
+00:02:05,402 --> 00:02:08,882
+<font color=#FFFF00>Ich habe mich</font>
+<font color=#FFFF00>für Spitzkohl entschieden.</font>
+
+27
+00:02:12,762 --> 00:02:16,042
+<font color=#FFFF00>Der ist etwas feiner</font>
+<font color=#FFFF00>im Geschmack als Weißkohl.</font>
+
+28
+00:02:20,882 --> 00:02:23,402
+<font color=#FFFF00>Viele haben</font>
+<font color=#FFFF00>Verdauungsschwierigkeiten</font>
+
+29
+00:02:25,282 --> 00:02:26,362
+<font color=#FFFF00>bei rohem Kohl.</font>
+
+30
+00:02:30,562 --> 00:02:35,082
+<font color=#FFFF00>Den Spitzkohlsalat</font>
+<font color=#FFFF00>machen wir relativ schlicht.</font>
+
+31
+00:02:35,962 --> 00:02:39,442
+<font color=#FFFF00>Ich gebe dir eine Paprika rüber.</font>
+
+32
+00:02:40,962 --> 00:02:42,562
+<font color=#FFFF00>Die kannst du halbieren</font>
+
+33
+00:02:42,642 --> 00:02:46,202
+<font color=#FFFF00>und alles rausschneiden,</font>
+<font color=#FFFF00>was du nicht essen würdest.</font>
+
+34
+00:02:47,602 --> 00:02:50,802
+<font color=#FFFF00>Ein Viertel davon bitte</font>
+<font color=#FFFF00>in Streifen schneiden.</font>
+
+35
+00:02:59,002 --> 00:03:03,562
+<font color=#00FFFF>Wer's noch nicht mitbekommen hat,</font>
+<font color=#00FFFF>wir machen heute ein Dreierlei:</font>
+
+36
+00:03:05,362 --> 00:03:07,882
+<font color=#00FFFF>Wurstsalat, Krautsalat und Handkäs.</font>
+
+37
+00:03:15,482 --> 00:03:19,402
+<font color=#FFFF00>Hier ist Weißweinessig drin</font>
+<font color=#FFFF00>und Öl und Pfeffer und Salz.</font>
+
+38
+00:03:22,202 --> 00:03:25,482
+<font color=#FFFF00>Da kommt Spitzkohl dazu.</font>
+
+39
+00:03:25,602 --> 00:03:28,922
+<font color=#FFFF00>Ich habe den Senf vergessen.</font>
+
+40
+00:03:33,242 --> 00:03:37,882
+<font color=#FFFF00>Besser ist es, wenn man den Senf</font>
+<font color=#FFFF00>vorher mit dem Dressing verrührt.</font>
+
+41
+00:03:39,202 --> 00:03:41,042
+<font color=#00FFFF>Ich habe Paprika für dich.</font>
+
+42
+00:03:44,482 --> 00:03:46,842
+<font color=#FFFF00>Ich gebe dir den Spitzkohl rüber.</font>
+
+43
+00:03:50,202 --> 00:03:53,682
+<font color=#FFFF00>Der ist im Prinzip fertig.</font>
+
+44
+00:03:59,562 --> 00:04:03,082
+<font color=#FFFF00>Du könntest ein bisschen Estragon</font>
+<font color=#FFFF00>klein schneiden.</font>
+
+45
+00:04:03,722 --> 00:04:05,442
+<font color=#FFFF00>Und dort mit rein geben.</font>
+
+46
+00:04:10,282 --> 00:04:11,442
+<font color=#FFFF00>Das sind Würfel.</font>
+
+47
+00:04:13,282 --> 00:04:15,602
+<font color=#00FFFF>Ach so, hattest du Streifen gesagt?</font>
+
+48
+00:04:15,682 --> 00:04:18,362
+<font color=#FFFF00>Macht nichts.</font>
+
+49
+00:04:18,442 --> 00:04:22,682
+<font color=#00FFFF>Manchmal ist mein Kopf ein Sieb.</font>
+
+50
+00:04:24,922 --> 00:04:28,442
+<font color=#00FFFF>Ich habe hier auch noch.</font>
+
+51
+00:04:28,642 --> 00:04:32,122
+<font color=#FFFF00>Alles gut.</font>
+
+52
+00:04:35,122 --> 00:04:37,282
+<font color=#FFFF00>Wir haben hier den Wurstsalat.</font>
+
+53
+00:04:37,722 --> 00:04:40,362
+<font color=#FFFF00>Noch haben wir</font>
+<font color=#FFFF00>nur feine Fleischwurst.</font>
+
+54
+00:04:43,002 --> 00:04:46,722
+<font color=#FFFF00>Es ist nichts anderes</font>
+<font color=#FFFF00>als eine Bockwurst, nur größer.</font>
+
+55
+00:04:50,162 --> 00:04:52,802
+<font color=#00FFFF>Kommt ein bisschen aus der Mode,</font>
+<font color=#00FFFF>oder?</font>
+
+56
+00:04:55,402 --> 00:04:57,922
+<font color=#FFFF00>Fleisch generell</font>
+<font color=#FFFF00>kommt aus der Mode.</font>
+
+57
+00:05:03,042 --> 00:05:05,322
+<font color=#FFFF00>Ich ess das manchmal ganz gerne.</font>
+
+58
+00:05:07,442 --> 00:05:09,722
+<font color=#00FFFF>Achtest du auf etwas bestimmtes?</font>
+
+59
+00:05:11,442 --> 00:05:13,882
+<font color=#00FFFF>Den Estragon mache ich klein oder?</font>
+
+60
+00:05:23,202 --> 00:05:26,842
+<font color=#FFFF00>Ich achte darauf,</font>
+<font color=#FFFF00>dass keine Zusatzstoffe drin sind.</font>
+
+61
+00:05:27,002 --> 00:05:29,642
+<font color=#FFFF00>Und auf Bio</font>
+<font color=#FFFF00>und nachhaltige Tierzucht.</font>
+
+62
+00:05:32,082 --> 00:05:35,082
+<font color=#FFFF00>Gerne auch beim</font>
+<font color=#FFFF00>Fleischer des Vertrauens.</font>
+
+63
+00:05:37,002 --> 00:05:39,802
+<font color=#FFFF00>Hier kommt noch</font>
+<font color=#FFFF00>eine Gewürzgurke hinein.</font>
+
+64
+00:05:43,242 --> 00:05:46,522
+<font color=#FFFF00>Jetzt komme ich noch mal</font>
+<font color=#FFFF00>zu den Paprikawürfeln:</font>
+
+65
+00:05:46,642 --> 00:05:49,802
+<font color=#FFFF00>Es ist egal, ob es Würfel</font>
+<font color=#FFFF00>oder Streifen sind.</font>
+
+66
+00:05:59,402 --> 00:06:02,882
+<font color=#FFFF00>Für das Dressing</font>
+<font color=#FFFF00>gebe ich Kapern hinzu.</font>
+
+67
+00:06:04,322 --> 00:06:05,882
+<font color=#FFFF00>Und etwas von dem Sud.</font>
+
+68
+00:06:10,602 --> 00:06:14,082
+<font color=#00FFFF>Kann man das weglassen?</font>
+
+69
+00:06:14,202 --> 00:06:18,202
+<font color=#FFFF00>Wenn man den Geschmack davon</font>
+<font color=#FFFF00>nicht mag, lässt man es weg.</font>
+
+70
+00:06:19,922 --> 00:06:23,442
+<font color=#FFFF00>Auch die Gewürzgurke</font>
+<font color=#FFFF00>macht einen tollen Geschmack.</font>
+
+71
+00:06:26,562 --> 00:06:29,002
+<font color=#FFFF00>Ich gebe noch süßen Senf dazu.</font>
+
+72
+00:06:33,722 --> 00:06:37,202
+<font color=#FFFF00>Und auch noch mittelscharfen Senf.</font>
+
+73
+00:06:39,802 --> 00:06:42,082
+<font color=#FFFF00>Wir brauchen auch noch etwas Öl.</font>
+
+74
+00:06:47,122 --> 00:06:50,682
+<font color=#00FFFF>Das kann man quasi</font>
+<font color=#00FFFF>den ganzen Abend nebenbei essen.</font>
+
+75
+00:06:55,602 --> 00:06:57,882
+<font color=#00FFFF>Ist das eher etwas Süddeutsches?</font>
+
+76
+00:06:58,562 --> 00:07:01,722
+<font color=#FFFF00>In Norddeutschland machen wir</font>
+<font color=#FFFF00>oft den Fehler,</font>
+
+77
+00:07:05,362 --> 00:07:08,722
+<font color=#FFFF00>dass wir zu wenig essen,</font>
+<font color=#FFFF00>wenn wir etwas trinken.</font>
+
+78
+00:07:10,162 --> 00:07:14,002
+<font color=#FFFF00>Das ist wichtig, damit es uns</font>
+<font color=#FFFF00>am nächsten Tag gut geht.</font>
+
+79
+00:07:14,442 --> 00:07:17,242
+<font color=#00FFFF>Auch das Zwiwa</font>
+<font color=#00FFFF>darf man nicht vergessen.</font>
+
+80
+00:07:17,642 --> 00:07:19,002
+<font color=#FFFF00>Das Zwischenwasser.</font>
+
+81
+00:07:26,682 --> 00:07:30,602
+<font color=#FFFF00>Hier haben wir eine Mischung</font>
+<font color=#FFFF00>aus der feinen Fleischwurst</font>
+
+82
+00:07:30,962 --> 00:07:35,482
+<font color=#FFFF00>und dazu die knackige, süße Paprika</font>
+<font color=#FFFF00>und die Säure von der Gurke.</font>
+
+83
+00:07:36,802 --> 00:07:40,882
+<font color=#FFFF00>Man kann das frisch essen,</font>
+<font color=#FFFF00>es darf auch über Nacht ziehen.</font>
+
+84
+00:07:43,882 --> 00:07:49,002
+<font color=#00FFFF>Der Estragon kommt hier rein?</font>
+<font color=#FFFF00>Genau, einfach da rein tun.</font>
+
+85
+00:07:49,282 --> 00:07:52,002
+<font color=#FFFF00>Ich habe hier noch</font>
+<font color=#FFFF00>Petersilie und Dill.</font>
+
+86
+00:07:59,842 --> 00:08:02,402
+<font color=#FFFF00>Hier darf jedes Kraut</font>
+<font color=#FFFF00>in jeden Salat.</font>
+
+87
+00:08:03,522 --> 00:08:05,602
+<font color=#FFFF00>Man kann hier viel variieren.</font>
+
+88
+00:08:14,602 --> 00:08:18,042
+<font color=#FFFF00>Ich mag Wurstsalat auch</font>
+<font color=#FFFF00>gerne mit Pellkartoffeln.</font>
+
+89
+00:08:22,162 --> 00:08:24,002
+<font color=#00FFFF>Kommen wir zum Krautsalat.</font>
+
+90
+00:08:24,242 --> 00:08:28,162
+<font color=#FFFF00>Der ist auch fertig.</font>
+
+91
+00:08:31,282 --> 00:08:33,922
+<font color=#FFFF00>Man kann</font>
+<font color=#FFFF00>eine gemischte Platte machen.</font>
+
+92
+00:08:36,562 --> 00:08:42,042
+<font color=#FFFF00>Auf die eine Seite konnte Spitzkohl,</font>
+<font color=#FFFF00>in die Mitte der Wurstsalat.</font>
+
+93
+00:08:48,762 --> 00:08:50,042
+<font color=#FFFF00>Dann wird es bunt.</font>
+
+94
+00:08:51,362 --> 00:08:54,842
+<font color=#FFFF00>An die Seite kommt ...</font>
+
+95
+00:08:55,242 --> 00:08:58,042
+<font color=#FFFF00>Man sieht,</font>
+<font color=#FFFF00>dass es hier etwas heller wird.</font>
+
+96
+00:09:00,562 --> 00:09:04,842
+<font color=#FFFF00>Man kann die sich direkt</font>
+<font color=#FFFF00>aus der Marinade auf das Brot legen.</font>
+
+97
+00:09:08,562 --> 00:09:12,042
+<font color=#FFFF00>Ich liebe Handkäs mit Musik.</font>
+
+98
+00:09:12,202 --> 00:09:15,522
+<font color=#FFFF00>Ich stelle hier die Platte hin.</font>
+
+99
+00:09:16,242 --> 00:09:19,722
+<font color=#FFFF00>Nimm dir das,</font>
+<font color=#FFFF00>was du probieren möchtest.</font>
+
+100
+00:09:21,682 --> 00:09:23,842
+<font color=#00FFFF>Das kann man einfach hinstellen</font>
+
+101
+00:09:23,922 --> 00:09:27,042
+<font color=#00FFFF>und jeder darf sich nehmen,</font>
+<font color=#00FFFF>was er möchte?</font>
+
+102
+00:09:29,082 --> 00:09:31,522
+<font color=#00FFFF>Ich nehme tatsächlich den Handkäs.</font>
+
+103
+00:09:31,802 --> 00:09:34,082
+<font color=#00FFFF>Ich mag Kümmel eigentlich nicht.</font>
+
+104
+00:09:36,522 --> 00:09:39,362
+<font color=#00FFFF>Ich beiße nicht gerne</font>
+<font color=#00FFFF>auf ein Kümmelkorn.</font>
+
+105
+00:09:45,522 --> 00:09:47,682
+<font color=#00FFFF>Ich will mal die Musik spüren.</font>
+
+106
+00:09:50,322 --> 00:09:52,962
+<font color=#FFFF00>Es gibt zwei Ideen,</font>
+<font color=#FFFF00>warum es so heißt.</font>
+
+107
+00:09:53,762 --> 00:09:57,482
+<font color=#FFFF00>Entweder wegen der verdaulichen</font>
+<font color=#FFFF00>Musik, die die Leute danach machen</font>
+
+108
+00:09:58,242 --> 00:10:02,762
+<font color=#FFFF00>oder wegen der klingenden Essig- und</font>
+<font color=#FFFF00>Ölflaschen beim Zubereiten.</font>
+
+109
+00:10:06,762 --> 00:10:07,762
+<font color=#00FFFF>Schmeckt!</font>
+
+110
+00:10:11,962 --> 00:10:15,082
+<font color=#00FFFF>Würdest du mir</font>
+<font color=#00FFFF>auch vom Fleischsalat geben?</font>
+
+111
+00:10:15,202 --> 00:10:18,562
+<font color=#00FFFF>Man muss ja alles probieren.</font>
+
+112
+00:10:20,562 --> 00:10:24,042
+<font color=#00FFFF>Alle Infos zum Rezept</font>
+<font color=#00FFFF>stehen auch online.</font>
+
+113
+00:10:24,762 --> 00:10:26,042
+<font color=#00FFFF>Vielen Dank, Elli.</font>
+
+114
+00:10:26,362 --> 00:10:28,522
+<font color=#00FFFF>Dazu jetzt noch ein Glas Wein.</font>
+

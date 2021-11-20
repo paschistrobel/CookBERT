@@ -1,0 +1,865 @@
+1
+00:00:05,021 --> 00:00:09,019
+<font color=#ffffff>Wir haben uns frisch gemacht.</font>
+
+2
+00:00:11,001 --> 00:00:14,002
+<font color=#ffffff>Wir haben Hände gewaschen.</font>
+
+3
+00:00:14,018 --> 00:00:17,007
+<font color=#ffffff>Jetzt geht es in die Küche.</font>
+
+4
+00:00:17,019 --> 00:00:21,009
+<font color=#ffffff>Was machen wir heute?</font>
+
+5
+00:00:24,022 --> 00:00:28,023
+<font color=#ffff00>Ich habe am Wochenende auch frei.</font>
+
+6
+00:00:31,012 --> 00:00:34,021
+<font color=#ffff00>Ich freue mich über dieses</font>
+<font color=#ffff00>wunderschöne Stück Fleisch.</font>
+
+7
+00:00:35,012 --> 00:00:38,017
+<font color=#ffff00>Es ist in guter Qualität.</font>
+
+8
+00:00:39,008 --> 00:00:42,015
+<font color=#ffff00>Wenn ich drauf drücke, ist es schön</font>
+<font color=#ffff00>fest.</font>
+
+9
+00:00:43,006 --> 00:00:46,007
+<font color=#ffff00>Auch das Fett ist fest.</font>
+
+10
+00:00:46,023 --> 00:00:50,011
+<font color=#ffff00>Das ist ein Qualitätsmerkmal.</font>
+
+11
+00:00:55,014 --> 00:00:59,019
+<font color=#ffff00>Rinderstreifen mit einem</font>
+<font color=#ffff00>marinierten Parmesan.</font>
+
+12
+00:01:26,010 --> 00:01:30,012
+<font color=#ffff00>Ich schneide es in Scheiben.</font>
+
+13
+00:01:30,023 --> 00:01:33,012
+<font color=#ffff00>Es ist eine tolle Qualität.</font>
+
+14
+00:01:33,021 --> 00:01:36,009
+<font color=#ffff00>Ich freue mich darüber.</font>
+
+15
+00:01:36,017 --> 00:01:38,002
+<font color=#ffff00>Wir machen eine große Portion.</font>
+
+16
+00:01:44,015 --> 00:01:47,012
+<font color=#ffff00>Jetzt wird das Fleisch</font>
+<font color=#ffff00>angebrachten.</font>
+
+17
+00:01:47,024 --> 00:01:51,000
+<font color=#ffffff>Mit Öl?</font>
+
+18
+00:01:51,011 --> 00:01:54,021
+<font color=#ffffff>Welches übernimmst du?</font>
+
+19
+00:01:55,014 --> 00:01:58,003
+<font color=#ffff00>S kann ein Rapsöl sein oder ein</font>
+<font color=#ffff00>Olivenöl.</font>
+
+20
+00:01:58,019 --> 00:02:01,022
+<font color=#ffff00>Wenn dem nicht so viel Öl.</font>
+
+21
+00:02:02,009 --> 00:02:04,023
+<font color=#ffffff>Was hältst du von Butter?</font>
+
+22
+00:02:05,008 --> 00:02:08,022
+<font color=#ffff00>Geht auch.</font>
+
+23
+00:02:09,007 --> 00:02:12,018
+<font color=#ffff00>Wir wird in die Pfanne, das kennen</font>
+<font color=#ffff00>wir schon.</font>
+
+24
+00:02:15,018 --> 00:02:19,015
+<font color=#ffff00>Mittlere Temperatur, das kann man</font>
+<font color=#ffff00>fühlen.</font>
+
+25
+00:02:20,002 --> 00:02:23,023
+<font color=#ffff00>Jetzt kommt das Fleisch in die</font>
+<font color=#ffff00>Pfanne.</font>
+
+26
+00:02:26,008 --> 00:02:29,011
+<font color=#ffff00>Schön vorsichtig von allen Seiten</font>
+<font color=#ffff00>anbraten.</font>
+
+27
+00:02:29,024 --> 00:02:33,004
+<font color=#ffff00>Obendrauf kommt auch Salz.</font>
+
+28
+00:02:35,023 --> 00:02:39,020
+<font color=#ffffff>Leute schwören auch auf die</font>
+<font color=#ffffff>gusseisernen Pfannen.</font>
+
+29
+00:02:41,001 --> 00:02:44,002
+<font color=#ffff00>Ich feiere das auch.</font>
+
+30
+00:02:44,014 --> 00:02:47,016
+<font color=#ffff00>Ich habe auch so eine Pfanne zu</font>
+<font color=#ffff00>Hause.</font>
+
+31
+00:02:48,004 --> 00:02:51,015
+<font color=#ffff00>Für das Fleisch geht das auch gut.</font>
+
+32
+00:02:52,000 --> 00:02:55,011
+<font color=#ffff00>Die Temperatur wird in der Pfanne</font>
+<font color=#ffff00>besser gehalten.</font>
+
+33
+00:02:58,020 --> 00:03:01,021
+<font color=#ffff00>Das Fleischsaft und beim Braten</font>
+<font color=#ffff00>nicht aus.</font>
+
+34
+00:03:02,008 --> 00:03:05,021
+<font color=#ffff00>Es ist schön trocken.</font>
+
+35
+00:03:06,024 --> 00:03:11,002
+<font color=#ffff00>Ich berate es von allen Seiten an.</font>
+
+36
+00:03:15,010 --> 00:03:19,007
+<font color=#ffff00>Es kommt etwas Rosmarin dazu.</font>
+
+37
+00:03:23,024 --> 00:03:27,024
+<font color=#ffff00>Wenn es angebracht ist, kommen 2</font>
+<font color=#ffff00>Komponenten zusammen.</font>
+
+38
+00:03:28,011 --> 00:03:32,007
+<font color=#ffff00>Parmesan und Tomaten.</font>
+
+39
+00:03:36,019 --> 00:03:40,019
+<font color=#ffffff>Du hast dich schon bei der schalte</font>
+<font color=#ffffff>bei "MDR um 2" darauf gefreut.</font>
+
+40
+00:03:42,016 --> 00:03:46,005
+<font color=#ffff00>Es ist verrückt und sehr einfach.</font>
+
+41
+00:03:46,020 --> 00:03:50,008
+<font color=#ffff00>Liebe Zuschauer, schön anbraten.</font>
+
+42
+00:03:51,007 --> 00:03:54,009
+<font color=#ffff00>Wie sieht dein Appetit aus?</font>
+
+43
+00:03:55,001 --> 00:03:58,011
+<font color=#ffffff>Der Appetit wächst.</font>
+
+44
+00:03:59,022 --> 00:04:03,022
+<font color=#ffff00>Nun kommt das Fleisch bei 90°C in</font>
+<font color=#ffff00>den Backofen.</font>
+
+45
+00:04:04,017 --> 00:04:08,017
+<font color=#ffff00>Es wird scharf an gebraten und dann</font>
+<font color=#ffff00>kommt es in den Ofen.</font>
+
+46
+00:04:09,004 --> 00:04:12,005
+<font color=#ffffff>Wie lange?</font>
+
+47
+00:04:12,011 --> 00:04:15,002
+<font color=#ffff00>5 Minuten.</font>
+
+48
+00:04:15,014 --> 00:04:18,006
+<font color=#ffff00>Dann gab es etwas durch.</font>
+
+49
+00:04:18,020 --> 00:04:21,011
+<font color=#ffff00>Nun kommt der Hauptakteur.</font>
+
+50
+00:04:21,023 --> 00:04:24,000
+<font color=#ffff00>Knoblauch.</font>
+
+51
+00:04:24,014 --> 00:04:28,004
+<font color=#ffff00>Das können wir uns.</font>
+
+52
+00:04:31,009 --> 00:04:34,005
+<font color=#ffff00>Diese geschmacksgebenden</font>
+<font color=#ffff00>Komponenten:</font>
+
+53
+00:04:34,021 --> 00:04:36,024
+<font color=#ffff00>Knoblauch und Rosmarin.</font>
+
+54
+00:04:37,011 --> 00:04:40,024
+<font color=#ffff00>Die gehören zusammen.</font>
+
+55
+00:04:42,017 --> 00:04:46,018
+<font color=#ffffff>Ist es dein Lieblingskraut?</font>
+
+56
+00:04:48,012 --> 00:04:52,008
+<font color=#ffff00>Klar, ohne geht bei mir in der</font>
+<font color=#ffff00>Küche nichts.</font>
+
+57
+00:04:52,018 --> 00:04:55,009
+<font color=#ffff00>Der Knobloch wird gehackt.</font>
+
+58
+00:04:55,019 --> 00:04:58,019
+<font color=#ffff00>Jetzt die Tomaten.</font>
+
+59
+00:05:00,009 --> 00:05:04,014
+<font color=#ffff00>Es sind frische Tomaten.</font>
+
+60
+00:05:09,017 --> 00:05:13,022
+<font color=#ffff00>Wir können hier ja gar nicht</font>
+<font color=#ffff00>zusammen kochen.</font>
+
+61
+00:05:14,003 --> 00:05:17,016
+<font color=#ffffff>Ich stehe nur dekorativ herum.</font>
+
+62
+00:05:18,000 --> 00:05:21,016
+<font color=#ffffff>Ein wenig kann ich dir schon helfen.</font>
+
+63
+00:05:23,002 --> 00:05:27,003
+<font color=#ffffff>Was soll ich mit den Tomaten machen?</font>
+
+64
+00:05:29,012 --> 00:05:33,009
+<font color=#ffff00>Die Tomaten sind gewaschen und</font>
+<font color=#ffff00>werden halbiert.</font>
+
+65
+00:05:33,021 --> 00:05:36,022
+<font color=#ffff00>Das ist die Vorbereitung.</font>
+
+66
+00:05:37,009 --> 00:05:39,011
+<font color=#ffffff>Braust du alle?</font>
+
+67
+00:05:39,019 --> 00:05:43,009
+<font color=#ffff00>Ja.</font>
+
+68
+00:05:46,008 --> 00:05:50,004
+<font color=#ffffff>Eine Essen runtergefahren.</font>
+
+69
+00:05:51,011 --> 00:05:55,016
+<font color=#ffff00>Das ist die Vorbereitung.</font>
+
+70
+00:05:56,023 --> 00:06:01,002
+<font color=#ffff00>Parmesan ist das mediterrane Gold.</font>
+
+71
+00:06:03,002 --> 00:06:07,002
+<font color=#ffff00>Ich breche kleine Würfel heraus.</font>
+
+72
+00:06:07,016 --> 00:06:11,004
+<font color=#ffff00>Das funktioniert mit dem kleinen</font>
+<font color=#ffff00>Messer.</font>
+
+73
+00:06:12,011 --> 00:06:15,022
+<font color=#ffff00>Früher sagte man:</font>
+
+74
+00:06:16,011 --> 00:06:19,020
+<font color=#ffff00>in mundgerechte Stücke.</font>
+
+75
+00:06:23,000 --> 00:06:26,001
+<font color=#ffff00>Parmesan, Kirschtomaten, Knoblauch</font>
+<font color=#ffff00>und Rosmarin.</font>
+
+76
+00:06:26,011 --> 00:06:29,022
+<font color=#ffff00>Dann kommt Zucker.</font>
+
+77
+00:06:30,009 --> 00:06:34,005
+<font color=#ffff00>Und Balsam Mikroessig und Öl.</font>
+
+78
+00:06:46,013 --> 00:06:50,009
+<font color=#ffffff>Jetzt wird Karamelisiert.</font>
+
+79
+00:06:53,000 --> 00:06:57,000
+<font color=#ffffff>Erst Tomaten rein mit Knoblauch und</font>
+<font color=#ffffff>Rosmarin.</font>
+
+80
+00:06:57,020 --> 00:07:01,016
+<font color=#ffffff>Auf diese Menge kommt ein knapper</font>
+<font color=#ffffff>Esslöffel Zucker.</font>
+
+81
+00:07:08,015 --> 00:07:12,015
+<font color=#ffffff>Dann kommt Olivenöl dazu.</font>
+
+82
+00:07:15,020 --> 00:07:19,024
+<font color=#ffff00>Nun wird das ganze mit Essig</font>
+<font color=#ffff00>abgelöst.</font>
+
+83
+00:07:28,003 --> 00:07:32,005
+<font color=#ffff00>Mit ganz normalem Balsamico Essig.</font>
+
+84
+00:07:33,009 --> 00:07:37,006
+<font color=#ffff00>Dann kommt der Parmesan dazu.</font>
+
+85
+00:07:37,018 --> 00:07:41,007
+<font color=#ffff00>Die Temperatur wird reduziert.</font>
+
+86
+00:07:42,002 --> 00:07:45,017
+<font color=#ffff00>Der Parmesan soll nicht schmelzen,</font>
+<font color=#ffff00>nur weich werden.</font>
+
+87
+00:07:46,021 --> 00:07:50,018
+<font color=#ffff00>Dann kommt ein Hauch Zitrone dazu.</font>
+
+88
+00:07:51,008 --> 00:07:54,015
+<font color=#ffff00>Es muss Bio Zitrone sein.</font>
+
+89
+00:07:55,017 --> 00:07:59,021
+<font color=#ffff00>Und auch etwas Zitronensaft.</font>
+
+90
+00:08:03,023 --> 00:08:08,000
+<font color=#ffff00>Das mit frischem Weißbrot ist eine</font>
+<font color=#ffff00>Offenbarung.</font>
+
+91
+00:08:12,004 --> 00:08:16,005
+<font color=#ffff00>Es war eines der 1. Gerichte, die</font>
+<font color=#ffff00>ich als Rezept gemacht habe.</font>
+
+92
+00:08:17,024 --> 00:08:21,012
+<font color=#ffff00>Ich habe mein 1. Buch mit 26</font>
+<font color=#ffff00>geschrieben.</font>
+
+93
+00:08:21,022 --> 00:08:25,016
+<font color=#ffff00>Es war eines der 1. Rezepte.</font>
+
+94
+00:08:26,003 --> 00:08:30,003
+<font color=#ffff00>Es begleitet mich mein Leben lang.</font>
+
+95
+00:08:31,005 --> 00:08:34,018
+<font color=#ffff00>Das Fleisch ist jetzt fertig.</font>
+
+96
+00:08:35,005 --> 00:08:38,022
+<font color=#ffffff>Es riecht verlockend.</font>
+
+97
+00:08:41,015 --> 00:08:45,019
+<font color=#ffff00>Jetzt lass ich das etwas ziehen.</font>
+
+98
+00:08:46,002 --> 00:08:50,005
+<font color=#ffffff>Ist der Herd schon aus?</font>
+
+99
+00:08:50,014 --> 00:08:53,007
+<font color=#ffff00>Ja, jetzt kommt die Pfanne in den</font>
+<font color=#ffff00>Ofen.</font>
+
+100
+00:08:53,016 --> 00:08:57,007
+<font color=#ffff00>Bei 80°C.</font>
+
+101
+00:08:58,002 --> 00:09:01,003
+<font color=#ffffff>Was macht der Griff der Pfanne?</font>
+
+102
+00:09:01,022 --> 00:09:04,024
+<font color=#ffff00>Das schafft er.</font>
+
+103
+00:09:05,015 --> 00:09:08,022
+<font color=#ffff00>Ein paar Minuten dauert es noch.</font>
+
+104
+00:09:09,007 --> 00:09:11,021
+<font color=#ffff00>Es muss noch garen.</font>
+
+105
+00:09:12,006 --> 00:09:15,017
+<font color=#ffff00>Nun kommt der Nachtisch.</font>
+
+106
+00:09:17,019 --> 00:09:21,020
+<font color=#ffff00>Panna Cotta.</font>
+
+107
+00:09:24,005 --> 00:09:27,003
+<font color=#ffffff>Man muss sich das gut überlegen.</font>
+
+108
+00:09:27,011 --> 00:09:31,000
+<font color=#ffffff>Der Käse darf nicht schmelzen.</font>
+
+109
+00:09:32,019 --> 00:09:36,019
+<font color=#ffff00>Er muss warm werden, aber nicht</font>
+<font color=#ffff00>schmelzen.</font>
+
+110
+00:09:38,000 --> 00:09:41,022
+<font color=#ffff00>Die Temperatur wird reduziert, wenn</font>
+<font color=#ffff00>der Käse hinein kommt.</font>
+
+111
+00:09:45,014 --> 00:09:49,022
+<font color=#ffff00>Man bräuchte also gar kein Fleisch.</font>
+
+112
+00:09:51,006 --> 00:09:55,004
+<font color=#ffff00>Für alle Vegetarier, man braucht</font>
+<font color=#ffff00>kein Fleisch.</font>
+
+113
+00:09:56,023 --> 00:09:59,017
+<font color=#ffff00>Man braucht ein gutes Brot und ein</font>
+<font color=#ffff00>Glas Rotwein.</font>
+
+114
+00:09:59,024 --> 00:10:03,020
+<font color=#ffff00>Oder auch Saft.</font>
+
+115
+00:10:12,016 --> 00:10:16,014
+<font color=#ffff00>Das ist ein Dessert, das ich mag.</font>
+
+116
+00:10:17,003 --> 00:10:20,024
+<font color=#ffff00>Man kann Lavendel frisch kaufen</font>
+<font color=#ffff00>oder auch getrocknet.</font>
+
+117
+00:10:21,010 --> 00:10:24,010
+<font color=#ffff00>Lavendel kommt hinein.</font>
+
+118
+00:10:24,018 --> 00:10:28,007
+<font color=#ffff00>Dann Zucker.</font>
+
+119
+00:10:29,001 --> 00:10:32,020
+<font color=#ffff00>Das wird aufgekocht.</font>
+
+120
+00:10:34,024 --> 00:10:38,021
+<font color=#ffff00>Ich habe das Brett gereinigt.</font>
+
+121
+00:10:39,010 --> 00:10:42,021
+<font color=#ffff00>Idealerweise mit Vanille.</font>
+
+122
+00:10:43,022 --> 00:10:47,018
+<font color=#ffff00>Mit dem Messer auf die</font>
+<font color=#ffff00>Vanilleschoten und drauf klopfen.</font>
+
+123
+00:10:48,005 --> 00:10:51,014
+<font color=#ffff00>Dann kann man sie problemlos</font>
+<font color=#ffff00>halbieren.</font>
+
+124
+00:10:52,017 --> 00:10:56,019
+<font color=#ffff00>Das Mark auskratzen.</font>
+
+125
+00:10:59,000 --> 00:11:03,000
+<font color=#ffff00>Wir machen Vanillezucker.</font>
+
+126
+00:11:06,005 --> 00:11:10,006
+<font color=#ffff00>Wenn du wählen müsstest: Dessert</font>
+<font color=#ffff00>oder Hauptgericht?</font>
+
+127
+00:11:18,021 --> 00:11:22,021
+<font color=#ffffff>Du hast mich mit dem Parmesan</font>
+<font color=#ffffff>gekriegt.</font>
+
+128
+00:11:23,012 --> 00:11:27,012
+<font color=#ffff00>Bald erfinden wir Geruchsfernsehen.</font>
+
+129
+00:11:29,022 --> 00:11:33,010
+<font color=#ffffff>So lange müssen wir uns mit dem QR-</font>
+<font color=#ffffff>Code behelfen.</font>
+
+130
+00:11:33,018 --> 00:11:35,000
+<font color=#ffffff>Hier finden Sie die Rezepte.</font>
+
+131
+00:11:44,014 --> 00:11:47,023
+<font color=#ffff00>Noch kein Italiener sagte, dass</font>
+<font color=#ffff00>dies ein Dessert ist,</font>
+
+132
+00:11:48,009 --> 00:11:51,011
+<font color=#ffff00>dass sich zum Abnehmen eignet.</font>
+
+133
+00:11:51,018 --> 00:11:55,010
+<font color=#ffff00>Es ist einiges drin.</font>
+
+134
+00:11:56,017 --> 00:12:00,021
+<font color=#ffffff>Italienisches Essen und abnehmen</font>
+<font color=#ffffff>passt ähnlich zusammen.</font>
+
+135
+00:12:01,008 --> 00:12:05,006
+<font color=#ffff00>Es geht um kluge Ernährung.</font>
+
+136
+00:12:15,017 --> 00:12:19,017
+<font color=#ffff00>Lavendel, Zucker, Sahne und</font>
+<font color=#ffff00>Mascapone: Das ist eine Nummer.</font>
+
+137
+00:12:23,004 --> 00:12:26,022
+<font color=#ffff00>S muss gar nicht aufkochen, sie</font>
+<font color=#ffff00>muss warm ziehen.</font>
+
+138
+00:12:27,010 --> 00:12:30,016
+<font color=#ffff00>Dann muss Gelatine dazu.</font>
+
+139
+00:12:31,004 --> 00:12:34,019
+<font color=#ffff00>Pflanzliches Bindemittel geht auch.</font>
+
+140
+00:12:35,002 --> 00:12:38,019
+<font color=#ffffff>Ich habe das ausprobiert, es geht</font>
+<font color=#ffffff>gut.</font>
+
+141
+00:12:39,005 --> 00:12:41,024
+<font color=#ffff00>Gelatine ist halt klassisch.</font>
+
+142
+00:12:42,011 --> 00:12:46,001
+<font color=#ffff00>Man kann sie besser dosieren.</font>
+
+143
+00:12:55,018 --> 00:12:59,014
+<font color=#ffff00>Es müssen 3 Blatt hinein.</font>
+
+144
+00:13:03,014 --> 00:13:07,017
+<font color=#ffff00>Wenn die Coronazeit vorbei ist,</font>
+<font color=#ffff00>kochen wir wieder zusammen.</font>
+
+145
+00:13:24,004 --> 00:13:27,006
+<font color=#ffff00>Das kommt dazu.</font>
+
+146
+00:13:27,023 --> 00:13:30,014
+<font color=#ffff00>Im Grunde war es das.</font>
+
+147
+00:13:31,005 --> 00:13:34,003
+<font color=#ffff00>Es ist ein einfaches Dessert.</font>
+
+148
+00:13:34,013 --> 00:13:37,005
+<font color=#ffff00>Nun wird es in das Gläschen</font>
+<font color=#ffff00>gefüllt.</font>
+
+149
+00:13:37,019 --> 00:13:41,007
+<font color=#ffff00>Dann kommt es in den Kühlschrank.</font>
+
+150
+00:13:42,014 --> 00:13:46,006
+<font color=#ffff00>Sie können viele Gläser machen.</font>
+
+151
+00:13:46,018 --> 00:13:49,023
+<font color=#ffffff>Es ist nicht kompliziert.</font>
+
+152
+00:13:50,010 --> 00:13:53,014
+<font color=#ffff00>Nein, es ist einfach.</font>
+
+153
+00:13:53,023 --> 00:13:57,011
+<font color=#ffffff>Die Mandarine schmeckt mir.</font>
+
+154
+00:14:05,017 --> 00:14:09,013
+<font color=#ffffff>Könntest du sie noch teilen?</font>
+
+155
+00:14:13,009 --> 00:14:17,007
+<font color=#ffff00>In die Pfanne kommt Butter und</font>
+<font color=#ffff00>Pistazien.</font>
+
+156
+00:14:26,023 --> 00:14:31,001
+<font color=#ffffff>Willst du die Haut abhob?</font>
+
+157
+00:14:37,003 --> 00:14:40,004
+<font color=#ffff00>Du ist mehr, als du produzierst.</font>
+
+158
+00:14:40,016 --> 00:14:44,004
+<font color=#ffffff>Ich habe nur genascht.</font>
+
+159
+00:14:44,015 --> 00:14:47,021
+<font color=#ffffff>Wo soll ich sie hin tun?</font>
+
+160
+00:14:48,011 --> 00:14:51,021
+<font color=#ffff00>Sie kommen in die Pfanne.</font>
+
+161
+00:14:58,018 --> 00:15:02,017
+<font color=#ffff00>Jetzt kommt zu den Mandarinen</font>
+<font color=#ffff00>Einschusshonig.</font>
+
+162
+00:15:04,022 --> 00:15:08,024
+<font color=#ffff00>Es ist Lavendel-Honig.</font>
+
+163
+00:15:09,019 --> 00:15:13,015
+<font color=#ffff00>Man lässt es warm ziehen.</font>
+
+164
+00:15:16,011 --> 00:15:20,015
+<font color=#ffffff>Dort liegen noch 2 Pistazien.</font>
+
+165
+00:15:22,020 --> 00:15:26,024
+<font color=#ffff00>Es schaut schön aus.</font>
+
+166
+00:15:32,015 --> 00:15:36,014
+<font color=#ffff00>Nun kommt es auf einen Teller.</font>
+
+167
+00:15:40,020 --> 00:15:44,016
+<font color=#ffffff>Das sieht lecker aus.</font>
+
+168
+00:15:45,007 --> 00:15:49,005
+<font color=#ffff00>Der Parmesan ist leicht</font>
+<font color=#ffff00>geschmolzen.</font>
+
+169
+00:15:49,017 --> 00:15:52,024
+<font color=#ffffff>So soll er sein, ja?</font>
+
+170
+00:15:53,015 --> 00:15:56,004
+<font color=#ffff00>Ja, leicht geschmolzen.</font>
+
+171
+00:15:56,018 --> 00:16:00,008
+<font color=#ffff00>Nicht ganz geschmolzen.</font>
+
+172
+00:16:02,001 --> 00:16:05,024
+<font color=#ffff00>Es ist kulinarisch eine Sensation.</font>
+
+173
+00:16:06,010 --> 00:16:09,024
+<font color=#ffff00>Nun kommt Rucola dazu.</font>
+
+174
+00:16:12,009 --> 00:16:15,009
+<font color=#ffff00>Es ist ein Gericht, das kann man</font>
+<font color=#ffff00>das ganze ja essen.</font>
+
+175
+00:16:16,000 --> 00:16:19,001
+<font color=#ffff00>Auch im Sommer.</font>
+
+176
+00:16:19,010 --> 00:16:22,019
+<font color=#ffffff>Da gibt es aber keine Mandarinen.</font>
+
+177
+00:16:25,000 --> 00:16:29,003
+<font color=#ffff00>Ich verrate dir: ich habe riesigen</font>
+<font color=#ffff00>Hunger.</font>
+
+178
+00:16:30,010 --> 00:16:34,012
+<font color=#ffffff>Sagst du uns damit, dass du es jetzt</font>
+<font color=#ffffff>ist?</font>
+
+179
+00:16:34,020 --> 00:16:38,008
+<font color=#ffff00>Nein, ich freue mich wenn es etwas</font>
+<font color=#ffff00>gibt.</font>
+
+180
+00:16:38,016 --> 00:16:42,004
+<font color=#ffff00>Hier das Dessert.</font>
+
+181
+00:16:44,014 --> 00:16:47,019
+<font color=#ffff00>So schaut es im Glas aus,</font>
+
+182
+00:16:48,010 --> 00:16:51,022
+<font color=#ffff00>und so auf dem Teller.</font>
+
+183
+00:16:57,023 --> 00:17:01,014
+<font color=#ffff00>Es sieht schön aus.</font>
+
+184
+00:17:02,002 --> 00:17:05,015
+<font color=#ffff00>Ich verrate ihn gleich noch etwas.</font>
+
+185
+00:17:07,010 --> 00:17:10,002
+<font color=#ffff00>Christian wird heute noch etwas</font>
+<font color=#ffff00>tun.</font>
+
+186
+00:17:10,013 --> 00:17:13,020
+<font color=#ffffff>Das erzähle ich Ihnen gleich.</font>
+
+187
+00:17:16,009 --> 00:17:19,018
+<font color=#ffffff>Hier ist der Teller.</font>
+
+188
+00:17:20,005 --> 00:17:23,018
+<font color=#ffffff>Der Christian hat heute noch nicht</font>
+<font color=#ffffff>Feierabend.</font>
+
+189
+00:17:24,005 --> 00:17:26,003
+<font color=#ffffff>Er ist heute noch beim "Riverboat".</font>
+
+190
+00:17:26,019 --> 00:17:30,007
+<font color=#ffffff>Schauen Sie rein.</font>
+
+191
+00:17:30,017 --> 00:17:33,020
+<font color=#ffffff>Ich koste jetzt.</font>
+
+192
+00:17:34,011 --> 00:17:37,022
+<font color=#ffffff>S ist lecker.</font>
+
+193
+00:17:39,004 --> 00:17:42,014
+<font color=#ffff00>Ich habe auch schon probiert, das</font>
+<font color=#ffff00>Fleisch ist gut.</font>
+
+194
+00:17:43,004 --> 00:17:46,009
+<font color=#ffffff>Der Parmesan ist toll.</font>
+
+195
+00:17:46,022 --> 00:17:50,002
+<font color=#ffffff>Wir danken Ihnen fürs zuschauen.</font>
+
+196
+00:17:50,014 --> 00:17:53,011
+<font color=#ffffff>Sie sollten dieses Gericht nach</font>
+<font color=#ffffff>kochen.</font>
+
+197
+00:17:54,001 --> 00:17:55,009
+<font color=#ffffff>Denn Nachtisch koste ich noch.</font>
+
+198
+00:17:55,017 --> 00:17:58,002
+<font color=#ffffff>Am Montag begrüßt Peter</font>
+<font color=#ffffff>einen spannenden Mann,</font>
+
+199
+00:17:58,006 --> 00:18:00,019
+<font color=#ffffff>der weiß,</font>
+<font color=#ffffff>wie es um unsere Erde bestellt ist.</font>
+
+200
+00:18:00,023 --> 00:18:04,015
+<font color=#ffffff>Klimaforscher Dr. Sandro Dahlke.</font>
+
+201
+00:18:07,021 --> 00:18:09,022
+<font color=#ffffff>Schönes wochenende.</font>
+

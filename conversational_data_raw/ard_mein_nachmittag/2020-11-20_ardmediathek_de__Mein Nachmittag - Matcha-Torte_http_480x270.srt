@@ -1,0 +1,485 @@
+1
+00:00:02,551 --> 00:00:06,031
+<font color=#00FFFF>Er hat eine ausgefallene Torte</font>
+<font color=#00FFFF>mitgebracht.</font>
+
+2
+00:00:10,791 --> 00:00:14,631
+<font color=#00FFFF>Eine Torte aus</font>
+<font color=#00FFFF>unterschiedlichsten Komponenten.</font>
+
+3
+00:00:15,391 --> 00:00:18,871
+<font color=#FFFFFF>Ich habe Matcha-Tee mitgebracht.</font>
+
+4
+00:00:21,671 --> 00:00:25,311
+<font color=#FFFFFF>Der kommt aus Japan,</font>
+<font color=#FFFFFF>das ist gemahlener, grüner Tee.</font>
+
+5
+00:00:25,471 --> 00:00:28,631
+<font color=#FFFFFF>Fein gemahlen.</font>
+
+6
+00:00:28,791 --> 00:00:32,191
+<font color=#FFFFFF>Das habe ich mal mitgemacht,</font>
+<font color=#FFFFFF>bei einer Teezeremonie.</font>
+
+7
+00:00:33,191 --> 00:00:35,631
+<font color=#00FFFF>Was brauchen wir dafür?</font>
+
+8
+00:00:35,791 --> 00:00:38,591
+<font color=#FFFFFF>Verschiedenes.</font>
+
+9
+00:00:38,751 --> 00:00:41,151
+<font color=#FFFFFF>Wir haben die Crepes.</font>
+
+10
+00:00:41,311 --> 00:00:44,751
+<font color=#FFFFFF>Die werden geschichtet.</font>
+
+11
+00:00:45,111 --> 00:00:48,631
+<font color=#FFFFFF>Hier ist unser Teig.</font>
+
+12
+00:00:49,711 --> 00:00:53,191
+<font color=#FFFFFF>Pfannkuchenteig, mit Mehl, Eiern.</font>
+
+13
+00:01:00,671 --> 00:01:03,551
+<font color=#FFFFFF>Etwas geschmolzene Butter.</font>
+
+14
+00:01:03,711 --> 00:01:07,151
+<font color=#FFFFFF>Wir geben Matcha-Pulver dazu.</font>
+
+15
+00:01:07,471 --> 00:01:10,991
+<font color=#00FFFF>Sind das die gemahlenen Blätter?</font>
+
+16
+00:01:11,831 --> 00:01:15,351
+<font color=#FFFFFF>Ja, die werden getrocknet</font>
+<font color=#FFFFFF>und fein gemahlen.</font>
+
+17
+00:01:17,831 --> 00:01:21,351
+<font color=#FFFFFF>Bei normalem grünen Tee</font>
+<font color=#FFFFFF>werden sie gedämpft.</font>
+
+18
+00:01:26,911 --> 00:01:31,151
+<font color=#FFFFFF>Bei grünem Matcha-Tee werden sie</font>
+<font color=#FFFFFF>beschattet mit einer Folie.</font>
+
+19
+00:01:31,311 --> 00:01:33,511
+<font color=#FFFFFF>Deswegen bleiben sie so grün.</font>
+
+20
+00:01:33,711 --> 00:01:37,111
+<font color=#00FFFF>Darf ich mal davon probieren?</font>
+
+21
+00:01:37,271 --> 00:01:40,631
+<font color=#FFFFFF>Ich gebe dir was.</font>
+
+22
+00:01:40,791 --> 00:01:44,231
+<font color=#00FFFF>Vielleicht einmal</font>
+<font color=#00FFFF>und zum letzten Mal.</font>
+
+23
+00:01:45,071 --> 00:01:48,551
+<font color=#FFFFFF>Im puren Zustand ist es speziell.</font>
+
+24
+00:01:48,871 --> 00:01:52,351
+<font color=#00FFFF>Bitter.</font>
+
+25
+00:01:52,711 --> 00:01:56,231
+<font color=#FFFFFF>Ja, es ist herb.</font>
+
+26
+00:01:59,671 --> 00:02:03,191
+<font color=#FFFFFF>So pur würde ich es nicht trinken.</font>
+
+27
+00:02:06,071 --> 00:02:08,952
+<font color=#FFFFFF>Aber wir nehmen Zucker.</font>
+
+28
+00:02:09,111 --> 00:02:12,551
+<font color=#FFFFFF>Da ist auch Koffein drin.</font>
+
+29
+00:02:12,831 --> 00:02:15,791
+<font color=#00FFFF>Dann kann man das auch</font>
+<font color=#00FFFF>zum Frühstück essen?</font>
+
+30
+00:02:15,952 --> 00:02:18,831
+<font color=#FFFFFF>Absolut.</font>
+
+31
+00:02:18,991 --> 00:02:22,431
+<font color=#FFFFFF>Jetzt hat es diese Farbe.</font>
+
+32
+00:02:26,151 --> 00:02:29,631
+<font color=#FFFFFF>Es klumpt gerne.</font>
+
+33
+00:02:31,511 --> 00:02:34,991
+<font color=#00FFFF>Matcha oder der Pfannkuchenteig?</font>
+
+34
+00:02:35,191 --> 00:02:38,191
+<font color=#FFFFFF>Das Matcha-Pulver.</font>
+
+35
+00:02:38,351 --> 00:02:41,791
+<font color=#FFFFFF>Das gibt so kleine Knoten.</font>
+
+36
+00:02:41,991 --> 00:02:44,831
+<font color=#FFFFFF>Deswegen muss man es sieben.</font>
+
+37
+00:02:44,991 --> 00:02:48,431
+<font color=#00FFFF>Unser erster Tipp:</font>
+
+38
+00:02:48,791 --> 00:02:52,271
+<font color=#00FFFF>Die Masse durch ein Sieb schicken.</font>
+
+39
+00:02:54,351 --> 00:02:57,031
+<font color=#FFFFFF>Dann kann es in die Pfanne.</font>
+
+40
+00:02:57,191 --> 00:03:00,591
+<font color=#00FFFF>Kann ich was tun?</font>
+
+41
+00:03:01,871 --> 00:03:05,392
+<font color=#FFFFFF>Gerne die Walnüsse klein hacken.</font>
+
+42
+00:03:05,872 --> 00:03:09,352
+<font color=#FFFFFF>Die brauchen wir nicht</font>
+<font color=#FFFFFF>für die Torte,</font>
+
+43
+00:03:09,912 --> 00:03:13,392
+<font color=#FFFFFF>aber danach machen</font>
+<font color=#FFFFFF>wir einen Matcha-Salat.</font>
+
+44
+00:03:13,551 --> 00:03:15,671
+<font color=#00FFFF>Es gibt noch einen Salat?</font>
+
+45
+00:03:15,832 --> 00:03:18,952
+<font color=#00FFFF>Toll.</font>
+
+46
+00:03:19,111 --> 00:03:22,551
+<font color=#FFFFFF>Die Pfanne ist schon heiß.</font>
+
+47
+00:03:24,671 --> 00:03:28,071
+<font color=#FFFFFF>In dem Salat ist auch Matcha drin.</font>
+
+48
+00:03:28,271 --> 00:03:30,392
+<font color=#00FFFF>Und Granatapfel.</font>
+
+49
+00:03:30,551 --> 00:03:33,991
+<font color=#00FFFF>Die haben viel Vitamin C.</font>
+
+50
+00:03:42,432 --> 00:03:45,952
+<font color=#00FFFF>Ich hab das klein gehackt.</font>
+<font color=#FFFFFF>Wunderbar.</font>
+
+51
+00:03:52,271 --> 00:03:57,151
+<font color=#FFFFFF>Man sollte nur wenig Öl nehmen und</font>
+<font color=#FFFFFF>mit einem Tuch etwas herausnehmen.</font>
+
+52
+00:03:58,031 --> 00:04:01,551
+<font color=#00FFFF>Ich habe die Walnüsse im Blick.</font>
+
+53
+00:04:02,791 --> 00:04:06,271
+<font color=#00FFFF>Der, die, das Crepe.</font>
+
+54
+00:04:10,952 --> 00:04:15,191
+<font color=#FFFFFF>Manchmal, bei modernen Pfannen,</font>
+<font color=#FFFFFF>braucht man gar kein Öl mehr.</font>
+
+55
+00:04:16,151 --> 00:04:19,671
+<font color=#FFFFFF>Es geht flott.</font>
+
+56
+00:04:19,991 --> 00:04:23,511
+<font color=#FFFFFF>Die Pfanne nicht zu heiß machen.</font>
+
+57
+00:04:26,511 --> 00:04:30,631
+<font color=#FFFFFF>Wenn es getrocknet ist unten,</font>
+<font color=#FFFFFF>kann man es gut verstreichen.</font>
+
+58
+00:04:31,191 --> 00:04:35,191
+<font color=#FFFFFF>Wenn man eine Crepe-Pfanne hat,</font>
+<font color=#FFFFFF>dann ist das prima.</font>
+
+59
+00:04:36,352 --> 00:04:39,711
+<font color=#FFFFFF>Sonst geht es auch mit jeder anderen.</font>
+
+60
+00:04:39,832 --> 00:04:42,432
+<font color=#00FFFF>Kannst du sie hochschmeißen?</font>
+
+61
+00:04:42,591 --> 00:04:45,392
+<font color=#00FFFF>Trau dich!</font>
+
+62
+00:04:45,551 --> 00:04:48,111
+<font color=#FFFFFF>Sie kleben relativ fest.</font>
+
+63
+00:04:48,271 --> 00:04:49,912
+<font color=#00FFFF>Mach!</font>
+
+64
+00:04:50,071 --> 00:04:53,151
+<font color=#00FFFF>Nicht schlecht.</font>
+
+65
+00:04:53,311 --> 00:04:56,711
+<font color=#FFFFFF>Hätte ich nicht erwartet.</font>
+
+66
+00:04:57,711 --> 00:05:01,191
+<font color=#FFFFFF>Das reicht,</font>
+<font color=#FFFFFF>sie einfach nur etwas anzubräunen.</font>
+
+67
+00:05:07,791 --> 00:05:11,352
+<font color=#00FFFF>Kann ich noch was tun?</font>
+<font color=#FFFFFF>Gerne eine Zitrone auspressen.</font>
+
+68
+00:05:16,392 --> 00:05:19,791
+<font color=#FFFFFF>Das ist das Dressing für den Salat.</font>
+
+69
+00:05:19,952 --> 00:05:23,352
+<font color=#FFFFFF>Da kommt noch Joghurt rein.</font>
+
+70
+00:05:32,271 --> 00:05:35,912
+<font color=#FFFFFF>Die Crepes kann man auf dem Gitter</font>
+<font color=#FFFFFF>auskühlen lassen.</font>
+
+71
+00:05:36,111 --> 00:05:38,832
+<font color=#FFFFFF>Dann werden die nicht so matschig.</font>
+
+72
+00:05:39,031 --> 00:05:41,551
+<font color=#00FFFF>Die Zitrone ist fertig.</font>
+
+73
+00:05:41,711 --> 00:05:43,631
+<font color=#00FFFF>Hier rein?</font>
+
+74
+00:05:43,791 --> 00:05:45,991
+<font color=#FFFFFF>Wunderbar.</font>
+
+75
+00:05:46,151 --> 00:05:49,271
+<font color=#FFFFFF>Ich wollte den Joghurt holen.</font>
+
+76
+00:05:52,791 --> 00:05:56,271
+<font color=#FFFFFF>Der kommt einfach dazu.</font>
+
+77
+00:06:03,271 --> 00:06:06,671
+<font color=#00FFFF>Was für einen Joghurt nimmst du?</font>
+<font color=#FFFFFF>Naturjoghurt.</font>
+
+78
+00:06:16,872 --> 00:06:20,392
+<font color=#00FFFF>Wie viel Zucker? </font>
+<font color=#FFFFFF>Zwei Esslöffel.</font>
+
+79
+00:06:20,791 --> 00:06:22,591
+<font color=#00FFFF>Ich mach's nach Gefühl.</font>
+
+80
+00:06:26,111 --> 00:06:29,912
+<font color=#FFFFFF>Ich hab schon mal was vorbereitet</font>
+<font color=#FFFFFF>von den Pfannkuchen.</font>
+
+81
+00:06:31,311 --> 00:06:33,791
+<font color=#00FFFF>Unsere Nüsse! </font>
+<font color=#FFFFFF>Sieht gut aus.</font>
+
+82
+00:06:35,912 --> 00:06:38,432
+<font color=#00FFFF>Joghurt ist gut.</font>
+
+83
+00:06:41,591 --> 00:06:45,111
+<font color=#FFFFFF>Ich schneide das hier mal an.</font>
+
+84
+00:06:49,751 --> 00:06:53,231
+<font color=#FFFFFF>Etwa zehn von diesen Crepes.</font>
+
+85
+00:06:55,872 --> 00:06:59,392
+<font color=#00FFFF>Clever, gleich die Zweitverwertung.</font>
+
+86
+00:07:00,631 --> 00:07:04,151
+<font color=#FFFFFF>Genau, die Ränder bleiben übrig</font>
+<font color=#FFFFFF>für den Salat.</font>
+
+87
+00:07:12,392 --> 00:07:15,432
+<font color=#FFFFFF>Du kannst die Granatapfelkerne</font>
+<font color=#FFFFFF>mit reintun.</font>
+
+88
+00:07:19,751 --> 00:07:23,231
+<font color=#00FFFF>Ein Schweinkram ...</font>
+
+89
+00:07:24,311 --> 00:07:26,791
+<font color=#00FFFF>Granatapfel ist reich an Vitamin C.</font>
+
+90
+00:07:26,952 --> 00:07:29,271
+<font color=#00FFFF>Stärkt das Immunsystem.</font>
+
+91
+00:07:29,432 --> 00:07:31,912
+<font color=#00FFFF>In diesen Zeiten nicht verkehrt.</font>
+
+92
+00:07:32,071 --> 00:07:34,751
+<font color=#00FFFF>Willst du das haben?</font>
+
+93
+00:07:34,912 --> 00:07:38,311
+<font color=#FFFFFF>Ich gebe die Reste rüber.</font>
+
+94
+00:07:47,912 --> 00:07:50,432
+<font color=#00FFFF>Die Walnussöl tu ich rein? </font>
+<font color=#FFFFFF>Ja, ja.</font>
+
+95
+00:07:56,751 --> 00:07:59,872
+<font color=#FFFFFF>Jetzt sind das die Reste.</font>
+
+96
+00:08:00,031 --> 00:08:02,631
+<font color=#FFFFFF>Du kannst die</font>
+<font color=#FFFFFF>etwas kleiner schneiden.</font>
+
+97
+00:08:02,791 --> 00:08:03,991
+<font color=#00FFFF>Mache ich.</font>
+
+98
+00:08:12,352 --> 00:08:13,872
+<font color=#FFFFFF>Einfach umrühren.</font>
+
+99
+00:08:20,151 --> 00:08:23,671
+<font color=#00FFFF>Das Wort Salat</font>
+<font color=#00FFFF>bekommt neue Dimensionen.</font>
+
+100
+00:08:25,791 --> 00:08:29,271
+<font color=#FFFFFF>Es ist nicht wirklich ein Salat ...</font>
+
+101
+00:08:29,472 --> 00:08:32,991
+<font color=#FFFFFF>Ich fange an zu schichten.</font>
+
+102
+00:08:35,191 --> 00:08:38,511
+<font color=#FFFFFF>Das ist Vanillesahne,</font>
+<font color=#FFFFFF>was ich hier dazwischen mache.</font>
+
+103
+00:08:41,352 --> 00:08:44,872
+<font color=#FFFFFF>So entsteht die Torte.</font>
+
+104
+00:08:53,591 --> 00:08:56,071
+<font color=#00FFFF>Das ist der Salat? </font>
+<font color=#FFFFFF>Genau.</font>
+
+105
+00:08:59,111 --> 00:09:02,591
+<font color=#00FFFF>Haben Sie schon mal</font>
+<font color=#00FFFF>so einen Salat gesehen?</font>
+
+106
+00:09:06,791 --> 00:09:09,111
+<font color=#00FFFF>Sieht aus wie Matsche-Salat.</font>
+
+107
+00:09:22,671 --> 00:09:24,271
+<font color=#00FFFF>Schöne Säure.</font>
+
+108
+00:09:37,432 --> 00:09:40,912
+<font color=#FFFFFF>Ich habe jetzt</font>
+<font color=#FFFFFF>zehn Crepes übereinander.</font>
+
+109
+00:09:42,071 --> 00:09:44,432
+<font color=#00FFFF>Ich schneide die Matcha-Torte an.</font>
+
+110
+00:09:44,472 --> 00:09:45,872
+<font color=#00FFFF>Zack.</font>
+
+111
+00:09:53,432 --> 00:09:56,352
+<font color=#00FFFF>Sie sehen</font>
+<font color=#00FFFF>unsere schöne Matcha-Torte.</font>
+
+112
+00:09:58,551 --> 00:10:00,231
+<font color=#00FFFF>Tschüss, schönen Abend.</font>
+
+113
+00:10:17,231 --> 00:10:19,231
+<font color=#0000FF>Copyright Untertitel: NDR 2020</font>
+

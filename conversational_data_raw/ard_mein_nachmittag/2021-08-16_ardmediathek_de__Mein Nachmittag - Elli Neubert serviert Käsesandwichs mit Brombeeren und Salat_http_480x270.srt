@@ -1,0 +1,608 @@
+1
+00:00:01,765 --> 00:00:05,245
+<font color=#FFFF00>Wir machen jetzt</font>
+<font color=#FFFF00>grilled cheese Sandwich.</font>
+
+2
+00:00:05,725 --> 00:00:09,205
+<font color=#FFFF00>Also mit geschmolzenem Käse.</font>
+
+3
+00:00:09,565 --> 00:00:13,045
+<font color=#FFFF00>Schön knusprig</font>
+<font color=#FFFF00>und dann noch mit Brombeeren.</font>
+
+4
+00:00:20,365 --> 00:00:23,845
+<font color=#00FFFF>Du hast dich für Brombeeren</font>
+<font color=#00FFFF>entschieden, weil ...</font>
+
+5
+00:00:25,965 --> 00:00:29,445
+<font color=#FFFF00>Ich mag einfach Brombeeren.</font>
+
+6
+00:00:29,565 --> 00:00:33,725
+<font color=#FFFF00>Ich mag Käse und wollte</font>
+<font color=#FFFF00>etwas machen, das nicht so süß ist.</font>
+
+7
+00:00:34,645 --> 00:00:37,925
+<font color=#FFFF00>Es gibt viele Menschen,</font>
+<font color=#FFFF00>die nicht so süß essen.</font>
+
+8
+00:00:38,085 --> 00:00:41,485
+<font color=#FFFF00>Ich esse lieber herzhafter.</font>
+
+9
+00:00:41,645 --> 00:00:45,325
+<font color=#FFFF00>Ich wollte zeigen,</font>
+<font color=#FFFF00>dass das auch mit Brombeeren geht.</font>
+
+10
+00:00:45,485 --> 00:00:48,885
+<font color=#FFFF00>Das machen wir heute</font>
+<font color=#FFFF00>mit Blauschimmel.</font>
+
+11
+00:00:49,325 --> 00:00:53,525
+<font color=#00FFFF>Das ist wirklich lecker,</font>
+<font color=#00FFFF>aber das ist nicht für jeden etwas.</font>
+
+12
+00:00:55,605 --> 00:00:57,725
+<font color=#00FFFF>Was kann man sonst nehmen?</font>
+
+13
+00:00:57,845 --> 00:01:01,205
+<font color=#FFFF00>Der ist wirklich</font>
+<font color=#FFFF00>kräftig im Geschmack.</font>
+
+14
+00:01:01,925 --> 00:01:05,845
+<font color=#FFFF00>Saint Agur, ein französischer Käse,</font>
+<font color=#FFFF00>der ist sehr lecker.</font>
+
+15
+00:01:09,445 --> 00:01:12,925
+<font color=#FFFF00>Der ist nicht so kräftig</font>
+<font color=#FFFF00>wie Roquefort.</font>
+
+16
+00:01:21,365 --> 00:01:25,005
+<font color=#FFFF00>Man kann aber auch gerne</font>
+<font color=#FFFF00>Brie oder Camembert nehmen.</font>
+
+17
+00:01:26,245 --> 00:01:29,645
+<font color=#FFFF00>Wer auch die Brombeeren nicht mag,</font>
+
+18
+00:01:29,805 --> 00:01:33,845
+<font color=#FFFF00>kann auch klassisch</font>
+<font color=#FFFF00>Brie mit Preiselbeeren nehmen.</font>
+
+19
+00:01:34,845 --> 00:01:38,245
+<font color=#00FFFF>Wir haben uns gut vorbereitet.</font>
+
+20
+00:01:39,485 --> 00:01:43,165
+<font color=#00FFFF>Wir haben gelesen,</font>
+<font color=#00FFFF>Brombeeren sind gut für die Augen.</font>
+
+21
+00:01:45,045 --> 00:01:48,045
+<font color=#00FFFF>Die haben auf 100 Gramm</font>
+<font color=#00FFFF>nur 44 Kalorien.</font>
+
+22
+00:01:50,365 --> 00:01:52,805
+<font color=#00FFFF>Das ist total gut für die Falten.</font>
+
+23
+00:01:52,965 --> 00:01:55,485
+<font color=#00FFFF>Das hab ich mir natürlich gemerkt.</font>
+
+24
+00:01:55,645 --> 00:01:59,005
+<font color=#FFFF00>Und die wachsen wie Unkraut.</font>
+
+25
+00:01:59,285 --> 00:02:02,765
+<font color=#FFFF00>Bei den Kleingärten</font>
+<font color=#FFFF00>sind oft meterhohe Brombeeren.</font>
+
+26
+00:02:05,885 --> 00:02:09,885
+<font color=#FFFF00>Wenn man sie pflückt,</font>
+<font color=#FFFF00>dürfen die nicht blau oder rot sein.</font>
+
+27
+00:02:10,045 --> 00:02:12,245
+<font color=#FFFF00>Die müssen in die Hand plumpsen.</font>
+
+28
+00:02:14,685 --> 00:02:17,765
+<font color=#FFFF00>Dann sollte man</font>
+<font color=#FFFF00>sie auch schnell verbrauchen.</font>
+
+29
+00:02:17,925 --> 00:02:20,445
+<font color=#FFFF00>Sonst schimmeln sie.</font>
+
+30
+00:02:20,605 --> 00:02:27,165
+<font color=#FFFF00>Wenn man sie in der Schale kauft,</font>
+<font color=#FFFF00>sollte man sie einmal abspülen.</font>
+
+31
+00:02:28,365 --> 00:02:31,885
+<font color=#FFFF00>Dann mit etwas Papier abtrocknen.</font>
+
+32
+00:02:32,045 --> 00:02:35,205
+<font color=#FFFF00>Dann kann man sie</font>
+<font color=#FFFF00>vielleicht zwei Tage aufheben.</font>
+
+33
+00:02:35,365 --> 00:02:38,325
+<font color=#FFFF00>Aber länger nicht.</font>
+
+34
+00:02:40,005 --> 00:02:43,365
+<font color=#00FFFF>Das ist ein guter Tipp</font>
+<font color=#00FFFF>mit dem Papier.</font>
+
+35
+00:02:43,525 --> 00:02:47,765
+<font color=#00FFFF>Ich kaufe mir oft Himbeeren</font>
+<font color=#00FFFF>oder Brombeeren auf die Schnelle.</font>
+
+36
+00:02:50,405 --> 00:02:53,845
+<font color=#FFFF00>Oft liegen unten welche,</font>
+<font color=#FFFF00>die angedetscht sind.</font>
+
+37
+00:02:54,005 --> 00:02:57,365
+<font color=#FFFF00>Der Schimmel breitet sich dann</font>
+<font color=#FFFF00>sehr schnell aus.</font>
+
+38
+00:03:04,325 --> 00:03:08,285
+<font color=#FFFF00>Ich habe hier Blauschimmelkäse</font>
+<font color=#FFFF00>auf das Brot geschmiert.</font>
+
+39
+00:03:08,445 --> 00:03:11,565
+<font color=#FFFF00>Ich habe helles Weizenbrot genommen.</font>
+
+40
+00:03:11,725 --> 00:03:14,365
+<font color=#FFFF00>Je nachdem,</font>
+<font color=#FFFF00>wie süß die Brombeeren sind,</font>
+
+41
+00:03:14,525 --> 00:03:16,845
+<font color=#FFFF00>kann man etwas Honig hinzufügen.</font>
+
+42
+00:03:17,005 --> 00:03:19,485
+<font color=#FFFF00>Das unterstützt den Geschmack.</font>
+
+43
+00:03:24,605 --> 00:03:27,805
+<font color=#00FFFF>Kann ich eigentlich was tun?</font>
+
+44
+00:03:27,965 --> 00:03:30,885
+<font color=#FFFF00>Du kannst die Zitronen auspressen.</font>
+
+45
+00:03:31,045 --> 00:03:33,925
+<font color=#FFFF00>Ich mache noch</font>
+<font color=#FFFF00>einen kleinen Salat dazu.</font>
+
+46
+00:03:34,085 --> 00:03:36,085
+<font color=#00FFFF>Das ist dann für das Dressing?</font>
+
+47
+00:03:36,245 --> 00:03:39,525
+<font color=#FFFF00>Genau.</font>
+
+48
+00:03:39,685 --> 00:03:42,445
+<font color=#FFFF00>Ich gebe jetzt</font>
+<font color=#FFFF00>noch Basilikum darauf.</font>
+
+49
+00:03:42,605 --> 00:03:45,965
+<font color=#FFFF00>Dann schmeckt es</font>
+<font color=#FFFF00>nicht nur nach dem Käse.</font>
+
+50
+00:03:46,885 --> 00:03:50,365
+<font color=#FFFF00>Außerdem schmilzt das so schön.</font>
+
+51
+00:03:50,525 --> 00:03:54,005
+<font color=#FFFF00>Daher gebe ich</font>
+<font color=#FFFF00>noch etwas Mozzarella drauf.</font>
+
+52
+00:03:56,325 --> 00:04:00,125
+<font color=#FFFF00>Man kann auch Blauschimmel</font>
+<font color=#FFFF00>mit Frischkäse kombinieren.</font>
+
+53
+00:04:00,285 --> 00:04:03,205
+<font color=#FFFF00>Dann ist es etwas milder.</font>
+
+54
+00:04:03,365 --> 00:04:06,725
+<font color=#00FFFF>Dann machen wir doppelt Käse?</font>
+
+55
+00:04:08,325 --> 00:04:11,325
+<font color=#FFFF00>Ich mache doppelt Käse</font>
+<font color=#FFFF00>mit Mozzarella,</font>
+
+56
+00:04:11,405 --> 00:04:13,605
+<font color=#FFFF00>weil der so schön schmilzt.</font>
+
+57
+00:04:13,805 --> 00:04:17,325
+<font color=#FFFF00>In der Mitte ist dann</font>
+<font color=#FFFF00>die schöne, saftige Brombeeren.</font>
+
+58
+00:04:17,485 --> 00:04:21,165
+<font color=#FFFF00>Dann noch Salz und Pfeffer,</font>
+<font color=#FFFF00>der Honig ist schon drin.</font>
+
+59
+00:04:22,125 --> 00:04:25,605
+<font color=#FFFF00>Dann nehmen wir</font>
+<font color=#FFFF00>eine Scheibe von dem Brot</font>
+
+60
+00:04:27,165 --> 00:04:30,685
+<font color=#FFFF00>und buttern die.</font>
+
+61
+00:04:34,765 --> 00:04:38,285
+<font color=#FFFF00>Wichtig ist - die gebutterte Seite</font>
+<font color=#FFFF00>bitte oben lassen.</font>
+
+62
+00:04:42,885 --> 00:04:46,405
+<font color=#FFFF00>Wir geben etwas Butter</font>
+<font color=#FFFF00>in die Pfanne.</font>
+
+63
+00:04:47,805 --> 00:04:52,285
+<font color=#FFFF00>Wenn das erst mal in der Pfanne ist,</font>
+<font color=#FFFF00>ist das schwer, umzudrehen.</font>
+
+64
+00:04:56,965 --> 00:05:01,005
+<font color=#00FFFF>Bei doppelt Käse kommt es</font>
+<font color=#00FFFF>auch nicht mehr auf das Fett an.</font>
+
+65
+00:05:03,805 --> 00:05:07,285
+<font color=#FFFF00>Das ist ja quasi</font>
+<font color=#FFFF00>ein Brot mit etwas Mozzarella.</font>
+
+66
+00:05:07,725 --> 00:05:11,085
+<font color=#FFFF00>Eine andere Scheibe Brot</font>
+<font color=#FFFF00>mit Blaukäse.</font>
+
+67
+00:05:11,245 --> 00:05:14,605
+<font color=#FFFF00>Dazu mache ich einen kleinen Salat.</font>
+
+68
+00:05:18,085 --> 00:05:21,565
+<font color=#FFFF00>Ich nehme einen Spinatsalat.</font>
+
+69
+00:05:25,165 --> 00:05:28,085
+<font color=#FFFF00>Da sind grobe Stiele drin.</font>
+
+70
+00:05:28,245 --> 00:05:31,605
+<font color=#FFFF00>Die kann man mitessen.</font>
+
+71
+00:05:32,565 --> 00:05:35,805
+<font color=#FFFF00>Die würde ich nicht entfernen.</font>
+
+72
+00:05:35,965 --> 00:05:39,325
+<font color=#00FFFF>Da habe ich auch keine Lust drauf.</font>
+
+73
+00:05:40,125 --> 00:05:43,605
+<font color=#FFFF00>Dann gebe ich</font>
+<font color=#FFFF00>noch etwas Minze hinzu.</font>
+
+74
+00:05:43,765 --> 00:05:47,125
+<font color=#FFFF00>Ich mag das gerne etwas rustikaler.</font>
+
+75
+00:05:50,445 --> 00:05:52,805
+<font color=#00FFFF>Du machst Minze in den Salat?</font>
+
+76
+00:05:52,965 --> 00:05:56,325
+<font color=#FFFF00>Ja.</font>
+
+77
+00:05:57,565 --> 00:06:01,085
+<font color=#FFFF00>Eigentlich mache ich das</font>
+<font color=#FFFF00>das ganze Jahr über.</font>
+
+78
+00:06:01,245 --> 00:06:05,365
+<font color=#FFFF00>Aber gerade im Sommer finde ich</font>
+<font color=#FFFF00>die Frische der Minze toll.</font>
+
+79
+00:06:05,565 --> 00:06:08,965
+<font color=#FFFF00>Jetzt kommen hier</font>
+<font color=#FFFF00>die Blaubeeren raus ...</font>
+
+80
+00:06:09,125 --> 00:06:12,365
+<font color=#FFFF00>Je nachdem,</font>
+<font color=#FFFF00>wie großzügig ich mit dem Käse war,</font>
+
+81
+00:06:12,525 --> 00:06:14,805
+<font color=#FFFF00>kann das an der Seite rauskommen.</font>
+
+82
+00:06:14,965 --> 00:06:18,365
+<font color=#FFFF00>Das ist aber nicht schlimm.</font>
+
+83
+00:06:19,565 --> 00:06:23,405
+<font color=#FFFF00>Den Salat gebe ich</font>
+<font color=#FFFF00>als leichten grünen Konterpart dazu.</font>
+
+84
+00:06:27,685 --> 00:06:29,605
+<font color=#FFFF00>Ich habe beschlossen,</font>
+
+85
+00:06:29,685 --> 00:06:34,885
+<font color=#FFFF00>wir nehmen einen wenig Radieschen</font>
+<font color=#FFFF00>und rote Zwiebeln dazu.</font>
+
+86
+00:06:35,045 --> 00:06:38,365
+<font color=#FFFF00>Fürs Auge</font>
+<font color=#FFFF00>und für eine leichte Schärfe.</font>
+
+87
+00:06:40,925 --> 00:06:44,405
+<font color=#FFFF00>Ich bin faul.</font>
+
+88
+00:06:44,885 --> 00:06:48,405
+<font color=#FFFF00>Daher hobel' ich das einfach.</font>
+
+89
+00:06:50,405 --> 00:06:53,205
+<font color=#FFFF00>Das kann man aber auch schneiden.</font>
+
+90
+00:06:56,285 --> 00:06:59,645
+<font color=#FFFF00>Das ist unser Salat.</font>
+
+91
+00:07:01,165 --> 00:07:04,885
+<font color=#FFFF00>Wenn du den Zitronensaft</font>
+<font color=#FFFF00>bitte in die Schüssel gießt?</font>
+
+92
+00:07:06,125 --> 00:07:09,605
+<font color=#FFFF00>Dann mache ich den Rest</font>
+<font color=#FFFF00>für das Dressing fertig.</font>
+
+93
+00:07:11,725 --> 00:07:14,885
+<font color=#FFFF00>Ich habe den Feigensenf</font>
+<font color=#FFFF00>auf das Brot gegeben.</font>
+
+94
+00:07:15,045 --> 00:07:18,125
+<font color=#FFFF00>Das kennt man von der Käseplatte.</font>
+
+95
+00:07:18,285 --> 00:07:21,605
+<font color=#00FFFF>Ist das ein bestimmter?</font>
+
+96
+00:07:25,685 --> 00:07:29,325
+<font color=#FFFF00>Das ist wie eine Mischung</font>
+<font color=#FFFF00>aus Senf, Honig und Feige.</font>
+
+97
+00:07:29,485 --> 00:07:32,325
+<font color=#FFFF00>Den kann man so kaufen.</font>
+
+98
+00:07:32,485 --> 00:07:35,845
+<font color=#FFFF00>Das kann man</font>
+<font color=#FFFF00>aber auch selbst machen.</font>
+
+99
+00:07:39,645 --> 00:07:43,565
+<font color=#FFFF00>Das habe ich aber nicht</font>
+<font color=#FFFF00>direkt auf das Sandwich gemacht.</font>
+
+100
+00:07:43,725 --> 00:07:46,485
+<font color=#FFFF00>Dann kann das</font>
+<font color=#FFFF00>jeder für sich entscheiden.</font>
+
+101
+00:07:46,685 --> 00:07:50,085
+<font color=#FFFF00>Ich gebe aber etwas</font>
+<font color=#FFFF00>in das Dressing hinein.</font>
+
+102
+00:07:50,245 --> 00:07:53,725
+<font color=#FFFF00>Honig, Olivenöl, Zitronensaft,</font>
+<font color=#FFFF00>Salz, Pfeffer - das war's.</font>
+
+103
+00:07:58,285 --> 00:08:01,765
+<font color=#FFFF00>Ich gebe jetzt das Dressing darüber.</font>
+
+104
+00:08:04,805 --> 00:08:08,325
+<font color=#FFFF00>Dann wird das kurz durch gemischt.</font>
+
+105
+00:08:08,725 --> 00:08:12,205
+<font color=#FFFF00>Wenn man etwas mehr Salat macht,</font>
+
+106
+00:08:14,245 --> 00:08:18,365
+<font color=#FFFF00>empfehle ich, das Dressing</font>
+<font color=#FFFF00>erst vor dem Essen hinzuzugeben.</font>
+
+107
+00:08:18,525 --> 00:08:22,325
+<font color=#FFFF00>Ist das Dressing drauf,</font>
+<font color=#FFFF00>wird der Salat schnell schlapp.</font>
+
+108
+00:08:23,125 --> 00:08:26,605
+<font color=#FFFF00>Man kann dann</font>
+<font color=#FFFF00>die Reste gut aufheben.</font>
+
+109
+00:08:28,725 --> 00:08:31,565
+<font color=#FFFF00>Jetzt ist das Sandwich fertig.</font>
+
+110
+00:08:31,725 --> 00:08:35,085
+<font color=#FFFF00>Das sieht wunderbar aus.</font>
+
+111
+00:08:35,885 --> 00:08:42,245
+<font color=#FFFF00>Damit wir mal reingucken können,</font>
+<font color=#FFFF00>schneiden wir das in der Mitte auf.</font>
+
+112
+00:08:42,765 --> 00:08:46,605
+<font color=#FFFF00>Der könnte noch einen Augenblick</font>
+<font color=#FFFF00>in der Pfanne bleiben.</font>
+
+113
+00:08:46,765 --> 00:08:50,165
+<font color=#FFFF00>Das ist noch nicht zu zerlaufen.</font>
+
+114
+00:08:51,125 --> 00:08:54,645
+<font color=#00FFFF>Zuhause haben Sie ja mehr Zeit.</font>
+
+115
+00:08:58,405 --> 00:09:01,925
+<font color=#FFFF00>Es ist aber schön cremig.</font>
+
+116
+00:09:04,685 --> 00:09:08,405
+<font color=#FFFF00>Daneben geben wir</font>
+<font color=#FFFF00>ein kleines bisschen von dem Salat.</font>
+
+117
+00:09:11,565 --> 00:09:15,045
+<font color=#00FFFF>Hast du mal bitte Besteck?</font>
+
+118
+00:09:17,405 --> 00:09:21,445
+<font color=#FFFF00>Du bekommst das tolle Stück</font>
+<font color=#FFFF00>mit dem herausgelaufenen Käse.</font>
+
+119
+00:09:25,125 --> 00:09:27,045
+<font color=#00FFFF>Das muss ich mal zeigen.</font>
+
+120
+00:09:27,205 --> 00:09:30,245
+<font color=#00FFFF>Das sieht toll aus.</font>
+
+121
+00:09:30,405 --> 00:09:33,765
+<font color=#00FFFF>Das macht sich gut</font>
+<font color=#00FFFF>auf dem Frühstückstisch.</font>
+
+122
+00:09:34,965 --> 00:09:38,525
+<font color=#FFFF00>Das kann man mit jedem Käse</font>
+<font color=#FFFF00>und jeder Beere machen.</font>
+
+123
+00:09:38,725 --> 00:09:42,205
+<font color=#FFFF00>Zum Beispiel auch</font>
+<font color=#FFFF00>mit Gouda und Himbeeren.</font>
+
+124
+00:09:43,525 --> 00:09:46,125
+<font color=#FFFF00>Da kann man sich was ausdenken.</font>
+
+125
+00:09:46,325 --> 00:09:49,645
+<font color=#FFFF00>Das ist sehr lecker.</font>
+
+126
+00:09:50,605 --> 00:09:54,125
+<font color=#00FFFF>Hat ganz schön Wumms.</font>
+
+127
+00:09:55,965 --> 00:09:59,445
+<font color=#00FFFF>Einfache und tolle Küche.</font>
+
+128
+00:10:02,445 --> 00:10:06,085
+<font color=#FFFF00>Die süße Schärfe des Blauschimmel</font>
+<font color=#FFFF00>mit der Frucht ...</font>
+
+129
+00:10:06,245 --> 00:10:08,605
+<font color=#FFFF00>Dazu etwas Honig...</font>
+
+130
+00:10:08,765 --> 00:10:11,645
+<font color=#FFFF00>Und das knusprige Brot.</font>
+
+131
+00:10:11,805 --> 00:10:15,165
+<font color=#FFFF00>Dazu der kalte, knackige Salat</font>
+
+132
+00:10:15,885 --> 00:10:19,445
+<font color=#00FFFF>Ich finde es schön,</font>
+<font color=#00FFFF>dass du dich selbst begeistert.</font>
+
+133
+00:10:19,925 --> 00:10:23,525
+<font color=#FFFF00>Wenn ich das nicht täte,</font>
+<font color=#FFFF00>hätte ich den falschen Job.</font>
+
+134
+00:10:23,685 --> 00:10:26,805
+<font color=#00FFFF>Ich hoffe, wir konnten Sie</font>
+<font color=#00FFFF>auch so begeistern.</font>
+

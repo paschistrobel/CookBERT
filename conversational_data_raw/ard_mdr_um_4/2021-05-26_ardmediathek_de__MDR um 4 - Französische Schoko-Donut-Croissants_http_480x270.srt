@@ -1,0 +1,879 @@
+1
+00:00:03,019 --> 00:00:06,024
+<font color=#ffffff>Jetzt geht es los.</font>
+
+2
+00:00:07,010 --> 00:00:10,022
+<font color=#ffffff>Hier riecht es schon so lecker.</font>
+
+3
+00:00:11,011 --> 00:00:15,006
+<font color=#ffffff>Ich bin froh, dass wir endlich in</font>
+<font color=#ffffff>die Küche gehen.</font>
+
+4
+00:00:18,015 --> 00:00:22,015
+<font color=#ffff00>Ich packe die Butter aus.</font>
+
+5
+00:00:25,000 --> 00:00:28,011
+<font color=#ffffff>Wir machen heute etwas für die</font>
+<font color=#ffffff>Völkerverständigung zwischen</font>
+
+6
+00:00:28,023 --> 00:00:32,011
+<font color=#ffffff>Frankreich, Deutschland und den USA.</font>
+
+7
+00:00:36,003 --> 00:00:40,003
+<font color=#ffff00>In Frankreich kennt man den</font>
+<font color=#ffff00>Croissant.</font>
+
+8
+00:00:43,015 --> 00:00:47,019
+<font color=#ffff00>Und einen Donut in Amerika.</font>
+
+9
+00:00:50,011 --> 00:00:53,004
+<font color=#ffff00>In Amerika gibt es einen sehr</font>
+<font color=#ffff00>bekannten Bäcker.</font>
+
+10
+00:00:53,023 --> 00:00:56,017
+<font color=#ffff00>Der hat das beides kombiniert.</font>
+
+11
+00:00:57,004 --> 00:01:00,019
+<font color=#ffff00>Die Form von den Donuts behalten.</font>
+
+12
+00:01:02,001 --> 00:01:06,004
+<font color=#ffff00>Aber den Teig wie ein Croissant</font>
+<font color=#ffff00>behandelt.</font>
+
+13
+00:01:06,012 --> 00:01:09,019
+<font color=#ffff00>Aber es ist trotzdem ein Donut-</font>
+<font color=#ffff00>Teig.</font>
+
+14
+00:01:10,004 --> 00:01:12,018
+<font color=#ffff00>Ich erkläre es.</font>
+
+15
+00:01:13,009 --> 00:01:16,022
+<font color=#ffff00>Ich nehme nur die Hälfte.</font>
+
+16
+00:01:18,007 --> 00:01:22,011
+<font color=#ffff00>Wir machen nur die Hälfte der</font>
+<font color=#ffff00>Portion.</font>
+
+17
+00:01:22,021 --> 00:01:25,020
+<font color=#ffff00>Das tue ich zur Seite.</font>
+
+18
+00:01:26,007 --> 00:01:29,020
+<font color=#ffff00>Ich habe einen Teig gemacht.</font>
+
+19
+00:01:30,023 --> 00:01:34,024
+<font color=#ffff00>Für Croissant, das ist die Basis.</font>
+
+20
+00:01:37,002 --> 00:01:41,004
+<font color=#ffff00>Wenn du Croissant machst,</font>
+
+21
+00:01:42,023 --> 00:01:46,022
+<font color=#ffff00>holst du Blätterteig.</font>
+
+22
+00:01:47,006 --> 00:01:50,019
+<font color=#ffff00>Blätterteig ist eigentlich ein</font>
+<font color=#ffff00>flacher Teig.</font>
+
+23
+00:01:51,021 --> 00:01:55,020
+<font color=#ffff00>Der geht ein bisschen auf. Wegen</font>
+<font color=#ffff00>der Butter.</font>
+
+24
+00:01:59,012 --> 00:02:03,010
+<font color=#ffff00>Croissant-Teig ist mit Hefe.</font>
+
+25
+00:02:05,016 --> 00:02:09,018
+<font color=#ffff00>Es ist das gleiche Vorgehen, aber</font>
+<font color=#ffff00>nicht das gleiche Rezept.</font>
+
+26
+00:02:11,006 --> 00:02:15,001
+<font color=#ffff00>Der Trick ist, dass wir keinen</font>
+<font color=#ffff00>Brotteig machen.</font>
+
+27
+00:02:20,004 --> 00:02:24,001
+<font color=#ffff00>Sondern einen Pain-au-lait-Teig.</font>
+
+28
+00:02:30,018 --> 00:02:34,016
+<font color=#ffff00>Man kann ihn auch nur mit Milch</font>
+<font color=#ffff00>machen.</font>
+
+29
+00:02:36,012 --> 00:02:40,004
+<font color=#ffff00>Aber man braucht Hefe.</font>
+
+30
+00:02:40,013 --> 00:02:44,001
+<font color=#ffff00>Der Teig ist aufgegangen.</font>
+
+31
+00:02:46,023 --> 00:02:50,023
+<font color=#ffff00>Ich wollte nur ein bisschen Platz</font>
+<font color=#ffff00>machen.</font>
+
+32
+00:02:57,010 --> 00:03:01,007
+<font color=#ffff00>In dem Croissant-Rezept ...</font>
+
+33
+00:03:01,022 --> 00:03:05,020
+<font color=#ffff00>Wir haben den Teig um 4 gemacht.</font>
+
+34
+00:03:06,005 --> 00:03:08,011
+<font color=#ffff00>Der Gast war ganz nett.</font>
+
+35
+00:03:08,013 --> 00:03:10,024
+<font color=#ffff00>Ich habe ihn eingebunden.</font>
+
+36
+00:03:11,011 --> 00:03:13,009
+<font color=#ffff00>Wir haben den Teig zusammen</font>
+<font color=#ffff00>gemacht.</font>
+
+37
+00:03:14,000 --> 00:03:17,009
+<font color=#ffff00>Wir tun ihn zur Seite.</font>
+
+38
+00:03:17,017 --> 00:03:19,019
+<font color=#ffff00>Es wird gewaltig.</font>
+
+39
+00:03:20,010 --> 00:03:23,002
+<font color=#ffff00>Sie nehmen Butter.</font>
+
+40
+00:03:23,014 --> 00:03:27,005
+<font color=#ffff00>Die Butter muss hart sein.</font>
+
+41
+00:03:33,014 --> 00:03:37,014
+<font color=#ffff00>In Frankreich gibt es eine</font>
+<font color=#ffff00>spezielle Butter, die enthält Mehl.</font>
+
+42
+00:03:44,023 --> 00:03:48,011
+<font color=#ffff00>Die heißt Trocken-Butter.</font>
+
+43
+00:03:48,023 --> 00:03:51,008
+<font color=#ffff00>Die schmilzt nicht so schnell.</font>
+
+44
+00:03:51,016 --> 00:03:53,020
+<font color=#ffff00>Man kann auch einfach kalte Butter</font>
+<font color=#ffff00>nehmen.</font>
+
+45
+00:03:54,011 --> 00:03:56,009
+<font color=#ffff00>Dann in Backpapier.</font>
+
+46
+00:03:56,019 --> 00:03:59,018
+<font color=#ffff00>Dann eine Rolle.</font>
+
+47
+00:04:00,002 --> 00:04:01,021
+<font color=#ffff00>Schade, dass Peter heute nicht da</font>
+<font color=#ffff00>ist.</font>
+
+48
+00:04:02,006 --> 00:04:06,000
+<font color=#ffff00>Alle lachen.</font>
+
+49
+00:04:07,005 --> 00:04:09,017
+<font color=#ffffff>Da kann man seine Wut rauslassen.</font>
+
+50
+00:04:10,007 --> 00:04:12,020
+<font color=#ffff00>Aber nicht irgendwo.</font>
+
+51
+00:04:13,001 --> 00:04:16,016
+<font color=#ffff00>Sondern in die Breite.</font>
+
+52
+00:04:17,011 --> 00:04:21,007
+<font color=#ffff00>Wenn Sie stark sind, können Sie es</font>
+<font color=#ffff00>ausrollen.</font>
+
+53
+00:04:21,019 --> 00:04:25,008
+<font color=#ffff00>Man drückt.</font>
+
+54
+00:04:26,016 --> 00:04:29,003
+<font color=#ffff00>Es muss etwas weicher werden.</font>
+
+55
+00:04:29,015 --> 00:04:32,001
+<font color=#ffff00>Einfach klopfen.</font>
+
+56
+00:04:32,016 --> 00:04:35,017
+<font color=#ffff00>Dann lässt es sich ausrollen.</font>
+
+57
+00:04:36,001 --> 00:04:38,006
+<font color=#ffffff>Da haben auch die Nachbarn etwas</font>
+<font color=#ffffff>davon.</font>
+
+58
+00:04:38,022 --> 00:04:42,007
+<font color=#ffff00>Die kriegen etwas ab.</font>
+
+59
+00:04:46,019 --> 00:04:50,022
+<font color=#ffff00>Man macht es ab und versucht ein</font>
+<font color=#ffff00>Quadrat zu bekommen.</font>
+
+60
+00:04:51,007 --> 00:04:55,010
+<font color=#ffff00>Wo ist die Kamera?</font>
+
+61
+00:04:55,016 --> 00:04:59,006
+<font color=#ffff00>Man faltet es.</font>
+
+62
+00:04:59,021 --> 00:05:02,023
+<font color=#ffff00>Jetzt rollt man.</font>
+
+63
+00:05:03,006 --> 00:05:06,004
+<font color=#ffff00>Dann geht auch die Butter in die</font>
+<font color=#ffff00>Ecken.</font>
+
+64
+00:05:06,019 --> 00:05:10,011
+<font color=#ffff00>So bekommt man ein perfektes</font>
+<font color=#ffff00>Quadrat.</font>
+
+65
+00:05:11,018 --> 00:05:14,015
+<font color=#ffff00>Man hat eine quadratische Butter</font>
+<font color=#ffff00>flach bekommen.</font>
+
+66
+00:05:14,023 --> 00:05:17,016
+<font color=#ffffff>Wie oft macht man das?</font>
+
+67
+00:05:18,003 --> 00:05:21,012
+<font color=#ffff00>Nur einmal. Das geht schnell.</font>
+
+68
+00:05:24,017 --> 00:05:28,024
+<font color=#ffff00>Croissant ist kompliziert, nein</font>
+<font color=#ffff00>nicht wirklich.</font>
+
+69
+00:05:32,001 --> 00:05:36,003
+<font color=#ffff00>Ich habe den Brotteig und ein</font>
+<font color=#ffff00>Quadrat.</font>
+
+70
+00:05:40,021 --> 00:05:43,021
+<font color=#ffff00>Das ist ein Bäcker-Pinsel.</font>
+
+71
+00:05:44,010 --> 00:05:47,015
+<font color=#ffff00>Der muss weich sein.</font>
+
+72
+00:05:48,002 --> 00:05:50,004
+<font color=#ffff00>Man kann auch einen weichen Pinsel</font>
+<font color=#ffff00>nehmen.</font>
+
+73
+00:05:50,010 --> 00:05:54,004
+<font color=#ffff00>So einen.</font>
+
+74
+00:05:54,016 --> 00:05:57,009
+<font color=#ffffff>Von der letzten Maler-Geschichte.</font>
+
+75
+00:05:57,021 --> 00:06:01,006
+<font color=#ffff00>Der ist sauber.</font>
+
+76
+00:06:04,009 --> 00:06:08,011
+<font color=#ffff00>Man braucht Mehl, denn es soll</font>
+<font color=#ffff00>nicht kleben bleiben.</font>
+
+77
+00:06:09,006 --> 00:06:12,015
+<font color=#ffff00>Ich rolle den Teig flach.</font>
+
+78
+00:06:13,000 --> 00:06:16,014
+<font color=#ffff00>Er muss doppelt so groß sein wie</font>
+<font color=#ffff00>die Butter.</font>
+
+79
+00:06:17,006 --> 00:06:19,024
+<font color=#ffff00>Ich muss die Butter einwickeln in</font>
+<font color=#ffff00>den Teig.</font>
+
+80
+00:06:20,011 --> 00:06:23,022
+<font color=#ffff00>Nicht zu lang.</font>
+
+81
+00:06:24,013 --> 00:06:27,022
+<font color=#ffff00>Wo ist die Kamera?</font>
+
+82
+00:06:31,006 --> 00:06:33,012
+<font color=#ffff00>Ich nehme meine flache Butter.</font>
+
+83
+00:06:33,021 --> 00:06:37,012
+<font color=#ffff00>Perfekt.</font>
+
+84
+00:06:40,005 --> 00:06:44,005
+<font color=#ffff00>Die lege ich hier drauf.</font>
+
+85
+00:06:51,021 --> 00:06:55,018
+<font color=#ffff00>Man nimmt den Pinsel.</font>
+
+86
+00:06:56,005 --> 00:06:59,018
+<font color=#ffff00>Denn hier soll kein Mehl sein.</font>
+
+87
+00:07:03,000 --> 00:07:05,022
+<font color=#ffff00>Wenn wir es zusammenklappen, klebt</font>
+<font color=#ffff00>es sonst nicht.</font>
+
+88
+00:07:06,010 --> 00:07:10,002
+<font color=#ffff00>Nicht zu doll drücken.</font>
+
+89
+00:07:10,013 --> 00:07:14,006
+<font color=#ffff00>Die Butter muss im Teig sein.</font>
+
+90
+00:07:15,013 --> 00:07:18,021
+<font color=#ffff00>Jetzt rollen wir es lang.</font>
+
+91
+00:07:19,000 --> 00:07:22,012
+<font color=#ffff00>Dann klappen wir es wieder.</font>
+
+92
+00:07:22,024 --> 00:07:25,001
+<font color=#ffff00>Die Butter drin ist hart.</font>
+
+93
+00:07:25,012 --> 00:07:28,002
+<font color=#ffff00>Der Teig ist weich.</font>
+
+94
+00:07:28,010 --> 00:07:31,003
+<font color=#ffff00>Wir machen Druckstellen.</font>
+
+95
+00:07:31,017 --> 00:07:33,018
+<font color=#ffff00>1,2, 3.</font>
+
+96
+00:07:34,006 --> 00:07:37,017
+<font color=#ffff00>Habt ihr das gesehen?</font>
+
+97
+00:07:38,002 --> 00:07:41,001
+<font color=#ffff00>Ihr habt dann solche Wellen.</font>
+
+98
+00:07:41,009 --> 00:07:44,023
+<font color=#ffff00>Jetzt Rolle ich es erst.</font>
+
+99
+00:07:45,017 --> 00:07:48,002
+<font color=#ffff00>Wenn man es mit einmal macht,</font>
+
+100
+00:07:48,014 --> 00:07:50,012
+<font color=#ffff00>kommt die Butter raus.</font>
+
+101
+00:07:51,002 --> 00:07:54,012
+<font color=#ffff00>Das soll nicht passieren.</font>
+
+102
+00:07:54,020 --> 00:07:59,000
+<font color=#ffff00>Blätterteig hat Schichten.</font>
+
+103
+00:07:59,008 --> 00:08:03,002
+<font color=#ffff00>Da ist Butter drin, die geschmolzen</font>
+<font color=#ffff00>ist,</font>
+
+104
+00:08:06,013 --> 00:08:10,005
+<font color=#ffff00>wenn man es backt.</font>
+
+105
+00:08:10,017 --> 00:08:14,005
+<font color=#ffff00>Jetzt ist es nicht so breit.</font>
+
+106
+00:08:21,014 --> 00:08:24,019
+<font color=#ffff00>Geht noch der Zucker?</font>
+
+107
+00:08:25,006 --> 00:08:28,003
+<font color=#ffff00>Brauchst du noch Wasser?</font>
+
+108
+00:08:28,015 --> 00:08:31,024
+<font color=#ffffff>Das geht noch.</font>
+
+109
+00:08:32,011 --> 00:08:35,022
+<font color=#ffff00>Du kannst dekorieren.</font>
+
+110
+00:08:41,013 --> 00:08:44,011
+<font color=#ffffff>Dann mach doch deinen Dreck alleine,</font>
+
+111
+00:08:44,023 --> 00:08:48,010
+<font color=#ffffff>würde der König sagen.</font>
+
+112
+00:08:49,004 --> 00:08:53,005
+<font color=#ffff00>Das obere Drittel nehme ich.</font>
+
+113
+00:08:53,016 --> 00:08:57,002
+<font color=#ffff00>Jetzt habe ich über eine Mehl.</font>
+
+114
+00:08:57,006 --> 00:08:59,020
+<font color=#ffff00>Deshalb nehme ich wieder den</font>
+<font color=#ffff00>Pinsel.</font>
+
+115
+00:09:00,007 --> 00:09:03,023
+<font color=#ffff00>Jetzt das untere Drittel.</font>
+
+116
+00:09:09,022 --> 00:09:13,022
+<font color=#ffff00>Das ist ein Tour, eine Drehung.</font>
+
+117
+00:09:15,024 --> 00:09:19,024
+<font color=#ffff00>Kann ich die obere Kamera haben?</font>
+
+118
+00:09:21,024 --> 00:09:25,022
+<font color=#ffff00>Man macht einen Punkt.</font>
+
+119
+00:09:26,005 --> 00:09:30,001
+<font color=#ffff00>Jetzt macht man das gleiche in die</font>
+<font color=#ffff00>Richtung.</font>
+
+120
+00:09:31,018 --> 00:09:35,012
+<font color=#ffff00>Das macht man dreimal, viermal wäre</font>
+<font color=#ffff00>schöner.</font>
+
+121
+00:09:35,020 --> 00:09:39,011
+<font color=#ffffff>Warum hast du das mit dem Loch</font>
+<font color=#ffffff>gemacht?</font>
+
+122
+00:09:41,005 --> 00:09:45,004
+<font color=#ffff00>Damit ich weiß, an welchem Loch ich</font>
+<font color=#ffff00>bin.</font>
+
+123
+00:09:46,015 --> 00:09:50,015
+<font color=#ffff00>Am Ende kann ich es sonst nicht</font>
+<font color=#ffff00>mehr ausrollen.</font>
+
+124
+00:09:59,006 --> 00:10:03,002
+<font color=#ffff00>Man sagt, zwischen jeder Drehung</font>
+<font color=#ffff00>soll man es 1 Stunde im Kühlschrank</font>
+
+125
+00:10:03,018 --> 00:10:07,002
+<font color=#ffff00>lassen. Das macht man aber nicht.</font>
+
+126
+00:10:07,022 --> 00:10:11,021
+<font color=#ffff00>Jetzt mache ich 2 Tour direkt.</font>
+
+127
+00:10:13,008 --> 00:10:16,012
+<font color=#ffff00>Ich tue es für 10 Minuten ins</font>
+<font color=#ffff00>Tiefkühlfach.</font>
+
+128
+00:10:16,024 --> 00:10:19,024
+<font color=#ffff00>Warum macht man das?</font>
+
+129
+00:10:20,008 --> 00:10:23,018
+<font color=#ffff00>Damit die Butter wieder fest wird.</font>
+
+130
+00:10:25,015 --> 00:10:29,011
+<font color=#ffff00>Wenn Sie zu viel ausrollen, wird</font>
+<font color=#ffff00>die butterweich.</font>
+
+131
+00:10:30,010 --> 00:10:33,019
+<font color=#ffff00>Es wird unten immer dünner, dann</font>
+<font color=#ffff00>zerreißt es.</font>
+
+132
+00:10:34,006 --> 00:10:37,019
+<font color=#ffff00>Wenn es passiert, nicht schlimm.</font>
+
+133
+00:10:39,012 --> 00:10:42,008
+<font color=#ffff00>Dann mit Mehl wieder zu machen.</font>
+
+134
+00:10:42,018 --> 00:10:46,008
+<font color=#ffff00>Aber die Butter sollte nicht</font>
+<font color=#ffff00>rausgucken.</font>
+
+135
+00:10:52,014 --> 00:10:56,011
+<font color=#ffff00>Beim Backen schwimmt das in Butter.</font>
+
+136
+00:10:56,022 --> 00:11:00,019
+<font color=#ffff00>Jetzt mache ich es so.</font>
+
+137
+00:11:03,010 --> 00:11:07,010
+<font color=#ffffff>Man muss sich schon konzentrieren.</font>
+
+138
+00:11:11,014 --> 00:11:15,004
+<font color=#ffff00>Ich schneide den Teig dann, dann</font>
+<font color=#ffff00>kannst du die Schichten sehen.</font>
+
+139
+00:11:15,016 --> 00:11:18,021
+<font color=#ffff00>Ich habe etwas vorbereitet.</font>
+
+140
+00:11:19,010 --> 00:11:22,015
+<font color=#ffff00>Es ist sehr warm im Studio.</font>
+
+141
+00:11:23,002 --> 00:11:25,014
+<font color=#ffff00>Das ist mein kleiner Teig.</font>
+
+142
+00:11:26,005 --> 00:11:29,014
+<font color=#ffff00>Der ist aufgegangen.</font>
+
+143
+00:11:30,011 --> 00:11:33,018
+<font color=#ffff00>Ich habe es vorbereitet für die</font>
+<font color=#ffff00>Sendung.</font>
+
+144
+00:11:34,005 --> 00:11:37,003
+<font color=#ffff00>Eigentlich soll man es nicht so</font>
+<font color=#ffff00>lange liegen lassen.</font>
+
+145
+00:11:37,015 --> 00:11:40,024
+<font color=#ffff00>Der ist echt hochgegangen.</font>
+
+146
+00:11:41,013 --> 00:11:44,019
+<font color=#ffff00>Ich nehme das Papier und packe es</font>
+<font color=#ffff00>ein.</font>
+
+147
+00:11:45,010 --> 00:11:47,011
+<font color=#ffff00>Ich tue es so in den Kühlschrank.</font>
+
+148
+00:11:47,024 --> 00:11:51,012
+<font color=#ffff00>Oder ins Tiefkühlfach.</font>
+
+149
+00:11:54,003 --> 00:11:56,023
+<font color=#ffff00>Sonst würde es zu lange dauern.</font>
+
+150
+00:11:56,023 --> 00:11:58,008
+<font color=#ffff00>Sonst würde es zu lange dauern.</font>
+
+151
+00:12:04,003 --> 00:12:08,003
+<font color=#ffffff>Liebe Zuschauer, sie können sich den</font>
+<font color=#ffffff>QR-Code ab fotografieren.</font>
+
+152
+00:12:12,017 --> 00:12:16,021
+<font color=#ffff00>Immer wieder Mehl nehmen.</font>
+
+153
+00:12:17,008 --> 00:12:21,005
+<font color=#ffff00>Eigentlich ist der Teig fertig.</font>
+
+154
+00:12:27,012 --> 00:12:31,011
+<font color=#ffff00>Hier war es getrocknet.</font>
+
+155
+00:12:34,009 --> 00:12:37,022
+<font color=#ffff00>Deshalb muss man den Teig ...</font>
+
+156
+00:12:38,013 --> 00:12:39,003
+<font color=#ffff00>Man sollte es einwickeln.</font>
+
+157
+00:12:39,012 --> 00:12:41,022
+<font color=#ffff00>Man sollte es einwickeln.</font>
+
+158
+00:12:46,009 --> 00:12:49,013
+<font color=#ffff00>Ich rolle es.</font>
+
+159
+00:12:50,003 --> 00:12:52,022
+<font color=#ffffff>Was macht die Haut?</font>
+
+160
+00:12:53,013 --> 00:12:57,000
+<font color=#ffff00>Es trocknet, es platzt auf.</font>
+
+161
+00:13:00,000 --> 00:13:03,003
+<font color=#ffff00>Wichtig ist, es ist kein Croissant.</font>
+
+162
+00:13:03,017 --> 00:13:07,001
+<font color=#ffff00>Man macht es nicht hauchdünn.</font>
+
+163
+00:13:07,012 --> 00:13:10,015
+<font color=#ffff00>Man lässt ein bisschen Volumen.</font>
+
+164
+00:13:11,004 --> 00:13:14,017
+<font color=#ffff00>Sonst hat man flache Donuts.</font>
+
+165
+00:13:15,004 --> 00:13:18,021
+<font color=#ffff00>Man hat nicht verschiedene</font>
+<font color=#ffff00>Schichten.</font>
+
+166
+00:13:19,004 --> 00:13:22,017
+<font color=#ffff00>Die Ausstiegformen sind von</font>
+<font color=#ffff00>Weihnachten.</font>
+
+167
+00:13:23,012 --> 00:13:27,000
+<font color=#ffff00>Eine normale Größe sind 8 cm.</font>
+
+168
+00:13:27,016 --> 00:13:30,013
+<font color=#ffff00>Ich habe es für die Sendung ganz</font>
+<font color=#ffff00>groß gemacht.</font>
+
+169
+00:13:30,023 --> 00:13:34,017
+<font color=#ffff00>Man sticht es aus.</font>
+
+170
+00:13:36,003 --> 00:13:40,003
+<font color=#ffff00>Und man macht das kleine Loch in</font>
+<font color=#ffff00>der Mitte.</font>
+
+171
+00:13:43,003 --> 00:13:47,004
+<font color=#ffff00>Wenn ihr das Zuhause macht, denkt</font>
+<font color=#ffff00>ihr euch, Aurelie hat eine Meise.</font>
+
+172
+00:13:50,001 --> 00:13:53,022
+<font color=#ffff00>Wenn man das so macht, bleibt das</font>
+<font color=#ffff00>übrig.</font>
+
+173
+00:13:54,013 --> 00:13:58,009
+<font color=#ffff00>Es ist ein Blätterteig, man kann es</font>
+<font color=#ffff00>nicht noch mal ausrollen.</font>
+
+174
+00:13:59,000 --> 00:14:02,005
+<font color=#ffff00>Deshalb nehme ich noch einen</font>
+<font color=#ffff00>kleineren aus Stecher.</font>
+
+175
+00:14:02,017 --> 00:14:06,005
+<font color=#ffff00>Ich mache Häppchen.</font>
+
+176
+00:14:12,021 --> 00:14:16,016
+<font color=#ffff00>Die Idee war, in Frankreich die</font>
+<font color=#ffff00>Croissant haben Schokolade.</font>
+
+177
+00:14:17,003 --> 00:14:20,016
+<font color=#ffff00>Du kannst schon naschen.</font>
+
+178
+00:14:21,003 --> 00:14:24,008
+<font color=#ffff00>Ich habe die ausgestochen.</font>
+
+179
+00:14:24,018 --> 00:14:28,007
+<font color=#ffff00>Auf dem Backblech gehen lassen.</font>
+
+180
+00:14:39,018 --> 00:14:43,022
+<font color=#ffff00>Ich nehme das und tauche es in die</font>
+<font color=#ffff00>Schokolade.</font>
+
+181
+00:14:48,014 --> 00:14:52,012
+<font color=#ffffff>Es sieht schön aus.</font>
+
+182
+00:14:52,022 --> 00:14:56,016
+<font color=#ffffff>Hier ist viel Schokolade.</font>
+
+183
+00:14:59,016 --> 00:15:03,021
+<font color=#ffffff>Da schmeckt man den feinen Geschmack</font>
+<font color=#ffffff>des Croissant nicht mehr so richtig.</font>
+
+184
+00:15:04,008 --> 00:15:08,000
+<font color=#ffff00>Aber ansonsten wäre die Arbeit</font>
+<font color=#ffff00>umsonst.</font>
+
+185
+00:15:11,005 --> 00:15:15,005
+<font color=#ffff00>Deshalb noch diese Mini-Cronuts.</font>
+
+186
+00:15:16,001 --> 00:15:19,021
+<font color=#ffff00>Man tut in die Schokolade.</font>
+
+187
+00:15:21,015 --> 00:15:25,015
+<font color=#ffff00>Ich hatte die in den Kühlschrank</font>
+<font color=#ffff00>getan, damit es fest wird.</font>
+
+188
+00:15:26,014 --> 00:15:30,013
+<font color=#ffff00>Der Teig ist nicht gerollt,</font>
+
+189
+00:15:33,002 --> 00:15:36,013
+<font color=#ffff00>deshalb sollte man weniger als eine</font>
+<font color=#ffff00>halbe Stunde machen.</font>
+
+190
+00:15:37,001 --> 00:15:40,014
+<font color=#ffff00>Bei den kleinen 12 Minuten.</font>
+
+191
+00:15:42,008 --> 00:15:46,008
+<font color=#ffff00>Bei den großen, 14 cm,</font>
+
+192
+00:15:46,021 --> 00:15:49,023
+<font color=#ffff00>dass 20-25 Minuten.</font>
+
+193
+00:15:52,014 --> 00:15:56,001
+<font color=#ffff00>Die normalen 15 Minuten.</font>
+
+194
+00:15:56,010 --> 00:15:58,000
+<font color=#ffffff>Mit Heißluft?</font>
+
+195
+00:15:58,015 --> 00:16:00,006
+<font color=#ffff00>Mit Umluft.</font>
+
+196
+00:16:00,017 --> 00:16:04,001
+<font color=#ffff00>Es soll trocknen.</font>
+
+197
+00:16:04,010 --> 00:16:07,023
+<font color=#ffff00>Es kommt kein Wasser in den</font>
+<font color=#ffff00>Backofen.</font>
+
+198
+00:16:10,008 --> 00:16:13,009
+<font color=#ffff00>Die Amerikaner machen es so.</font>
+
+199
+00:16:13,017 --> 00:16:17,001
+<font color=#ffff00>Manchmal haben sie gute Ideen.</font>
+
+200
+00:16:17,013 --> 00:16:19,015
+<font color=#ffffff>Jetzt gibt es noch was auf die</font>
+<font color=#ffffff>Hüften.</font>
+
+201
+00:16:20,001 --> 00:16:23,012
+<font color=#ffffff>Was hast du da?</font>
+
+202
+00:16:25,016 --> 00:16:29,020
+<font color=#ffff00>Sahne.</font>
+
+203
+00:16:35,002 --> 00:16:37,018
+<font color=#ffff00>Alle im Studio freuen sich schon.</font>
+
+204
+00:16:38,001 --> 00:16:41,014
+<font color=#ffff00>Ich mache mehrere.</font>
+

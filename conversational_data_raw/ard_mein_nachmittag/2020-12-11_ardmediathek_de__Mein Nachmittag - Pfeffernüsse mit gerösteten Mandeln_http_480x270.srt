@@ -1,0 +1,661 @@
+1
+00:00:00,610 --> 00:00:05,250
+<font color=#00FFFF>Wenn Sie Fragen zum Backen haben,</font>
+<font color=#00FFFF>sind Sie bei Zora Klipp richtig.</font>
+
+2
+00:00:05,530 --> 00:00:09,370
+<font color=#00FFFF>Ich habe eine Frage an dich:</font>
+<font color=#00FFFF>Was machen unsere Mandeln?</font>
+
+3
+00:00:09,410 --> 00:00:10,570
+<font color=#FFFFFF>Die sind fertig.</font>
+
+4
+00:00:10,890 --> 00:00:12,730
+<font color=#FFFFFF>Die knuspern vor sich hin.</font>
+
+5
+00:00:13,010 --> 00:00:16,010
+<font color=#FFFFFF>Du hast schon genascht.</font>
+<font color=#00FFFF>Hat keiner gesehen.</font>
+
+6
+00:00:17,650 --> 00:00:21,090
+<font color=#00FFFF>Es gibt heute Pfeffernüsse</font>
+<font color=#00FFFF>und gebrannte Mandeln.</font>
+
+7
+00:00:22,010 --> 00:00:25,090
+<font color=#00FFFF>Die hat sie</font>
+<font color=#00FFFF>während der Sendung vorbereitet.</font>
+
+8
+00:00:25,170 --> 00:00:29,370
+<font color=#00FFFF>Vielleicht sagst du noch mal,</font>
+<font color=#00FFFF>was du gemacht hast -</font>
+
+9
+00:00:29,450 --> 00:00:31,810
+<font color=#00FFFF>für die Neudazugekommenen.</font>
+
+10
+00:00:31,890 --> 00:00:36,330
+<font color=#FFFFFF>Ich habe die Mandeln mit Wasser</font>
+<font color=#FFFFFF>und Zucker und Zimt aufgekocht.</font>
+
+11
+00:00:36,410 --> 00:00:39,610
+<font color=#FFFFFF>Das Wasser verkocht,</font>
+<font color=#FFFFFF>der Zucker karamellisiert</font>
+
+12
+00:00:39,690 --> 00:00:41,490
+<font color=#FFFFFF>und legt sich um die Mandeln.</font>
+
+13
+00:00:41,730 --> 00:00:46,290
+<font color=#FFFFFF>Zum Schluss kriegt er den Glanz,</font>
+<font color=#FFFFFF>weil er noch mal karamellisiert.</font>
+
+14
+00:00:47,090 --> 00:00:49,090
+<font color=#FFFFFF>Die Platte volle Pulle heiß.</font>
+
+15
+00:00:49,210 --> 00:00:51,410
+<font color=#FFFFFF>Man muss die ganze Zeit rühren.</font>
+
+16
+00:00:51,570 --> 00:00:54,930
+<font color=#00FFFF>Nicht weggelaufen</font>
+<font color=#00FFFF>oder den Fernseher umstellen.</font>
+
+17
+00:00:57,250 --> 00:00:59,930
+<font color=#00FFFF>Sondern die Pfanne festhalten.</font>
+
+18
+00:01:00,090 --> 00:01:03,530
+<font color=#00FFFF>Ich muss noch mal testen.</font>
+
+19
+00:01:04,850 --> 00:01:08,050
+<font color=#00FFFF>Das ist einfach gemacht.</font>
+
+20
+00:01:08,210 --> 00:01:11,210
+<font color=#00FFFF>An den Feiertagen.</font>
+
+21
+00:01:11,370 --> 00:01:14,770
+<font color=#00FFFF>Was kommt als Nächstes?</font>
+
+22
+00:01:15,490 --> 00:01:18,970
+<font color=#FFFF00>Pfeffernüsse.</font>
+
+23
+00:01:23,650 --> 00:01:27,570
+<font color=#FFFF00>Die wichtigsten Zutaten</font>
+<font color=#FFFF00>sind Honig, Zitronat und Gewürz.</font>
+
+24
+00:01:27,730 --> 00:01:29,930
+<font color=#FFFF00>Man könnte auch Zucker nehmen.</font>
+
+25
+00:01:31,290 --> 00:01:34,730
+<font color=#00FFFF>Hast du schon etwas probiert?</font>
+
+26
+00:01:35,490 --> 00:01:38,490
+<font color=#FFFF00>Dieses Rezept ist sehr einfach.</font>
+
+27
+00:01:38,650 --> 00:01:42,090
+<font color=#00FFFF>Was machst du alles rein?</font>
+
+28
+00:01:42,530 --> 00:01:45,170
+<font color=#FFFF00>Das ist Weißmehl.</font>
+
+29
+00:01:45,330 --> 00:01:48,610
+<font color=#FFFF00>Brauner Zucker.</font>
+
+30
+00:01:48,770 --> 00:01:52,210
+<font color=#FFFF00>Mandeln, gemahlen.</font>
+
+31
+00:01:52,650 --> 00:01:55,330
+<font color=#FFFF00>Die kann man</font>
+<font color=#FFFF00>durch Haselnüsse ersetzen.</font>
+
+32
+00:01:55,490 --> 00:01:58,130
+<font color=#FFFF00>Man kann variieren.</font>
+
+33
+00:01:58,290 --> 00:02:01,730
+<font color=#FFFF00>Wir haben auch ein Ei.</font>
+
+34
+00:02:02,370 --> 00:02:05,890
+<font color=#FFFF00>Man kann das auch vegan machen.</font>
+
+35
+00:02:07,610 --> 00:02:11,250
+<font color=#FFFF00>Man kann das Ei weglassen</font>
+<font color=#FFFF00>und Margarine nehmen.</font>
+
+36
+00:02:13,970 --> 00:02:17,490
+<font color=#FFFF00>Das Ei bringt Nässe</font>
+<font color=#FFFF00>für den Teig mit.</font>
+
+37
+00:02:21,330 --> 00:02:24,810
+<font color=#FFFF00>Wenn man es weglässt,</font>
+<font color=#FFFF00>nimmt man Margarine.</font>
+
+38
+00:02:25,810 --> 00:02:29,730
+<font color=#00FFFF>Das erste Mal hast du das</font>
+<font color=#00FFFF>mit deiner Schwester gebacken.</font>
+
+39
+00:02:29,890 --> 00:02:33,290
+<font color=#FFFF00>Wir hatten ein Buch für Kinder.</font>
+
+40
+00:02:33,690 --> 00:02:37,250
+<font color=#FFFF00>Das habe ich schon</font>
+<font color=#FFFF00>seit meinem sechsten Lebensjahr.</font>
+
+41
+00:02:37,410 --> 00:02:39,570
+<font color=#FFFF00>Das ist es.</font>
+
+42
+00:02:39,730 --> 00:02:43,130
+<font color=#FFFF00>Mein Name steht drin.</font>
+
+43
+00:02:48,090 --> 00:02:51,610
+<font color=#FFFF00>Das ist mein Zweitname, Liane.</font>
+
+44
+00:02:52,210 --> 00:02:55,690
+<font color=#FFFF00>Das Buch ist schon klebrig.</font>
+
+45
+00:02:56,930 --> 00:03:00,610
+<font color=#00FFFF>Du hast mit deiner Schwester</font>
+<font color=#00FFFF>zum ersten Mal gebacken.</font>
+
+46
+00:03:00,770 --> 00:03:04,210
+<font color=#00FFFF>Das ist der Beweis.</font>
+
+47
+00:03:04,970 --> 00:03:08,690
+<font color=#00FFFF>Du hast ein Talent vorangetrieben</font>
+<font color=#00FFFF>seit jungen Jahren.</font>
+
+48
+00:03:10,370 --> 00:03:13,370
+<font color=#00FFFF>Ich habe auch</font>
+<font color=#00FFFF>früh angefangen zu backen.</font>
+
+49
+00:03:13,530 --> 00:03:16,970
+<font color=#00FFFF>Das ist mein Beweis.</font>
+
+50
+00:03:17,610 --> 00:03:20,810
+<font color=#00FFFF>Ich war damals der Chef-Tester.</font>
+
+51
+00:03:20,970 --> 00:03:23,290
+<font color=#00FFFF>Aus dir ist etwas geworden.</font>
+
+52
+00:03:23,450 --> 00:03:26,890
+<font color=#00FFFF>Aus mir nicht.</font>
+
+53
+00:03:28,130 --> 00:03:31,650
+<font color=#00FFFF>Ich nasche nur.</font>
+
+54
+00:03:33,650 --> 00:03:38,170
+<font color=#00FFFF>Wir haben mit unseren Spenden</font>
+<font color=#00FFFF>die 2-Millionen-Grenze geknackt.</font>
+
+55
+00:03:38,290 --> 00:03:40,050
+<font color=#00FFFF>Vielen Dank!</font>
+
+56
+00:03:40,210 --> 00:03:43,650
+<font color=#00FFFF>Spenden Sie gerne weiter.</font>
+
+57
+00:03:44,250 --> 00:03:47,730
+<font color=#00FFFF>Wir haben vorhin</font>
+<font color=#00FFFF>in der Schalte schon gehört,</font>
+
+58
+00:03:48,170 --> 00:03:51,410
+<font color=#00FFFF>dass ein Herr</font>
+<font color=#00FFFF>fünf Euro gespendet hat.</font>
+
+59
+00:03:51,570 --> 00:03:55,010
+<font color=#00FFFF>Jeder so, wie er kann.</font>
+
+60
+00:03:55,490 --> 00:03:59,010
+<font color=#00FFFF>Was geht als Nächstes?</font>
+
+61
+00:03:59,330 --> 00:04:02,810
+<font color=#FFFF00>Ich habe die ganzen Zutaten drin.</font>
+
+62
+00:04:03,730 --> 00:04:06,730
+<font color=#FFFF00>Das wird jetzt alles geknetet.</font>
+
+63
+00:04:06,890 --> 00:04:09,490
+<font color=#FFFF00>Dann kommt es in den Kühlschrank.</font>
+
+64
+00:04:09,650 --> 00:04:12,090
+<font color=#FFFF00>Das war es auch schon.</font>
+
+65
+00:04:12,290 --> 00:04:15,450
+<font color=#FFFF00>Kinderleicht.</font>
+
+66
+00:04:15,610 --> 00:04:19,010
+<font color=#00FFFF>Und leise ist es.</font>
+
+67
+00:04:20,930 --> 00:04:24,130
+<font color=#FFFF00>Und die Küche ist sauber.</font>
+
+68
+00:04:24,290 --> 00:04:27,130
+<font color=#FFFF00>Der Teil kommt in den Kühlschrank.</font>
+
+69
+00:04:27,290 --> 00:04:30,730
+<font color=#FFFF00>Da ist auch schon einer drin.</font>
+
+70
+00:04:31,210 --> 00:04:34,170
+<font color=#00FFFF>Noch mal zur sauberen Küche.</font>
+
+71
+00:04:34,330 --> 00:04:37,530
+<font color=#00FFFF>Wo hast du das gelernt?</font>
+
+72
+00:04:37,690 --> 00:04:41,090
+<font color=#FFFF00>Bei meiner strengen Oma.</font>
+
+73
+00:04:42,530 --> 00:04:46,370
+<font color=#FFFF00>Sie hat darauf geachtet,</font>
+<font color=#FFFF00>dass die Rezepte einfach sind.</font>
+
+74
+00:04:46,610 --> 00:04:50,090
+<font color=#FFFF00>Ich war immer eine kleine Drecksau</font>
+<font color=#FFFF00>in der Küche.</font>
+
+75
+00:05:01,050 --> 00:05:04,250
+<font color=#00FFFF>Am Sonntag gibt es</font>
+<font color=#00FFFF>das Adventsbacken mit dir</font>
+
+76
+00:05:04,330 --> 00:05:06,010
+<font color=#00FFFF>und deiner Großmutter.</font>
+
+77
+00:05:06,170 --> 00:05:09,490
+<font color=#00FFFF>Um 16.30 Uhr.</font>
+
+78
+00:05:16,610 --> 00:05:20,130
+<font color=#00FFFF>Du machst Quatsch</font>
+<font color=#00FFFF>und deine Oma ist konzentriert.</font>
+
+79
+00:05:20,290 --> 00:05:23,090
+<font color=#FFFF00>Genau.</font>
+
+80
+00:05:23,250 --> 00:05:26,690
+<font color=#FFFF00>Der Dreh war sehr witzig.</font>
+
+81
+00:05:27,050 --> 00:05:30,570
+<font color=#FFFF00>Meine Oma hat nichts gesagt</font>
+<font color=#FFFF00>vor der Kamera.</font>
+
+82
+00:05:32,890 --> 00:05:36,370
+<font color=#00FFFF>Sehr norddeutsch.</font>
+
+83
+00:05:36,530 --> 00:05:40,010
+<font color=#FFFF00>Es tat ihr auch leid.</font>
+
+84
+00:05:43,130 --> 00:05:46,930
+<font color=#FFFF00>Als die Kameras angingen,</font>
+<font color=#FFFF00>war ihr die Kehle zugeschnürt.</font>
+
+85
+00:05:47,090 --> 00:05:50,050
+<font color=#00FFFF>Das kann ich verstehen.</font>
+
+86
+00:05:50,130 --> 00:05:53,090
+<font color=#00FFFF>Das ist nur allzu menschlich.</font>
+
+87
+00:05:56,090 --> 00:06:00,010
+<font color=#00FFFF>Am Sonntagnachmittag um 16.30 Uhr</font>
+<font color=#00FFFF>sehen Sie die Sendung.</font>
+
+88
+00:06:00,130 --> 00:06:03,570
+<font color=#00FFFF>Guckt sie zu?</font>
+
+89
+00:06:07,730 --> 00:06:11,210
+<font color=#FFFF00>Ja, Renate guckt zu.</font>
+
+90
+00:06:13,090 --> 00:06:16,570
+<font color=#FFFF00>Das ist der Teil,</font>
+<font color=#FFFF00>den ich schon vorbereitet habe.</font>
+
+91
+00:06:16,730 --> 00:06:20,170
+<font color=#FFFF00>Der muss eine Stunde</font>
+<font color=#FFFF00>im Kühlschrank ruhen.</font>
+
+92
+00:06:21,930 --> 00:06:25,650
+<font color=#FFFF00>Der wird in Scheiben geschnitten</font>
+<font color=#FFFF00>und kommt aus Blech.</font>
+
+93
+00:06:26,130 --> 00:06:29,530
+<font color=#00FFFF>Lege ich das jetzt darauf?</font>
+
+94
+00:06:29,690 --> 00:06:33,090
+<font color=#FFFF00>Du kannst es mir übergeben.</font>
+
+95
+00:06:33,650 --> 00:06:37,170
+<font color=#00FFFF>Kann ich noch etwas tun?</font>
+
+96
+00:06:37,530 --> 00:06:40,330
+<font color=#FFFF00>Hol die Pfeffernüsse aus dem Ofen.</font>
+
+97
+00:06:40,530 --> 00:06:43,930
+<font color=#00FFFF>Das mache ich.</font>
+
+98
+00:06:45,250 --> 00:06:48,730
+<font color=#FFFF00>So einfach wie das Rezept heute</font>
+
+99
+00:06:50,290 --> 00:06:53,770
+<font color=#FFFF00>ist auch das Rezept</font>
+<font color=#FFFF00>mit meiner Oma am Sonntag.</font>
+
+100
+00:06:55,810 --> 00:06:59,290
+<font color=#FFFF00>Die gehen rein.</font>
+
+101
+00:07:00,530 --> 00:07:04,010
+<font color=#FFFF00>So sehen sie aus.</font>
+
+102
+00:07:04,810 --> 00:07:08,290
+<font color=#FFFF00>Stell Sie einfach auf den Herd.</font>
+
+103
+00:07:10,330 --> 00:07:13,890
+<font color=#00FFFF>Dreimal bis Jahresende</font>
+<font color=#00FFFF>gibt es Sendungen mit Zora.</font>
+
+104
+00:07:21,330 --> 00:07:24,810
+<font color=#00FFFF>Am 20. Dezember</font>
+<font color=#00FFFF>und am 27. Dezember noch.</font>
+
+105
+00:07:26,130 --> 00:07:29,610
+<font color=#FFFF00>Ich habe Zuckerguss angerührt.</font>
+
+106
+00:07:29,770 --> 00:07:33,250
+<font color=#FFFF00>Puderzucker und Wasser.</font>
+
+107
+00:07:34,210 --> 00:07:36,730
+<font color=#00FFFF>Das verdunstet?</font>
+
+108
+00:07:36,890 --> 00:07:40,330
+<font color=#FFFF00>Ja.</font>
+
+109
+00:07:40,650 --> 00:07:44,170
+<font color=#FFFF00>Das machen wir</font>
+<font color=#FFFF00>auf die Pfeffernüsse drauf.</font>
+
+110
+00:07:46,730 --> 00:07:49,530
+<font color=#00FFFF>Der ist nur runtergefallen.</font>
+
+111
+00:07:49,690 --> 00:07:52,770
+<font color=#00FFFF>Nicht meine Absicht.</font>
+
+112
+00:07:52,930 --> 00:07:55,730
+<font color=#FFFF00>Jetzt können wir verzieren.</font>
+
+113
+00:07:55,890 --> 00:07:59,330
+<font color=#FFFF00>Das war's dann schon.</font>
+
+114
+00:08:03,930 --> 00:08:07,410
+<font color=#FFFF00>Wir machen noch</font>
+<font color=#FFFF00>bunte Streusel drauf.</font>
+
+115
+00:08:11,010 --> 00:08:14,490
+<font color=#FFFF00>Weil die Pfeffernüsse</font>
+<font color=#FFFF00>grobe Löcher haben,</font>
+
+116
+00:08:15,490 --> 00:08:19,010
+<font color=#FFFF00>geht der Zuckerguss da gut rein.</font>
+
+117
+00:08:19,770 --> 00:08:22,450
+<font color=#00FFFF>Ich zähle noch mal die Zutaten auf.</font>
+
+118
+00:08:22,610 --> 00:08:25,530
+<font color=#00FFFF>Dann hast du die verrührt</font>
+
+119
+00:08:25,690 --> 00:08:29,130
+<font color=#00FFFF>und in den Kühlschrank gegeben.</font>
+
+120
+00:08:29,530 --> 00:08:32,690
+<font color=#FFFF00>Das Lebkuchengewürz</font>
+<font color=#FFFF00>ist sehr wichtig.</font>
+
+121
+00:08:32,850 --> 00:08:36,290
+<font color=#FFFF00>Für den weihnachtlichen Geschmack.</font>
+
+122
+00:08:37,330 --> 00:08:40,410
+<font color=#00FFFF>Das Haar ist nicht von mir.</font>
+
+123
+00:08:40,570 --> 00:08:44,010
+<font color=#FFFF00>Von mir auch nicht.</font>
+
+124
+00:08:44,170 --> 00:08:47,570
+<font color=#00FFFF>Was meinst du,</font>
+
+125
+00:08:49,530 --> 00:08:53,010
+<font color=#00FFFF>was du von deiner Oma</font>
+<font color=#00FFFF>beim Kochen gelernt hast?</font>
+
+126
+00:08:55,050 --> 00:08:58,570
+<font color=#FFFF00>Die klassischen,</font>
+<font color=#FFFF00>traditionellen Rezepte.</font>
+
+127
+00:09:02,210 --> 00:09:05,690
+<font color=#FFFF00>Rouladen, Rotkohl ...</font>
+
+128
+00:09:05,970 --> 00:09:09,490
+<font color=#FFFF00>Die deftigen deutschen Klassiker.</font>
+
+129
+00:09:10,530 --> 00:09:14,010
+<font color=#00FFFF>Welchen Klassiker</font>
+<font color=#00FFFF>gibt es für das Weihnachtsmenü?</font>
+
+130
+00:09:14,170 --> 00:09:16,970
+<font color=#FFFF00>Ein etwas anderes Menü.</font>
+
+131
+00:09:17,130 --> 00:09:20,570
+<font color=#FFFF00>Vegetarisch.</font>
+
+132
+00:09:21,090 --> 00:09:24,610
+<font color=#FFFF00>Es gibt</font>
+<font color=#FFFF00>einen vegetarischen Nussbraten.</font>
+
+133
+00:09:25,930 --> 00:09:28,730
+<font color=#00FFFF>Es geht auch mal anders,</font>
+<font color=#00FFFF>etwas leichter.</font>
+
+134
+00:09:28,890 --> 00:09:32,330
+<font color=#00FFFF>Das wäre die Gelegenheit.</font>
+
+135
+00:09:33,650 --> 00:09:37,130
+<font color=#FFFF00>Es gibt aber</font>
+<font color=#FFFF00>eine deftige braune Sauce dazu.</font>
+
+136
+00:09:39,250 --> 00:09:42,770
+<font color=#FFFF00>Und klassisch</font>
+<font color=#FFFF00>Rosenkohl aus der Pfanne.</font>
+
+137
+00:09:43,770 --> 00:09:47,250
+<font color=#FFFF00>Mein Hals ist etwas trocken.</font>
+
+138
+00:09:47,450 --> 00:09:50,930
+<font color=#00FFFF>Da ist nichts drin.</font>
+
+139
+00:09:52,170 --> 00:09:55,610
+<font color=#FFFF00>Jetzt ist es besser.</font>
+
+140
+00:09:55,770 --> 00:09:59,170
+<font color=#FFFF00>Wir machen</font>
+<font color=#FFFF00>vegetarische Weihnachten.</font>
+
+141
+00:10:01,090 --> 00:10:04,610
+<font color=#FFFF00>Es gibt Nussbraten</font>
+<font color=#FFFF00>mit brauner Soße und Rosenkohl.</font>
+
+142
+00:10:04,810 --> 00:10:08,170
+<font color=#00FFFF>Ich probiere schon mal.</font>
+
+143
+00:10:08,890 --> 00:10:12,290
+<font color=#FFFF00>Es gibt doch eine Vorspeise</font>
+<font color=#FFFF00>und eine Nachspeise.</font>
+
+144
+00:10:12,450 --> 00:10:14,890
+<font color=#FFFF00>Aber das Menü ist einfach gehalten.</font>
+
+145
+00:10:15,050 --> 00:10:17,290
+<font color=#00FFFF>Köstlich.</font>
+
+146
+00:10:17,450 --> 00:10:19,530
+<font color=#00FFFF>Zora!</font>
+
+147
+00:10:19,690 --> 00:10:23,090
+<font color=#00FFFF>Herrlich.</font>
+
+148
+00:10:23,250 --> 00:10:26,730
+<font color=#00FFFF>Das Rezept</font>
+<font color=#00FFFF>gibt es auf der Homepage.</font>
+
+149
+00:10:30,410 --> 00:10:33,930
+<font color=#00FFFF>Viel Spaß beim Backen</font>
+<font color=#00FFFF>mit deiner Großmutter.</font>
+
+150
+00:10:34,090 --> 00:10:37,570
+<font color=#00FFFF>Bleiben Sie gesund.</font>
+
+151
+00:10:38,930 --> 00:10:41,730
+<font color=#00FFFF>Am Montag dem 18. Januar</font>
+<font color=#00FFFF>sind wir wieder da.</font>
+
+152
+00:10:58,730 --> 00:11:00,970
+<font color=#0000FF>Copyright Untertitel: NDR 2020</font>
+

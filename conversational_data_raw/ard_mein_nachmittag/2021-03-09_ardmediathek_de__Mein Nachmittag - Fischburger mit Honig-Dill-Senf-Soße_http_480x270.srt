@@ -1,0 +1,681 @@
+1
+00:00:01,077 --> 00:00:04,077
+<font color=#00FFFF>Und ich freue mich, dass du da bist.</font>
+
+2
+00:00:04,157 --> 00:00:05,957
+<font color=#00FFFF>Butter bei die Fische.</font>
+
+3
+00:00:06,437 --> 00:00:09,957
+<font color=#FFFF00>Ich habe immer Butter dabei,</font>
+<font color=#FFFF00>aber heute nicht.</font>
+
+4
+00:00:10,437 --> 00:00:11,437
+<font color=#00FFFF>Verrückt.</font>
+
+5
+00:00:12,077 --> 00:00:15,517
+<font color=#00FFFF>Na gut, einmal Butter bei die Fische</font>
+<font color=#00FFFF>ohne Butter.</font>
+
+6
+00:00:16,117 --> 00:00:18,997
+<font color=#FFFF00>Wir machen heute einen Fischburger.</font>
+
+7
+00:00:19,677 --> 00:00:22,197
+<font color=#FFFF00>Ich dachte, du machst den Dipp.</font>
+
+8
+00:00:23,037 --> 00:00:26,717
+<font color=#FFFF00>Du bekommst Schmand,</font>
+<font color=#FFFF00>Honig und körnigen Senf.</font>
+
+9
+00:00:28,437 --> 00:00:30,797
+<font color=#FFFF00>Du kannst Dill klein hacken.</font>
+
+10
+00:00:32,157 --> 00:00:33,877
+<font color=#00FFFF>Das mach ich sehr gerne.</font>
+
+11
+00:00:34,197 --> 00:00:39,237
+<font color=#00FFFF>Wir haben eben schon gesagt:</font>
+<font color=#00FFFF>Kabeljau ist leicht zu verarbeiten.</font>
+
+12
+00:00:39,557 --> 00:00:42,837
+<font color=#00FFFF>Es ist so 'n bisschen auch</font>
+<font color=#00FFFF>'n Einsteiger-Fisch.</font>
+
+13
+00:00:43,197 --> 00:00:45,157
+<font color=#FFFF00>Der hat einfaches Fleisch.</font>
+
+14
+00:00:45,237 --> 00:00:47,997
+<font color=#FFFF00>Ich hole ihn mal</font>
+<font color=#FFFF00>aus dem Kühlschrank.</font>
+
+15
+00:00:50,117 --> 00:00:53,277
+<font color=#00FFFF>Man bekommt ihn das ganze Jahr über.</font>
+
+16
+00:00:54,317 --> 00:00:57,197
+<font color=#00FFFF>Er ist fast das gleiche wie Dorsch.</font>
+
+17
+00:00:57,637 --> 00:00:58,957
+<font color=#FFFF00>Genau.</font>
+
+18
+00:00:59,797 --> 00:01:04,077
+<font color=#FFFF00>Er hat dickes Fleisch</font>
+<font color=#FFFF00>und ist leicht zu verarbeiten.</font>
+
+19
+00:01:05,797 --> 00:01:11,517
+<font color=#FFFF00>Er ist auch für Einsteiger geeignet.</font>
+<font color=#FFFF00>Da braucht man keine Angst haben.</font>
+
+20
+00:01:12,357 --> 00:01:14,997
+<font color=#00FFFF>Ich weiß, wir beide werden satt.</font>
+
+21
+00:01:15,757 --> 00:01:17,117
+<font color=#FFFF00>Natürlich!</font>
+
+22
+00:01:17,757 --> 00:01:19,957
+<font color=#00FFFF>Ich esse gerne Fisch.</font>
+
+23
+00:01:20,677 --> 00:01:24,797
+<font color=#00FFFF>Einen Burger selber zu machen,</font>
+<font color=#00FFFF>einen Fischburger:</font>
+
+24
+00:01:25,717 --> 00:01:27,957
+<font color=#00FFFF>Ich traue mich nicht dran.</font>
+
+25
+00:01:28,917 --> 00:01:32,797
+<font color=#00FFFF>Ich frage mich,</font>
+<font color=#00FFFF>was ich mal falsch gemacht habe.</font>
+
+26
+00:01:33,437 --> 00:01:35,477
+<font color=#FFFF00>Was hast du denn gemacht?</font>
+
+27
+00:01:35,557 --> 00:01:38,677
+<font color=#FFFF00>Vielleicht können wir</font>
+<font color=#FFFF00>das analysieren.</font>
+
+28
+00:01:39,717 --> 00:01:43,757
+<font color=#00FFFF>Es ist mir mal</font>
+<font color=#00FFFF>auseinandergebrochen in der Pfanne.</font>
+
+29
+00:01:45,037 --> 00:01:47,517
+<font color=#00FFFF>Ich habe damals Lachs genommen.</font>
+
+30
+00:01:48,277 --> 00:01:50,837
+<font color=#00FFFF>Wie kriege ich die Bindung hin?</font>
+
+31
+00:01:51,237 --> 00:01:56,157
+<font color=#FFFF00>Ich hab jetzt hier diesen Fisch, den</font>
+<font color=#FFFF00>mach ich erst mal 'n bisschen klein.</font>
+
+32
+00:01:56,357 --> 00:01:59,237
+<font color=#FFFF00>Man hackt den Fisch.</font>
+
+33
+00:01:59,397 --> 00:02:02,157
+<font color=#FFFF00>Fisch hat viel Eiweiß.</font>
+
+34
+00:02:02,317 --> 00:02:05,557
+<font color=#FFFF00>Das bindet schon mal.</font>
+
+35
+00:02:05,757 --> 00:02:08,277
+<font color=#FFFF00>Dann machen wir zwei Eier dazu.</font>
+
+36
+00:02:08,397 --> 00:02:10,157
+<font color=#FFFF00>Und Pankomehl.</font>
+
+37
+00:02:10,677 --> 00:02:14,077
+<font color=#FFFF00>Das ist japanisches Weißmehl -</font>
+<font color=#FFFF00>ohne Rinde.</font>
+
+38
+00:02:15,077 --> 00:02:19,037
+<font color=#FFFF00>Das deutsche Paniermehl</font>
+<font color=#FFFF00>ist sehr trocken und fest.</font>
+
+39
+00:02:19,637 --> 00:02:24,197
+<font color=#00FFFF>Ich habe deutsches Paniermehl</font>
+<font color=#00FFFF>genommen, das war der erste Fehler.</font>
+
+40
+00:02:24,317 --> 00:02:27,797
+<font color=#00FFFF>Ich habe auch keine Eier genommen.</font>
+
+41
+00:02:28,317 --> 00:02:33,237
+<font color=#FFFF00>Es geht auch mit dem Paniermehl,</font>
+<font color=#FFFF00>aber das hier macht es fluffig.</font>
+
+42
+00:02:33,357 --> 00:02:36,197
+<font color=#FFFF00>Es soll auch nicht trocken werden.</font>
+
+43
+00:02:36,797 --> 00:02:40,357
+<font color=#FFFF00>Deswegen machen wir den Fisch</font>
+<font color=#FFFF00>zur Petersilie.</font>
+
+44
+00:02:40,437 --> 00:02:41,877
+<font color=#00FFFF>Gibt es zu klein?</font>
+
+45
+00:02:41,957 --> 00:02:43,397
+<font color=#FFFF00>Nein.</font>
+
+46
+00:02:43,477 --> 00:02:46,277
+<font color=#FFFF00>Je feiner, desto eher halten sie.</font>
+
+47
+00:02:46,597 --> 00:02:48,957
+<font color=#FFFF00>Erst mal die Flossen waschen.</font>
+
+48
+00:02:49,597 --> 00:02:52,637
+<font color=#FFFF00>Haha, Flossen.</font>
+<font color=#FFFF00>Der war nicht mit Absicht.</font>
+
+49
+00:02:53,117 --> 00:02:54,317
+<font color=#00FFFF>Der war aber gut.</font>
+
+50
+00:02:54,917 --> 00:02:58,637
+<font color=#FFFF00>Jetzt gebe ich</font>
+<font color=#FFFF00>klein gewürfelte Zwiebeln dazu.</font>
+
+51
+00:02:59,397 --> 00:03:03,237
+<font color=#00FFFF>Die hast du nicht angeschwitzt,</font>
+<font color=#00FFFF>die bleiben roh? </font>
+<font color=#FFFF00>Genau.</font>
+
+52
+00:03:03,757 --> 00:03:08,877
+<font color=#FFFF00>Jetzt geb ich das Paniermehl drüber.</font>
+<font color=#FFFF00>Es ist ein bisschen gröber.</font>
+
+53
+00:03:09,757 --> 00:03:13,637
+<font color=#FFFF00>Das deutsche Paniermehl</font>
+<font color=#FFFF00>hat Kügelchen, ist fest.</font>
+
+54
+00:03:14,477 --> 00:03:16,717
+<font color=#FFFF00>Das ist schön fluffig hier.</font>
+
+55
+00:03:17,357 --> 00:03:19,197
+<font color=#00FFFF>Wie viel muss da rein?</font>
+
+56
+00:03:19,677 --> 00:03:21,397
+<font color=#00FFFF>Kann man das fühlen?</font>
+
+57
+00:03:22,517 --> 00:03:26,597
+<font color=#FFFF00>Man kann es fühlen</font>
+<font color=#FFFF00>oder sich an das Rezept halten.</font>
+
+58
+00:03:27,117 --> 00:03:30,837
+<font color=#00FFFF>Stimmt, das gibt es</font>
+<font color=#00FFFF>auf unserer Internetseite.</font>
+
+59
+00:03:32,957 --> 00:03:35,357
+<font color=#00FFFF>Man kann es dann nachkochen.</font>
+
+60
+00:03:37,477 --> 00:03:41,837
+<font color=#FFFF00>Jetzt habe ich Salz,</font>
+<font color=#FFFF00>Muskat und Pfeffer dazu gegeben.</font>
+
+61
+00:03:43,277 --> 00:03:45,277
+<font color=#FFFF00>Das verrühre ich.</font>
+
+62
+00:03:46,077 --> 00:03:49,477
+<font color=#FFFF00>Das Ei ist drin,</font>
+<font color=#FFFF00>dann ist die Masse fertig.</font>
+
+63
+00:03:50,997 --> 00:03:54,837
+<font color=#FFFF00>Hier muss ich noch ein bisschen</font>
+<font color=#FFFF00>Paniermehl rein machen.</font>
+
+64
+00:03:56,437 --> 00:03:58,077
+<font color=#00FFFF>Schön zu sehen.</font>
+
+65
+00:03:59,437 --> 00:04:01,837
+<font color=#00FFFF>Mal sehen, wie fest es wird.</font>
+
+66
+00:04:02,597 --> 00:04:06,117
+<font color=#FFFF00>Das Paniermehl</font>
+<font color=#FFFF00>saugt auch Flüssigkeit auf.</font>
+
+67
+00:04:06,837 --> 00:04:09,997
+<font color=#FFFF00>Wenn man die Masse</font>
+<font color=#FFFF00>vorbereiten möchte,</font>
+
+68
+00:04:10,077 --> 00:04:13,437
+<font color=#FFFF00>nimmt man etwas weniger,</font>
+<font color=#FFFF00>weil es aufquillt.</font>
+
+69
+00:04:13,797 --> 00:04:18,597
+<font color=#00FFFF>Brauchen wir eigentlich viel Dipp,</font>
+<font color=#00FFFF>also den ganzen Schmand?</font>
+
+70
+00:04:18,837 --> 00:04:22,517
+<font color=#FFFF00>Mach mal den Schmand</font>
+<font color=#FFFF00>und die Hälfte von dem Senf.</font>
+
+71
+00:04:22,997 --> 00:04:24,717
+<font color=#FFFF00>Hast du da ...</font>
+
+72
+00:04:26,317 --> 00:04:29,877
+<font color=#FFFF00>Du kennst dich aus hier</font>
+<font color=#FFFF00>in der Studioküche.</font>
+
+73
+00:04:30,437 --> 00:04:32,917
+<font color=#FFFF00>Dazu ein kräftiger Löffel Honig.</font>
+
+74
+00:04:33,997 --> 00:04:35,357
+<font color=#FFFF00>Und den Dill.</font>
+
+75
+00:04:35,557 --> 00:04:39,557
+<font color=#00FFFF>Das ist eigentlich total einfach</font>
+<font color=#00FFFF>von den Zutaten her.</font>
+
+76
+00:04:41,677 --> 00:04:44,757
+<font color=#FFFF00>Man nimmt sich etwas von der Masse.</font>
+
+77
+00:04:45,717 --> 00:04:48,317
+<font color=#FFFF00>Dann formt man sich einen Patty.</font>
+
+78
+00:04:49,837 --> 00:04:54,277
+<font color=#FFFF00>Das ist eigentlich wie bei jeder</font>
+<font color=#FFFF00>herkömmlichen Frikadelle auch.</font>
+
+79
+00:04:55,397 --> 00:04:57,717
+<font color=#FFFF00>Man gibt es in das heiße Öl.</font>
+
+80
+00:04:57,797 --> 00:05:00,237
+<font color=#00FFFF>Wie heiß soll die Pfanne sein?</font>
+
+81
+00:05:00,317 --> 00:05:03,237
+<font color=#00FFFF>Bei Fisch bin ich immer vorsichtig.</font>
+
+82
+00:05:03,557 --> 00:05:07,557
+<font color=#00FFFF>Manche sagen, man soll es</font>
+<font color=#00FFFF>nicht auf Voll-Karacho stellen.</font>
+
+83
+00:05:07,997 --> 00:05:12,677
+<font color=#FFFF00>Wenn man das hochdrehen würde,</font>
+<font color=#FFFF00>würde es sofort verbrennen.</font>
+
+84
+00:05:12,757 --> 00:05:14,597
+<font color=#FFFF00>Das macht keinen Sinn.</font>
+
+85
+00:05:15,437 --> 00:05:18,837
+<font color=#FFFF00>Deswegen macht man</font>
+<font color=#FFFF00>so mittlere Hitze.</font>
+
+86
+00:05:19,597 --> 00:05:21,957
+<font color=#FFFF00>Ich bin jetzt auf Stufe 6 von 12.</font>
+
+87
+00:05:22,597 --> 00:05:25,197
+<font color=#FFFF00>Man lässt die goldbraun werden.</font>
+
+88
+00:05:25,797 --> 00:05:28,517
+<font color=#00FFFF>Wir haben noch fünf Minuten Zeit.</font>
+
+89
+00:05:29,077 --> 00:05:32,237
+<font color=#00FFFF>Da könnte man</font>
+<font color=#00FFFF>noch reichlich Buletten braten.</font>
+
+90
+00:05:32,837 --> 00:05:36,317
+<font color=#00FFFF>Wie lang muss</font>
+<font color=#00FFFF>so eine Frikadelle braten?</font>
+
+91
+00:05:37,157 --> 00:05:40,637
+<font color=#FFFF00>Zwei bis drei Minuten pro Seite.</font>
+
+92
+00:05:41,037 --> 00:05:43,837
+<font color=#FFFF00>Es kommt darauf an,</font>
+<font color=#FFFF00>wie dick sie sind.</font>
+
+93
+00:05:43,997 --> 00:05:47,357
+<font color=#FFFF00>Aber hier passt das</font>
+<font color=#FFFF00>mit zwei bis drei Minuten.</font>
+
+94
+00:05:48,557 --> 00:05:51,557
+<font color=#00FFFF>Du hast es jetzt</font>
+<font color=#00FFFF>so handgroß gemacht.</font>
+
+95
+00:05:51,997 --> 00:05:54,117
+<font color=#00FFFF>Ist das eine ideale Größe?</font>
+
+96
+00:05:54,877 --> 00:05:56,677
+<font color=#00FFFF>Wenn sie zu dick sind ...</font>
+
+97
+00:05:57,277 --> 00:06:00,837
+<font color=#FFFF00>Ja, und Rinderpatties</font>
+<font color=#FFFF00>sind auch eher flach.</font>
+
+98
+00:06:02,397 --> 00:06:07,077
+<font color=#FFFF00>Also Patty, das ist die Form,</font>
+<font color=#FFFF00>die auf den Burger kommt.</font>
+
+99
+00:06:07,637 --> 00:06:09,157
+<font color=#00FFFF>Ja, genau.</font>
+
+100
+00:06:10,117 --> 00:06:13,797
+<font color=#FFFF00>Man macht gar nicht</font>
+<font color=#FFFF00>so einen Riesen-Klopper.</font>
+
+101
+00:06:14,437 --> 00:06:17,957
+<font color=#FFFF00>Der Burger wird an sich schon hoch.</font>
+
+102
+00:06:18,637 --> 00:06:22,397
+<font color=#FFFF00>Es hat nicht jeder</font>
+<font color=#FFFF00>so 'ne große Klappe wie ich.</font>
+
+103
+00:06:22,637 --> 00:06:26,637
+<font color=#00FFFF>Es gibt notfalls</font>
+<font color=#00FFFF>Messer und Gabel zum Zerlegen.</font>
+
+104
+00:06:29,117 --> 00:06:31,637
+<font color=#FFFF00>Wir basteln den Burger zusammen.</font>
+
+105
+00:06:32,077 --> 00:06:35,317
+<font color=#00FFFF>Ich muss noch ein bisschen rühren.</font>
+
+106
+00:06:35,477 --> 00:06:43,797
+<font color=#00FFFF>Ich habe es jetzt</font>
+<font color=#00FFFF>noch gar nicht abgeschmeckt.</font>
+
+107
+00:06:43,957 --> 00:06:47,317
+<font color=#00FFFF>Da sind keine Gewürze drin.</font>
+
+108
+00:06:47,557 --> 00:06:49,717
+<font color=#FFFF00>Der Senf gibt Geschmack.</font>
+
+109
+00:06:49,877 --> 00:06:52,557
+<font color=#FFFF00>Aber ich gebe noch mal Salz dazu.</font>
+
+110
+00:06:54,677 --> 00:06:58,397
+<font color=#FFFF00>Ich bestreiche das hier mal</font>
+<font color=#FFFF00>mit ein bisschen Ketchup.</font>
+
+111
+00:06:59,557 --> 00:07:02,157
+<font color=#FFFF00>Die Brötchen hatte ich im Ofen.</font>
+
+112
+00:07:03,597 --> 00:07:05,757
+<font color=#00FFFF>Das sind Brioche-Brötchen.</font>
+
+113
+00:07:07,237 --> 00:07:09,957
+<font color=#FFFF00>Genau, die bekommt man überall.</font>
+
+114
+00:07:11,197 --> 00:07:14,917
+<font color=#00FFFF>Auch beim Bäcker.</font>
+<font color=#FFFF00>Ja, oder ganz normal im Supermarkt.</font>
+
+115
+00:07:15,517 --> 00:07:18,637
+<font color=#FFFF00>Auf die unteren Teile</font>
+<font color=#FFFF00>kommt die Soße.</font>
+
+116
+00:07:19,357 --> 00:07:20,677
+<font color=#FFFF00>Da.</font>
+
+117
+00:07:21,677 --> 00:07:22,837
+<font color=#00FFFF>Wie viel Klacks?</font>
+
+118
+00:07:23,237 --> 00:07:26,877
+<font color=#00FFFF>Unten oder oben?</font>
+<font color=#00FFFF>Man muss es mir deutlich sagen.</font>
+
+119
+00:07:27,037 --> 00:07:28,637
+<font color=#FFFF00>Hier noch mal.</font>
+
+120
+00:07:29,317 --> 00:07:31,957
+<font color=#00FFFF>Gut,</font>
+<font color=#00FFFF>im Zweifel wirklich drauf zeigen.</font>
+
+121
+00:07:34,757 --> 00:07:39,357
+<font color=#00FFFF>Wenn ich etwas kann, dann</font>
+<font color=#00FFFF>Schmand verrühren und verteilen.</font>
+
+122
+00:07:40,637 --> 00:07:43,277
+<font color=#FFFF00>Eine Scheibe Tomate.</font>
+
+123
+00:07:45,117 --> 00:07:48,037
+<font color=#FFFF00>Da kann man drauf machen,</font>
+<font color=#FFFF00>was man will.</font>
+
+124
+00:07:48,117 --> 00:07:50,757
+<font color=#FFFF00>Ich nehme noch Zwiebelringe dazu.</font>
+
+125
+00:07:50,917 --> 00:07:53,437
+<font color=#FFFF00>Das passt gut zu Fisch.</font>
+
+126
+00:07:53,597 --> 00:07:55,037
+<font color=#00FFFF>Der Klassiker.</font>
+
+127
+00:07:56,757 --> 00:08:00,317
+<font color=#FFFF00>Das kommt auch immer</font>
+<font color=#FFFF00>auf ein Fischbrötchen.</font>
+
+128
+00:08:03,037 --> 00:08:06,997
+<font color=#FFFF00>Das hatte ich jetzt</font>
+<font color=#FFFF00>schon länger in der Pfanne.</font>
+
+129
+00:08:07,677 --> 00:08:09,637
+<font color=#FFFF00>Dazu ein bisschen Salat.</font>
+
+130
+00:08:12,677 --> 00:08:14,837
+<font color=#00FFFF>Du nimmst Ruccola.</font>
+
+131
+00:08:15,957 --> 00:08:19,517
+<font color=#FFFF00>Genau, der bringt</font>
+<font color=#FFFF00>noch etwas Schärfe mit.</font>
+
+132
+00:08:19,837 --> 00:08:23,517
+<font color=#FFFF00>Man kann aber auch</font>
+<font color=#FFFF00>normalen Salat nehmen.</font>
+
+133
+00:08:23,877 --> 00:08:26,837
+<font color=#00FFFF>Wir haben</font>
+<font color=#00FFFF>deine Tipps zusammengefasst:</font>
+
+134
+00:08:41,717 --> 00:08:45,197
+<font color=#00FFFF>Über Beilagen</font>
+<font color=#00FFFF>haben wir noch nicht gesprochen.</font>
+
+135
+00:08:45,517 --> 00:08:48,997
+<font color=#00FFFF>Kartoffelecken hast du vorbereitet.</font>
+
+136
+00:08:49,837 --> 00:08:53,597
+<font color=#FFFF00>Genau, ich finde Pommes</font>
+<font color=#FFFF00>nicht so schön im Ofen.</font>
+
+137
+00:08:54,077 --> 00:08:57,317
+<font color=#FFFF00>Ich mache Kartoffelecken.</font>
+
+138
+00:08:58,077 --> 00:08:59,757
+<font color=#FFFF00>Mit Öl und Gewürzen.</font>
+
+139
+00:09:00,717 --> 00:09:03,237
+<font color=#FFFF00>Die habe ich im Ofen gebacken.</font>
+
+140
+00:09:04,517 --> 00:09:06,357
+<font color=#00FFFF>Ich gebe dir Dipp dazu. </font>
+<font color=#FFFF00>Ja!</font>
+
+141
+00:09:06,437 --> 00:09:08,077
+<font color=#00FFFF>Der schmeckt so lecker.</font>
+
+142
+00:09:09,397 --> 00:09:11,477
+<font color=#00FFFF>Passt auch zu Kartoffeln.</font>
+
+143
+00:09:11,557 --> 00:09:14,077
+<font color=#FFFF00>Genau, so hatte ich es gedacht.</font>
+
+144
+00:09:14,437 --> 00:09:18,437
+<font color=#FFFF00>Sowohl als Dipp zu den Kartoffeln</font>
+<font color=#FFFF00>als auch zu dem Burger.</font>
+
+145
+00:09:19,317 --> 00:09:21,877
+<font color=#FFFF00>Das ist Butter bei die Fische, oder?</font>
+
+146
+00:09:22,037 --> 00:09:23,437
+<font color=#00FFFF>Total!</font>
+
+147
+00:09:24,077 --> 00:09:25,917
+<font color=#00FFFF>Wir müssen probieren.</font>
+
+148
+00:09:27,437 --> 00:09:29,317
+<font color=#FFFF00>Ich verteile sie ganz.</font>
+
+149
+00:09:31,597 --> 00:09:32,837
+<font color=#00FFFF>Wunderbar.</font>
+
+150
+00:09:33,197 --> 00:09:34,757
+<font color=#00FFFF>Wow!</font>
+
+151
+00:09:35,317 --> 00:09:39,077
+<font color=#00FFFF>Das sieht wirklich</font>
+<font color=#00FFFF>unglaublich sensationell aus.</font>
+
+152
+00:09:39,957 --> 00:09:41,277
+<font color=#00FFFF>Vielen Dank.</font>
+
+153
+00:09:41,517 --> 00:09:46,477
+<font color=#00FFFF>Deine Tipps kann man auf</font>
+<font color=#00FFFF>unserer Internetseite nachgucken.</font>
+

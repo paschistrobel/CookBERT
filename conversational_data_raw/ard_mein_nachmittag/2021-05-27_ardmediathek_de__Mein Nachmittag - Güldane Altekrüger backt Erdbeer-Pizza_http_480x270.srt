@@ -1,0 +1,340 @@
+1
+00:00:01,797 --> 00:00:03,917
+<font color=#00FFFF>Wir machen den Backofen an.</font>
+
+2
+00:00:08,517 --> 00:00:10,677
+<font color=#00FFFF>Wir machen süß und salzig.</font>
+
+3
+00:00:11,077 --> 00:00:14,597
+<font color=#00FFFF>Trotzdem backen wir.</font>
+<font color=#FFFF00>Wir machen eine süße Pizza.</font>
+
+4
+00:00:15,997 --> 00:00:17,997
+<font color=#FFFF00>Eine Pizza mit Erdbeeren.</font>
+
+5
+00:00:20,997 --> 00:00:22,797
+<font color=#FFFF00>Lass dich überraschen.</font>
+
+6
+00:00:24,197 --> 00:00:27,077
+<font color=#FFFF00>Man kann alles auf eine Pizza legen.</font>
+
+7
+00:00:31,877 --> 00:00:34,877
+<font color=#FFFF00>Ich habe das</font>
+<font color=#FFFF00>mit Erdbeeren ausprobiert.</font>
+
+8
+00:00:35,077 --> 00:00:36,877
+<font color=#FFFF00>Und das schmeckt.</font>
+
+9
+00:00:37,877 --> 00:00:41,277
+<font color=#00FFFF>Ich habe eine süße Pizza</font>
+<font color=#00FFFF>mit Schoko gegessen.</font>
+
+10
+00:00:54,477 --> 00:00:56,877
+<font color=#FFFF00>Du kannst den Strunk entfernen.</font>
+
+11
+00:01:05,477 --> 00:01:07,757
+<font color=#FFFF00>Ich mache die "Tomatensoße".</font>
+
+12
+00:01:15,557 --> 00:01:18,557
+<font color=#FFFF00>Dafür nehmen wir natürlich</font>
+<font color=#FFFF00>keine Tomaten.</font>
+
+13
+00:01:18,597 --> 00:01:20,397
+<font color=#FFFF00>Wir nehmen Erdbeeren.</font>
+
+14
+00:01:32,397 --> 00:01:36,197
+<font color=#00FFFF>Du kennst dich aus</font>
+<font color=#00FFFF>mit den Ersatzstoffen für Zucker.</font>
+
+15
+00:01:37,597 --> 00:01:40,477
+<font color=#00FFFF>Dein Motto ist:</font>
+<font color=#00FFFF>Backen, um abzunehmen.</font>
+
+16
+00:01:44,477 --> 00:01:47,477
+<font color=#FFFF00>Ich habe darüber</font>
+<font color=#FFFF00>auch Bücher geschrieben.</font>
+
+17
+00:01:47,517 --> 00:01:50,317
+<font color=#FFFF00>Brot und Kuchen</font>
+<font color=#FFFF00>fehlt mir bei Diäten.</font>
+
+18
+00:02:01,117 --> 00:02:05,037
+<font color=#FFFF00>Und jetzt habe ich auch</font>
+<font color=#FFFF00>über das Grillen geschrieben.</font>
+
+19
+00:02:05,077 --> 00:02:08,557
+<font color=#FFFF00>Das Problem dabei</font>
+<font color=#FFFF00>sind meistens die Beilagen.</font>
+
+20
+00:02:09,557 --> 00:02:11,437
+<font color=#00FFFF>Jetzt geht es um Pizza.</font>
+
+21
+00:02:17,437 --> 00:02:20,317
+<font color=#FFFF00>Es ist nicht wie eine Erdbeertorte.</font>
+
+22
+00:02:21,317 --> 00:02:23,117
+<font color=#FFFF00>Da fehlt das Sahnige.</font>
+
+23
+00:02:36,117 --> 00:02:39,757
+<font color=#00FFFF>Die Erdbeere ist ja süß.</font>
+<font color=#FFFF00>Aber sie hat wenig Zucker.</font>
+
+24
+00:02:50,757 --> 00:02:54,037
+<font color=#FFFF00>So richtig salzig</font>
+<font color=#FFFF00>ist der Teig auch nicht.</font>
+
+25
+00:03:01,037 --> 00:03:03,197
+<font color=#FFFF00>Ich nehme Magerquark dazu.</font>
+
+26
+00:03:04,197 --> 00:03:06,677
+<font color=#FFFF00>Den nehme ich wegen der Proteine.</font>
+
+27
+00:03:12,677 --> 00:03:14,757
+<font color=#FFFF00>Dann nehme ich Dinkelmehl.</font>
+
+28
+00:03:16,757 --> 00:03:19,237
+<font color=#FFFF00>Das kann auch ohne Gluten sein.</font>
+
+29
+00:03:29,237 --> 00:03:32,517
+<font color=#00FFFF>Was nehme ich,</font>
+<font color=#00FFFF>wenn es es glutenfrei sein soll?</font>
+
+30
+00:03:37,117 --> 00:03:40,237
+<font color=#FFFF00>Du kannst 50 Gramm Buchweizenmehl</font>
+<font color=#FFFF00>nehmen.</font>
+
+31
+00:03:40,277 --> 00:03:42,877
+<font color=#FFFF00>Dann nimmst du 25 Gramm Maismehl.</font>
+
+32
+00:03:42,917 --> 00:03:45,397
+<font color=#FFFF00>Und du nimmst 25 Gramm Reismehl.</font>
+
+33
+00:03:46,797 --> 00:03:48,797
+<font color=#FFFF00>Und das kannst du mixen.</font>
+
+34
+00:03:50,397 --> 00:03:52,437
+<font color=#FFFF00>Das ist dann ohne Gluten.</font>
+
+35
+00:04:00,037 --> 00:04:02,197
+<font color=#FFFF00>Mein Quarkteig ist fertig.</font>
+
+36
+00:04:04,197 --> 00:04:05,997
+<font color=#FFFF00>Das geht schnell.</font>
+
+37
+00:04:17,397 --> 00:04:21,157
+<font color=#FFFF00>Du könntest den Mozzarella</font>
+<font color=#FFFF00>auch in Scheiben schneiden.</font>
+
+38
+00:04:25,557 --> 00:04:29,437
+<font color=#00FFFF>Und die andere Hälfte?</font>
+<font color=#FFFF00>Die kommt in den Kühlschrank.</font>
+
+39
+00:04:30,437 --> 00:04:32,437
+<font color=#FFFF00>Oder du kannst es essen.</font>
+
+40
+00:04:36,437 --> 00:04:38,997
+<font color=#00FFFF>Das Naschen finde ich am besten.</font>
+
+41
+00:04:44,997 --> 00:04:48,317
+<font color=#00FFFF>Mozzarella ist ja</font>
+<font color=#00FFFF>auch eine salzige Komponente.</font>
+
+42
+00:05:00,317 --> 00:05:03,597
+<font color=#FFFF00>Das ist die Kombination</font>
+<font color=#FFFF00>von Käse und Teig.</font>
+
+43
+00:05:04,597 --> 00:05:07,997
+<font color=#00FFFF>Aber auch Mozzarella</font>
+<font color=#00FFFF>ist nicht richtig salzig.</font>
+
+44
+00:05:08,037 --> 00:05:10,437
+<font color=#00FFFF>Der schmeckt nach nicht viel.</font>
+
+45
+00:05:16,037 --> 00:05:18,917
+<font color=#FFFF00>Aber es sieht dann</font>
+<font color=#FFFF00>wie eine Pizza aus.</font>
+
+46
+00:05:27,117 --> 00:05:28,997
+<font color=#FFFF00>Ich bearbeite den Teig.</font>
+
+47
+00:05:34,997 --> 00:05:36,797
+<font color=#FFFF00>Darauf kommt die Soße.</font>
+
+48
+00:05:42,197 --> 00:05:45,717
+<font color=#FFFF00>Man hat im Teig</font>
+<font color=#FFFF00>viele Proteine und Ballaststoffe.</font>
+
+49
+00:05:50,317 --> 00:05:52,877
+<font color=#FFFF00>Und die Erdbeere ist kalorienarm.</font>
+
+50
+00:06:01,077 --> 00:06:04,317
+<font color=#00FFFF>Die Erdbeere soll viel Zucker haben.</font>
+<font color=#FFFF00>Nein.</font>
+
+51
+00:06:05,717 --> 00:06:07,517
+<font color=#FFFF00>Das stimmt nicht.</font>
+
+52
+00:06:07,917 --> 00:06:09,917
+<font color=#FFFF00>Man kann viel davon essen.</font>
+
+53
+00:06:09,957 --> 00:06:12,757
+<font color=#FFFF00>Auch dann, wenn man abnehmen will.</font>
+
+54
+00:06:19,757 --> 00:06:21,637
+<font color=#FFFF00>Ich nehme noch Zitrone.</font>
+
+55
+00:06:23,037 --> 00:06:25,157
+<font color=#FFFF00>Dann schmeckt es frischer.</font>
+
+56
+00:06:26,557 --> 00:06:28,917
+<font color=#FFFF00>Wir lassen die Soße abkühlen.</font>
+
+57
+00:06:29,917 --> 00:06:32,317
+<font color=#00FFFF>Das hast du schon vorbereitet.</font>
+
+58
+00:06:37,117 --> 00:06:39,597
+<font color=#FFFF00>Die Erdbeersoße kommt da rauf.</font>
+
+59
+00:06:46,197 --> 00:06:47,997
+<font color=#00FFFF>Ich belege die Pizza.</font>
+
+60
+00:06:50,997 --> 00:06:52,797
+<font color=#00FFFF>Du kannst anrichten.</font>
+
+61
+00:07:01,797 --> 00:07:03,997
+<font color=#FFFF00>Nimm zuerst den Mozzarella.</font>
+
+62
+00:07:04,797 --> 00:07:06,877
+<font color=#FFFF00>Dann kommt die Erdbeeren.</font>
+
+63
+00:07:07,877 --> 00:07:09,957
+<font color=#FFFF00>Dann geht es in den Ofen:</font>
+
+64
+00:07:09,997 --> 00:07:11,997
+<font color=#FFFF00>20 Minuten bei 200 Grad.</font>
+
+65
+00:07:22,997 --> 00:07:25,637
+<font color=#00FFFF>Es sieht aus wie eine Salami-Pizza.</font>
+
+66
+00:07:37,637 --> 00:07:40,757
+<font color=#FFFF00>Ich würde sie noch süßen</font>
+<font color=#FFFF00>mit Puderzucker.</font>
+
+67
+00:07:51,957 --> 00:07:54,597
+<font color=#00FFFF>Eine Pizza muss stark belegt sein.</font>
+
+68
+00:08:05,397 --> 00:08:07,797
+<font color=#FFFF00>Dann nehme ich noch Basilikum.</font>
+
+69
+00:08:12,797 --> 00:08:14,597
+<font color=#FFFF00>Auch Minze habe ich.</font>
+
+70
+00:08:23,597 --> 00:08:25,397
+<font color=#FFFF00>Du kannst probieren.</font>
+
+71
+00:08:28,877 --> 00:08:30,877
+<font color=#00FFFF>Das ist die Erdbeerpizza.</font>
+
+72
+00:08:32,477 --> 00:08:34,437
+<font color=#00FFFF>Alles steht im Internet.</font>
+
+73
+00:08:52,837 --> 00:08:54,637
+<font color=#00FFFF>Ich bin gespannt.</font>
+
+74
+00:08:54,677 --> 00:08:56,477
+<font color=#FFFF00>Du warst skeptisch.</font>
+
+75
+00:09:06,077 --> 00:09:07,997
+<font color=#00FFFF>Das ist total verrückt.</font>
+
+76
+00:09:08,037 --> 00:09:09,837
+<font color=#00FFFF>Es ist wirklich süß.</font>
+
+77
+00:09:11,837 --> 00:09:14,197
+<font color=#00FFFF>Es ist ein Geschmackserlebnis.</font>
+
+78
+00:09:17,197 --> 00:09:20,157
+<font color=#00FFFF>Ich werde die Pizza</font>
+<font color=#00FFFF>nicht verkommen lassen.</font>
+
+79
+00:09:27,117 --> 00:09:29,117
+<font color=#0000FF>Copyright Untertitel: NDR 2021</font>
+

@@ -1,0 +1,481 @@
+1
+00:00:00,189 --> 00:00:03,709
+<font color=#00FFFF>Bei uns geht es gesund zu.</font>
+
+2
+00:00:05,149 --> 00:00:08,469
+<font color=#00FFFF>Hülsenfrüchte, Olivenöl</font>
+<font color=#00FFFF>und Elli Neubert:</font>
+
+3
+00:00:08,629 --> 00:00:12,069
+<font color=#FFFFFF>Außerdem kein Fleisch.</font>
+
+4
+00:00:12,389 --> 00:00:15,909
+<font color=#00FFFF>Du hättest</font>
+<font color=#00FFFF>den grünen Sticker verdient.</font>
+
+5
+00:00:16,069 --> 00:00:19,429
+<font color=#FFFFFF>Ich habe aber keinen da.</font>
+
+6
+00:00:19,589 --> 00:00:23,029
+<font color=#00FFFF>Innerlich bekommst du den.</font>
+
+7
+00:00:24,149 --> 00:00:27,629
+<font color=#FFFFFF>Das hier ist</font>
+<font color=#FFFFFF>einer meiner liebsten Küchengerüche:</font>
+
+8
+00:00:27,789 --> 00:00:31,229
+<font color=#FFFFFF>Knoblauch und Zwiebeln in Butter.</font>
+
+9
+00:00:31,469 --> 00:00:34,949
+<font color=#00FFFF>Und du machst heute zwei Gerichte.</font>
+
+10
+00:00:35,749 --> 00:00:39,229
+<font color=#FFFFFF>Wir machen eine Basis.</font>
+
+11
+00:00:39,389 --> 00:00:42,829
+<font color=#FFFFFF>Da sind Knoblauch und Zwiebeln drin.</font>
+
+12
+00:00:43,109 --> 00:00:46,629
+<font color=#FFFFFF>Das hier habe ich vorbereitet.</font>
+
+13
+00:00:47,749 --> 00:00:51,269
+<font color=#FFFFFF>Wir müssen</font>
+<font color=#FFFFFF>in zehn Minuten fertig werden.</font>
+
+14
+00:00:56,589 --> 00:01:00,109
+<font color=#FFFFFF>Ich gebe das jetzt alles rein,</font>
+<font color=#FFFFFF>Paprika, Zucchini.</font>
+
+15
+00:01:00,749 --> 00:01:04,269
+<font color=#FFFFFF>Das wird nur an gebräunt.</font>
+
+16
+00:01:04,469 --> 00:01:07,549
+<font color=#FFFFFF>Es muss nicht weich gekocht sein.</font>
+
+17
+00:01:07,709 --> 00:01:11,149
+<font color=#FFFFFF>Ich mag es Biss fest.</font>
+
+18
+00:01:11,509 --> 00:01:14,989
+<font color=#FFFFFF>Das teile ich dann</font>
+<font color=#FFFFFF>auf zwei Pfannen auf.</font>
+
+19
+00:01:15,749 --> 00:01:19,229
+<font color=#FFFFFF>Die eine Pfanne</font>
+<font color=#FFFFFF>geht in die italienische Richtung.</font>
+
+20
+00:01:20,069 --> 00:01:23,589
+<font color=#FFFFFF>Dafür habe ich</font>
+<font color=#FFFFFF>schon Pasta vorgekocht.</font>
+
+21
+00:01:24,149 --> 00:01:27,629
+<font color=#FFFFFF>Man kann auch Vollkornnudeln nehmen.</font>
+
+22
+00:01:29,429 --> 00:01:32,949
+<font color=#00FFFF>In allen möglichen Farben</font>
+<font color=#00FFFF>und Formen.</font>
+
+23
+00:01:34,749 --> 00:01:38,269
+<font color=#FFFFFF>Zum anbraten nehme ich Olivenöl.</font>
+
+24
+00:01:38,429 --> 00:01:41,909
+<font color=#FFFFFF>Man kann aber jedes übel nehmen.</font>
+
+25
+00:01:43,509 --> 00:01:47,069
+<font color=#FFFFFF>Die Grunddrehrichtung</font>
+<font color=#FFFFFF>besteht aus Salz und Pfeffer.</font>
+
+26
+00:01:50,989 --> 00:01:54,469
+<font color=#FFFFFF>Wenn man nicht</font>
+<font color=#FFFFFF>so viele Leute zu Hause hat,</font>
+
+27
+00:01:55,149 --> 00:01:58,629
+<font color=#FFFFFF>aber vielfältig Gemüse essen möchte:</font>
+
+28
+00:02:00,589 --> 00:02:04,429
+<font color=#FFFFFF>Kann man ein Teil</font>
+<font color=#FFFFFF>des vorbereiteten Gemüses einfrieren.</font>
+
+29
+00:02:08,149 --> 00:02:11,629
+<font color=#FFFFFF>Wenn man alleine ist,</font>
+<font color=#FFFFFF>ist das praktisch.</font>
+
+30
+00:02:16,269 --> 00:02:20,629
+<font color=#00FFFF>Du hast Paprika und Zucchini</font>
+<font color=#00FFFF>mit Zwiebeln in die Pfanne getan.</font>
+
+31
+00:02:20,789 --> 00:02:24,189
+<font color=#00FFFF>Die haben aber</font>
+<font color=#00FFFF>unterschiedliche Garzeiten.</font>
+
+32
+00:02:24,949 --> 00:02:28,469
+<font color=#00FFFF>Eine Zucchini</font>
+<font color=#00FFFF>wird schneller gar als Paprika.</font>
+
+33
+00:02:30,109 --> 00:02:33,629
+<font color=#FFFFFF>Ich mag es gerne,</font>
+<font color=#FFFFFF>wenn alles Biss hat.</font>
+
+34
+00:02:34,349 --> 00:02:37,829
+<font color=#FFFFFF>Dann kann man es so lange kochen,</font>
+<font color=#FFFFFF>wie man möchte.</font>
+
+35
+00:02:38,509 --> 00:02:42,029
+<font color=#FFFFFF>Man kann es auch</font>
+<font color=#FFFFFF>unterschiedlich schneiden.</font>
+
+36
+00:02:44,269 --> 00:02:48,989
+<font color=#FFFFFF>Die Zwiebeln und Knoblauchzehen</font>
+<font color=#FFFFFF>habe ich etwas früher rein gegeben.</font>
+
+37
+00:02:51,469 --> 00:02:54,989
+<font color=#FFFFFF>Wenn es schön angedeutet ist,</font>
+<font color=#FFFFFF>teile ich das auf.</font>
+
+38
+00:02:58,189 --> 00:03:01,709
+<font color=#00FFFF>Ich mag dieses Geräusch.</font>
+
+39
+00:03:08,109 --> 00:03:11,629
+<font color=#FFFFFF>Jetzt machen wir es orientalisch.</font>
+
+40
+00:03:12,949 --> 00:03:16,469
+<font color=#FFFFFF>Dazu kommt</font>
+<font color=#FFFFFF>etwas Zimt und Kreuzkümmel.</font>
+
+41
+00:03:18,389 --> 00:03:21,869
+<font color=#FFFFFF>Ich liebe das sehr.</font>
+
+42
+00:03:23,069 --> 00:03:26,189
+<font color=#FFFFFF>Und ich bin</font>
+<font color=#FFFFFF>sehr experimentierfreudig.</font>
+
+43
+00:03:26,349 --> 00:03:29,789
+<font color=#FFFFFF>Man sollte sich ruhig trauen.</font>
+
+44
+00:03:37,269 --> 00:03:40,749
+<font color=#FFFFFF>Gerne auch eine Gerd Chili-Flocken.</font>
+
+45
+00:03:46,029 --> 00:03:50,629
+<font color=#FFFFFF>Du könntest Petersilie für die</font>
+<font color=#FFFFFF>italienische Variante vorbereiten.</font>
+
+46
+00:03:51,029 --> 00:03:54,509
+<font color=#FFFFFF>Hier kommen noch Kichererbsen dazu.</font>
+
+47
+00:03:55,909 --> 00:03:59,429
+<font color=#FFFFFF>Damit ist die orientalische Version</font>
+<font color=#FFFFFF>fast fertig.</font>
+
+48
+00:04:02,069 --> 00:04:05,909
+<font color=#00FFFF>Kichererbsen bekommt man auch</font>
+<font color=#00FFFF>in der Dose oder im Glas.</font>
+
+49
+00:04:06,869 --> 00:04:10,389
+<font color=#00FFFF>Das sollte man</font>
+<font color=#00FFFF>einfach mal ausprobieren.</font>
+
+50
+00:04:19,749 --> 00:04:23,949
+<font color=#FFFFFF>Man kann sie auch am nächsten Tag</font>
+<font color=#FFFFFF>galt zum Gemüse dazugeben.</font>
+
+51
+00:04:24,189 --> 00:04:27,509
+<font color=#FFFFFF>Wenn man sie aus der Dose</font>
+<font color=#FFFFFF>oder dem Glas nimmt,</font>
+
+52
+00:04:27,669 --> 00:04:31,149
+<font color=#FFFFFF>sind sie schon fertig gegart.</font>
+
+53
+00:04:37,549 --> 00:04:41,069
+<font color=#FFFFFF>Hier habe ich Thymian und Rosmarin</font>
+<font color=#FFFFFF>dazugegeben.</font>
+
+54
+00:04:45,469 --> 00:04:48,989
+<font color=#FFFFFF>Und da es zu Pasta</font>
+<font color=#FFFFFF>gut dazu schmeckt: Tomaten.</font>
+
+55
+00:04:50,909 --> 00:04:54,429
+<font color=#FFFFFF>Hier habe ich</font>
+<font color=#FFFFFF>etwas Flüssigkeit dabei.</font>
+
+56
+00:04:55,189 --> 00:04:58,709
+<font color=#FFFFFF>Deshalb muss noch</font>
+<font color=#FFFFFF>etwas Salz und Pfeffer dazu.</font>
+
+57
+00:05:07,229 --> 00:05:10,749
+<font color=#FFFFFF>Ich mag Kapern gerne im Ganzen.</font>
+
+58
+00:05:13,269 --> 00:05:17,629
+<font color=#FFFFFF>So hatte man Süße und Säure,</font>
+<font color=#FFFFFF>weil sie in Essig eingelegt sind.</font>
+
+59
+00:05:17,789 --> 00:05:21,189
+<font color=#FFFFFF>Als Gegengewicht kommt etwas Zucker.</font>
+
+60
+00:05:21,709 --> 00:05:25,189
+<font color=#FFFFFF>Jetzt wird das süß-säuerlich.</font>
+
+61
+00:05:28,429 --> 00:05:31,909
+<font color=#FFFFFF>Zucker glänzt übrigens,</font>
+
+62
+00:05:32,509 --> 00:05:36,029
+<font color=#FFFFFF>so kann man es</font>
+<font color=#FFFFFF>besser von Salz unterscheiden.</font>
+
+63
+00:05:37,549 --> 00:05:41,069
+<font color=#FFFFFF>Salz ist er stumpf.</font>
+
+64
+00:05:46,509 --> 00:05:50,349
+<font color=#00FFFF>Woher kommt der Ausdruck:</font>
+<font color=#00FFFF>Salz verstreuen bringt Ärger?</font>
+
+65
+00:05:50,549 --> 00:05:54,069
+<font color=#FFFFFF>Das ist ein Aberglaube.</font>
+
+66
+00:05:57,429 --> 00:06:01,869
+<font color=#FFFFFF>Mein Papa hat das früher auch</font>
+<font color=#FFFFFF>über die linke Schulter geworfen.</font>
+
+67
+00:06:03,349 --> 00:06:06,829
+<font color=#00FFFF>Eine Küchenweisheit.</font>
+
+68
+00:06:08,229 --> 00:06:11,709
+<font color=#FFFFFF>Die orientalische Pfanne</font>
+<font color=#FFFFFF>ist fast fertig.</font>
+
+69
+00:06:11,949 --> 00:06:15,429
+<font color=#FFFFFF>Ich habe noch Rosinen dazu gegeben.</font>
+
+70
+00:06:17,229 --> 00:06:20,749
+<font color=#FFFFFF>Und für den Biss</font>
+<font color=#FFFFFF>geröstete Mandelstifte.</font>
+
+71
+00:06:22,589 --> 00:06:26,069
+<font color=#FFFFFF>Die italienische Pfanne</font>
+<font color=#FFFFFF>bekommt die Nudeln dazu.</font>
+
+72
+00:06:29,749 --> 00:06:33,389
+<font color=#FFFFFF>Ich finde es schön,</font>
+<font color=#FFFFFF>wenn man das kurz vorher mischt.</font>
+
+73
+00:06:38,909 --> 00:06:44,749
+<font color=#FFFFFF>Wenn Pasta in einer saftigeren Sauce</font>
+<font color=#FFFFFF>etwas Stärke abgibt,</font>
+
+74
+00:06:44,829 --> 00:06:46,589
+<font color=#FFFFFF>zieht es schön ein.</font>
+
+75
+00:06:48,429 --> 00:06:51,909
+<font color=#FFFFFF>Hier habe ich Limettenschale.</font>
+
+76
+00:06:53,229 --> 00:06:56,749
+<font color=#FFFFFF>Das ist wunderbar</font>
+<font color=#FFFFFF>für die orientalische Pfanne.</font>
+
+77
+00:06:57,869 --> 00:07:01,429
+<font color=#FFFFFF>Zum Schluss kommt</font>
+<font color=#FFFFFF>kalter Joghurt drauf.</font>
+
+78
+00:07:04,469 --> 00:07:07,989
+<font color=#00FFFF>Du machst beides parallel.</font>
+
+79
+00:07:11,949 --> 00:07:15,429
+<font color=#00FFFF>Man könnte das auch</font>
+<font color=#00FFFF>nacheinander machen.</font>
+
+80
+00:07:16,229 --> 00:07:19,749
+<font color=#FFFFFF>Das ist der Sendung geschuldet.</font>
+
+81
+00:07:19,949 --> 00:07:23,429
+<font color=#FFFFFF>Deshalb mache ich das parallel.</font>
+
+82
+00:07:24,069 --> 00:07:27,189
+<font color=#FFFFFF>Man kann an einem Tag</font>
+<font color=#FFFFFF>das Gemüse vorbereiten.</font>
+
+83
+00:07:27,349 --> 00:07:30,789
+<font color=#FFFFFF>Dann stellt man es kalt.</font>
+
+84
+00:07:32,029 --> 00:07:36,509
+<font color=#FFFFFF>Dann kann man am nächsten Tag</font>
+<font color=#FFFFFF>entscheiden, ob man es italienisch</font>
+
+85
+00:07:36,709 --> 00:07:40,109
+<font color=#FFFFFF>oder orientalisch haben möchte.</font>
+
+86
+00:07:42,109 --> 00:07:44,149
+<font color=#00FFFF>Wir haben einige Tipps:</font>
+
+87
+00:08:08,589 --> 00:08:12,069
+<font color=#FFFFFF>Damit Gemüse gut schmeckt,</font>
+
+88
+00:08:13,709 --> 00:08:17,189
+<font color=#FFFFFF>sollte es gedünstet sein,</font>
+<font color=#FFFFFF>bevor man es einfriert.</font>
+
+89
+00:08:19,669 --> 00:08:23,149
+<font color=#00FFFF>Ich habe schon</font>
+<font color=#00FFFF>viele Kräuter gezupft.</font>
+
+90
+00:08:28,829 --> 00:08:32,309
+<font color=#FFFFFF>Gib mir einfach mal das Brett.</font>
+
+91
+00:08:37,709 --> 00:08:41,229
+<font color=#FFFFFF>Man kann ein Brett</font>
+<font color=#FFFFFF>auf Spüllappen legen.</font>
+
+92
+00:08:41,389 --> 00:08:44,869
+<font color=#FFFFFF>Dann rutscht es nicht hin und her.</font>
+
+93
+00:08:48,069 --> 00:08:51,909
+<font color=#00FFFF>Die Sendung kann man auch</font>
+<font color=#00FFFF>in der Mediathek noch gucken.</font>
+
+94
+00:08:55,509 --> 00:08:59,029
+<font color=#FFFFFF>Hier bekommst du den ersten Teller.</font>
+
+95
+00:08:59,829 --> 00:09:03,349
+<font color=#FFFFFF>Minze und ein Klacks Joghurt.</font>
+
+96
+00:09:11,149 --> 00:09:14,669
+<font color=#FFFFFF>Ich mag gerne</font>
+<font color=#FFFFFF>dieses Süße-Säure-Spiel.</font>
+
+97
+00:09:15,949 --> 00:09:19,429
+<font color=#FFFFFF>Auch Limettensaft kann noch dazu.</font>
+
+98
+00:09:20,509 --> 00:09:23,989
+<font color=#00FFFF>Ich hätte den Zimt</font>
+<font color=#00FFFF>nicht sofort gerochen.</font>
+
+99
+00:09:26,269 --> 00:09:30,789
+<font color=#FFFFFF>Wenn sich das mit Knoblauch</font>
+<font color=#FFFFFF>und dem Gemüse und der Minze mischt,</font>
+
+100
+00:09:30,949 --> 00:09:34,349
+<font color=#FFFFFF>kriegt man das nicht sofort.</font>
+
+101
+00:09:34,909 --> 00:09:38,389
+<font color=#FFFFFF>Für Pasta</font>
+<font color=#FFFFFF>brauchen wir noch Parmesan.</font>
+
+102
+00:09:40,589 --> 00:09:44,069
+<font color=#FFFFFF>Da gibt es</font>
+<font color=#FFFFFF>verschiedene Möglichkeiten.</font>
+
+103
+00:09:48,229 --> 00:09:51,749
+<font color=#FFFFFF>Auch ein Gouda geht gut.</font>
+
+104
+00:09:51,909 --> 00:09:55,389
+<font color=#00FFFF>Es schmeckt super.</font>
+
+105
+00:09:55,589 --> 00:09:59,069
+<font color=#00FFFF>Danke, dass du bei uns warst.</font>
+
+106
+00:09:59,829 --> 00:10:02,229
+<font color=#00FFFF>Alle Rezepte</font>
+<font color=#00FFFF>gibt es auf unserer Seite.</font>
+

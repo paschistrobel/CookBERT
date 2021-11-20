@@ -1,0 +1,565 @@
+1
+00:00:05,013 --> 00:00:07,613
+<font color=#00FFFF>Echt cool!</font>
+
+2
+00:00:07,773 --> 00:00:11,133
+<font color=#00FFFF>Das finden wir wunderbar.</font>
+
+3
+00:00:11,293 --> 00:00:14,653
+<font color=#00FFFF>Wir kommen, Thomas Wohlfeld.</font>
+
+4
+00:00:14,813 --> 00:00:18,133
+<font color=#00FFFF>Es wird heute Japanisch bei dir.</font>
+
+5
+00:00:20,013 --> 00:00:23,493
+<font color=#00FFFF>Es gibt</font>
+<font color=#00FFFF>die ganze Woche über Geflügel.</font>
+
+6
+00:00:24,533 --> 00:00:28,053
+<font color=#00FFFF>Du hast dir das Ganze</font>
+<font color=#00FFFF>auf Japanisch ausgesucht.</font>
+
+7
+00:00:35,853 --> 00:00:39,333
+<font color=#FFFF00>Es gibt mariniertes Huhn.</font>
+
+8
+00:00:46,053 --> 00:00:49,533
+<font color=#00FFFF>Huhn Karaage heißt dein Essen.</font>
+
+9
+00:00:51,253 --> 00:00:54,773
+<font color=#FFFF00>Ich selber esse es sehr gern.</font>
+
+10
+00:00:54,933 --> 00:00:58,413
+<font color=#FFFF00>Ich hole es</font>
+<font color=#FFFF00>kurz aus dem Kühlschrank.</font>
+
+11
+00:01:03,573 --> 00:01:07,053
+<font color=#FFFF00>Von dem Züchter aus dem Raum Uelzen.</font>
+
+12
+00:01:07,293 --> 00:01:10,773
+<font color=#FFFF00>Hühnerkeulen</font>
+<font color=#FFFF00>lassen sich gut einfrieren.</font>
+
+13
+00:01:12,693 --> 00:01:16,173
+<font color=#FFFF00>Wir haben die Keulen ausgelöst</font>
+<font color=#FFFF00>vor längerer Zeit.</font>
+
+14
+00:01:16,693 --> 00:01:19,653
+<font color=#FFFF00>Keulen schmecken gegrillt super.</font>
+
+15
+00:01:19,813 --> 00:01:23,173
+<font color=#FFFF00>Ich wollte etwas anderes zeigen.</font>
+
+16
+00:01:25,493 --> 00:01:28,973
+<font color=#00FFFF>Du bist der Mann</font>
+<font color=#00FFFF>für das filigrane Handwerk.</font>
+
+17
+00:01:31,133 --> 00:01:34,613
+<font color=#00FFFF>Im Restaurant bist du der Chef.</font>
+
+18
+00:01:35,933 --> 00:01:39,413
+<font color=#00FFFF>Bei uns wird es</font>
+<font color=#00FFFF>heute auch edel und besonders.</font>
+
+19
+00:01:42,693 --> 00:01:46,213
+<font color=#00FFFF>Viele von Ihnen</font>
+<font color=#00FFFF>haben Tempura schon mal gehört.</font>
+
+20
+00:01:50,213 --> 00:01:53,693
+<font color=#00FFFF>Vielleicht</font>
+<font color=#00FFFF>im Zusammenhang mit Sushi.</font>
+
+21
+00:01:55,133 --> 00:01:58,613
+<font color=#FFFF00>Tempura ist eine Mehlmischung.</font>
+
+22
+00:01:59,213 --> 00:02:02,733
+<font color=#FFFF00>Das gibt es fertig zu kaufen.</font>
+
+23
+00:02:03,093 --> 00:02:06,573
+<font color=#FFFF00>Das muss man</font>
+<font color=#FFFF00>nicht zu Hause selber mixen.</font>
+
+24
+00:02:07,293 --> 00:02:10,813
+<font color=#FFFF00>Das wird mit Wasser angerührt.</font>
+
+25
+00:02:12,253 --> 00:02:15,733
+<font color=#FFFF00>Damit man eine Art Paste hat.</font>
+
+26
+00:02:18,293 --> 00:02:22,093
+<font color=#FFFF00>Wir machen jetzt aber</font>
+<font color=#FFFF00>nur die Basis des Tempura-Teigs.</font>
+
+27
+00:02:22,613 --> 00:02:26,133
+<font color=#00FFFF>Du zerteilst das Hühnchen.</font>
+
+28
+00:02:28,333 --> 00:02:31,813
+<font color=#00FFFF>Du hast mir</font>
+<font color=#00FFFF>einen kleinen Rettich hingelegt.</font>
+
+29
+00:02:32,093 --> 00:02:35,613
+<font color=#00FFFF>Man wächst mit seinen Aufgaben.</font>
+
+30
+00:02:38,333 --> 00:02:41,813
+<font color=#00FFFF>Du verrätst uns jetzt:</font>
+
+31
+00:02:46,933 --> 00:02:50,453
+<font color=#00FFFF>Was machst du jetzt weiter?</font>
+
+32
+00:02:51,453 --> 00:02:54,933
+<font color=#FFFF00>Ich habe das Huhn</font>
+<font color=#FFFF00>vom Knochen befreit.</font>
+
+33
+00:02:55,653 --> 00:02:59,173
+<font color=#FFFF00>Jetzt schneiden wir die Chilis.</font>
+
+34
+00:03:00,613 --> 00:03:04,133
+<font color=#FFFF00>Es empfiehlt sich,</font>
+<font color=#FFFF00>das mit einem Handschuh zu tun.</font>
+
+35
+00:03:05,853 --> 00:03:09,333
+<font color=#00FFFF>Du bist ein kleines bisschen ...</font>
+
+36
+00:03:09,773 --> 00:03:13,293
+<font color=#00FFFF>Ich wollte nicht sagen sensibel.</font>
+
+37
+00:03:14,693 --> 00:03:18,213
+<font color=#00FFFF>Nicht, dass da was ins Auge geht.</font>
+
+38
+00:03:18,373 --> 00:03:21,733
+<font color=#FFFF00>Das ist genau die Crux.</font>
+
+39
+00:03:25,333 --> 00:03:28,213
+<font color=#FFFF00>Man muss sich immer</font>
+<font color=#FFFF00>die Hände waschen</font>
+
+40
+00:03:28,293 --> 00:03:30,773
+<font color=#FFFF00>nach dem Verarbeiten von Chili.</font>
+
+41
+00:03:30,933 --> 00:03:33,813
+<font color=#FFFF00>Wenn man müde ist,</font>
+<font color=#FFFF00>reibt man sich die Augen.</font>
+
+42
+00:03:33,973 --> 00:03:37,413
+<font color=#FFFF00>Das brennt ganz schön.</font>
+
+43
+00:03:37,573 --> 00:03:40,613
+<font color=#00FFFF>Ich habe gelesen,</font>
+<font color=#00FFFF>normale Seife reicht nicht.</font>
+
+44
+00:03:40,773 --> 00:03:43,213
+<font color=#00FFFF>Man muss es wohl mit Öl machen.</font>
+
+45
+00:03:43,373 --> 00:03:46,733
+<font color=#00FFFF>Ich muss es noch mal nachlesen.</font>
+
+46
+00:03:48,053 --> 00:03:51,573
+<font color=#00FFFF>Man muss es entfetten.</font>
+
+47
+00:03:52,613 --> 00:03:56,093
+<font color=#FFFF00>Wir haben zwei Hühnerkeulen.</font>
+
+48
+00:03:59,413 --> 00:04:02,893
+<font color=#FFFF00>Da haben wir Sojasoße.</font>
+
+49
+00:04:03,333 --> 00:04:06,813
+<font color=#FFFF00>Und ein Teelöffel Zucker kommt dazu.</font>
+
+50
+00:04:08,653 --> 00:04:12,133
+<font color=#FFFF00>Das Ganze</font>
+<font color=#FFFF00>wird geknetet und massiert.</font>
+
+51
+00:04:13,533 --> 00:04:17,053
+<font color=#00FFFF>Wie gut ist Hühnerfleisch?</font>
+
+52
+00:04:17,453 --> 00:04:20,933
+<font color=#00FFFF>Kann man es kaufen,</font>
+<font color=#00FFFF>ohne dass es Bio ist?</font>
+
+53
+00:04:25,813 --> 00:04:28,853
+<font color=#00FFFF>Klar, ihr habt eure Höfe,</font>
+<font color=#00FFFF>die erkennt.</font>
+
+54
+00:04:29,013 --> 00:04:32,373
+<font color=#00FFFF>Worauf achte ich im Supermarkt?</font>
+
+55
+00:04:36,573 --> 00:04:40,053
+<font color=#FFFF00>Ich würde immer</font>
+<font color=#FFFF00>auf Freiland-Hühner zurückgreifen.</font>
+
+56
+00:04:40,213 --> 00:04:42,253
+<font color=#FFFF00>Das ist artgerecht.</font>
+
+57
+00:04:42,413 --> 00:04:45,773
+<font color=#FFFF00>Das zieht 24 Stunden.</font>
+
+58
+00:04:46,813 --> 00:04:50,293
+<font color=#00FFFF>Es gibt Haltungsklassen.</font>
+
+59
+00:04:51,133 --> 00:04:54,493
+<font color=#FFFF00>Wir sind jetzt 24 Stunden weiter.</font>
+
+60
+00:04:54,653 --> 00:04:58,013
+<font color=#FFFF00>Nein, ich habe was vorbereitet.</font>
+
+61
+00:05:00,893 --> 00:05:04,293
+<font color=#FFFF00>Um auf die Haltung zurückzukommen:</font>
+
+62
+00:05:04,453 --> 00:05:07,813
+<font color=#FFFF00>Je mehr Auslauf, desto besser.</font>
+
+63
+00:05:08,773 --> 00:05:11,933
+<font color=#FFFF00>Ein Bio-Hühnchen</font>
+<font color=#FFFF00>kostet 10-15 Euro das Kilo.</font>
+
+64
+00:05:12,093 --> 00:05:15,013
+<font color=#00FFFF>Das kann sich nicht jeder leisten.</font>
+
+65
+00:05:15,173 --> 00:05:18,533
+<font color=#00FFFF>Kein Hühnchen essen deswegen?</font>
+
+66
+00:05:19,133 --> 00:05:22,373
+<font color=#00FFFF>Oder gibt es Alternativen?</font>
+
+67
+00:05:22,533 --> 00:05:25,933
+<font color=#FFFF00>Man merkt es im Geschmack.</font>
+
+68
+00:05:27,973 --> 00:05:31,333
+<font color=#FFFF00>Man tut dem Tier was Gutes,</font>
+
+69
+00:05:31,493 --> 00:05:34,813
+<font color=#FFFF00>wenn man es</font>
+<font color=#FFFF00>im Nachhinein noch respektiert.</font>
+
+70
+00:05:40,333 --> 00:05:43,293
+<font color=#00FFFF>Einfach direkt rein?</font>
+
+71
+00:05:43,453 --> 00:05:46,813
+<font color=#FFFF00>Kein Problem.</font>
+
+72
+00:05:52,733 --> 00:05:56,253
+<font color=#FFFF00>Die Stücke der Keule,</font>
+<font color=#FFFF00>die mariniert worden sind,</font>
+
+73
+00:06:00,253 --> 00:06:08,053
+<font color=#FFFF00>einfach mehlieren</font>
+<font color=#FFFF00>und ins Fett geben.</font>
+
+74
+00:06:11,453 --> 00:06:15,453
+<font color=#FFFF00>Man kann mit einem Holzstab</font>
+<font color=#FFFF00>die Temperatur kontrollieren.</font>
+
+75
+00:06:17,893 --> 00:06:21,373
+<font color=#FFFF00>Den Holzstab reinstecken.</font>
+
+76
+00:06:23,213 --> 00:06:26,733
+<font color=#FFFF00>Wenn Blasen auftreten,</font>
+<font color=#FFFF00>ist die Temperatur erreicht.</font>
+
+77
+00:06:33,013 --> 00:06:36,533
+<font color=#00FFFF>Ein normaler Schaschlikspieß.</font>
+
+78
+00:06:37,133 --> 00:06:40,133
+<font color=#FFFF00>Dann kommt eine Prise Salz ran.</font>
+
+79
+00:06:40,293 --> 00:06:43,653
+<font color=#FFFF00>Ein bisschen Zucker.</font>
+
+80
+00:06:45,813 --> 00:06:49,533
+<font color=#00FFFF>Ich muss keine Angst haben,</font>
+<font color=#00FFFF>dass das zu verrückt ist.</font>
+
+81
+00:06:51,013 --> 00:06:54,373
+<font color=#00FFFF>Ich muss wissen,</font>
+<font color=#00FFFF>dass es ziehen muss 24 Stunden.</font>
+
+82
+00:06:54,533 --> 00:06:57,173
+<font color=#FFFF00>Das ist sehr simpel.</font>
+
+83
+00:06:57,333 --> 00:07:00,653
+<font color=#FFFF00>Man kann es</font>
+<font color=#FFFF00>noch länger ziehen lassen.</font>
+
+84
+00:07:00,813 --> 00:07:04,253
+<font color=#FFFF00>Der Geschmack ist sehr intensiv.</font>
+
+85
+00:07:06,613 --> 00:07:09,773
+<font color=#FFFF00>Rettich könnte man auch vorbereiten.</font>
+
+86
+00:07:09,933 --> 00:07:13,293
+<font color=#FFFF00>Frittieren müsste man nicht.</font>
+
+87
+00:07:19,573 --> 00:07:23,053
+<font color=#FFFF00>Man kann es auch im Topf frittieren.</font>
+
+88
+00:07:26,213 --> 00:07:29,693
+<font color=#FFFF00>Das backt im Frittierfett</font>
+<font color=#FFFF00>drei, vier Minuten.</font>
+
+89
+00:07:31,493 --> 00:07:35,013
+<font color=#00FFFF>Wir sind alle Freunde</font>
+<font color=#00FFFF>von Nachhaltigkeit.</font>
+
+90
+00:07:38,653 --> 00:07:42,933
+<font color=#00FFFF>Das Frittierfett in deinem Topf</font>
+<font color=#00FFFF>könntest du wieder verwenden.</font>
+
+91
+00:07:44,133 --> 00:07:47,613
+<font color=#FFFF00>Wenn es ausgeglüht ist,</font>
+<font color=#FFFF00>gibt man es in ein Sieb.</font>
+
+92
+00:07:51,533 --> 00:07:55,053
+<font color=#FFFF00>Damit die Bestandteile</font>
+<font color=#FFFF00>herausgefiltert werden.</font>
+
+93
+00:07:55,773 --> 00:07:59,293
+<font color=#FFFF00>Außer bei Fisch.</font>
+
+94
+00:07:59,653 --> 00:08:03,133
+<font color=#FFFF00>Dann schmeckt das Öl danach.</font>
+
+95
+00:08:04,013 --> 00:08:07,453
+<font color=#00FFFF>Das Fett hält sich</font>
+<font color=#00FFFF>ein bisschen im Kühlschrank.</font>
+
+96
+00:08:07,613 --> 00:08:10,813
+<font color=#00FFFF>Was passiert in der Pfanne?</font>
+
+97
+00:08:10,973 --> 00:08:14,293
+<font color=#FFFF00>Da machen wir noch den Spinat.</font>
+
+98
+00:08:21,333 --> 00:08:25,053
+<font color=#FFFF00>Es geht langsam los mit der Saison</font>
+<font color=#FFFF00>für jungen Spinat.</font>
+
+99
+00:08:25,573 --> 00:08:29,053
+<font color=#FFFF00>Ich habe ihn gewaschen und geputzt.</font>
+
+100
+00:08:29,973 --> 00:08:33,453
+<font color=#00FFFF>Mutti räumt schon mal auf.</font>
+
+101
+00:08:34,413 --> 00:08:37,893
+<font color=#00FFFF>Sieht viel besser aus.</font>
+
+102
+00:08:39,533 --> 00:08:42,933
+<font color=#00FFFF>Hier kommt gleich das hin,</font>
+<font color=#00FFFF>worauf ich mich freue:</font>
+
+103
+00:08:43,093 --> 00:08:46,533
+<font color=#00FFFF>Der Teller von Thomas.</font>
+
+104
+00:08:46,693 --> 00:08:50,213
+<font color=#00FFFF>Jetzt kommt der Spinat</font>
+<font color=#00FFFF>in die Pfanne.</font>
+
+105
+00:08:51,213 --> 00:08:54,693
+<font color=#FFFF00>Wir wollen den Spinat</font>
+<font color=#FFFF00>mit Textur haben.</font>
+
+106
+00:08:56,493 --> 00:09:00,053
+<font color=#00FFFF>Es gibt verschiedene Meinungen</font>
+<font color=#00FFFF>über Spinat und roh.</font>
+
+107
+00:09:00,213 --> 00:09:02,573
+<font color=#FFFF00>Super lecker.</font>
+
+108
+00:09:02,733 --> 00:09:06,053
+<font color=#00FFFF>Aber gut waschen.</font>
+
+109
+00:09:07,173 --> 00:09:10,693
+<font color=#FFFF00>Und den Stiel abnehmen.</font>
+
+110
+00:09:13,533 --> 00:09:17,013
+<font color=#FFFF00>Sonst ist es zu holzig.</font>
+
+111
+00:09:17,173 --> 00:09:20,013
+<font color=#FFFF00>Etwas Salz dran.</font>
+
+112
+00:09:20,173 --> 00:09:23,533
+<font color=#00FFFF>Ich muss drängeln.</font>
+
+113
+00:09:25,853 --> 00:09:29,373
+<font color=#00FFFF>Die Zuschauer wollen</font>
+<font color=#00FFFF>noch das finale Werk sehen.</font>
+
+114
+00:09:31,333 --> 00:09:33,493
+<font color=#00FFFF>Ich möchte Ihnen das gönnen,</font>
+
+115
+00:09:33,573 --> 00:09:36,733
+<font color=#00FFFF>dass Sie sehen,</font>
+<font color=#00FFFF>was ich gleich essen darf.</font>
+
+116
+00:09:36,893 --> 00:09:39,413
+<font color=#00FFFF>Sie können es nachkochen.</font>
+
+117
+00:09:39,573 --> 00:09:42,933
+<font color=#00FFFF>Das Rezept gibt es im Internet.</font>
+
+118
+00:09:48,453 --> 00:09:51,933
+<font color=#00FFFF>Du freust dich über mein Lob.</font>
+
+119
+00:09:52,693 --> 00:09:56,173
+<font color=#FFFF00>Du bist wie meine große Schwester.</font>
+
+120
+00:09:57,933 --> 00:10:01,453
+<font color=#FFFF00>Man liebt sich,</font>
+<font color=#FFFF00>aber ärgert sich ab und zu.</font>
+
+121
+00:10:01,893 --> 00:10:04,933
+<font color=#00FFFF>Auf jeden Fall ist das Essen fertig.</font>
+
+122
+00:10:05,093 --> 00:10:08,453
+<font color=#00FFFF>Ich hol schon mal Besteck.</font>
+
+123
+00:10:10,733 --> 00:10:14,213
+<font color=#00FFFF>Sieht super aus.</font>
+
+124
+00:10:14,373 --> 00:10:17,893
+<font color=#FFFF00>Du hast</font>
+<font color=#FFFF00>einen schönen Rettich gemacht.</font>
+
+125
+00:10:18,333 --> 00:10:21,813
+<font color=#00FFFF>Das war ein Lob, danke schön.</font>
+
+126
+00:10:23,853 --> 00:10:26,973
+<font color=#00FFFF>So sieht es aus.</font>
+
+127
+00:10:27,133 --> 00:10:29,333
+<font color=#00FFFF>Sie können es nachmachen.</font>
+
+128
+00:10:29,493 --> 00:10:32,013
+<font color=#00FFFF>Ich probier es mal.</font>
+
+129
+00:10:32,173 --> 00:10:34,333
+<font color=#FFFF00>Lass es dir schmecken.</font>
+
+130
+00:10:34,493 --> 00:10:37,853
+<font color=#FFFF00>Es ist heiß.</font>
+

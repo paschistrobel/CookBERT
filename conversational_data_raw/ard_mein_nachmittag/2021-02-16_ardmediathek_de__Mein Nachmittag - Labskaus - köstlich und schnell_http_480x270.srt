@@ -1,0 +1,384 @@
+1
+00:00:01,405 --> 00:00:04,405
+<font color=#00FFFF>Das muss schrecklich sein.</font>
+
+2
+00:00:04,565 --> 00:00:07,925
+<font color=#00FFFF>Wir kochen jetzt.</font>
+
+3
+00:00:09,125 --> 00:00:12,605
+<font color=#00FFFF>Elli hat gestöbert</font>
+<font color=#00FFFF>in der Vorratskammer.</font>
+
+4
+00:00:13,245 --> 00:00:16,045
+<font color=#00FFFF>Rote Bete hat sie und Corned Beef.</font>
+
+5
+00:00:16,245 --> 00:00:18,725
+<font color=#00FFFF>Sie machte Labskaus.</font>
+
+6
+00:00:18,885 --> 00:00:22,205
+<font color=#00FFFF>Aber nicht den Klassiker.</font>
+
+7
+00:00:22,805 --> 00:00:26,325
+<font color=#FFFF00>Ich mache ein Anfänger-Labskaus.</font>
+
+8
+00:00:27,125 --> 00:00:30,645
+<font color=#FFFF00>Viele trauen sich nicht dran.</font>
+
+9
+00:00:33,005 --> 00:00:36,485
+<font color=#FFFF00>Normalerweise wird alles</font>
+<font color=#FFFF00>durch den Wolf gedreht.</font>
+
+10
+00:00:39,965 --> 00:00:41,325
+<font color=#FFFF00>Man hat einen Brei.</font>
+
+11
+00:00:42,525 --> 00:00:46,125
+<font color=#FFFF00>Ich finde das schöner,</font>
+<font color=#FFFF00>wenn wir das getrennt machen.</font>
+
+12
+00:00:47,765 --> 00:00:50,205
+<font color=#FFFF00>Wer möchte,</font>
+<font color=#FFFF00>kann das dann matschen.</font>
+
+13
+00:00:53,365 --> 00:00:56,885
+<font color=#FFFF00>Ich habe Kartoffeln gekocht.</font>
+
+14
+00:00:59,685 --> 00:01:03,205
+<font color=#FFFF00>Es ist gut,</font>
+<font color=#FFFF00>sie ins kalte Wasser zu tun.</font>
+
+15
+00:01:03,325 --> 00:01:05,445
+<font color=#FFFF00>Sonst macht die Kartoffel zu.</font>
+
+16
+00:01:05,605 --> 00:01:08,965
+<font color=#FFFF00>Die Stärke.</font>
+
+17
+00:01:09,165 --> 00:01:12,645
+<font color=#FFFF00>Sie garen nicht mehr so gleichmäßig.</font>
+
+18
+00:01:15,365 --> 00:01:18,845
+<font color=#FFFF00>Nach dem Kochen ausdampfen lassen.</font>
+
+19
+00:01:24,365 --> 00:01:28,125
+<font color=#FFFF00>Ich wäre dir dankbar,</font>
+<font color=#FFFF00>wenn du die Schale runternimmst.</font>
+
+20
+00:01:28,645 --> 00:01:32,125
+<font color=#00FFFF>Ich habe den Unterton verstanden.</font>
+
+21
+00:01:36,485 --> 00:01:39,925
+<font color=#FFFF00>Die Zwiebel brutzel ich an.</font>
+
+22
+00:01:42,045 --> 00:01:46,445
+<font color=#FFFF00>Die Corned-Beef-Dosen haben sich</font>
+<font color=#FFFF00>jahrzehntelang nicht geändert.</font>
+
+23
+00:01:46,645 --> 00:01:50,045
+<font color=#FFFF00>Aber ich kann sie nicht öffnen.</font>
+
+24
+00:02:01,085 --> 00:02:04,205
+<font color=#FFFF00>Ich habe sie gar nicht angeschaut.</font>
+
+25
+00:02:04,365 --> 00:02:06,845
+<font color=#FFFF00>Das ist schon länger her.</font>
+
+26
+00:02:07,005 --> 00:02:10,365
+<font color=#FFFF00>In welche Richtung?</font>
+
+27
+00:02:10,525 --> 00:02:13,885
+<font color=#FFFF00>Ah, ich habe es.</font>
+
+28
+00:02:14,845 --> 00:02:18,325
+<font color=#FFFF00>Wir brauchen nur eine.</font>
+
+29
+00:02:22,045 --> 00:02:25,445
+<font color=#00FFFF>Ich möchte sie aufkriegen.</font>
+
+30
+00:02:25,605 --> 00:02:28,925
+<font color=#FFFF00>Dann musst du Labskaus machen.</font>
+
+31
+00:02:29,525 --> 00:02:33,005
+<font color=#FFFF00>Ich habe eine fertige Dose zu Hause.</font>
+
+32
+00:02:40,005 --> 00:02:43,485
+<font color=#00FFFF>Ich habe das geschenkt gekriegt.</font>
+
+33
+00:02:46,925 --> 00:02:50,405
+<font color=#FFFF00>Wenn jemand fragt,</font>
+<font color=#FFFF00>was ist Corned Beef?</font>
+
+34
+00:02:55,845 --> 00:02:59,325
+<font color=#FFFF00>Dass ist gekörntes Rindfleisch.</font>
+
+35
+00:02:59,805 --> 00:03:03,285
+<font color=#FFFF00>Das ist nicht roh.</font>
+
+36
+00:03:07,125 --> 00:03:10,565
+<font color=#FFFF00>Das ist gepökelt.</font>
+
+37
+00:03:10,725 --> 00:03:14,085
+<font color=#00FFFF>Das sieht nicht so appetitlich aus.</font>
+
+38
+00:03:20,565 --> 00:03:24,045
+<font color=#00FFFF>Das Gelee</font>
+<font color=#00FFFF>finde ich nicht appetitlich.</font>
+
+39
+00:03:27,245 --> 00:03:30,765
+<font color=#FFFF00>Die Zwiebel geben dem Würze.</font>
+
+40
+00:03:35,325 --> 00:03:38,805
+<font color=#FFFF00>Mit dem Salzen wäre ich vorsichtig.</font>
+
+41
+00:03:39,485 --> 00:03:43,005
+<font color=#FFFF00>Im Corned Beef ist genug Salz.</font>
+
+42
+00:03:43,205 --> 00:03:46,685
+<font color=#FFFF00>Das soll nicht lange kochen.</font>
+
+43
+00:03:51,805 --> 00:03:55,325
+<font color=#FFFF00>Jetzt kümmere ich mich ...</font>
+
+44
+00:03:55,485 --> 00:03:58,845
+<font color=#FFFF00>Du machst die Kartoffeln.</font>
+
+45
+00:04:00,165 --> 00:04:03,645
+<font color=#FFFF00>Ich mache den Rotor-Bete-Salat.</font>
+
+46
+00:04:04,725 --> 00:04:07,925
+<font color=#FFFF00>Früher hat man Labskaus</font>
+<font color=#FFFF00>auf Schiffen gegessen.</font>
+
+47
+00:04:08,085 --> 00:04:11,525
+<font color=#FFFF00>Man hatte nichts anderes da.</font>
+
+48
+00:04:16,325 --> 00:04:19,805
+<font color=#FFFF00>Das hat gegen Skorbut geholfen.</font>
+
+49
+00:04:24,285 --> 00:04:27,765
+<font color=#00FFFF>Das sieht aber gut aus!</font>
+
+50
+00:04:28,245 --> 00:04:31,725
+<font color=#00FFFF>Eine kinderfreundliche Farbe.</font>
+
+51
+00:04:34,885 --> 00:04:37,965
+<font color=#FFFF00>Da kommt nicht viel rein.</font>
+
+52
+00:04:38,125 --> 00:04:41,485
+<font color=#FFFF00>Nur Salz und Pfeffer.</font>
+
+53
+00:04:46,405 --> 00:04:49,925
+<font color=#FFFF00>Das ist Rote-Bete-Sud.</font>
+
+54
+00:04:52,165 --> 00:04:55,645
+<font color=#FFFF00>Man kann ihn vorher probieren.</font>
+
+55
+00:04:56,365 --> 00:04:59,845
+<font color=#FFFF00>Jetzt geht es schon los.</font>
+
+56
+00:05:00,525 --> 00:05:02,365
+<font color=#00FFFF>Hast dich schon eingesaut.</font>
+
+57
+00:05:02,645 --> 00:05:04,805
+<font color=#00FFFF>Ich würde das gerne probieren.</font>
+
+58
+00:05:18,085 --> 00:05:19,525
+<font color=#00FFFF>Gute Kombination.</font>
+
+59
+00:05:20,325 --> 00:05:22,965
+<font color=#FFFF00>Ich mache hier ein Spiegelei rein.</font>
+
+60
+00:05:23,125 --> 00:05:26,485
+<font color=#FFFF00>Das gehört dazu.</font>
+
+61
+00:05:27,845 --> 00:05:31,365
+<font color=#00FFFF>Kommt es auf die Seite</font>
+<font color=#00FFFF>oder obendrauf?</font>
+
+62
+00:05:33,245 --> 00:05:35,765
+<font color=#FFFF00>Ich möchte es nur nicht vermischen.</font>
+
+63
+00:05:38,485 --> 00:05:41,845
+<font color=#FFFF00>Die Cornichons</font>
+<font color=#FFFF00>kann man sich an die Seite legen.</font>
+
+64
+00:05:42,725 --> 00:05:43,725
+<font color=#00FFFF>Was ist das?</font>
+
+65
+00:05:44,005 --> 00:05:45,445
+<font color=#FFFF00>Französische Gurken.</font>
+
+66
+00:05:53,245 --> 00:05:56,725
+<font color=#FFFF00>Die schneide ich in Scheiben.</font>
+
+67
+00:05:58,005 --> 00:06:01,325
+<font color=#FFFF00>Die Spiegeleier werden nur gesalzen.</font>
+
+68
+00:06:01,485 --> 00:06:04,845
+<font color=#00FFFF>Das sieht alles gut aus.</font>
+
+69
+00:06:17,205 --> 00:06:20,725
+<font color=#FFFF00>Den Kartoffelstampf mache ich,</font>
+<font color=#FFFF00>kein Püree.</font>
+
+70
+00:06:22,365 --> 00:06:25,845
+<font color=#FFFF00>Im Restaurant sind die</font>
+<font color=#FFFF00>mit der Butter immer mutig.</font>
+
+71
+00:06:27,765 --> 00:06:31,245
+<font color=#FFFF00>Deshalb schmeckt</font>
+<font color=#FFFF00>das Püree dort besser.</font>
+
+72
+00:06:32,285 --> 00:06:35,805
+<font color=#FFFF00>Da kommt Muskat und Salz rein.</font>
+
+73
+00:06:35,965 --> 00:06:39,365
+<font color=#00FFFF>Das sieht alles köstlich aus.</font>
+
+74
+00:06:42,765 --> 00:06:46,245
+<font color=#FFFF00>Ich mag, wenn das stückig ist.</font>
+
+75
+00:06:49,325 --> 00:06:52,885
+<font color=#00FFFF>Elli hat die Kartoffeln</font>
+<font color=#00FFFF>kalt ins Wasser getan.</font>
+
+76
+00:06:53,085 --> 00:06:55,445
+<font color=#00FFFF>Deshalb bleibt der Geschmack drin.</font>
+
+77
+00:07:11,965 --> 00:07:15,445
+<font color=#00FFFF>Das Dressing ist fertig.</font>
+
+78
+00:07:15,885 --> 00:07:19,405
+<font color=#00FFFF>Labskaus heißt nicht:</font>
+<font color=#00FFFF>alles durch den Wolf gedreht.</font>
+
+79
+00:07:25,245 --> 00:07:28,245
+<font color=#00FFFF>Corned Beef</font>
+<font color=#00FFFF>habe ich so noch nicht gesehen.</font>
+
+80
+00:07:28,525 --> 00:07:30,325
+<font color=#00FFFF>Es sieht appetitlich aus.</font>
+
+81
+00:07:32,365 --> 00:07:35,325
+<font color=#00FFFF>Ich besorge mir das Besteck.</font>
+
+82
+00:07:35,485 --> 00:07:38,765
+<font color=#00FFFF>Ich freue mich drauf.</font>
+
+83
+00:07:38,925 --> 00:07:42,285
+<font color=#00FFFF>Ich darf wieder probieren.</font>
+
+84
+00:07:42,645 --> 00:07:46,125
+<font color=#00FFFF>Musst du die umdrehen?</font>
+
+85
+00:07:46,565 --> 00:07:51,085
+<font color=#FFFF00>Wenn wir nicht so viel Zeit haben,</font>
+<font color=#FFFF00>ist mir das zu flüssig sonst.</font>
+
+86
+00:07:55,285 --> 00:07:57,965
+<font color=#FFFF00>Wir machen das an die Seite.</font>
+
+87
+00:07:58,125 --> 00:08:01,485
+<font color=#FFFF00>Da kommt das Spiegelei drauf.</font>
+
+88
+00:08:06,525 --> 00:08:10,005
+<font color=#FFFF00>Und noch etwas Schnittlauch.</font>
+
+89
+00:08:12,245 --> 00:08:14,085
+<font color=#FFFF00>Dann können wir probieren.</font>
+
+90
+00:08:15,205 --> 00:08:19,485
+<font color=#00FFFF>Pinar Atalay sitzt bei NDR Info</font>
+<font color=#00FFFF>und schaut sich das genau an.</font>
+
+91
+00:08:26,645 --> 00:08:28,925
+<font color=#FFFF00>Das sieht so schön aus.</font>
+

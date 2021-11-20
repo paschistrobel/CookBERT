@@ -1,0 +1,513 @@
+1
+00:00:04,554 --> 00:00:08,554
+<font color=#00FFFF>Zora Klipp ist heute bei uns</font>
+<font color=#00FFFF>und kocht mit der Haselnuss.</font>
+
+2
+00:00:09,154 --> 00:00:12,314
+<font color=#00FFFF>Zora, was würdest alles</font>
+<font color=#00FFFF>für eine Nuss machen?</font>
+
+3
+00:00:19,914 --> 00:00:21,994
+<font color=#FFFF00>Ich würde viel Geld bezahlen.</font>
+
+4
+00:00:23,074 --> 00:00:24,714
+<font color=#FFFF00>Muss man ja heutzutage.</font>
+
+5
+00:00:25,714 --> 00:00:29,514
+<font color=#00FFFF>Es ist eine Straße dazwischen</font>
+<font color=#00FFFF>und du kommst nicht hin.</font>
+
+6
+00:00:29,634 --> 00:00:31,074
+<font color=#00FFFF>Wie kommst du rüber?</font>
+
+7
+00:00:32,954 --> 00:00:33,954
+<font color=#FFFF00>Bus fahren?</font>
+
+8
+00:00:36,194 --> 00:00:38,274
+<font color=#00FFFF>Ich zeig dir mal einen Trick.</font>
+
+9
+00:00:41,034 --> 00:00:42,554
+<font color=#00FFFF>Schau dir das mal an.</font>
+
+10
+00:00:43,514 --> 00:00:45,514
+<font color=#FFFF00>Ach, so hast du das gemeint.</font>
+
+11
+00:00:49,634 --> 00:00:52,634
+<font color=#00FFFF>Würdest du das auch machen?</font>
+<font color=#FFFF00>Ja, könnte ich.</font>
+
+12
+00:00:57,714 --> 00:00:59,634
+<font color=#FFFF00>Ich stand auf dem Schlauch.</font>
+
+13
+00:01:03,114 --> 00:01:06,114
+<font color=#00FFFF>Du hast dich</font>
+<font color=#00FFFF>für die Haselnuss entschieden.</font>
+
+14
+00:01:08,034 --> 00:01:12,314
+<font color=#FFFF00>Ich liebe die Haselnuss und</font>
+<font color=#FFFF00>alles, was mit Nougat zu tun hat.</font>
+
+15
+00:01:12,674 --> 00:01:15,114
+<font color=#FFFF00>Deswegen gibt es auch Haselnussöl.</font>
+
+16
+00:01:20,874 --> 00:01:24,594
+<font color=#00FFFF>Die Herausforderung ist,</font>
+<font color=#00FFFF>mich vom Tofu zu überzeugen.</font>
+
+17
+00:01:28,314 --> 00:01:30,674
+<font color=#00FFFF>Es hat mich noch nicht umgehauen.</font>
+
+18
+00:01:33,314 --> 00:01:35,594
+<font color=#00FFFF>Ich esse es nur aus Höflichkeit.</font>
+
+19
+00:01:38,954 --> 00:01:40,754
+<font color=#FFFF00>Tofu ist echt langweilig.</font>
+
+20
+00:01:42,754 --> 00:01:45,394
+<font color=#FFFF00>Es ist</font>
+<font color=#FFFF00>eine vegetarische Eiweißquelle.</font>
+
+21
+00:01:49,234 --> 00:01:51,874
+<font color=#FFFF00>Man kann es</font>
+<font color=#FFFF00>auch geschmackvoll machen.</font>
+
+22
+00:01:52,954 --> 00:01:54,874
+<font color=#FFFF00>Du kannst einmal halbieren.</font>
+
+23
+00:01:58,994 --> 00:02:00,994
+<font color=#FFFF00>Und dann Stücke abschneiden.</font>
+
+24
+00:02:05,874 --> 00:02:08,034
+<font color=#FFFF00>Ich mache meine Panier-Straße.</font>
+
+25
+00:02:09,474 --> 00:02:11,474
+<font color=#FFFF00>Ich habe hier Mehl und Eier.</font>
+
+26
+00:02:12,634 --> 00:02:15,714
+<font color=#FFFF00>In den Eiern</font>
+<font color=#FFFF00>ist Rosmarin, Salz und Pfeffer.</font>
+
+27
+00:02:18,194 --> 00:02:22,754
+<font color=#FFFF00>Tofu hat keinen Eigengeschmack,</font>
+<font color=#FFFF00>deshalb trickse ich mit Gewürzen.</font>
+
+28
+00:02:24,194 --> 00:02:26,034
+<font color=#00FFFF>Ich probiere mal das Tofu.</font>
+
+29
+00:02:26,874 --> 00:02:28,594
+<font color=#FFFF00>Es schmeckt nach nichts.</font>
+
+30
+00:02:36,994 --> 00:02:39,554
+<font color=#00FFFF>Es schmeckt wirklich</font>
+<font color=#00FFFF>nach gar nichts.</font>
+
+31
+00:02:40,274 --> 00:02:42,834
+<font color=#00FFFF>Es schmeckt weder schlecht noch gut.</font>
+
+32
+00:02:47,274 --> 00:02:49,794
+<font color=#00FFFF>Was soll ich mit den Feigen machen?</font>
+
+33
+00:02:49,954 --> 00:02:52,754
+<font color=#FFFF00>Ein rohes Schnitzel</font>
+<font color=#FFFF00>schmeckt auch nicht.</font>
+
+34
+00:02:54,714 --> 00:02:57,634
+<font color=#00FFFF>Ich habe auch</font>
+<font color=#00FFFF>schon anderes Tofu gegessen.</font>
+
+35
+00:02:59,234 --> 00:03:00,954
+<font color=#00FFFF>Das war immer wie Gummi.</font>
+
+36
+00:03:02,554 --> 00:03:04,834
+<font color=#FFFF00>Den Tofu salze ich ein bisschen.</font>
+
+37
+00:03:06,354 --> 00:03:08,874
+<font color=#FFFF00>Du kannst die in Spalten schneiden.</font>
+
+38
+00:03:11,714 --> 00:03:12,874
+<font color=#FFFF00>Wir salzen Tofu.</font>
+
+39
+00:03:13,434 --> 00:03:16,954
+<font color=#FFFF00>Man macht sich eine Panierstraße</font>
+<font color=#FFFF00>mit drei Gefäßen.</font>
+
+40
+00:03:17,514 --> 00:03:19,074
+<font color=#FFFF00>Man fängt bei Mehl an.</font>
+
+41
+00:03:30,194 --> 00:03:31,474
+<font color=#FFFF00>Dann ab in das Ei.</font>
+
+42
+00:03:32,314 --> 00:03:36,034
+<font color=#FFFF00>Nach jedem Schritt</font>
+<font color=#FFFF00>muss man die Finger sauber machen.</font>
+
+43
+00:03:44,514 --> 00:03:47,074
+<font color=#00FFFF>Die Panierstraße</font>
+<font color=#00FFFF>ist schnell gemacht.</font>
+
+44
+00:03:51,754 --> 00:03:55,274
+<font color=#FFFF00>Man kann die Nuggets</font>
+<font color=#FFFF00>auch für ein Curry verwenden.</font>
+
+45
+00:03:57,034 --> 00:04:01,594
+<font color=#FFFF00>Dann kann man andere Gewürze rein</font>
+<font color=#FFFF00>machen, wie Curry oder Paprika.</font>
+
+46
+00:04:10,874 --> 00:04:13,394
+<font color=#00FFFF>Mit Chili hättest du mich gekriegt.</font>
+
+47
+00:04:14,674 --> 00:04:16,314
+<font color=#FFFF00>Das habe ich vergessen.</font>
+
+48
+00:04:20,714 --> 00:04:22,434
+<font color=#00FFFF>Die Feigen noch kleiner?</font>
+
+49
+00:04:23,514 --> 00:04:25,074
+<font color=#FFFF00>Noch einmal halbieren.</font>
+
+50
+00:04:29,714 --> 00:04:33,274
+<font color=#FFFF00>Das Tofu wenden wir</font>
+<font color=#FFFF00>in dem Panko und der Haselnuss.</font>
+
+51
+00:04:44,994 --> 00:04:47,634
+<font color=#00FFFF>Kannst du uns etwas</font>
+<font color=#00FFFF>zu Panko erzählen?</font>
+
+52
+00:04:48,674 --> 00:04:50,874
+<font color=#FFFF00>Das ist japanisches Paniermehl.</font>
+
+53
+00:04:55,874 --> 00:04:58,594
+<font color=#FFFF00>Das herkömmliche Paniermehl</font>
+<font color=#FFFF00>ist feiner.</font>
+
+54
+00:05:01,234 --> 00:05:04,034
+<font color=#FFFF00>Und es wird mit der Kruste</font>
+<font color=#FFFF00>geschreddert.</font>
+
+55
+00:05:06,794 --> 00:05:09,234
+<font color=#FFFF00>Das ist beim Panko nicht der Fall.</font>
+
+56
+00:05:19,714 --> 00:05:24,354
+<font color=#00FFFF>Du packst sie einfach rein und</font>
+<font color=#00FFFF>Panier ist die sowie ein Schnitzel?</font>
+
+57
+00:05:26,714 --> 00:05:29,154
+<font color=#FFFF00>Die Größe kann man auch variieren.</font>
+
+58
+00:05:31,834 --> 00:05:34,394
+<font color=#FFFF00>Man kann auch</font>
+<font color=#FFFF00>den ganzen Tofu nehmen.</font>
+
+59
+00:05:44,194 --> 00:05:47,194
+<font color=#FFFF00>Wir können</font>
+<font color=#FFFF00>die Panierstraße zusammenräumen.</font>
+
+60
+00:05:49,354 --> 00:05:51,354
+<font color=#FFFF00>Und wir machen das Dressing.</font>
+
+61
+00:05:53,834 --> 00:05:56,034
+<font color=#00FFFF>In welchem Öl brätst du das an?</font>
+
+62
+00:05:59,634 --> 00:06:01,834
+<font color=#FFFF00>Das ist herkömmliches Speiseöl.</font>
+
+63
+00:06:05,274 --> 00:06:10,194
+<font color=#FFFF00>Da kann man viel von nehmen, damit</font>
+<font color=#FFFF00>es von allen Seiten goldbraun wird.</font>
+
+64
+00:06:11,954 --> 00:06:14,674
+<font color=#00FFFF>Ich habe die Würfel</font>
+<font color=#00FFFF>extra breitgemacht.</font>
+
+65
+00:06:21,994 --> 00:06:24,154
+<font color=#FFFF00>Jetzt machen wir das Dressing.</font>
+
+66
+00:06:26,594 --> 00:06:31,154
+<font color=#FFFF00>Wenn man gutes Öl und gutes Essig</font>
+<font color=#FFFF00>hat braucht man nichts anderes.</font>
+
+67
+00:06:31,674 --> 00:06:34,954
+<font color=#FFFF00>Weil der Essig sauer ist,</font>
+<font color=#FFFF00>süßen wir etwas nach.</font>
+
+68
+00:06:36,474 --> 00:06:38,034
+<font color=#FFFF00>Wir nutzen Ahornsirup.</font>
+
+69
+00:06:50,994 --> 00:06:53,554
+<font color=#FFFF00>Und wir nutzen Senf als Bindemittel.</font>
+
+70
+00:06:55,194 --> 00:06:59,114
+<font color=#FFFF00>Es kommt noch Salz und Pfeffer</font>
+<font color=#FFFF00>hinein und wird verrührt.</font>
+
+71
+00:07:01,314 --> 00:07:03,474
+<font color=#FFFF00>Erst dann kommt das Öl hinein.</font>
+
+72
+00:07:14,714 --> 00:07:17,714
+<font color=#00FFFF>Man muss nicht genau</font>
+<font color=#00FFFF>nach dem Rezept gehen.</font>
+
+73
+00:07:21,914 --> 00:07:24,194
+<font color=#FFFF00>Es gibt nicht immer Haselnussöl.</font>
+
+74
+00:07:25,554 --> 00:07:29,194
+<font color=#FFFF00>Das gibt es nur in Feinkostläden</font>
+<font color=#FFFF00>oder im Reformhaus.</font>
+
+75
+00:07:38,594 --> 00:07:40,394
+<font color=#00FFFF>Kannst du Walnuss öffnen?</font>
+
+76
+00:07:42,914 --> 00:07:45,074
+<font color=#00FFFF>Ich möchte deinen Trick sehen.</font>
+
+77
+00:07:47,154 --> 00:07:49,994
+<font color=#FFFF00>Ich mache das</font>
+<font color=#FFFF00>mit geballter Frauen-Kraft.</font>
+
+78
+00:07:50,914 --> 00:07:53,074
+<font color=#FFFF00>Ich nehme sie so in die Hände.</font>
+
+79
+00:07:56,034 --> 00:07:57,834
+<font color=#FFFF00>Und dann einfach drücken.</font>
+
+80
+00:07:59,634 --> 00:08:01,434
+<font color=#FFFF00>Meistens knackt nur eine.</font>
+
+81
+00:08:04,234 --> 00:08:06,674
+<font color=#FFFF00>Walnüsse haben keine harte Schale.</font>
+
+82
+00:08:21,234 --> 00:08:22,954
+<font color=#FFFF00>Das Dressing ist fertig.</font>
+
+83
+00:08:26,474 --> 00:08:27,914
+<font color=#FFFF00>Ich probiere es mal.</font>
+
+84
+00:08:29,794 --> 00:08:31,434
+<font color=#00FFFF>Seit wann isst du Tofu?</font>
+
+85
+00:08:32,274 --> 00:08:33,474
+<font color=#FFFF00>Schon ganz lange.</font>
+
+86
+00:08:37,114 --> 00:08:39,554
+<font color=#FFFF00>Das gab es auch, als ich Kind war.</font>
+
+87
+00:08:44,314 --> 00:08:46,954
+<font color=#FFFF00>Ich habe mich direkt</font>
+<font color=#FFFF00>in Tofu verliebt.</font>
+
+88
+00:08:48,954 --> 00:08:51,154
+<font color=#00FFFF>Viele Zuschauer denken wie ich.</font>
+
+89
+00:08:53,354 --> 00:08:55,634
+<font color=#00FFFF>Sie bleiben lieber beim Fleisch.</font>
+
+90
+00:08:58,514 --> 00:09:00,434
+<font color=#FFFF00>Ich kann das gut verstehen.</font>
+
+91
+00:09:02,794 --> 00:09:04,714
+<font color=#FFFF00>Es ist erst mal langweilig.</font>
+
+92
+00:09:05,234 --> 00:09:08,034
+<font color=#FFFF00>Aber man kann</font>
+<font color=#FFFF00>viele Sachen damit machen.</font>
+
+93
+00:09:12,034 --> 00:09:14,474
+<font color=#00FFFF>Ich bringe die Teller in Stellung.</font>
+
+94
+00:09:16,274 --> 00:09:19,474
+<font color=#FFFF00>Du kannst den Salat</font>
+<font color=#FFFF00>auf den Tellern verteilen.</font>
+
+95
+00:09:26,754 --> 00:09:28,954
+<font color=#00FFFF>Hier ist die Tipptafel für Sie.</font>
+
+96
+00:09:44,954 --> 00:09:46,674
+<font color=#00FFFF>Ich lege das hier drauf.</font>
+
+97
+00:09:49,234 --> 00:09:51,394
+<font color=#00FFFF>Einmal durch die Sauce ziehen.</font>
+
+98
+00:09:54,354 --> 00:09:57,514
+<font color=#FFFF00>Die übrige Panade</font>
+<font color=#FFFF00>kann man in das Fett geben.</font>
+
+99
+00:10:03,234 --> 00:10:06,154
+<font color=#00FFFF>Nicht wegschmeißen,</font>
+<font color=#00FFFF>man kann alles nutzen.</font>
+
+100
+00:10:09,074 --> 00:10:11,354
+<font color=#00FFFF>Das ist aber ein gesundes Essen.</font>
+
+101
+00:10:24,794 --> 00:10:26,594
+<font color=#FFFF00>Noch ein paar Feigen dazu.</font>
+
+102
+00:10:26,674 --> 00:10:28,594
+<font color=#FFFF00>Feigen sind schöne Früchte.</font>
+
+103
+00:10:29,394 --> 00:10:31,754
+<font color=#00FFFF>Man hat sie nicht auf dem Zettel.</font>
+
+104
+00:10:34,474 --> 00:10:36,634
+<font color=#FFFF00>Aktuell gibt es schöne Feigen.</font>
+
+105
+00:10:43,274 --> 00:10:45,754
+<font color=#00FFFF>Morgen kommt</font>
+<font color=#00FFFF>Patrick Diehr aus Prisdorf</font>
+
+106
+00:10:45,834 --> 00:10:49,754
+<font color=#00FFFF>und kreiert eine Winter-Pasta</font>
+<font color=#00FFFF>mit Spitzkohl und gemischten Nüssen.</font>
+
+107
+00:10:54,314 --> 00:10:57,754
+<font color=#00FFFF>Ich gehe mit gemischten Gefühlen</font>
+<font color=#00FFFF>an den Tofu ran.</font>
+
+108
+00:11:01,314 --> 00:11:05,794
+<font color=#00FFFF>Ich habe schon wieder Löffel</font>
+<font color=#00FFFF>genommen.</font>
+
+109
+00:11:05,994 --> 00:11:09,194
+<font color=#00FFFF>Ich bin gespannt. </font>
+<font color=#FFFF00>Guten!</font>
+
+110
+00:11:09,274 --> 00:11:11,994
+<font color=#00FFFF>Ich taste mich langsam</font>
+<font color=#00FFFF>an den Tofu ran.</font>
+
+111
+00:11:20,914 --> 00:11:24,394
+<font color=#FFFF00>Heiß!</font>
+
+112
+00:11:24,874 --> 00:11:26,474
+<font color=#FFFF00>Lecker finde ich.</font>
+
+113
+00:11:31,034 --> 00:11:33,794
+<font color=#00FFFF>Es ist nicht verkehrt.</font>
+
+114
+00:11:33,914 --> 00:11:37,274
+<font color=#00FFFF>Schmeckt gut.</font>
+
+115
+00:11:39,434 --> 00:11:42,274
+<font color=#00FFFF>Wenn man etwas Feige dazu nimmt ...</font>
+
+116
+00:11:46,434 --> 00:11:49,954
+<font color=#00FFFF>Aber es ist so heiß.</font>
+
+117
+00:11:50,434 --> 00:11:52,034
+<font color=#00FFFF>Das ist richtig heiß.</font>
+
