@@ -1,0 +1,483 @@
+Nicole:                                       Welcome to BFF With the Chef. I'm your host, Nicole Schwegman. Aloha, friends and foodies, and welcome back. Today, I'm getting the awesome opportunity to interview Andris Lagsdin, the chef and inventor of the Baking Steel. Andris started out as a chef, but gave up restaurant life to work for his family Steels business. While working there, he had the brilliant idea to create a Steel surface to cook pizza, based on a technique he read about in the book Modernist Cuisine by Nathan Myhrvold. 
+
+                                                      Andris spent 16 months tinkering with a prototype before he started his first Kickstarter. The Kickstarter became wildly successful after it was featured on the prominent food blog, Serious Eats. Since then, he hasn't looked back. Andris is also the author of Baking With Steel: The Revolutionary New Approach to Perfect Pizza, Bread, and More. Now being sold on Amazon. Hey, Andris. Welcome to the show.
+
+Andris Lagsdin:                      Hi, Nicole. Thanks for having me.
+
+Nicole:                                       I am super excited. Like I said, maybe too excited, to be chatting with the man who created one of my favorite tools in the kitchen. I'm not kidding, you guys. This is really exciting for me, probably because I use my Baking Steel mini-griddle at least once a week, if not more. In fact, I think I used it not last night, but the night before. It looks like a nightmare, because my patina game is strong, but my wok, it's just proof that I use it a lot, and so I am super happy to now be able to talk to you about all the questions that I have burning in the back of my brain since I first got this product, and it's just an honor to have you on the show, so thank you.
+
+Andris Lagsdin:                      Thank you, Nicole. Amazing. I'd love to have those Steel stories.
+
+Nicole:                                       Oh, I can't wait.
+
+Andris Lagsdin:                      Thank you.
+
+Nicole:                                       Before we get started, I always start the podcast with three questions. You ready?
+
+Andris Lagsdin:                      I'm ready. Let's do it.
+
+Nicole:                                       Alright, so tell me about the last meal you cooked for yourself.
+
+Andris Lagsdin:                      The last meal, ironically, I made for myself was a pizza. [inaudible 00:02:04] for lunch.
+
+Nicole:                                       What kind of pizza?
+
+Andris Lagsdin:                      I made it with Chef Craig and I. We were here. It was a margarita pizza, actually, classic margarita.
+
+Nicole:                                       You're kidding?
+
+Andris Lagsdin:                      That's something I never get tired of. We play around and tweak with it all the time, but if you follow us on Instagram, you're going to see a lot of cheese pizzas on there, because it's clearly my favorite, my go-to.
+
+Nicole:                                       That sounds delicious. Did you tweak something this time when you made it?
+
+Andris Lagsdin:                      Yeah. I've been doing this new technique, actually, with the fresh mozzarella. I've been kind of swirling it around in the sauce before I launch. And what that does, it kind of keeps that cheese really nice and creamy. It's really just a new plaything, like tweak we're doing with our pizzas. It's great.
+
+Nicole:                                       Oh, my goodness. Okay. We're going to have to get into that, to put a pin in that. We're going to talk about that more.
+
+Andris Lagsdin:                      Alright.
+
+Nicole:                                       Okay. What is a meal that brings you back to your childhood?
+
+Andris Lagsdin:                      Really, my mom is like a second-generation Italian, so really, anything with red sauce just brings me right back to my childhood. Red sauce like pastas and ... I'd say that reds and salads and even pizza, throw that in there, too.
+
+Nicole:                                       No, that sounds so good. Anything with red sauce. Wow.
+
+Andris Lagsdin:                      Clearly my favorite, yeah.
+
+Nicole:                                       Alright, and give us an ingredient you can't live without.
+
+Andris Lagsdin:                      Wow. That's a great question. I mean, one ingredient? I would have to go with salt.
+
+Nicole:                                       Wow, okay. You're not alone. I've interviewed a bunch of food bloggers and a bunch of chefs and they're three top ingredients ... Usually ... I thought you were going to say garlic, I was surprised that you put salt. Some people put garlic. Some people put butter, which I think is a food group. Some people ... A good friend of mine who's a food critic, put bacon. And the number one thing I hear is salt. So you are not alone. Is there any special salt that you use? Or just salt in general?
+
+Andris Lagsdin:                      Just a sea salt. Having making pizzas almost daily for the last three or four years, I'm really careful of what I'm putting down, some days more than others but salt is something I'm not going to skip or forget. I just love it. How it brings out a flavor, even in a simple red sauce. In fact, that's the only ingredient, other than tomatoes, that we use in our sauce, our pizza sauce.
+
+Nicole:                                       Oh wow. I didn't know that. 
+
+Andris Lagsdin:                      Yeah, it's classic, so we take our favorite can of plum tomatoes and literally just add, maybe 10 grams, which is just under a tablespoon, into a 28 ounce can of tomatoes. So it's not a lot of salt, but just brings out that flavor.
+
+Nicole:                                       Are you crushing those tomatoes by hand or are you putting it in a food processor? What are you doing when you're making that sauce.
+
+Andris Lagsdin:                      We obviously buy the cans of tomatoes. We love the Bianco DiNapoli's, which are California tomato. Which is a plum, a whole plum tomato. And we buy them both ways. You buy them whole plum and we buy them crushed. You would argue the freshest of canned tomatoes, are the whole plum. You're going to find the best quality there. But with pizza sauce, we'll buy them crushed sometimes and literally just open the can up, add some sea salt. I like the big flakes of salts too, in bigger chunks. And that's it. They're perfect.
+
+Nicole:                                       Wow. Okay. That's crazy. I love it. We're going to get into it. I want to ask you, why pizza? And I know some of it is childhood. You said anything with red sauce. So duh, pizza. But what made you ... Because this is difficult. You don't just wake up one morning and you're like, "You know what I'm going to do? I'm make a pizza Steel." You can read about it and just walk away.
+
+                                                      But you decided, for six months I understand, you thought about it and then it took you another 16 months to get it the way you wanted it. But what is it about making home pizza, that drove you to do this?
+
+Andris Lagsdin:                      You know, if I could back up just a little bit on that. I read this article in the Wall Street Journal in February 2011 and I actually used Steel that weekend. I made pizza dough and discovered that for the first time, I'm sure some of the listeners here, we all struggle with crispy crust on the bottom of pizza. Just really difficult in a home environment. 
+
+                                                      So, for the first time, when I used Steel, I created a crispy crust on the bottom of my pizza and I was mind blown, in seven minutes. I went back to my office on Monday super enthusiastic and talked to my brother and my father and like, "Yeah, that's really cool. What a great idea." But, we were so busy doing our thing. We were manufacturers of heavy duty equipment makers for customers like Caterpillar and John Deere. We were just too busy. 
+
+                                                      I go in Monday morning super enthused about this pizza Steel. It didn't have a name yet. And I knew we had all this equipment that could produce it for us, but we were just too busy. So literally they're like, "Yeah, cool. Great idea." And rolled their eyes and said, "But we have our job to do." Essentially. As much as I loved this idea, I shelf it. For literally, that was February. I shelfed it until December. But it never left my brain. It just stayed there. Stayed in the front side of my brain. I'd wake up and think about it. We all have ideas and this one just would not go away.
+
+Nicole:                                       Are you making pizza on your makeshift Steel the whole time while you're still thinking about it?
+
+Andris Lagsdin:                      Oh yeah. I'm still making pizzas. I'm getting better at making pizzas. And I'm super enthused about it, but not really enthused about trying to make them because we were just, again, too busy. So I just did my own thing, but I'd wake up ... Then I started doing some yoga and I started doing some thinking about ... I have young kids at home. And started thinking about ... They always ask, like my youngest son, who was five at the time, would ask like, "Where do you go every day daddy?" 
+
+                                                      I'd be going to the Steel plant. And I would ... Trying to say I'm going ... I never want to say, use the word work, because ... Was I teaching him, right? I'd be enthusiastic about what I was doing, but I was never really that enthusiastic about it. One day I just woke ... Take that into play and take doing some yoga and doing some soul searching. And then thinking about my life and the vision I had for myself, I just thought, "Why not?"
+
+                                                      In December, I woke up, "Hey, why not just give this thing a try? I don't care what anybody thinks or how busy we are. Let me just go out and make some prototypes up and send them up to some friends and see what kind of feedback I can get." Basically, trying to execute on the idea I have of the Baking Steel. I spent the next six months essentially going to Home Depot to tape measure and measuring the internal diameters of all these home ovens to come up with a size that might be able to fit into every home oven.
+
+                                                      Sending prototypes off to chefs that I knew or to friends that love to cook. Just to get their feedback. Because I really believed in this thing, but to be honest, who cares what I think? I wanted the market to give me some vibes. So I did that. And that's what really got me to the Kickstarter moment. Getting it live and putting myself out there with this 15 pound pizza stone if you will. Which was, by the way, super heavy.
+
+Nicole:                                       Oh, I know. It's a workout. I got some biceps from it.
+
+Andris Lagsdin:                      Yeah, it was super heavy. But I thought I could sell, I didn't know how, but we could somehow make 50 units a month as a side hustle and I'd be super excited about that. I'd work in the family business and that somehow we would sell 50 units a month. And it would be the best of both worlds. I would be living a passion project and my kids would see that. You can really enjoy what you're doing every day besides going to work. And that's something, a message I really want to show them.
+
+Nicole:                                       That is so awesome. I love that. And the fact that you are still making pizzas for six months going, "You know ... " and people coming to your house where they're like, "Yeah, make pizza and with that contraption that you made."
+
+Andris Lagsdin:                      [inaudible 00:11:04] and really trying to dial in, for me personally, it was like trying to dial in a dough recipe, right? Because we all have ... What makes a pizza great? What makes Chris Bianco's or Tony Gemignani's pizza different? Man, why are they so busy all the time? Why are their lines out the door? In my past, it was Figs. I worked at Figs in Boston with Todd English. This goes back, I'm going to date myself now, but this goes back ... And Todd had such a passion, and he still does, of food and in this instance, it was pizza.
+
+                                                      And the lines out the door, it was crazy. Every single night. I used to love it. But what made it different? It was really, it started with the dough, right? The dough was really critical. If you don't have a good dough, forget it. We learned about that. What makes a great pizza dough, right?
+
+Nicole:                                       Yeah. That's a great point. I think people take a lot of doughs for granted. I think they just think the dough is the canvas that you put all the ingredients, which are supposed to shine. In your case, what you're saying is, "No, the dough is the point. Everything else is to enhance and highlight the dough." It's the opposite of what most people think. 
+
+                                                      That's a really good perspective. I like that. I want to talk about your perfect pizza then, okay? Because now you've brought me there. Tell me about your perfect pizza meal. Don't leave out what you're going to drink. What do you think people should be drinking with pizza? It's okay, somebody will be screaming in their car in a moment. I don't care. Go ahead and scream. 
+
+                                                      There's die hard, pizza and beer and that's it. And then there's some people who are like, "Pizza belongs with wine." And, I don't know, maybe there's a contingent that has some other pizza and whiskey, I'm going to call it. But what are you making when you're making your perfect pizza meal? And what are you drinking with it? And we want the goods, so describe it to us.
+
+Andris Lagsdin:                      To style that in. This might change next month, it may have been different last month, but currently, my current state of mind when I'm making pizza, and to me, it's with friends and family and particularly with me, it's going to be my family. I have two young boys and my wife.
+
+                                                      In fact, we did this on maybe Saturday or Sunday. This was my dream meal. It's almost like a margarita pizza. It's got tomato sauce, it has two different kinds of cheese, low moisture mozzarella and fresh mozzarella. With the tomato sauce, I'm going to add ... I talked about salt. I'm going to sprinkle a little bit of oregano on the sauce itself. And cook that on my Steel essentially. My dough is fermenting in the refrigerator. 
+
+                                                      I've had this, by the way, available all the time, is three and four and five day old doughs that are [inaudible 00:13:53] in my fridge.
+
+Nicole:                                       Ooh.
+
+Andris Lagsdin:                      And what happens, because that dough is sitting in the fridge for a few days, it's cold fermenting. Which essentially means, it's just building up flavor. Right?
+
+Nicole:                                       Mm-hmm (affirmative).
+
+Andris Lagsdin:                      So we're talking two or three ... You know, old dough, that's a difference maker. So you get that on top of your sauce and your cheese, baked almost perfectly on the Steel so we're getting a crispy bottom. And a charred up top. Not too much char because my kids aren't huge fans of that. So you get a crispy dough, super flavorful with a nice tomato sauce and the cheese that's just melted perfectly.
+
+                                                      Now, I'm going to chop up some really basic [inaudible 00:14:35]. Chop up some iceberg lettuce, with just cucumbers, peppers and maybe a couple of black olives. With an apple cider vinegarette. And this going to be over the top, but if I'm really on my game that weekend, or that day, I've actually made some bread to go along with this. And for my drink, which is going to be really boring. For the last six to eight months, I've been laying off the booze. It would be a Pellegrino sparkling water with a dab of lemon in it. And that's it. That's my meal.
+
+Nicole:                                       Ooh. I like the Pellegrino. I'm a big Pellegrino drinker. My husband is like, "Can you drink regular water?" I'm like, "Hmm, I could, but Pellegrino is way better." That's a food podcaster for you.
+
+                                                      I'm going to go back to ... You said two different cheeses, because that sounded amazing. Why two different mozzarellas?
+
+Andris Lagsdin:                      You know, this is a really good tip that I learned over the last couple of years is a low moisture mozzarella, which is going to be, I prefer the whole milk type. It's not going to brown as fast. Anybody makes pizza at home, they recognize that cheese can brown. 
+
+                                                      One tip to prevent that from happening, we find we buy almost chunks of low moisture mozzarella. Now, this isn't the kind that sits in the brine, this is like sliced cheese almost. But go to the deli department and order it unsliced. Just get a chunk of it and then bring it home and shred it yourself. Because everyone recognizes ... You know, you go to the supermarket, Whole Foods or where it might be in there, but the shredded cheese that you buy pre-shredded, while those individual strands of cheese are coated in a starch to prevent them from sticking to each other. Right? 
+
+                                                      So you know you put your hands in those bags and all those shreds are loose? Well, in order to do that, you've got to put a starch on it. And when you put some heat on that starch, it turns it brown prematurely. So, we eliminate that whole process and just shred it ourselves.
+
+                                                      So we shred cheese, low moisture mozzarella and then I just take some fresh mozzarella ... I just like the creaminess of it and kind of rip that off by hand if you will, on top and that's really ... For me, it's a cosmetic thing and a flavor thing. We do a lot of pictures for Instagram. I love the textures. Because visually, the pizza has to look appealing in order for you to eat it. So that's one idea we have. Kind of mix up the cheeses and things. Right now, that's my go to. Again, I might change that next month. Or last month, it may have been different. But for now, that's my story and I'm sticking to it.
+
+Nicole:                                       Do you know you just blew my mind with the whole mozzarella, the shredded mozzarella that you buy at the store?
+
+Andris Lagsdin:                      Oh.
+
+Nicole:                                       I don't know why. I shred my own cheese most of the time.
+
+Andris Lagsdin:                      Sure.
+
+Nicole:                                       And yes, if you put it in a bag, it will stick. I don't know why I didn't realize that they were doing something to keep it so nice and separated. You probably just blew, not only my mind, someone else's mind got blown. Somebody tell me that their mind also was blown by learning that fact.
+
+Andris Lagsdin:                      Well, you know what? Do that with your omelets to and your tacos and all of that. Shred your own cheese. 
+
+Nicole:                                       Wow. That is crazy. I had no idea. Yeah, you just changed my world with cheese now. So now I can never buy the pre-shredded stuff. Guilty. I used to do it. I didn't know there was a difference. That's crazy. Convenience, I don't shame anyone for using convenience products, but know what you're getting. And that is really an interesting fact. I like the fact that you're thinking about those two different cheeses. You had mentioned the oregano. Is that fresh oregano that you're throwing on this [inaudible 00:18:14]?
+
+Andris Lagsdin:                      Actually, we prefer the dry. It's just got just enough flavor inside. Just sprinkle a bit on ... I put it underneath or I put it in the sauce so it won't burn. 
+
+Nicole:                                       Mm-hmm (affirmative).
+
+Andris Lagsdin:                      [inaudible 00:18:24]. I might layer it on. I might even layer right onto the dough itself. And then put the sauce on top. 
+
+Nicole:                                       Wow. Okay that surprising that you prefer the dried. I thought you were going to say fresh.
+
+Andris Lagsdin:                      Yeah, and I use fresh too, but dried, I always have it available. And most of us do.
+
+Nicole:                                       And that's accessible to the average home cook. Most home cooks aren't going out and buying fresh oregano. I like that you're keeping it practical. Let's talk about pizza crust. I know you talked about 72-hour dough and I want to get into that, but the first thing is, let's say I'm the home cook and I'm like, "That's awesome. You got 72-hour dough, but I want pizza tonight."
+
+                                                      How does someone make, at least a decent pizza dough the same day? They're coming home, it's busy. And then the second thing I'm going to ask you is, I know that you advocate in your book getting a pizza peel, which I have. 
+
+Andris Lagsdin:                      Okay.
+
+Nicole:                                       They're not that expensive y'all. I'll put a link to the one I use in the show notes, but I want to talk about how to not get my pizza crust to stick. Because I can tell you that the most harrowing part of making a pizza, is once I have stretched out the dough, and I stretch it, although I've ... No shame if you use a roller. If somebody is shaming you for using a roller, that's not your friend, get rid of them.
+
+                                                      I stretch it out, but once I put it on the peel to build the pizza, Andris, I get so nervous because I know once it sticks, it's over. So how do you keep your pizza from sticking?
+
+Andris Lagsdin:                      Great question. We teach classes here. And just what you said, is probably the most common denominator amongst, and we call it the launch of failed launches because you're literally failing before you even get into the oven. So we have some ideas, tips and tricks to use. 
+
+                                                      One, right, you have to use a pizza peel. It's a thing with a small handle. It's round or it's got some, maybe square, they're all different in sizes. There's wood and there's metal. For a home environment, we prefer wood. Because wood is going to whisk away some of the moisture better than metal would. Start with wood, 100% wood. 
+
+                                                      Next, we need to put a lubricant on the peel before our dough. And everyone always says, "Cornmeal, right?"
+
+Nicole:                                       Mm-hmm (affirmative).
+
+Andris Lagsdin:                      Well, cornmeal is actually made from corn and corn will tend to burn in a 500 degree environment at home. On Steel, it's going to burn really fast. So what we use, I like to use a combination of the flour that I use in my pizza dough. Everyone has flour around, and semolina flour. So semolina flour, like Bob's Red Mill is a brand that people are familiar with. It's just these tiny, little flour balls almost. 
+
+                                                      You spread those out on your pizza peel. You essentially just wipe it on. Those act, like the flour and the semolina flour, and you can use one or the other too, those act as ball bearings between your wood and your dough. 
+
+                                                      Next, after I stretch or roll out my dough, and we can talk about that too, but we place the dough on top of the wood peel. We let it slide a little. We give it a little shake. And that dough, before I do anything else, has to be loose on that peel. In other words, I give it a little shake and it's hard for me to find something to reference here, but picture that dough just sliding back and forth on the wood peel, by giving it a little shake.
+
+                                                      So before I do sauce and before I do cheese, I'm going to give this thing a little shake. That's critical and that's the step that most home cooks are not aware of so they don't take that step into consideration. So give a little shake, right? And be confident. If it does stick, just pick that corner of the dough up and just throw a little flour underneath there, so it shakes. Because before I do anything else, it's got to shake. 
+
+                                                      Next, I'll put my sauce on. I try not to go too close to the edge because if I go too close, I'm living on the edge. That sauce might drip off onto the peel, which makes difficult to shake again. So sauce it and then make sure you give it a little shake, if you follow me.
+
+Nicole:                                       How much sauce? Because I'm a saucy person, but I think I put too much sauce on.
+
+Andris Lagsdin:                      Here's a good reference, if you think you have too much, you do. That's again, the mantra we use in our classes and our blogs and Instagram is less is more. So you want to have ... Because you want that dough to cook all the way through, so it's a little less than what you're actually visualizing. It's a little less than that even. Don't go to heavy. Start with a little bit and you can tweak it from there. But sauce it and then give it a shake and put your cheese on and give it a shake again. And before I even think about going into the oven, I'm giving it a shake and assuring myself that this thing is loose. Did that make sense?
+
+Nicole:                                       Yes. That totally makes sense. In fact, there's great tips in there. Because, one, I think I sauce too much and two, I hadn't thought about using semolina. I've heard of semolina. I have used cornmeal and I've had that problem of my crust at the bottom were always burnt. Because I'm cornmealing the heck out of it to make sure it gets off. And it does get off with the cornmeal, but-
+
+Andris Lagsdin:                      It does, but burned. 
+
+Nicole:                                       Yes, but right, it burns.
+
+Andris Lagsdin:                      Yeah and the pizza [inaudible 00:24:03] get a look underneath it and say, "What is this?" You don't want any of that stuff underneath it. And you'll find the better you get and the more experience you gain, you use less and less semolina flour. 
+
+Nicole:                                       Yeah.
+
+Andris Lagsdin:                      But in the beginning, I'd rather see you go heavy and have a successful launch, than getting stuck.
+
+Nicole:                                       Okay. That's great advice. Now, I know you have two Steels, right? Because, I mean, it's your product. But I've seen you on YouTube and on Instagram, do a two Steel pizza. I also two Steels. I have the mini and I have the regular baking filled griddle. Yeah, I went full in. But I want to talk about for people who are like, "Nicole, you're a weirdo." Most people don't buy two Steels. Most people will invest in one. How do they get that great crust, but also that nice toasty top?
+
+Andris Lagsdin:                      There's a guy, pretty famous pizzaiolo, his name is Tony Gemignani. Who has, I think about 32 restaurants out on the West Coast. I think in the San Francisco area and Las Vegas. Super gentleman. Amazing ... Probably has more knowledge of pizza than just about anyone. He loves our Baking Steel, which was, again, a mind blown moment from our point of view. 
+
+                                                      He reached out to me and he was doing some testing himself and he said, "Jeez ..." He uses two Steels. So you got to figure a guy who works in a wood fire oven environment all the time. You know, he's got a lot of knowledge. He said, "Jeez, if we had two Steels in our oven, that would give us more space to cook on." Right? Which totally makes sense. 
+
+                                                      He has this technique that he uses. And again, this isn't necessary. This for the guys that ... This isn't for the weekend warrior pizza makers, this the guys that super passionate about it and having pizza parties all the time and making multiples of pizza. He lines his top shelf with the Steel and his bottom with the Steel. He preheats the oven for an hour with both Steels in. 
+
+                                                      If anybody is asking about the cost of preheating your oven for an hour, it's about 20 to 25 cents. So we're not talking-
+
+Nicole:                                       Because you know right now, there's someone screaming in their car going, "I can't afford to preheat my pizza Steel for an hour." Yes you can. Be committed. Do it.
+
+Andris Lagsdin:                      [inaudible 00:26:22] But you need that heat. You want an hour for that Steel to absorb all that heat. And the idea is we get the thing nice and hot. Then what we're going to do is ... As we stretch and roll out our pizza, we put it on the peel and we give it a little shake, make sure it's loose. I'm going to turn around because my oven is behind me. I'm going to turn my broiler on.
+
+                                                      Now, it's preheated for an hour. Now, I'm going to switch the broiler on because I'm going to get that radiant heat beaming down on that Steel. Now, I'm going to get my oven beyond 500 degrees. I'm going to go back, I'm going to make my pizza, cheese it up and make sure it's loose. 
+
+                                                      That time takes three or four minutes for most people to make a pizza. Now, when I go into my oven, my Steel is essentially 700 degrees. I'm going to launch it on the top Steel. I'm going to set my timer for about 90 seconds. At 90 seconds, I'll open it up. I will maybe give it a little bit of a spin. Rotate it to make sure the color is even on top. Maybe bake it for 15 seconds. I'm going to remove it from the top Steel and put it on the bottom Steel. The idea here is what's going on, that bottom Steel now, after 90 seconds to two minutes, is actually hotter than the top Steel because nothing is in it, right?
+
+Nicole:                                       Mm-hmm (affirmative).
+
+Andris Lagsdin:                      Now I'm going to get ... The top of the pizza is done. I put it on the bottom Steel and now my bottom Steel is going to crisp up perfectly in about 90 seconds more. So we're looking at three and a half minutes for one pizza. Which in a home environment is just ...
+
+Nicole:                                       Unheard of.
+
+Andris Lagsdin:                      Unheard of. 
+
+Nicole:                                       Yes. Now, if you have one Steel, how long would you leave it on? If you just only had the one Steel and you have it up top?
+
+Andris Lagsdin:                      The big difference between one Steel and two, and believe me, I used one Steel for the first four years. Now I use two Steels for almost all my pizzas. 
+
+Nicole:                                       Mm-hmm (affirmative).
+
+Andris Lagsdin:                      The difference is I'm going to turn the broiler off maybe 90 seconds to two minutes. I might cook it an extra 30 or 40 seconds. So you're probably looking at, instead of three and a half minutes, you're looking at four, four and a half minutes. For a [crosstalk 00:28:36].
+
+Nicole:                                       Big whoop. 
+
+Andris Lagsdin:                      Not a big deal. The only other thing is if you make a lot of pizza at home and your understand that the Steels lose a little bit heat when you're [inaudible 00:28:47] them.
+
+Nicole:                                       Mm-hmm (affirmative).
+
+Andris Lagsdin:                      So you want it to rebound in between.
+
+Nicole:                                       Right.
+
+Andris Lagsdin:                      So they [inaudible 00:28:51] faster when there's two Steels because not using both at the same time, if you follow.
+
+Nicole:                                       Mm-hmm (affirmative).
+
+Andris Lagsdin:                      So, with one Steel, it takes about five minutes to get back to 500 degrees. That's the big deal.
+
+Nicole:                                       I see. That's a good point and that's good to know. That way, if someone is thinking about, "Should I get one Steel?" If you're a hard core pizza warrior, get two Steels.
+
+Andris Lagsdin:                      Yeah.
+
+Nicole:                                       If you're a person who, you want a really good crust. You want a really good pizza. You don't want to order out anymore, but you're like, "[inaudible 00:29:21] I've barely got room for one Steel." One Steel is fine, just know that's the science behind why two versus one, is a little bit better.
+
+                                                      I loved that you explained that so that way people can make a good decision on how many they'd want to buy and why.
+
+Andris Lagsdin:                      [inaudible 00:29:33]
+
+Nicole:                                       72-hour dough. Because you talked about ... You said it earlier, we got through, "Okay, I got a good pizza. I made a pizza. I'm good." Now, let's up our game a little bit.
+
+Andris Lagsdin:                      Okay.
+
+Nicole:                                       72-hour dough. Why that long? And why do you think it's so important. Now, I know you also sell 72-hour doughs for those of us who don't care and are too lazy and are like, "Yep, just send it to me." And I will be honest, I would totally be one of those people. Sometimes you just want someone to do it for you. 
+
+                                                      I'm here out in Hawaii. You're not shipping me a dough to Hawaii. So talk to me about why I got to wait 72 hours. Because I want a pizza tonight, man.
+
+Andris Lagsdin:                      Yeah. Okay. It sounds really daunting because let's say Friday night is pizza night, right? I forgot to make my dough this week. We'll get back to same day dough in a second but if you think of pizza dough, think that there's four ingredients. There's flour, salt, water and yeast. Mostly. That's predominantly the main ingredients. If we were to mix flour, salt, water and yeast together right now, I could essentially make a pizza in two hours for you.
+
+                                                      But, there's going to be nothing going on with any kind of ... The flavor profiles, flour, salt, water, yeast, right? That's it. If by using time as one of the ingredients, we're developing ... You know, the enzymes are changing. Think of there's carbon dioxide being made and turning into alcohol into the dough, we have a developing flavor. There is really no shortcut to building flavor and that takes time.
+
+                                                      So think of wine. Think of crushing grapes today. We crushed it, we're going to drink it today, it's going to taste like grape juice. We need time ferment wine so that all the flavors ... So bread and pizza doughs are really essentially the same thing, just a different time scale. And we think because, again, we didn't invent the 72-hour dough, we're just taking information and knowledge that we learned from Peter Reinhardt and Kenji from Serious Eats and Tony and Chris Bianco and kind of marketing this dough that takes two, three, four days to develop flavor. That's really what we're doing.
+
+                                                      The skill level, on a scale of one to ten, maybe a three, to produce this. But time and the planning and preparation is what's going to get you to legendary flavor.
+
+Nicole:                                       No, I'm glad you explained that. A lot of times people are like, "What? Why would anybody buy 72-hour dough?" Like you said, you could make a pizza dough tonight and would it just be a canvas for the ingredients.
+
+Andris Lagsdin:                      Right. [inaudible 00:32:14] there's really not shortcut. I mean, there's sourdough, which is great, but again, that's going to take some time to build up your sourdough right flavor. And get your sourdough active. There really is no shortcut. Now, in a real pinch, I would say, at a bare minimum, 24 hours to make your dough.
+
+                                                      I'm talking about making an impact and making it taste incredible. You need that time. You really need time. There's no shortcuts. [inaudible 00:32:42].
+
+Nicole:                                       Mm-hmm (affirmative).
+
+Andris Lagsdin:                      You just preparing yourself or that.
+
+Nicole:                                       That's a great point and good to know. You can have pizza tonight, but if you want to take your pizza game to the next level, just make a 72-hour dough. Or if you're like, "I've got no planning skills. That's never going to happen." If you're on mainland, order a 72-hour dough and just call it a day. There's no shame in ordering a pizza dough, tastes better.
+
+                                                      I have neighbors, they ordered a deep dish pizza from Grimaldi's and had ... Apparently, Grimaldi's ships out here. And they had it shipped out here because they wanted a deep dish pizza, so same with the dough, just ... I see it's being for people who don't plan ahead, just order some and have it in the fridge and then you're good to go.
+
+Andris Lagsdin:                      Yeah.
+
+Nicole:                                       Is there a time when it's too ... You said 72 is the minimum, is there a time where it's too long to have it?
+
+Andris Lagsdin:                      That's a great point too. Yeah, dough can ... We call it 72 hours, which is actually three days. Days three, four and five, are just epic as far as the flavor profiles go. But what happens is that the glutens in the dough start to break down on days ... Even days five, six and seven. What that means, is that the flavor is going to be awesome, but to stretch out pizza when the glutens are really broken down on days six and seven, it becomes super, super slack. Almost, like you can picture stretching it and holes popping up in your dough. You can get a lot of that on the older dough. 
+
+                                                      So, your flavor is great, but you're stretching might change. We just say, "Hey, those older doughs, turn into bread rolls, or breadsticks." You want to have a flavor in breadsticks, use a six day old dough for that and you'll see. You'll be mind blown. Incredible.
+
+Nicole:                                       Oh that's a great point. Could you use them maybe for calzones or no?
+
+Andris Lagsdin:                      Oh, yeah easy. Again, you just got to be careful that's you're not ripping it. It's going to rip super easy at that point.
+
+Nicole:                                       Mm-hmm (affirmative).
+
+Andris Lagsdin:                      [inaudible 00:34:40]. One trick you can do is take an old dough ... You know what a pizza ball and go up is?
+
+Nicole:                                       No.
+
+Andris Lagsdin:                      You kind of [inaudible 00:34:47] the gasses out and re-ball it. That seems to give it a little bit more strength. Not going to be as fresh as a fresh dough, but a six day old dough, re-balled, will stretch pretty nicely. It just needs to rest for 12 or so hours again. 
+
+Nicole:                                       Mm-hmm (affirmative).
+
+Andris Lagsdin:                      Kind of an advanced ... I don't know who has six day old dough in their fridge, but if you do, don't throw it away.
+
+Nicole:                                       I'm like, "Maybe me." As I furtively raise my hand. Okay. I want to talk about this Starbucks pizza dough. What's up with that? It's on your website as one of the recipes. You were like, "Replace the liquid with Starbucks cup of coffee." What are you doing?
+
+Andris Lagsdin:                      Yeah. Good question. For fun, once in a while we'll ... You think you have main ingredients, you have flour, salt, water and yeast in pizza dough. What if you substituted the water for other ingredients? We took some Starbucks coffee, a cup of coffee, literally one for one. So the recipe calls for say, a cup, we use a cup of coffee instead of a cup of water. 
+
+                                                      We added that in instead of the water. What you get is this pizza dough that's flavored like your favorite coffee. In our case, we used Starbucks that day. We went through the same process, the same fermentation process where we bulk fermented it for 24 hours. Then we balled it up and then we put it in the fridge for a day or two or more. And you've got this pizza dough that's flavored with coffee.
+
+Nicole:                                       Alright, so what are you using this for?
+
+Andris Lagsdin:                      Great question. What would you use that for? That's exactly ... We had no plan by the way. We just said ... Smells the coffee and it felt like morning and it felt like something sweet. French Chef Craig, who works with us at Baking Steel, decided to make some cinnamon, we call them cinnamon buns made out of pizza dough. 
+
+                                                      We stretched it out and we put our sugars on and our cinnamon, rolled it up and boom. Baked it. And we baked it on the Steel and they were beautiful. Actually really tasty. You could taste a hint of coffee in the dough. I mean, that was pretty cool.
+
+Nicole:                                       Wow. Is that on the Instagram?
+
+Andris Lagsdin:                      It's on Instagram. I think it's actually linked on our blog at bakingsteel.com. We've got the recipe there on [inaudible 00:37:08] and on the cinnamon buns. [crosstalk 00:37:12] cinna buns.
+
+Nicole:                                       Wow. Okay, I was about to get nervous. I was like, "Are you making pizza out of that coffee dough?"
+
+Andris Lagsdin:                      That'd be kind of weird with cheese and sauce I think.
+
+Nicole:                                       Yeah, I was, "You're going to have to explain that to her."
+
+Andris Lagsdin:                      Yeah.
+
+Nicole:                                       As soon as I saw that, I was like, "Wait a minute." Okay, when I look at your Instagram, you have a great Instagram by the way. I love looking at it. It's one of my favorite Instagrams. I want to crawl through the app half the time and come to your house for breakfast because ... I told you I have the Baking Steel griddle, the large one.
+
+Andris Lagsdin:                      Yeah.
+
+Nicole:                                       And I have the mini, which I actually use the mini a lot more. I think it's just because it's ... I have an induction stove top and so I'm always very care when I put the Baking Steel mini on it. I use ... For those who have a glass top ... I actually learned this from you. I think I wrote you on Instagram. I was like, "I have a glass top. How do I stop this from scratching my glass top?" And I use a silicon pad underneath it.
+
+                                                      If you have an induction oven at least ... Don't do this if you have an electric stove, this will not work. But if you have induction top range, you can use a silicon pad because the induction will still go through that and heat up the ions in the Baking Steel to make it hot. So, that's a good tip if you have induction. If you don't, you're just have to put that straight onto your glass and just be really careful. I've done that.
+
+                                                      I want to talk about ... We've talked a lot about pizza, but I've also seen you make things like bacon and eggs. And my favorite thing, pancakes. Oh my gosh! Can you talk to us about what are some of your pancake secrets with you use the griddle?
+
+Andris Lagsdin:                      We have a great recipe ... Jenny Lewis was our food and wine chef. She [inaudible 00:38:54] about taking some egg whites and separating the egg whites and really fluffy pancakes. She's literally puts a sausage on the griddle first and then pours the batter on top of the sausage and that just makes incredible pancakes.
+
+Nicole:                                       Oh, that sounds so good.
+
+Andris Lagsdin:                      My favorite thing to make on the griddle, and it's in our book as well. And we spent a lot of time developing this recipe, were homemade English muffins.
+
+Nicole:                                       Ooh.
+
+Andris Lagsdin:                      Right? We all love ... I mean, I grew up on Thomas's.
+
+Nicole:                                       Mm-hmm (affirmative).
+
+Andris Lagsdin:                      But since this whole Baking Steel thing started and flavor profiles and learning from some of the dough makers, that we kind of took some of that and put that knowledge into our English muffin recipe. We actually don't bake them in an oven, we cook them on top the oven on our griddle, with a little bit of clarified butter. 
+
+Nicole:                                       Wow.
+
+Andris Lagsdin:                      Essentially, make your English muffins similar to a pizza dough, it's a different flour.
+
+Nicole:                                       Mm-hmm (affirmative).
+
+Andris Lagsdin:                      But we essentially cook them on a griddle top for about four minutes on each side in a bit of clarified butter, but what you get are these nooks and crannies and this ... You know, I think about a 24 hour, at least a 24 hour fermented dough, are English muffins now. And now you're talking majorly English muffins.
+
+Nicole:                                       Oh my gosh! That's sounds so good. And also, you didn't know that I didn't know that there was an English muffin you could make besides Thomas's, so that's it. I'm out. I'm going to make my own English muffins now. And the way you describe them with all the nooks and crannies and the clarified butter. I bet you they just ... All that flavor you're just cooking in on top of the griddle. I be you that makes amazing bacon, egg and cheese sandwich.
+
+Andris Lagsdin:                      Everything. It's so easy by the way. It takes a little bit of time. We're looking at a skill on a scale of one to ten, the skill level might be a five. If the pizza dough is a three, the English muffins are five. Not difficult at all, but so worth your time.
+
+                                                      We basically make them here. We can't keep up with the kids. They just grab them and eat them before we're ... You know, per batch.
+
+Nicole:                                       Can I be one of those kids?
+
+Andris Lagsdin:                      Yeah.
+
+Nicole:                                       Can I come and be one of those children? You just show up with a little brown girl. She's like, "Who is this person?" I'm like, "Don't worry about it. Just give me a English muffin. 
+
+Andris Lagsdin:                      C'mon over.
+
+Nicole:                                       It sounds so, so good. Alright, the final thing I want to talk to you about is smashed burgers. To give you a little background, I'm a Shake Shack fan. I love Shake Shack. They do not have Shake Shack in Hawaii. They have a lot of great things in Hawaii, but no shake shack. 
+
+Andris Lagsdin:                      What?
+
+Nicole:                                       And no Trader Joe's, but whatever. I don't feel as bad about the Shake Shack because I recreate that experience on your Steel. That's how I got the patina on it, because I was just the smashing the hell out of burgers.
+
+                                                      I have a method on how I make smash burgers. I'm always interested in what other people do. For example, I put a little bit of salt on top of my smash burger. And just this week, I read a newsletter from Bon Appetite on a new way to make smash burgers based on a guy named George Motts. He is the burger king I guess. 
+
+Andris Lagsdin:                      Okay.
+
+Nicole:                                       Yeah, he puts like really ... Mandolin sliced onions, a little bit of salt and then he smashes them down and then ends it with some American cheese. I'm going to tell you, that's ridiculously good. 
+
+Andris Lagsdin:                      [inaudible 00:42:20]
+
+Nicole:                                       I want to know how you make your smash burgers and what are you using to smash them?
+
+Andris Lagsdin:                      We got our ideas for the smash burgers from Kenji over at Serious Eats. So what we do, and we kind of took a play on his method. Smash burger parties by the way, are a thing. Are so cool because it's similar to a pizza party where you have just your friends or everyone just kind of hanging out and you can set up your mise en place. You get burger bar, before everyone gets there.
+
+                                                      So essentially, think of smash burgers, think of really soft, lightly toasted buns with two patties in the middle with ... [inaudible 00:43:01] maybe a little onion, maybe a little lettuce and then a special sauce. Essentially, taking your Baking Steel griddle, we're getting this thing scorching hot, maybe 400, 450 degrees. We're taking two ounce beef patties, which are round and we're getting [inaudible 00:43:20] griddle super hot. We're essentially placing those patties down, lightly patting it, just to kind of set it in place. Then we're going to essentially flip it over and then just press down like a pancake. And we use the back of a spatula with kind of a long handle so you don't burn yourself.
+
+Nicole:                                       Mm-hmm (affirmative).
+
+Andris Lagsdin:                      [inaudible 00:43:39] press down and cook it for maybe 30 seconds. So think of that beef and all of that heat caramelizing the beef. It's called like a maillard effect. And the sugar is coming out of the burger and then you cook only 30 seconds, you flip it over. And you have two patties going at the same time. Heat a piece of cheddar cheese, place it on one of the patties and then essentially pick them up and put those on your toasted bun. Man, that's going to be probably the best burger you've ... And you become an instant rock star in your neighborhood or amongst your friends and family if you're making these things. Because they are just so delicious.
+
+Nicole:                                       Oh my husband loves them. He loves them. I used to use smash. I actually start ... I make mines into little meatballs kind of.
+
+Andris Lagsdin:                      Yep, perfect.
+
+Nicole:                                       And then I just on the top just a little bit of salt and the smash them down. I just, I don't know maybe I like the smash. But I also, I feel like in the beginning that's where you get that caramelization on that first side, the second side is almost like a finishing.
+
+Andris Lagsdin:                      Yeah.
+
+Nicole:                                       But I love your method and I'm going to try that. The two ounce patties. Because I think a smaller patty is what makes a better smash burger. If your patty is too big, it's not going to ... It's just harder to get that same sort of craggly, delicious caramelization on the Steel. 
+
+Andris Lagsdin:                      [inaudible 00:45:02] we made these [inaudible 00:45:03].
+
+Nicole:                                       Yeah.
+
+Andris Lagsdin:                      There's a company called Beyond Unique, which is a vegan beef if you will. French Chef Craig downstairs here, decided let's cut one of those in half, oh, I'm sorry, we didn't even cut them in half, we basically made patties out of the beef, the vegan beef. And we smashed those down, just to give that a little caramelization. A different texture.
+
+Nicole:                                       Mm-hmm (affirmative).
+
+Andris Lagsdin:                      It's on our Instagram as well. So it's a vegan smash burger, which is really cool.
+
+Nicole:                                       I saw that and I was so intrigued and I thought to myself, "I have to try that." I'm not vegan, but I often will eat vegan meals because I think they're delicious and good for you in some cases. But I thought that was such a cool thing to do, because I have a lot of friends that are vegetarian vegan and they're like, "Just because I'm vegan, doesn't mean I don't ever miss having bacon or if they've vegan all their lives, that's one thing, but if you did used to eat meat and you stopped eating meat, they're ... 
+
+                                                      You know sometimes they're not eating meat for political reasons, but they still, every once in a while, they smell a burger and they're like, "Ahh, I do miss a burger." And what a great way to provide them with an opportunity to enjoy a smashed burger, I'm putting air quotes around it, while still being able to stay vegan. So love it, love it, love it.
+
+Andris Lagsdin:                      Yeah.
+
+Nicole:                                       Oh my gosh, you've made me really hungry. Now I'm going to have to go and make these English muffins. My mind ... You know how you were obsessed with thinking about pizza Steel? Now I'm obsessed thinking about those English muffins because I love English muffins. I'm gong to have to do this, this weekend. Yeah.
+
+                                                      Okay. Now, you have given us a ton of tips already about pizza. Actually before I ask you this one other question, I want to ask you, when you're putting your griddle on top of the oven, how long should someone let it warm up for before they start either cooking pancakes or making whatever they're going to make on top of it?
+
+Andris Lagsdin:                      Right. This is a much different scenario. With pizza, we need all of that heat. We're talking an hour of preheat time. But for sensitive things like eggs or even English muffins. English muffins we cook at 300 degrees, so our griddle will heat up in six or seven minutes. I used an infrared thermometer to kind of gauge my temperature. If you don't have one of those, I'd always use the butter test. If I put butter down and it browns super fast, well that means my griddle is too hot, so I just back off the temperature.
+
+                                                      But preheat time on a griddle, for most foods, even like high temp searing, five or 10 minutes tops.
+
+Nicole:                                       Okay. That's great to know. Okay. Alright. What is that one tip that you can give to a home cook out there to make their meals more delicious. And you've talked a lot about pizza. You've given me a bunch of tips that's I'm going to use, but anything that you can think of that will help them make their meals more delicious tonight?
+
+Andris Lagsdin:                      Oh, that's a great question. And I think we get that a lot to be honest and I think the number one thing for home cooks, is we don't use enough heat. Don't be afraid to blast the temperature. Get it ripping hot. That's one thing that's super common I'd say, heat. Just use more heat to cook.
+
+Nicole:                                       That's a great tip. I was talking to another food blogger a couple of weeks ago and I was saying ... I was talking about your griddle actually and I was talking about smashing burgers. I was telling her, "Look, if you're going to make smash burgers, you're just going to smoke out your kitchen. Just be okay with that, open the windows, turn on the blower, let the neighbors know. Your smoke alarm will probably go off, but you got to have a good amount of heat to make that caramelization happen so just go for it.
+
+Andris Lagsdin:                      Agreed.
+
+Nicole:                                       Yeah. Okay, so where can people find you?
+
+Andris Lagsdin:                      You can find us at bakingsteel.com and that's our ... We have our website. We can do some shopping if you like. If you're local in the Boston area, we offer pizza classes. And then every week, we're creating new recipes using our Baking Steel. And there is everything from pizza to eggs to searing to even sushi one there. Ice cream, you name it. We've got everything on our blog. We're on Instagram as Baking Steel, Facebook as Baking Steel and Twitter as well. That's where you can find us.
+
+Nicole:                                       I can't thank you enough for coming on the show today. It was super fun. You gave so many great tips. And I know that people are thinking like, "Oh, you know, he's selling product." But he's just ... The thing I love about you is that you're just ... And it comes through Thursday your Instagram, you're just really passionate about this. 
+
+                                                      You're just passionate about making pizza and providing people with a way to make good pizza at home and I love that. And the fact that you have so much passion and you continue to create recipes and experiment, that it looks like you're having fun using your own product. This seems like it's such a delight to you. Such a joy. It comes through. And I can honestly tell you, I truly love using the Baking Steel. It is one of my top five recommendations to people when I tell them about what to do buy in the kitchen. So thank you for making it, it's awesome.
+
+Andris Lagsdin:                      Thank you Nicole. My day is made. I absolutely love it. I love what I do every single day. Thank you and super grateful for the opportunity.
+
+Nicole:                                       Awesome. We'll see you out on the inter webs.
+
+Andris Lagsdin:                      Awesome. Thank you.
+
+Nicole:                                       Alright. So you just heard me talk with Adris and this was such an exciting interview for me. There were so many things I learned about pizza and I really feel like he upped my pizza game and I feel like I learned a whole lot of extra chef-y tips. As I promised in the podcast, I will put a link to my favorite pizza peel in the show notes.
+
+                                                      Here are my take aways from the interview. One, I stopped using cornmeal and I started using semolina on my pizza peel. I didn't realize that. I did always notice that the cornmeal did burn, but I just didn't put two and two together that I could use something else.
+
+                                                      I've also started making my own pizza sauce. And I do like the simplicity of just crushed tomatoes and salt. But I also, just me personally, I like to cook my pizza sauce a little bit with basil. I just put basil stems into the pizza sauce along with some salt and I just love that beautiful basil flavor inside my sauce. I use the stems because I learned that the stems are actually where most of the flavor of the basil is. So if you ever want to infuse a basil flavor into a soup or something like that, use the stems, not the leaves. It's the stems that have all that basil-y flavor. You can just put them in the pot. Let it cook in the pot and then pull them out before whatever it is you're going to do.
+
+                                                      Alright. I hope you got a lot from that interview. And just also from this season. Because that's right, we are at the end of season one. I've a baker's dozen of food bloggers, critics and entrepreneurs and I'm going to be doing a wrap up of season one and going over some of the top things I learned while talking to all the different, amazing people that I had a chance to interview. My take aways from the season and also my favorite parts.
+
+                                                      I'm also going to do a short podcast on the top 10 cookbooks that I loved this year. I've already started doing some Facebook Lives whenever I cook from one of the books that I really love. You'll see some of the recipes that I've made this year from them. But I'll also do podcast that corresponds with that.
+
+                                                      So if you've been with me from the very beginning, don't despair. Season two is not that far away. We're going to be starting with a new set of foodie related guests starting on January 9th. Again that's January 9th, new set of foodie related guests. That means for one week in January, the very first week in January, there won't be an episode. And that's just so I can enjoy the holiday season with my family. 
+
+                                                      But don't worry, I'm also hard at work at getting those new podcasts ready to go and we will be back. In the meantime, you can follow me on Instagram to see what I'm up to. My Instagram handle is BFF With the Chef. It's just like the podcast. You can also subscribe to the Facebook group where you can talk to me directly. And season live videos that I just mentioned, that's where I'll be posting them.
+
+                                                      I'm also going to share some extra chef-y tips. There are things that I only share in the Facebook group. Just because, you know, I consider those people my friends and I want to share as much information and things that I learned, with them as possible. 
+
+                                                      Oh, and if you like this podcast, please consider giving me a review. Reviews are like gold and every time I get one, it helps other foodies out there, find this podcast. Honestly, who else is going to obsess with me about sales at Williams Sonoma? I have been eyeing this one Le Creuset pot for years and every year a sale happens and every year I'm like, "I don't know. I still have my Martha Stewart pot that's going strong. But man oh man do I want a Le Creuset. I want one. Maybe I'm not saying that right. Le Creuset. 
+
+                                                      Yeah, somebody tell me. Call me, email me and let me know if I'm saying that right. But you know the brand I'm talking about and I've wanted one forever, but I just can't bring myself yet to buy it because I do have a similar pot and I have a lot of memories with that pot.
+
+                                                      Anyway, see this is why you need to give me a review, so that somebody else who also obsesses about things like this, can find me and we can be friends. So yeah. Alright. Thank you for listening to this first season of BFF With the Chef. It's been really fun, so enlightening and I truly appreciate each and every one of you. You have no idea. 
+
+                                                      I am shocked when someone tells me that they listen to the podcast. Sometimes I think I am just out here talking in the ether. But it really means a lot to me when you reach out to me and tell me that you've learned something from the podcast or it inspired you to go cook or you got something from one of the guests, because these are all amazing people. They gave me ... It's just inspiring to eat ... To just get a chance to talk with them. 
+
+                                                      Email me or send me a note on Instagram or Facebook. I love hearing about your cooking adventures and I love hearing about what you've learned and what you've been inspired to do. So, I hope that you have a great holiday season and I hope you've been inspired to go and make something delicious. Happy Holidays. Take care. Bye. 
