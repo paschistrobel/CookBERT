@@ -1,0 +1,572 @@
+1
+00:00:00,800 --> 00:00:02,480
+<font color=#00FFFF>Bei uns ohne Kugel.</font>
+
+2
+00:00:02,960 --> 00:00:05,639
+<font color=#00FFFF>Aber er ist auch</font>
+<font color=#00FFFF>kein Schaumschläger:</font>
+
+3
+00:00:05,719 --> 00:00:07,119
+<font color=#00FFFF>Markus Friederici.</font>
+
+4
+00:00:08,159 --> 00:00:10,519
+<font color=#FFFF00>Wir sind klassisch unterwegs.</font>
+
+5
+00:00:10,800 --> 00:00:12,800
+<font color=#FFFF00>Da gibt's auch Unterschiede.</font>
+
+6
+00:00:13,039 --> 00:00:15,559
+<font color=#FFFF00>Es gibt sehr harte</font>
+<font color=#FFFF00>für harte Massen.</font>
+
+7
+00:00:15,760 --> 00:00:18,400
+<font color=#FFFF00>Oder weiche für Eischnee</font>
+<font color=#FFFF00>zum Beispiel.</font>
+
+8
+00:00:24,960 --> 00:00:28,240
+<font color=#00FFFF>Wir brauchen Eischnee</font>
+<font color=#00FFFF>für unser Rezept.</font>
+
+9
+00:00:29,199 --> 00:00:30,639
+<font color=#00FFFF>Prilleken.</font>
+
+10
+00:00:34,920 --> 00:00:37,440
+<font color=#FFFF00>Das ist eine Kindheitserinnerung.</font>
+
+11
+00:00:37,639 --> 00:00:40,360
+<font color=#FFFF00>Meine Mutter hat die immer gemacht.</font>
+
+12
+00:00:46,119 --> 00:00:48,199
+<font color=#FFFF00>Jeder kennt Schmalzgebäck.</font>
+
+13
+00:00:51,920 --> 00:00:55,400
+<font color=#FFFF00>Heute macht man das</font>
+<font color=#FFFF00>mit hoch erhitzbaren Fetten.</font>
+
+14
+00:00:57,960 --> 00:01:01,159
+<font color=#FFFF00>Das ist wie ein Krapfen,</font>
+<font color=#FFFF00>wie ein Berliner.</font>
+
+15
+00:01:02,240 --> 00:01:04,440
+<font color=#FFFF00>Ein trendiges Schmalzgebäck.</font>
+
+16
+00:01:08,159 --> 00:01:10,719
+<font color=#FFFF00>Es gibt spezielle Pfannen</font>
+<font color=#FFFF00>mit Kuhlen.</font>
+
+17
+00:01:12,559 --> 00:01:14,440
+<font color=#FFFF00>Das ist wie Bleigießen.</font>
+
+18
+00:01:16,320 --> 00:01:19,679
+<font color=#FFFF00>Es geht immer auf,</font>
+<font color=#FFFF00>aber es sind Zotten dran.</font>
+
+19
+00:01:20,199 --> 00:01:23,079
+<font color=#FFFF00>Die sind knusprig,</font>
+<font color=#FFFF00>der Rest ist weich.</font>
+
+20
+00:01:23,400 --> 00:01:25,760
+<font color=#FFFF00>Wir haben einen Rührteig gemacht.</font>
+
+21
+00:01:33,519 --> 00:01:37,440
+<font color=#FFFF00>Eier, Butter und Zucker</font>
+<font color=#FFFF00>haben wir schaumig geschlagen.</font>
+
+22
+00:01:39,280 --> 00:01:41,280
+<font color=#FFFF00>Milch und Mehl dazu.</font>
+
+23
+00:01:43,920 --> 00:01:46,240
+<font color=#FFFF00>Das Eiweiß vorher weggenommen.</font>
+
+24
+00:01:46,920 --> 00:01:48,639
+<font color=#FFFF00>Das schlagen wir jetzt.</font>
+
+25
+00:01:48,960 --> 00:01:52,119
+<font color=#00FFFF>Prilleken heißt das</font>
+<font color=#00FFFF>in Südniedersachsen?</font>
+
+26
+00:01:56,679 --> 00:02:01,360
+<font color=#FFFF00>Ab Braunschweig abwärts,</font>
+<font color=#FFFF00>da es das traditionell zum Karneval.</font>
+
+27
+00:02:03,159 --> 00:02:05,760
+<font color=#FFFF00>Jeder hat sein eigenes Rezept.</font>
+
+28
+00:02:05,920 --> 00:02:07,840
+<font color=#FFFF00>Wir machen das ohne Hefe.</font>
+
+29
+00:02:08,000 --> 00:02:10,880
+<font color=#FFFF00>Viele kennen es</font>
+<font color=#FFFF00>mit Hefe oder Brandteig.</font>
+
+30
+00:02:11,320 --> 00:02:13,039
+<font color=#FFFF00>Wir nehmen Rührteig.</font>
+
+31
+00:02:19,480 --> 00:02:22,039
+<font color=#FFFF00>Man kann auch das ganze Ei nehmen.</font>
+
+32
+00:02:27,079 --> 00:02:30,480
+<font color=#FFFF00>Durch den Eischnee</font>
+<font color=#FFFF00>bekomme ich mehr Volumen.</font>
+
+33
+00:02:34,719 --> 00:02:36,800
+<font color=#FFFF00>Die sind noch sehr saftig.</font>
+
+34
+00:02:37,079 --> 00:02:40,960
+<font color=#FFFF00>Hefe bekommt nicht jedem,</font>
+<font color=#FFFF00>wenn man sie so frisch isst.</font>
+
+35
+00:02:41,880 --> 00:02:46,360
+<font color=#FFFF00>Wenn ich sie aber einen Tag</font>
+<font color=#FFFF00>liegen lasse, werden sie trocken.</font>
+
+36
+00:02:47,240 --> 00:02:49,920
+<font color=#FFFF00>Rührkuchen ist relativ lange saftig.</font>
+
+37
+00:02:57,639 --> 00:02:59,639
+<font color=#00FFFF>Zeig mal, was du drauf hast.</font>
+
+38
+00:03:03,760 --> 00:03:05,480
+<font color=#FFFF00>Man macht eine Acht.</font>
+
+39
+00:03:06,559 --> 00:03:09,000
+<font color=#FFFF00>Und das Ganze etwas schneller.</font>
+
+40
+00:03:15,480 --> 00:03:17,039
+<font color=#FFFF00>Immer aus dem Arm.</font>
+
+41
+00:03:19,880 --> 00:03:23,039
+<font color=#FFFF00>Es geht nicht</font>
+<font color=#FFFF00>um die Kraft aus dem Oberarm.</font>
+
+42
+00:03:23,440 --> 00:03:25,280
+<font color=#FFFF00>Sondern um die Technik.</font>
+
+43
+00:03:26,519 --> 00:03:28,280
+<font color=#FFFF00>Es dauert einen Moment.</font>
+
+44
+00:03:33,719 --> 00:03:37,639
+<font color=#FFFF00>In der Ausbildung lernst du,</font>
+<font color=#FFFF00>das locker zu machen.</font>
+
+45
+00:03:38,480 --> 00:03:42,559
+<font color=#FFFF00>Dann kannst das zwei Stunden lang</font>
+<font color=#FFFF00>machen und merkst nichts.</font>
+
+46
+00:03:42,719 --> 00:03:46,199
+<font color=#FFFF00>Wenn du verkrampfst,</font>
+<font color=#FFFF00>geht es keine zehn Minuten.</font>
+
+47
+00:03:48,320 --> 00:03:49,760
+<font color=#00FFFF>Wie beim Moderieren.</font>
+
+48
+00:03:53,240 --> 00:03:56,199
+<font color=#FFFF00>Man muss nicht immer</font>
+<font color=#FFFF00>die Maschine nehmen.</font>
+
+49
+00:04:00,199 --> 00:04:03,000
+<font color=#FFFF00>Wir schlagen ihn</font>
+<font color=#FFFF00>nicht komplett steif.</font>
+
+50
+00:04:05,440 --> 00:04:08,559
+<font color=#FFFF00>Wir haben ihn</font>
+<font color=#FFFF00>nur ein bisschen angeschlagen.</font>
+
+51
+00:04:08,719 --> 00:04:11,400
+<font color=#FFFF00>Der Teig ist schon relativ kompakt.</font>
+
+52
+00:04:23,880 --> 00:04:26,079
+<font color=#00FFFF>Das ist ein Teig ohne Hefe.</font>
+
+53
+00:04:28,360 --> 00:04:30,320
+<font color=#00FFFF>Wie wird er dann fluffig?</font>
+
+54
+00:04:33,360 --> 00:04:35,079
+<font color=#FFFF00>Eben mit Eischnee.</font>
+
+55
+00:04:37,920 --> 00:04:39,960
+<font color=#FFFF00>Und Backpulver.</font>
+
+56
+00:04:48,880 --> 00:04:50,480
+<font color=#00FFFF>Warum Dinkelmehl?</font>
+
+57
+00:04:52,079 --> 00:04:53,719
+<font color=#FFFF00>Gute Frage.</font>
+
+58
+00:04:55,199 --> 00:04:57,520
+<font color=#FFFF00>Das ist in die Mode gekommen.</font>
+
+59
+00:04:57,880 --> 00:04:59,679
+<font color=#FFFF00>Es hat zwei Vorteile.</font>
+
+60
+00:05:02,480 --> 00:05:05,599
+<font color=#FFFF00>Es hat hat mehr Gluten als Weizen.</font>
+
+61
+00:05:08,360 --> 00:05:11,079
+<font color=#FFFF00>Deshalb hat es mehr Triebkraft.</font>
+
+62
+00:05:18,920 --> 00:05:21,920
+<font color=#FFFF00>Und es enthält mehr Eiweiß</font>
+<font color=#FFFF00>als Weizen.</font>
+
+63
+00:05:26,800 --> 00:05:28,719
+<font color=#FFFF00>Und es hat mehr Vitamine.</font>
+
+64
+00:05:29,039 --> 00:05:30,520
+<font color=#FFFF00>Mehr Kalzium ...</font>
+
+65
+00:05:32,520 --> 00:05:35,400
+<font color=#FFFF00>Und Weizenmehl</font>
+<font color=#FFFF00>haben wir ja überall drin.</font>
+
+66
+00:05:37,920 --> 00:05:40,199
+<font color=#FFFF00>Auch in allen Fertigprodukten.</font>
+
+67
+00:05:40,400 --> 00:05:44,840
+<font color=#FFFF00>Viele haben inzwischen</font>
+<font color=#FFFF00>ein Problem mit Weizen-Gluten.</font>
+
+68
+00:05:45,800 --> 00:05:48,320
+<font color=#FFFF00>Da ist Dinkel eine Alternative.</font>
+
+69
+00:05:49,920 --> 00:05:53,639
+<font color=#FFFF00>Der hat mehr,</font>
+<font color=#FFFF00>aber die Zusammensetzung ist anders.</font>
+
+70
+00:05:58,119 --> 00:06:00,240
+<font color=#FFFF00>Das macht ihn bekömmlicher.</font>
+
+71
+00:06:00,480 --> 00:06:04,079
+<font color=#FFFF00>90 Prozent der Leute,</font>
+<font color=#FFFF00>die Gluten nicht vertragen,</font>
+
+72
+00:06:04,360 --> 00:06:05,840
+<font color=#FFFF00>vertragen Dinkel.</font>
+
+73
+00:06:08,280 --> 00:06:10,599
+<font color=#FFFF00>Das ist wesentlich gesünder.</font>
+
+74
+00:06:13,119 --> 00:06:15,840
+<font color=#FFFF00>Du darfst Pflaumen halbieren.</font>
+
+75
+00:06:20,679 --> 00:06:22,360
+<font color=#FFFF00>Kerne heraus.</font>
+
+76
+00:06:24,360 --> 00:06:26,320
+<font color=#FFFF00>Drei müssten reichen.</font>
+
+77
+00:06:28,039 --> 00:06:30,679
+<font color=#FFFF00>Ein paar habe ich schon gegessen.</font>
+
+78
+00:06:32,360 --> 00:06:34,039
+<font color=#00FFFF>Die Schale war voll.</font>
+
+79
+00:06:39,360 --> 00:06:41,320
+<font color=#FFFF00>Einfach klein schneiden.</font>
+
+80
+00:06:43,719 --> 00:06:47,880
+<font color=#FFFF00>Wir nehmen eine Löffel</font>
+<font color=#FFFF00>und streichen das ins Fett.</font>
+
+81
+00:06:54,920 --> 00:06:57,599
+<font color=#FFFF00>Man kann auch die Fritteuse nehmen.</font>
+
+82
+00:06:58,520 --> 00:07:00,440
+<font color=#FFFF00>Ein hoher Topf ist gut,</font>
+
+83
+00:07:00,639 --> 00:07:03,520
+<font color=#FFFF00>maximal bis zur Hälfte</font>
+<font color=#FFFF00>mit Fett füllen.</font>
+
+84
+00:07:09,520 --> 00:07:14,599
+<font color=#FFFF00>Wenn das Ganze hochkocht,</font>
+<font color=#FFFF00>ist es gut, wenn der Topf höher ist.</font>
+
+85
+00:07:18,800 --> 00:07:21,240
+<font color=#FFFF00>Dann spritzt es nicht so leicht.</font>
+
+86
+00:07:26,119 --> 00:07:28,199
+<font color=#FFFF00>Fritteuse geht aber auch.</font>
+
+87
+00:07:30,280 --> 00:07:34,440
+<font color=#FFFF00>Ich habe Pflanzenfett genommen,</font>
+<font color=#FFFF00>Butterschmalz geht auch.</font>
+
+88
+00:07:34,719 --> 00:07:37,079
+<font color=#FFFF00>Palmöl nicht unbedingt ...</font>
+
+89
+00:07:37,920 --> 00:07:39,760
+<font color=#FFFF00>Das muss nicht sein.</font>
+
+90
+00:07:43,960 --> 00:07:47,800
+<font color=#FFFF00>Es kommt nicht drauf an,</font>
+<font color=#FFFF00>dass es Schönheiten werden.</font>
+
+91
+00:07:48,599 --> 00:07:50,679
+<font color=#FFFF00>Es geht um den Geschmack.</font>
+
+92
+00:07:56,119 --> 00:07:58,760
+<font color=#FFFF00>Wir tun ein bisschen Zucker dazu.</font>
+
+93
+00:07:59,199 --> 00:08:02,119
+<font color=#00FFFF>Brauchst du die Vanilleschote? </font>
+<font color=#FFFF00>Ja.</font>
+
+94
+00:08:07,440 --> 00:08:12,119
+<font color=#00FFFF>Ich hab das schon mal gemacht,</font>
+<font color=#00FFFF>da haben alle gelacht im Studio.</font>
+
+95
+00:08:22,320 --> 00:08:24,920
+<font color=#FFFF00>Vanille gerne als Schote kaufen.</font>
+
+96
+00:08:31,079 --> 00:08:33,599
+<font color=#FFFF00>Du machst das sehr fachmännisch.</font>
+
+97
+00:08:36,400 --> 00:08:38,119
+<font color=#FFFF00>Das gute Mark.</font>
+
+98
+00:08:41,800 --> 00:08:45,320
+<font color=#FFFF00>Das können wir direkt</font>
+<font color=#FFFF00>in die Schüssel streichen.</font>
+
+99
+00:08:46,320 --> 00:08:48,880
+<font color=#FFFF00>Niemals die Schote wegschmeißen!</font>
+
+100
+00:08:55,440 --> 00:08:58,440
+<font color=#FFFF00>Wir wollen alles nutzen</font>
+<font color=#FFFF00>von der Vanille.</font>
+
+101
+00:09:01,560 --> 00:09:06,719
+<font color=#FFFF00>Wenn du Zucker überhast, tust du</font>
+<font color=#FFFF00>den dazu und lässt das Ganze stehen.</font>
+
+102
+00:09:08,159 --> 00:09:11,800
+<font color=#FFFF00>Dann nimmt der Zucker</font>
+<font color=#FFFF00>das Aroma von der Vanille an.</font>
+
+103
+00:09:14,800 --> 00:09:17,520
+<font color=#FFFF00>Wenn die Schote getrocknet ist,</font>
+
+104
+00:09:17,599 --> 00:09:21,320
+<font color=#FFFF00>kannst du sie einfach</font>
+<font color=#FFFF00>zum Zucker dazumixen.</font>
+
+105
+00:09:31,000 --> 00:09:32,480
+<font color=#00FFFF>Große Teller?</font>
+
+106
+00:09:32,679 --> 00:09:34,360
+<font color=#FFFF00>Grün ist gut.</font>
+
+107
+00:09:40,639 --> 00:09:43,040
+<font color=#00FFFF>Wir haben noch Tipps für Sie.</font>
+
+108
+00:09:58,800 --> 00:10:00,599
+<font color=#FFFF00>Das machen wir gleich.</font>
+
+109
+00:10:01,679 --> 00:10:03,880
+<font color=#FFFF00>Im Topf haben wir den Zucker,</font>
+
+110
+00:10:04,040 --> 00:10:07,240
+<font color=#FFFF00>den haben wir</font>
+<font color=#FFFF00>leicht karamellisieren lassen.</font>
+
+111
+00:10:07,400 --> 00:10:10,079
+<font color=#FFFF00>Die Vanille dazu und die Pflaumen.</font>
+
+112
+00:10:13,320 --> 00:10:15,119
+<font color=#FFFF00>Gib mal die Schote her.</font>
+
+113
+00:10:15,920 --> 00:10:19,960
+<font color=#FFFF00>Die kommt auch rein, aufkochen,</font>
+<font color=#FFFF00>ein bisschen abbinden.</font>
+
+114
+00:10:23,000 --> 00:10:24,400
+<font color=#FFFF00>Dann ziehen lassen.</font>
+
+115
+00:10:24,679 --> 00:10:27,800
+<font color=#FFFF00>Je nachdem,</font>
+<font color=#FFFF00>wie weich man sie haben möchte.</font>
+
+116
+00:10:34,560 --> 00:10:37,119
+<font color=#FFFF00>Unsere Krapfen haben wir gebacken.</font>
+
+117
+00:10:39,079 --> 00:10:41,320
+<font color=#FFFF00>Die legen wir in den Zucker.</font>
+
+118
+00:10:43,199 --> 00:10:44,960
+<font color=#FFFF00>Ein bisschen verteilen.</font>
+
+119
+00:10:45,240 --> 00:10:47,639
+<font color=#FFFF00>Dann legen wir sie obendrauf.</font>
+
+120
+00:10:48,679 --> 00:10:50,159
+<font color=#00FFFF>Sind die heiß?</font>
+
+121
+00:10:50,679 --> 00:10:54,320
+<font color=#00FFFF>Gib mir einen,</font>
+<font color=#00FFFF>den ich sofort essen kann.</font>
+
+122
+00:10:58,520 --> 00:11:04,040
+<font color=#00FFFF>Ich kenne das von Schmalzkuchen,</font>
+<font color=#00FFFF>die kann man nicht zu heiß essen.</font>
+
+123
+00:11:06,920 --> 00:11:10,079
+<font color=#FFFF00>Dieser Teig bleibt saftiger</font>
+<font color=#FFFF00>als mit Hefe.</font>
+
+124
+00:11:12,760 --> 00:11:14,520
+<font color=#00FFFF>Das ist supersaftig.</font>
+
+125
+00:11:18,599 --> 00:11:22,360
+<font color=#00FFFF>Da habe ich mich schon</font>
+<font color=#00FFFF>die ganze Zeit drauf gefreut.</font>
+
+126
+00:11:28,400 --> 00:11:30,719
+<font color=#FFFF00>Das sind Kindheitserinnerungen.</font>
+
+127
+00:11:31,679 --> 00:11:33,079
+<font color=#FFFF00>Und Geschmack pur.</font>
+
+128
+00:11:33,679 --> 00:11:36,079
+<font color=#FFFF00>Zu viel sollte man nicht essen.</font>
+
+129
+00:11:39,840 --> 00:11:44,560
+<font color=#FFFF00>Aber wenn du Kuchenteig übrig hast</font>
+<font color=#FFFF00>und heißes Fett – warum nicht?</font>
+
+130
+00:11:48,480 --> 00:11:49,840
+<font color=#00FFFF>Lecker!</font>
+
+131
+00:11:50,560 --> 00:11:53,199
+<font color=#00FFFF>Rezept auf unserer Internetseite.</font>
+
