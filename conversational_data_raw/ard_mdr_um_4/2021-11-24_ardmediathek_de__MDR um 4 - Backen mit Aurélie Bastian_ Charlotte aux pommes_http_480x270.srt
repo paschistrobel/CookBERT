@@ -1,0 +1,581 @@
+1
+00:00:06,021 --> 00:00:10,023
+<font color=#ffff00>Ich glaube ich muss dich nicht</font>
+<font color=#ffff00>fragen</font>
+
+2
+00:00:11,016 --> 00:00:15,013
+<font color=#ffffff>. Arbeitest du mit Butter oder</font>
+<font color=#ffffff>Margarine</font>
+
+3
+00:00:18,006 --> 00:00:22,003
+<font color=#ffffff>? Mit Butter.</font>
+
+4
+00:00:24,021 --> 00:00:28,024
+<font color=#ffffff>Butter kommt in rauen Mengen zum</font>
+<font color=#ffffff>Einsatz.</font>
+
+5
+00:00:29,008 --> 00:00:33,000
+<font color=#ffffff>Es ist Tag der Butter heute.</font>
+
+6
+00:00:33,017 --> 00:00:37,018
+<font color=#ffffff>Es gibt Charlotte aux Pommes.</font>
+
+7
+00:00:41,010 --> 00:00:45,010
+<font color=#ffffff>Charlotte, wie der Vorname.</font>
+
+8
+00:00:49,022 --> 00:00:54,002
+<font color=#ffffff>Eine Charlotte backt man</font>
+<font color=#ffffff>normalerweise nicht.</font>
+
+9
+00:00:55,020 --> 00:00:59,024
+<font color=#ffffff>Es ist eigentlich ein Pfannkuchen.</font>
+
+10
+00:01:07,005 --> 00:01:11,005
+<font color=#ffffff>Man macht ihn mit Löffelbisquit.</font>
+
+11
+00:01:17,018 --> 00:01:21,022
+<font color=#ffffff>Es gibt eine Version, die man b</font>
+
+12
+00:01:29,004 --> 00:01:33,006
+<font color=#ffffff>Es ist eine alte Version.</font>
+
+13
+00:01:36,008 --> 00:01:39,011
+<font color=#ffffff>Charlotte ist nicht die Person,</font>
+
+14
+00:01:40,002 --> 00:01:43,011
+<font color=#ffffff>die es erfunden hat.</font>
+
+15
+00:01:47,016 --> 00:01:51,017
+<font color=#ffff00>Nein, man weiß es nicht genau.</font>
+
+16
+00:02:00,001 --> 00:02:04,001
+<font color=#ffff00>In Frankreich ist es der Name einer</font>
+<font color=#ffff00>Duschhaube.</font>
+
+17
+00:02:05,021 --> 00:02:09,018
+<font color=#ffff00>Das ist die Form.</font>
+
+18
+00:02:19,004 --> 00:02:23,002
+<font color=#ffff00>Es sieht ein bisschen aus, wie eine</font>
+<font color=#ffff00>Duschhaube.</font>
+
+19
+00:02:26,016 --> 00:02:30,013
+<font color=#ffff00>Man macht Butter in die Pfanne.</font>
+
+20
+00:02:33,004 --> 00:02:37,011
+<font color=#ffff00>Ich schneide den Kuchen sehr dünne.</font>
+
+21
+00:02:40,015 --> 00:02:44,014
+<font color=#ffff00>Ich habe ein Brioche selber</font>
+<font color=#ffff00>gebacken.</font>
+
+22
+00:02:46,012 --> 00:02:50,010
+<font color=#ffff00>Den muss man ein bisschen braten.</font>
+
+23
+00:02:51,010 --> 00:02:55,006
+<font color=#ffffff>Darf ich probieren?</font>
+
+24
+00:02:55,022 --> 00:02:59,015
+<font color=#ffff00>Ja klar.</font>
+
+25
+00:03:00,012 --> 00:03:04,012
+<font color=#ffff00>Ich habe Butter,</font>
+
+26
+00:03:06,005 --> 00:03:10,000
+<font color=#ffff00>und ein bisschen Fleur de Sel.</font>
+
+27
+00:03:17,009 --> 00:03:21,011
+<font color=#ffff00>Das Salz bringt den Geschmack von</font>
+<font color=#ffff00>Brioche raus.</font>
+
+28
+00:03:26,005 --> 00:03:30,001
+<font color=#ffff00>60 g Butter für die 2 Brioche.</font>
+
+29
+00:03:35,000 --> 00:03:39,000
+<font color=#ffffff>Alternativ kann man einen Hefezopf</font>
+<font color=#ffffff>nehmen.</font>
+
+30
+00:03:41,014 --> 00:03:45,015
+<font color=#ffff00>Aber den wirklich braten.</font>
+
+31
+00:03:50,022 --> 00:03:54,024
+<font color=#ffff00>Sonst ist er zu weich.</font>
+
+32
+00:03:55,006 --> 00:03:58,024
+<font color=#ffff00>Ich berate ihn,</font>
+
+33
+00:03:59,015 --> 00:04:04,002
+<font color=#ffff00>bis er Gold wird.</font>
+
+34
+00:04:07,009 --> 00:04:11,009
+<font color=#ffff00>Immer wieder etwas Butter dazu tun.</font>
+
+35
+00:04:13,013 --> 00:04:17,015
+<font color=#ffff00>Es ist etwas wie Arme Ritter.</font>
+
+36
+00:04:26,003 --> 00:04:30,003
+<font color=#ffff00>Es gebe ein bisschen Butter in die</font>
+<font color=#ffff00>Pfanne.</font>
+
+37
+00:04:38,008 --> 00:04:42,006
+<font color=#ffff00>Das wäre jetzt der 1. Teil.</font>
+
+38
+00:04:43,011 --> 00:04:47,005
+<font color=#ffff00>Das ist eine Struktur für den</font>
+<font color=#ffff00>Kuchen.</font>
+
+39
+00:04:47,017 --> 00:04:51,005
+<font color=#ffff00>Jetzt kommt die Füllung.</font>
+
+40
+00:04:54,000 --> 00:04:58,002
+<font color=#ffff00>Ich mache es jetzt nur mit Apfel.</font>
+
+41
+00:05:01,015 --> 00:05:05,013
+<font color=#ffff00>Ich wollte keine zusätzliche Creme</font>
+<font color=#ffff00>machen.</font>
+
+42
+00:05:06,008 --> 00:05:10,005
+<font color=#ffff00>So einfach wie möglich soll es sein.</font>
+
+43
+00:05:31,021 --> 00:05:35,021
+<font color=#ffff00>Am besten nehmen Sie ein Brioche</font>
+<font color=#ffff00>oder Brot,</font>
+
+44
+00:05:36,004 --> 00:05:40,001
+<font color=#ffff00>das schon etwas älter ist.</font>
+
+45
+00:05:43,020 --> 00:05:47,009
+<font color=#ffff00>Ich habe es gestern gemacht.</font>
+
+46
+00:05:47,024 --> 00:05:51,013
+<font color=#ffff00>Es ist nicht ganz frisch.</font>
+
+47
+00:05:53,018 --> 00:05:57,017
+<font color=#ffff00>Es soll ein bisschen älter sein.</font>
+
+48
+00:06:00,018 --> 00:06:05,011
+<font color=#ffff00>Nicht nur eine Sorte abzunehmen.</font>
+
+49
+00:06:06,001 --> 00:06:09,002
+<font color=#ffff00>Einfach die Äpfel,</font>
+
+50
+00:06:09,013 --> 00:06:13,002
+<font color=#ffff00>die sie noch Zuhause haben.</font>
+
+51
+00:06:17,004 --> 00:06:21,004
+<font color=#ffff00>Es wird geschnitten, gekocht.</font>
+
+52
+00:06:23,011 --> 00:06:27,008
+<font color=#ffff00>Es soll aber kein Apfelmus werden.</font>
+
+53
+00:06:32,007 --> 00:06:35,016
+<font color=#ffff00>Es soll keine feine, dünne</font>
+
+54
+00:06:36,003 --> 00:06:39,019
+<font color=#ffff00>Konsistenz werden.</font>
+
+55
+00:06:53,022 --> 00:06:57,018
+<font color=#ffff00>Ein Teil des Apfels grob schneiden.</font>
+
+56
+00:07:07,005 --> 00:07:11,005
+<font color=#ffff00>Erst mal den Rand backen.</font>
+
+57
+00:07:22,012 --> 00:07:26,008
+<font color=#ffff00>Ich gebe etwas Butter und einen</font>
+<font color=#ffff00>kleinen Esslöffel Zucker hinein.</font>
+
+58
+00:07:26,016 --> 00:07:30,017
+<font color=#ffff00>Dann lasse ich es garen.</font>
+
+59
+00:07:32,007 --> 00:07:35,012
+<font color=#ffff00>Ein bisschen Calvados gebe ich rein.</font>
+
+60
+00:07:35,024 --> 00:07:39,013
+<font color=#ffff00>Ich bin Französin.</font>
+
+61
+00:07:45,017 --> 00:07:49,017
+<font color=#ffffff>Kannst du auch eine andere</font>
+<font color=#ffffff>Flüssigkeit nehmen?</font>
+
+62
+00:07:59,000 --> 00:08:03,002
+<font color=#ffff00>Man kann auch Grand Manier nehmen.</font>
+
+63
+00:08:07,005 --> 00:08:11,010
+<font color=#ffff00>Ohne Alkohol, dann nimmst du Wasser.</font>
+
+64
+00:08:13,003 --> 00:08:17,005
+<font color=#ffff00>Man nimmt eine Scheibe</font>
+
+65
+00:08:40,000 --> 00:08:44,000
+<font color=#ffff00>etwas über einander müssen die</font>
+<font color=#ffff00>Scheiben liegen.</font>
+
+66
+00:08:44,006 --> 00:08:48,005
+<font color=#ffff00>Sonst es ist nicht dicht.</font>
+
+67
+00:08:50,002 --> 00:08:53,024
+<font color=#ffff00>Etwas andrücken.</font>
+
+68
+00:08:54,011 --> 00:08:58,006
+<font color=#ffff00>Wenn ich den Rand gemacht habe,</font>
+
+69
+00:08:58,022 --> 00:09:02,018
+<font color=#ffff00>kommt jetzt der Boden.</font>
+
+70
+00:09:09,022 --> 00:09:13,015
+<font color=#ffff00>Sehr wichtig ist,</font>
+
+71
+00:09:14,007 --> 00:09:18,008
+<font color=#ffff00>keine Löcher lassen.</font>
+
+72
+00:09:20,020 --> 00:09:24,020
+<font color=#ffff00>Sonst läuft der Saft in die Löcher.</font>
+
+73
+00:09:36,001 --> 00:09:40,000
+<font color=#ffffff>Ich mache jetzt eine kleinere</font>
+<font color=#ffffff>Version.</font>
+
+74
+00:09:42,007 --> 00:09:46,007
+<font color=#ffff00>Jetzt nehme ich meinen Apfel.</font>
+
+75
+00:09:57,004 --> 00:10:01,000
+<font color=#ffff00>Der kommt jetzt auch dazu.</font>
+
+76
+00:10:02,019 --> 00:10:06,018
+<font color=#ffff00>Den muss man gut andrücken.</font>
+
+77
+00:10:26,022 --> 00:10:30,020
+<font color=#ffff00>Pektin ist ein Geliermittel.</font>
+
+78
+00:10:35,006 --> 00:10:39,004
+<font color=#ffff00>Dann mache ich den Rest rein.</font>
+
+79
+00:10:40,003 --> 00:10:43,023
+<font color=#ffff00>Bis oben.</font>
+
+80
+00:10:51,002 --> 00:10:55,004
+<font color=#ffff00>Als letztes noch ein Stück Brioche.</font>
+
+81
+00:10:56,021 --> 00:11:01,000
+<font color=#ffff00>Den Rand reindrücken.</font>
+
+82
+00:11:03,005 --> 00:11:07,006
+<font color=#ffff00>Die Löcher schließen.</font>
+
+83
+00:11:07,018 --> 00:11:11,015
+<font color=#ffff00>Das geht jetzt in den Backofen.</font>
+
+84
+00:11:14,013 --> 00:11:18,014
+<font color=#ffff00>Je nach Größe 25-30 Minuten.</font>
+
+85
+00:11:21,013 --> 00:11:24,014
+<font color=#ffffff>Ich zeige dir,</font>
+
+86
+00:11:25,002 --> 00:11:28,013
+<font color=#ffffff>wie ich es gemacht habe.</font>
+
+87
+00:11:30,007 --> 00:11:34,007
+<font color=#ffff00>Perfekt.</font>
+
+88
+00:11:39,020 --> 00:11:43,024
+<font color=#ffff00>Dann machst du den Apfel.</font>
+
+89
+00:11:46,001 --> 00:11:49,023
+<font color=#ffffff>Das Loch muss zu sein.</font>
+
+90
+00:11:52,012 --> 00:11:56,012
+<font color=#ffff00>Ich bereite den Karamell.</font>
+
+91
+00:12:03,018 --> 00:12:07,012
+<font color=#ffff00>Das würde ich nur bei Brioche oder</font>
+<font color=#ffff00>Brot machen.</font>
+
+92
+00:12:12,024 --> 00:12:16,023
+<font color=#ffff00>Für den Karamell nimmt man einen</font>
+<font color=#ffff00>Kochtopf,</font>
+
+93
+00:12:20,017 --> 00:12:25,006
+<font color=#ffff00>Zucker rein, warten und nicht</font>
+<font color=#ffff00>rühren.</font>
+
+94
+00:12:29,000 --> 00:12:33,006
+<font color=#ffff00>Wenn Sie rühren nehmen sie den</font>
+<font color=#ffff00>geschmolzenen Zucker</font>
+
+95
+00:12:38,018 --> 00:12:42,015
+<font color=#ffff00>von der Hitze weg.</font>
+
+96
+00:12:43,000 --> 00:12:46,017
+<font color=#ffff00>Dann wird er hart.</font>
+
+97
+00:12:54,013 --> 00:12:58,013
+<font color=#ffff00>Also nicht rühren. Sondern</font>
+<font color=#ffff00>schütteln.</font>
+
+98
+00:13:06,014 --> 00:13:10,015
+<font color=#ffff00>Jetzt habe ich einen Fehler gemacht.</font>
+
+99
+00:13:16,006 --> 00:13:19,018
+<font color=#ffff00>Jetzt macht es kleine Perlen.</font>
+
+100
+00:13:20,009 --> 00:13:23,020
+<font color=#ffff00>Die lösen sich nicht wieder.</font>
+
+101
+00:13:27,000 --> 00:13:31,000
+<font color=#ffffff>Ich habe es jetzt oben abgedeckt.</font>
+
+102
+00:13:33,006 --> 00:13:37,005
+<font color=#ffff00>Ich habe Karamell.</font>
+
+103
+00:13:37,018 --> 00:13:41,018
+<font color=#ffff00>Das ist Omas Rezept.</font>
+
+104
+00:13:55,020 --> 00:13:59,022
+<font color=#ffff00>Jetzt rühren und Sahne dazu geben.</font>
+
+105
+00:14:00,009 --> 00:14:04,003
+<font color=#ffff00>Jetzt machen wir eine Sauce.</font>
+
+106
+00:14:11,006 --> 00:14:14,021
+<font color=#ffffff>Das kommt jetzt in den Backofen.</font>
+
+107
+00:14:25,015 --> 00:14:29,011
+<font color=#ffffff>Das ist eine Original Charlotte-</font>
+<font color=#ffffff>Form.</font>
+
+108
+00:14:33,003 --> 00:14:36,023
+<font color=#ffffff>In Frankreich machen wir das in</font>
+<font color=#ffffff>einem normalen Topf.</font>
+
+109
+00:14:39,008 --> 00:14:42,009
+<font color=#ffffff>Wenn der Topf schräg ist,</font>
+
+110
+00:14:42,021 --> 00:14:46,013
+<font color=#ffffff>hält es nicht so gut.</font>
+
+111
+00:14:49,010 --> 00:14:53,013
+<font color=#ffff00>Das ist die Sauce.</font>
+
+112
+00:14:56,001 --> 00:14:58,010
+<font color=#ffffff>Wir probieren gleich mal von dem</font>
+<font color=#ffffff>Kuchen,</font>
+
+113
+00:14:58,024 --> 00:15:02,011
+<font color=#ffffff>der fertig ist.</font>
+
+114
+00:15:05,019 --> 00:15:09,015
+<font color=#ffffff>Wenn Sie das Rezept sich anschauen</font>
+<font color=#ffffff>wollen,</font>
+
+115
+00:15:12,003 --> 00:15:15,022
+<font color=#ffffff>sehen Sie das mit dem QR-Code.</font>
+
+116
+00:15:21,020 --> 00:15:25,023
+<font color=#ffffff>Jetzt bin ich gespannt,</font>
+
+117
+00:15:26,008 --> 00:15:30,000
+<font color=#ffffff>ich hatte es mir nicht vorstellen</font>
+<font color=#ffffff>können,</font>
+
+118
+00:15:30,009 --> 00:15:34,000
+<font color=#ffffff>dass der kuchenfest ist.</font>
+
+119
+00:15:35,006 --> 00:15:39,002
+<font color=#ffffff>Dass man ihn sogar in Stücke</font>
+<font color=#ffffff>schneiden kann.</font>
+
+120
+00:15:41,022 --> 00:15:45,018
+<font color=#ffff00>Es hält.</font>
+
+121
+00:15:46,013 --> 00:15:49,017
+<font color=#ffff00>Wir geben noch ein bisschen Karamell</font>
+<font color=#ffff00>dazu.</font>
+
+122
+00:15:52,017 --> 00:15:56,015
+<font color=#ffffff>Dankeschön um 19:00 Uhr geht es los.</font>
+
+123
+00:15:57,004 --> 00:16:00,021
+<font color=#ffffff>Jetzt sieht man,</font>
+
+124
+00:16:01,011 --> 00:16:04,012
+<font color=#ffffff>wie fest das geworden ist.</font>
+
+125
+00:16:04,016 --> 00:16:08,010
+<font color=#ffffff>Ich war klar extra .</font>
+
+126
+00:16:08,022 --> 00:16:12,021
+<font color=#ffffff>man sieht die beiden Schichten.</font>
+
+127
+00:16:16,021 --> 00:16:20,021
+<font color=#ffffff>Du hast noch ein bisschen Karamell</font>
+<font color=#ffffff>drüber gemacht.</font>
+
+128
+00:16:23,022 --> 00:16:27,021
+<font color=#ffff00>Ja nicht meine,</font>
+
+129
+00:16:31,022 --> 00:16:35,024
+<font color=#ffff00>aber ich hab eine da.</font>
+
+130
+00:16:39,013 --> 00:16:43,020
+<font color=#ffff00>Es wird serviert mit Vanilleeis.</font>
+
+131
+00:16:44,007 --> 00:16:48,010
+<font color=#ffff00>Es schmeckt ganz lecker nach Apfel.</font>
+
+132
+00:16:50,000 --> 00:16:53,020
+<font color=#ffffff>Ich kann es mir vorstellen mit ein</font>
+<font color=#ffffff>bisschen Zimt.</font>
+
+133
+00:16:59,014 --> 00:17:03,016
+<font color=#ffff00>Man könnte auch Mandeln oder Rosinen</font>
+<font color=#ffff00>mit Essen.</font>
+
+134
+00:17:05,013 --> 00:17:09,008
+<font color=#ffffff>Man kann auch ein Brot kaufen.</font>
+
+135
+00:17:10,003 --> 00:17:14,003
+<font color=#ffffff>Vielen Dank für Ihre Aufmerksamkeit.</font>
+
+136
+00:17:14,019 --> 00:17:20,001
+<font color=#ffffff>Morgen geht es weiter.</font>
+
+137
+00:17:20,009 --> 00:17:23,001
+<font color=#ffffff>Heute geht es weiter mit den</font>
+<font color=#ffffff>Kollegen von NDR aktuell.</font>
+

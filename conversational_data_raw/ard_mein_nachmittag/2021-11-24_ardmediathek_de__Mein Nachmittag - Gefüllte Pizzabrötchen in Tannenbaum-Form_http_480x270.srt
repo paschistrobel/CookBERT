@@ -1,0 +1,488 @@
+1
+00:00:01,378 --> 00:00:04,858
+<font color=#00FFFF>Der Meinung sind wir auch.</font>
+
+2
+00:00:05,058 --> 00:00:08,538
+<font color=#00FFFF>Am besten schläft man</font>
+<font color=#00FFFF>wohl ohne Mittel.</font>
+
+3
+00:00:09,338 --> 00:00:13,418
+<font color=#00FFFF>Man muss was Leckeres</font>
+<font color=#00FFFF>gegessen haben, was glücklich macht.</font>
+
+4
+00:00:13,658 --> 00:00:16,378
+<font color=#00FFFF>Etwas von Zora.</font>
+
+5
+00:00:16,538 --> 00:00:19,858
+<font color=#FFFF00>Das geht runter wie Öl.</font>
+
+6
+00:00:20,178 --> 00:00:23,698
+<font color=#00FFFF>Das heute ist für den Magen</font>
+<font color=#00FFFF>und für die Augen.</font>
+
+7
+00:00:24,018 --> 00:00:27,498
+<font color=#FFFF00>Klar, der Tannenbaum.</font>
+
+8
+00:00:31,458 --> 00:00:34,938
+<font color=#00FFFF>Es gibt Pizzabrötchen</font>
+<font color=#00FFFF>in Tannenbaum-Form.</font>
+
+9
+00:00:37,658 --> 00:00:41,218
+<font color=#FFFF00>Das ist ein cooler Snack</font>
+<font color=#FFFF00>für nachmittags.</font>
+
+10
+00:00:41,378 --> 00:00:44,418
+<font color=#FFFF00>Es muss nicht</font>
+<font color=#FFFF00>immer etwas Süßes sein.</font>
+
+11
+00:00:47,098 --> 00:00:50,418
+<font color=#FFFF00>Es sieht trotzdem</font>
+<font color=#FFFF00>nach Weihnachten aus.</font>
+
+12
+00:00:51,938 --> 00:00:55,458
+<font color=#FFFF00>Ich weiß, wie gerne du Teig magst.</font>
+
+13
+00:00:55,738 --> 00:00:59,218
+<font color=#FFFF00>Dieser Teig ist kleiner,</font>
+<font color=#FFFF00>als er sein sollte.</font>
+
+14
+00:00:59,338 --> 00:01:02,818
+<font color=#FFFF00>Irgendwer hat wohl genascht ...</font>
+
+15
+00:01:08,418 --> 00:01:11,898
+<font color=#FFFF00>Wir machen einen kleinen Baum.</font>
+
+16
+00:01:12,258 --> 00:01:15,738
+<font color=#FFFF00>Mehl, Wasser, Salz, Hefe.</font>
+
+17
+00:01:16,698 --> 00:01:20,178
+<font color=#FFFF00>Gehen lassen, fertig.</font>
+
+18
+00:01:20,538 --> 00:01:24,298
+<font color=#FFFF00>Je länger die Gehzeit,</font>
+<font color=#FFFF00>desto geschmackvoller der Teig.</font>
+
+19
+00:01:28,338 --> 00:01:31,898
+<font color=#FFFF00>Wenn man es kürzer gehen lässt,</font>
+<font color=#FFFF00>ist es auch lecker.</font>
+
+20
+00:01:32,818 --> 00:01:36,298
+<font color=#FFFF00>Aber länger ist besser.</font>
+
+21
+00:01:37,898 --> 00:01:42,098
+<font color=#FFFF00>Getrockneter Thymian</font>
+<font color=#FFFF00>und Rosmarin ist mit drin.</font>
+
+22
+00:01:42,938 --> 00:01:46,098
+<font color=#FFFF00>Daher die Punkte.</font>
+
+23
+00:01:48,698 --> 00:01:51,578
+<font color=#FFFF00>Man kann auch andere Kräuter nehmen.</font>
+
+24
+00:01:53,818 --> 00:01:56,858
+<font color=#FFFF00>Für den Pizza-Geschmack.</font>
+
+25
+00:01:59,138 --> 00:02:01,978
+<font color=#FFFF00>Ich gebe dir gleich auch ein paar.</font>
+
+26
+00:02:02,138 --> 00:02:05,458
+<font color=#FFFF00>Ich habe verschiedene Füllungen.</font>
+
+27
+00:02:05,618 --> 00:02:08,738
+<font color=#FFFF00>Was magst du gerne?</font>
+
+28
+00:02:08,898 --> 00:02:13,298
+<font color=#00FFFF>Ich mag gerne Fetakäse.</font>
+<font color=#FFFF00>Oh, den habe ich vergessen!</font>
+
+29
+00:02:21,178 --> 00:02:24,018
+<font color=#FFFF00>Ich gebe dir noch etwas Mehl.</font>
+
+30
+00:02:24,178 --> 00:02:27,058
+<font color=#FFFF00>Dann klebt es nicht so.</font>
+
+31
+00:02:27,218 --> 00:02:30,538
+<font color=#FFFF00>Ich stelle dir das dazu.</font>
+
+32
+00:02:31,098 --> 00:02:35,578
+<font color=#00FFFF>Man überlegt sich also, womit man</font>
+<font color=#00FFFF>die Pizzabrötchen füllen möchte.</font>
+
+33
+00:02:36,458 --> 00:02:40,378
+<font color=#FFFF00>Genau, ich habe Mozzarella,</font>
+<font color=#FFFF00>getrocknete Tomaten, Oliven,</font>
+
+34
+00:02:40,538 --> 00:02:43,938
+<font color=#FFFF00>gefüllte Paprika, ...</font>
+
+35
+00:02:44,538 --> 00:02:48,418
+<font color=#FFFF00>Man kann auch Brokkoli rein machen -</font>
+<font color=#FFFF00>oder was man möchte.</font>
+
+36
+00:02:50,658 --> 00:02:54,178
+<font color=#FFFF00>Wir füllen die jetzt verschieden.</font>
+
+37
+00:02:54,298 --> 00:02:57,738
+<font color=#FFFF00>Hier ist der Feta!</font>
+
+38
+00:02:58,338 --> 00:03:01,098
+<font color=#00FFFF>Ein Stück behalte ich mal hier.</font>
+
+39
+00:03:01,258 --> 00:03:04,578
+<font color=#00FFFF>Tomaten brauche ich auch.</font>
+
+40
+00:03:05,018 --> 00:03:08,498
+<font color=#00FFFF>Es geht auch alles andere, sagst du.</font>
+
+41
+00:03:09,098 --> 00:03:12,618
+<font color=#00FFFF>Man kann alles nehmen, was weg muss.</font>
+
+42
+00:03:12,738 --> 00:03:16,218
+<font color=#00FFFF>Was ist mit frischem Spinat?</font>
+
+43
+00:03:16,338 --> 00:03:19,858
+<font color=#FFFF00>Den würde ich</font>
+<font color=#FFFF00>erst in der Pfanne anmachen.</font>
+
+44
+00:03:19,978 --> 00:03:23,498
+<font color=#FFFF00>Dann fällt er etwas zusammen.</font>
+<font color=#FFFF00>Dann auswringen und rein.</font>
+
+45
+00:03:26,298 --> 00:03:29,778
+<font color=#FFFF00>Jetzt nimm den Teigball</font>
+<font color=#FFFF00>und mach den flach.</font>
+
+46
+00:03:38,818 --> 00:03:42,298
+<font color=#00FFFF>Wie mache ich das jetzt?</font>
+
+47
+00:03:43,338 --> 00:03:46,818
+<font color=#00FFFF>Ich weiß, ich muss etwas abbrechen.</font>
+
+48
+00:03:49,098 --> 00:03:52,658
+<font color=#FFFF00>Ich habe mich für</font>
+<font color=#FFFF00>die gefüllte Paprika entschieden.</font>
+
+49
+00:03:52,818 --> 00:03:56,218
+<font color=#FFFF00>Die setze ich in die Mitte.</font>
+
+50
+00:03:56,618 --> 00:04:00,098
+<font color=#FFFF00>Dann kann ich das Teigstück</font>
+<font color=#FFFF00>oben zumachen.</font>
+
+51
+00:04:02,018 --> 00:04:04,418
+<font color=#00FFFF>Du machst nur eine Sache?</font>
+
+52
+00:04:04,578 --> 00:04:07,898
+<font color=#00FFFF>Ich würde ...</font>
+
+53
+00:04:08,058 --> 00:04:11,538
+<font color=#FFFF00>Du kannst das variieren.</font>
+
+54
+00:04:11,658 --> 00:04:16,218
+<font color=#FFFF00>Du kannst Käse und Tomate nehmen.</font>
+<font color=#00FFFF>Ja.</font>
+
+55
+00:04:16,378 --> 00:04:18,258
+<font color=#00FFFF>Dann mache ich das zu.</font>
+
+56
+00:04:18,418 --> 00:04:19,858
+<font color=#FFFF00>Ja, genau.</font>
+
+57
+00:04:20,018 --> 00:04:23,338
+<font color=#FFFF00>Super.</font>
+
+58
+00:04:26,658 --> 00:04:30,138
+<font color=#FFFF00>Jetzt kannst du das unten</font>
+<font color=#FFFF00>mit den Handkanten ...</font>
+
+59
+00:04:34,618 --> 00:04:38,138
+<font color=#FFFF00>Ich reibe das</font>
+<font color=#FFFF00>und schließe das damit.</font>
+
+60
+00:04:38,298 --> 00:04:41,778
+<font color=#00FFFF>Das letzte Teig-Rezept</font>
+<font color=#00FFFF>habe ich direkt nachgemacht.</font>
+
+61
+00:04:42,338 --> 00:04:45,818
+<font color=#00FFFF>Ich habe dir ein Foto geschickt.</font>
+
+62
+00:04:46,778 --> 00:04:50,258
+<font color=#FFFF00>Vielleicht machst du</font>
+<font color=#FFFF00>bald einen Tannenbaum.</font>
+
+63
+00:04:50,578 --> 00:04:53,058
+<font color=#00FFFF>Man kann auch andere Formen machen.</font>
+
+64
+00:04:53,218 --> 00:04:55,258
+<font color=#00FFFF>Alles ist möglich.</font>
+
+65
+00:04:55,418 --> 00:04:58,738
+<font color=#00FFFF>Sie sehen das gleich.</font>
+
+66
+00:04:58,898 --> 00:05:02,338
+<font color=#00FFFF>Ich belege noch einen.</font>
+
+67
+00:05:04,298 --> 00:05:08,338
+<font color=#00FFFF>Man kann das wie ein</font>
+<font color=#00FFFF>Profi-Pizzabäcker auseinanderziehen.</font>
+
+68
+00:05:09,618 --> 00:05:13,018
+<font color=#FFFF00>Das kannst du auch</font>
+<font color=#FFFF00>durch die Gegend werfen.</font>
+
+69
+00:05:14,498 --> 00:05:17,978
+<font color=#FFFF00>Frisbee spielen.</font>
+
+70
+00:05:19,378 --> 00:05:22,898
+<font color=#FFFF00>Jetzt macht man sich einen</font>
+<font color=#FFFF00>ein bisschen länglicher.</font>
+
+71
+00:05:23,058 --> 00:05:26,498
+<font color=#00FFFF>Ja, das wird der Stamm.</font>
+
+72
+00:05:29,138 --> 00:05:32,058
+<font color=#FFFF00>Man könnte auch</font>
+<font color=#FFFF00>zwei Brötchen nehmen.</font>
+
+73
+00:05:32,218 --> 00:05:35,498
+<font color=#00FFFF>Das Auge isst mit.</font>
+
+74
+00:05:35,658 --> 00:05:39,018
+<font color=#FFFF00>Ich finde die Idee cool.</font>
+
+75
+00:05:39,178 --> 00:05:42,578
+<font color=#FFFF00>Man rechnet nicht</font>
+<font color=#FFFF00>mit einer leckeren Füllung.</font>
+
+76
+00:05:44,538 --> 00:05:47,858
+<font color=#FFFF00>Und es ist immer etwas anderes drin.</font>
+
+77
+00:05:49,298 --> 00:05:53,138
+<font color=#00FFFF>Ich muss das werfen,</font>
+<font color=#00FFFF>es ist nicht viel anders möglich.</font>
+
+78
+00:05:54,778 --> 00:05:58,218
+<font color=#00FFFF>Aber ich bin froh,</font>
+<font color=#00FFFF>dass ich helfen kann.</font>
+
+79
+00:05:59,978 --> 00:06:03,498
+<font color=#00FFFF>Hier ein Brötchen mit Fetakäse.</font>
+
+80
+00:06:09,298 --> 00:06:12,778
+<font color=#00FFFF>Kommt sofort.</font>
+
+81
+00:06:12,818 --> 00:06:14,898
+<font color=#00FFFF>Der ist ein bisschen unrund.</font>
+
+82
+00:06:15,058 --> 00:06:17,978
+<font color=#FFFF00>Das macht nichts.</font>
+
+83
+00:06:18,138 --> 00:06:21,458
+<font color=#00FFFF>Nicht schlimm.</font>
+
+84
+00:06:21,618 --> 00:06:25,098
+<font color=#FFFF00>Jetzt bepinselt man das</font>
+<font color=#FFFF00>mit Olivenöl.</font>
+
+85
+00:06:25,298 --> 00:06:28,378
+<font color=#FFFF00>Für den Glanz.</font>
+
+86
+00:06:28,498 --> 00:06:31,858
+<font color=#FFFF00>Dann geht es in den Ofen, 200 Grad.</font>
+
+87
+00:06:32,018 --> 00:06:35,418
+<font color=#FFFF00>Das wird ein Extrabrötchen.</font>
+
+88
+00:06:35,938 --> 00:06:39,458
+<font color=#00FFFF>Sie haben das Prinzip verstanden.</font>
+
+89
+00:06:41,138 --> 00:06:44,618
+<font color=#00FFFF>Zora hat das vorhin</font>
+<font color=#00FFFF>schon schöner gemacht.</font>
+
+90
+00:06:45,058 --> 00:06:48,378
+<font color=#FFFF00>Und größer.</font>
+
+91
+00:06:48,538 --> 00:06:51,018
+<font color=#00FFFF>So sieht das dann aus.</font>
+
+92
+00:06:55,778 --> 00:06:59,138
+<font color=#FFFF00>Ich drehe das mal.</font>
+
+93
+00:07:01,258 --> 00:07:04,738
+<font color=#00FFFF>Super Tannenbaum!</font>
+
+94
+00:07:05,538 --> 00:07:08,018
+<font color=#00FFFF>Könnte auch ein Pfeil sein.</font>
+
+95
+00:07:08,178 --> 00:07:09,618
+<font color=#00FFFF>Wir wollen probieren.</font>
+
+96
+00:07:09,818 --> 00:07:13,138
+<font color=#FFFF00>Warte.</font>
+
+97
+00:07:13,298 --> 00:07:16,418
+<font color=#FFFF00>Ich habe noch</font>
+<font color=#FFFF00>Knoblauch mit Olivenöl.</font>
+
+98
+00:07:16,578 --> 00:07:19,938
+<font color=#00FFFF>Muss ja nicht überall drauf.</font>
+
+99
+00:07:20,978 --> 00:07:24,458
+<font color=#FFFF00>Jetzt nimmt man sich</font>
+<font color=#FFFF00>Tannen als Deko.</font>
+
+100
+00:07:24,618 --> 00:07:28,058
+<font color=#00FFFF>Das ist meine Lieblingsdeko.</font>
+
+101
+00:07:29,498 --> 00:07:32,138
+<font color=#00FFFF>Mehr Ast als grün -</font>
+<font color=#00FFFF>aber macht nichts.</font>
+
+102
+00:07:32,298 --> 00:07:34,298
+<font color=#00FFFF>Ich möchte probieren.</font>
+
+103
+00:07:37,698 --> 00:07:41,898
+<font color=#00FFFF>Lieber ohne Knoblauch.</font>
+<font color=#00FFFF>Wer weiß, was noch passiert.</font>
+
+104
+00:07:42,778 --> 00:07:46,138
+<font color=#FFFF00>Vorsicht, heiß.</font>
+
+105
+00:07:48,138 --> 00:07:50,298
+<font color=#00FFFF>Machst du mit? </font>
+<font color=#FFFF00>Ja.</font>
+
+106
+00:07:50,458 --> 00:07:52,898
+<font color=#FFFF00>Es ist heiß.</font>
+
+107
+00:07:53,058 --> 00:07:56,418
+<font color=#00FFFF>Glaube ich auch.</font>
+
+108
+00:07:56,618 --> 00:07:59,298
+<font color=#FFFF00>Mmmh!</font>
+
+109
+00:08:01,338 --> 00:08:04,698
+<font color=#00FFFF>Ich trau mich noch nicht.</font>
+
+110
+00:08:05,218 --> 00:08:08,458
+<font color=#FFFF00>Würzig, luftig, lecker!</font>
+
+111
+00:08:08,618 --> 00:08:11,938
+<font color=#00FFFF>Das ist richtig lecker!</font>
+
+112
+00:08:12,498 --> 00:08:16,098
+<font color=#00FFFF>Das muss ich mir gleich</font>
+<font color=#00FFFF>in Ruhe hier rein schaffen.</font>
+

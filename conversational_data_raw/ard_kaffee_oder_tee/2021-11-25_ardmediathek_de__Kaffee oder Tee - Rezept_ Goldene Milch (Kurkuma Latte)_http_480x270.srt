@@ -1,0 +1,450 @@
+1
+00:00:01,515 --> 00:00:05,355
+<font color=#ffffff>
+	Die Gewinnerin oder der Gewinner
+	</font>
+<font color=#ffffff>
+	wird gleich benachrichtigt.
+	</font>
+
+2
+00:00:06,995 --> 00:00:09,275
+<font color=#ffffff>
+	Ein leckeres Rezept haben wir für I.
+	</font>
+
+3
+00:00:11,115 --> 00:00:14,235
+<font color=#ffffff>
+	Es geht um heiße Getränke mit
+	</font>
+<font color=#ffffff>
+	exotischen Gewürzen.
+	</font>
+
+4
+00:00:14,595 --> 00:00:16,355
+<font color=#ffffff>
+	Björn Deinert ist bei uns.
+	</font>
+
+5
+00:00:17,835 --> 00:00:20,155
+<font color=#ffffff>
+	Du hast uns ein Getränk mitgebracht.
+	</font>
+
+6
+00:00:20,475 --> 00:00:22,315
+<font color=#ffffff>
+	Es liegt im Trend.
+	</font>
+
+7
+00:00:23,715 --> 00:00:25,595
+<font color=#00ffff>
+	Wir machen Golden Milk.
+	</font>
+
+8
+00:00:30,075 --> 00:00:31,955
+<font color=#00ffff>
+	Absolut im Trend, vegan.
+	</font>
+
+9
+00:00:32,275 --> 00:00:34,115
+<font color=#00ffff>
+	Es tut dem Körper gut.
+	</font>
+
+10
+00:00:34,915 --> 00:00:36,795
+<font color=#00ffff>
+	Toller Inhaltsstoffe.
+	</font>
+
+11
+00:00:38,515 --> 00:00:40,395
+<font color=#ffffff>
+	Wir machen Golden Milk und?
+	</font>
+
+12
+00:00:41,475 --> 00:00:43,355
+<font color=#00ffff>
+	Minz-Chai Latte.
+	</font>
+
+13
+00:00:44,435 --> 00:00:46,315
+<font color=#ffffff>
+	Wir legen los.
+	</font>
+
+14
+00:00:50,155 --> 00:00:52,795
+<font color=#00ffff>
+	Wir brauchen: Mandelmilch oder
+	</font>
+<font color=#00ffff>
+	Hafermilch,
+	</font>
+
+15
+00:00:54,035 --> 00:00:57,635
+<font color=#00ffff>
+	ich nehme gerne Mandelmilch, weil es
+	</font>
+<font color=#00ffff>
+	mir besser schmeckt.
+	</font>
+
+16
+00:00:57,955 --> 00:00:59,755
+<font color=#00ffff>
+	Wir nehmen Kokosmilch.
+	</font>
+
+17
+00:01:01,595 --> 00:01:03,475
+<font color=#00ffff>
+	Zu gleichen Teilen.
+	</font>
+
+18
+00:01:05,595 --> 00:01:08,235
+<font color=#ffffff>
+	Mandelmilch, weil sie dir besser
+	</font>
+<font color=#ffffff>
+	schmeckt?
+	</font>
+
+19
+00:01:14,835 --> 00:01:17,315
+<font color=#00ffff>
+	Du kannst Hafermilch nehmen,
+	</font>
+<font color=#00ffff>
+	Sojamilch.
+	</font>
+
+20
+00:01:17,915 --> 00:01:19,795
+<font color=#ffffff>
+	Klassische Milch geht auch.
+	</font>
+
+21
+00:01:23,515 --> 00:01:25,595
+<font color=#00ffff>
+	Ja. Das ist eine vegane Variante.
+	</font>
+
+22
+00:01:26,195 --> 00:01:28,075
+<font color=#00ffff>
+	Jetzt brauchen wir irgendwer.
+	</font>
+
+23
+00:01:29,555 --> 00:01:31,435
+<font color=#00ffff>
+	Ich gebe ordentlich was dazu.
+	</font>
+
+24
+00:01:33,195 --> 00:01:35,075
+<font color=#00ffff>
+	Dann nehme ich Kurkuma.
+	</font>
+
+25
+00:01:35,875 --> 00:01:37,755
+<font color=#00ffff>
+	Frisch geraspelt.
+	</font>
+
+26
+00:01:39,715 --> 00:01:41,715
+<font color=#00ffff>
+	Handschuhe nehmen, es fährt gut.
+	</font>
+
+27
+00:01:43,595 --> 00:01:45,475
+<font color=#ffffff>
+	Das sind die kleinen Rüben.
+	</font>
+
+28
+00:01:47,995 --> 00:01:50,835
+<font color=#00ffff>
+	Genau, wo die Rosenknospen
+	</font>
+<font color=#00ffff>
+	dazwischen liegen.
+	</font>
+
+29
+00:01:53,075 --> 00:01:54,955
+<font color=#00ffff>
+	Wo kommt es her?Aus Indien.
+	</font>
+
+30
+00:01:58,435 --> 00:02:01,155
+<font color=#ffffff>
+	Dieser Trend, Golden Milk, wo kommt
+	</font>
+<font color=#ffffff>
+	er her?
+	</font>
+
+31
+00:02:09,595 --> 00:02:12,195
+<font color=#00ffff>
+	Das entstand aus ayurvedischen
+	</font>
+<font color=#00ffff>
+	Therapien.
+	</font>
+
+32
+00:02:12,595 --> 00:02:14,475
+<font color=#00ffff>
+	Wir geben Kardamom dazu.
+	</font>
+
+33
+00:02:16,795 --> 00:02:20,035
+<font color=#00ffff>
+	In dieser Jahreszeit haben wir gerne
+	</font>
+<font color=#00ffff>
+	solche Gewürze.
+	</font>
+
+34
+00:02:20,395 --> 00:02:22,195
+<font color=#00ffff>
+	Zimt.
+	</font>
+
+35
+00:02:22,915 --> 00:02:24,795
+<font color=#00ffff>
+	Etwas Nelke.
+	</font>
+
+36
+00:02:26,435 --> 00:02:28,595
+<font color=#00ffff>
+	Aber vorsichtig. Nur ein bisschen.
+	</font>
+
+37
+00:02:29,235 --> 00:02:31,195
+<font color=#00ffff>
+	Es ist sehr intensiv.
+	</font>
+
+38
+00:02:32,075 --> 00:02:33,955
+<font color=#00ffff>
+	Ein bisschen Kokosnussöl.
+	</font>
+
+39
+00:02:36,475 --> 00:02:40,115
+<font color=#00ffff>
+	Um das ganze zu unterstützen, dass
+	</font>
+<font color=#00ffff>
+	es sich gut verbindet.
+	</font>
+
+40
+00:02:42,915 --> 00:02:46,155
+<font color=#00ffff>
+	Nur, damit es sich verbindet?Für
+	</font>
+<font color=#00ffff>
+	den Geschmack auch.
+	</font>
+
+41
+00:02:46,515 --> 00:02:49,075
+<font color=#00ffff>
+	Der Körper kann es auch besser
+	</font>
+<font color=#00ffff>
+	aufnehmen.
+	</font>
+
+42
+00:02:49,395 --> 00:02:51,155
+<font color=#00ffff>
+	Ich erhitzte das jetzt.
+	</font>
+
+43
+00:02:52,315 --> 00:02:54,235
+<font color=#00ffff>
+	1 Minute köcheln lassen.
+	</font>
+
+44
+00:02:55,035 --> 00:02:56,915
+<font color=#00ffff>
+	Und dann beiseitestellen,
+	</font>
+
+45
+00:02:58,275 --> 00:03:00,795
+<font color=#00ffff>
+	damit die Gewürze sich entfalten
+	</font>
+<font color=#00ffff>
+	können.
+	</font>
+
+46
+00:03:02,875 --> 00:03:06,315
+<font color=#00ffff>
+	Danach genießen wir das. Ich habe es
+	</font>
+<font color=#00ffff>
+	schon vorbereitet.
+	</font>
+
+47
+00:03:06,675 --> 00:03:08,795
+<font color=#ffffff>
+	Ich bin sehr gespannt. Golden Milk.
+	</font>
+
+48
+00:03:10,995 --> 00:03:14,595
+<font color=#ffffff>
+	Gewürzkombination habe ich noch nie
+	</font>
+<font color=#ffffff>
+	gehabt in der Milch.
+	</font>
+
+49
+00:03:14,915 --> 00:03:16,795
+<font color=#ffffff>
+	Es riecht ein bisschen wie...
+	</font>
+
+50
+00:03:17,835 --> 00:03:19,715
+<font color=#ffffff>
+	Man kann es nicht beschreiben.
+	</font>
+
+51
+00:03:20,715 --> 00:03:22,595
+<font color=#00ffff>
+	Kokos kommt durch.
+	</font>
+
+52
+00:03:27,595 --> 00:03:29,475
+<font color=#00ffff>
+	Ingwer kommt durch.
+	</font>
+
+53
+00:03:31,195 --> 00:03:33,035
+<font color=#ffffff>
+	Wie beim Thailänder.
+	</font>
+
+54
+00:03:33,795 --> 00:03:35,675
+<font color=#ffffff>
+	Es ist heiß.
+	</font>
+
+55
+00:03:36,715 --> 00:03:38,875
+<font color=#ffffff>
+	Ich habe mir den Gaumen verbrannt.
+	</font>
+
+56
+00:03:39,795 --> 00:03:41,675
+<font color=#ffffff>
+	Es beeinflusst den Geschmack.
+	</font>
+
+57
+00:03:43,355 --> 00:03:45,235
+<font color=#ffffff>
+	Es ist lecker. Man muss pusten.
+	</font>
+
+58
+00:03:49,515 --> 00:03:52,075
+<font color=#ffffff>
+	Es ist total heiß. Wie eine
+	</font>
+<font color=#ffffff>
+	Schutzschicht.
+	</font>
+
+59
+00:03:54,675 --> 00:03:56,555
+<font color=#ffffff>
+	Es ist gut. Das gefällt mir.
+	</font>
+
+60
+00:03:57,555 --> 00:03:59,435
+<font color=#ffffff>
+	Das exotische kommt raus.
+	</font>
+
+61
+00:04:01,475 --> 00:04:03,275
+<font color=#00ffff>
+	Es gibt schwarzen Pfeffer.
+	</font>
+
+62
+00:04:07,075 --> 00:04:10,355
+<font color=#00ffff>
+	Ich gebe dir dazu, um die
+	</font>
+<font color=#00ffff>
+	Antioxidantien vom Kurkuma
+	</font>
+
+63
+00:04:10,715 --> 00:04:13,115
+<font color=#00ffff>
+	freizusetzen. Das ist gut für den
+	</font>
+<font color=#00ffff>
+	Körper.
+	</font>
+
+64
+00:04:13,475 --> 00:04:15,435
+<font color=#00ffff>
+	Du kannst es super vorbereiten.
+	</font>
+
+65
+00:04:17,555 --> 00:04:20,915
+<font color=#00ffff>
+	Du kannst es dir in die Flasche
+	</font>
+<font color=#00ffff>
+	einführen und in den Kühlschrank
+	</font>
+
