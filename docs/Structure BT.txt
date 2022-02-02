@@ -1,0 +1,50 @@
+- Introduction
+	--> Conversational Search/ conversational agents, chatbots, ... wird immer wichtiger (in vielen Bereichen, darunter customer service, healt, education, Kochen --> bsp: Foodie Fooderson)
+	--> von rule-based auf machine learning und neuronale Netze umgestiegen
+	--> eines der game changer der letzten Jahre war dabei BERT 
+	--> BERT für eine vielzahl an NLP Tasks einsetzbar, die auch für Conv. Agents relevant sind
+	--> Problem: BERT fehlt domänenspezifisches Wissen
+	--> Mein Ziel: BERT Modell erstellen, indem domänenspezifisches Wissen hinzugefügt wird.
+	--> Fragestellung noch unklar: 
+- (Background / BERT Architecture)
+	--> Allgm. Grundlagen zu BERT: Architektur, Attention Mechanismus, Transformers, Transfer Learning, etc. 
+- Related Work
+	- Dialogue Systems allgm. 
+	- Dialogue Systems für die Küche
+	- BERT allgemein
+	- Adapting BERT to specific domains
+		--> was machen andere Ansätze, um BERT an Domäne anzupassen
+	- BERT for the cooking domain
+		--> welche Ansätze gibts, die BERT in der Kochdomäne einsetzen?
+	- Summary / Key differences
+		--> noch kein Model, das gutes overall verständnis von Sprache der Kochdomäne hat und welches somit für conversational agents eingesetzt werden kann
+- Methodology 
+	- Domain adaptation
+		- DAPT
+			--> wie wird domain adaption erreicht --> via DAPT
+		- Verwendeter Datensatz
+			--> RecipeNLG
+		- Vokabular Insertion
+			--> Wieso und welches Vokabular, wie ausgewählt?
+	- Finetuning
+		- Multi-class classification
+			--> Wie wurde das gemacht, welcher Head wurde geaddet?
+			--> Welcher Datensatz wurde verwendet
+		- NER
+			--> Wie wurde das gemacht, welcher Head wurde geaddet?
+			--> Welcher Datensatz wurde verwendet
+		- QA
+			--> Wie wurde das gemacht, welcher Head wurde geaddet?
+			--> Welcher Datensatz wurde verwendet 
+	- Tools and environment/ Hardware specs/ Sonstige Infos
+		--> Google Colab, gratis GPU, Huggingface library
+		--> Trainingsdauer, Parameter DAPT
+		--> Trainingsdauer, Parameter Finetuning
+- Results
+	- MCC
+		--> an Frummets Auswertung orientieren
+	- NER
+	- QA
+- Discussion
+- Limitations
+- Conclusion
