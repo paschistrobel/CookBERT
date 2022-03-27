@@ -1,0 +1,5 @@
+{
+    "predict_samples": 525,
+    "test_exact_match": 10.380952380952381,
+    "test_f1": 29.154565255239152
+}

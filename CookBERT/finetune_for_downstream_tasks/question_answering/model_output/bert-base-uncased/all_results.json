@@ -1,0 +1,11 @@
+{
+    "epoch": 3.0,
+    "predict_samples": 525,
+    "test_exact_match": 15.047619047619047,
+    "test_f1": 32.51970880652341,
+    "train_loss": 2.5998878822670326,
+    "train_runtime": 555.493,
+    "train_samples": 4734,
+    "train_samples_per_second": 25.566,
+    "train_steps_per_second": 0.799
+}
