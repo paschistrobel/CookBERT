@@ -1,0 +1,268 @@
+index	prediction	ground_trouth
+0	Recipe	Recipe
+1	Amount	Recipe
+2	Amount	Cooking technique
+3	Amount	Amount
+4	Recipe	Preparation
+5	Ingredient	Preparation
+6	Time	Temperature
+7	Temperature	Time
+8	Recipe	Recipe
+9	Temperature	Preparation
+10	Temperature	Temperature
+11	Time	Time
+12	Preparation	Preparation
+13	Ingredient	Ingredient
+14	Cooking technique	Preparation
+15	Preparation	Preparation
+16	Amount	Amount
+17	Cooking technique	Knowledge
+18	Temperature	Preparation
+19	Recipe	Knowledge
+20	Ingredient	Cooking technique
+21	Time	Preparation
+22	Preparation	Preparation
+23	Amount	Amount
+24	Cooking technique	Miscellaneous
+25	Amount	Amount
+26	Amount	Amount
+27	Cooking technique	Preparation
+28	Cooking technique	Preparation
+29	Amount	Amount
+30	Preparation	Preparation
+31	Preparation	Recipe
+32	Knowledge	Recipe
+33	Miscellaneous	Ingredient
+34	Amount	Amount
+35	Recipe	Recipe
+36	Amount	Amount
+37	Ingredient	Ingredient
+38	Ingredient	Ingredient
+39	Amount	Amount
+40	Ingredient	Ingredient
+41	Preparation	Preparation
+42	Time	Time
+43	Recipe	Recipe
+44	Cooking technique	Ingredient
+45	Amount	Amount
+46	Preparation	Recipe
+47	Preparation	Ingredient
+48	Ingredient	Ingredient
+49	Preparation	Preparation
+50	Cooking technique	Ingredient
+51	Amount	Amount
+52	Ingredient	Preparation
+53	Preparation	Preparation
+54	Ingredient	Ingredient
+55	Cooking technique	Cooking technique
+56	Ingredient	Knowledge
+57	Ingredient	Ingredient
+58	Recipe	Miscellaneous
+59	Amount	Amount
+60	Recipe	Cooking technique
+61	Time	Time
+62	Equipment	Ingredient
+63	Amount	Amount
+64	Recipe	Recipe
+65	Cooking technique	Miscellaneous
+66	Ingredient	Ingredient
+67	Recipe	Cooking technique
+68	Preparation	Preparation
+69	Cooking technique	Preparation
+70	Cooking technique	Cooking technique
+71	Preparation	Preparation
+72	Preparation	Ingredient
+73	Amount	Amount
+74	Cooking technique	Ingredient
+75	Amount	Amount
+76	Time	Preparation
+77	Ingredient	Preparation
+78	Ingredient	Ingredient
+79	Ingredient	Preparation
+80	Ingredient	Ingredient
+81	Ingredient	Ingredient
+82	Recipe	Ingredient
+83	Ingredient	Preparation
+84	Time	Time
+85	Amount	Amount
+86	Recipe	Ingredient
+87	Recipe	Ingredient
+88	Preparation	Ingredient
+89	Knowledge	Knowledge
+90	Preparation	Preparation
+91	Time	Time
+92	Preparation	Preparation
+93	Preparation	Preparation
+94	Preparation	Preparation
+95	Ingredient	Amount
+96	Ingredient	Ingredient
+97	Time	Cooking technique
+98	Amount	Amount
+99	Ingredient	Cooking technique
+100	Recipe	Ingredient
+101	Miscellaneous	Recipe
+102	Ingredient	Ingredient
+103	Cooking technique	Cooking technique
+104	Time	Preparation
+105	Time	Ingredient
+106	Preparation	Preparation
+107	Recipe	Recipe
+108	Preparation	Recipe
+109	Cooking technique	Preparation
+110	Amount	Ingredient
+111	Ingredient	Preparation
+112	Preparation	Cooking technique
+113	Recipe	Recipe
+114	Ingredient	Preparation
+115	Cooking technique	Cooking technique
+116	Amount	Amount
+117	Amount	Amount
+118	Time	Time
+119	Cooking technique	Ingredient
+120	Preparation	Cooking technique
+121	Preparation	Ingredient
+122	Amount	Amount
+123	Ingredient	Ingredient
+124	Preparation	Preparation
+125	Temperature	Preparation
+126	Equipment	Equipment
+127	Temperature	Preparation
+128	Ingredient	Preparation
+129	Amount	Amount
+130	Ingredient	Preparation
+131	Preparation	Preparation
+132	Amount	Amount
+133	Ingredient	Ingredient
+134	Amount	Amount
+135	Time	Ingredient
+136	Time	Ingredient
+137	Preparation	Ingredient
+138	Time	Time
+139	Preparation	Recipe
+140	Amount	Amount
+141	Ingredient	Ingredient
+142	Preparation	Ingredient
+143	Preparation	Ingredient
+144	Preparation	Ingredient
+145	Equipment	Equipment
+146	Equipment	Equipment
+147	Amount	Amount
+148	Ingredient	Ingredient
+149	Cooking technique	Preparation
+150	Cooking technique	Cooking technique
+151	Preparation	Preparation
+152	Amount	Amount
+153	Ingredient	Ingredient
+154	Ingredient	Ingredient
+155	Cooking technique	Cooking technique
+156	Preparation	Cooking technique
+157	Recipe	Ingredient
+158	Ingredient	Ingredient
+159	Cooking technique	Cooking technique
+160	Time	Time
+161	Time	Time
+162	Time	Time
+163	Recipe	Ingredient
+164	Preparation	Ingredient
+165	Ingredient	Ingredient
+166	Preparation	Ingredient
+167	Amount	Amount
+168	Amount	Amount
+169	Preparation	Preparation
+170	Cooking technique	Preparation
+171	Temperature	Time
+172	Ingredient	Preparation
+173	Ingredient	Preparation
+174	Ingredient	Ingredient
+175	Amount	Preparation
+176	Preparation	Preparation
+177	Ingredient	Ingredient
+178	Preparation	Preparation
+179	Cooking technique	Preparation
+180	Preparation	Preparation
+181	Preparation	Preparation
+182	Recipe	Recipe
+183	Amount	Amount
+184	Recipe	Miscellaneous
+185	Amount	Amount
+186	Recipe	Meal
+187	Ingredient	Ingredient
+188	Time	Time
+189	Recipe	Recipe
+190	Preparation	Ingredient
+191	Cooking technique	Cooking technique
+192	Preparation	Preparation
+193	Time	Amount
+194	Amount	Recipe
+195	Preparation	Preparation
+196	Preparation	Time
+197	Ingredient	Recipe
+198	Cooking technique	Ingredient
+199	Amount	Amount
+200	Amount	Amount
+201	Preparation	Preparation
+202	Amount	Amount
+203	Amount	Amount
+204	Preparation	Ingredient
+205	Amount	Amount
+206	Preparation	Recipe
+207	Cooking technique	Cooking technique
+208	Preparation	Preparation
+209	Ingredient	Temperature
+210	Preparation	Ingredient
+211	Time	Time
+212	Equipment	Equipment
+213	Recipe	Preparation
+214	Ingredient	Preparation
+215	Amount	Amount
+216	Time	Time
+217	Ingredient	Ingredient
+218	Time	Time
+219	Time	Time
+220	Preparation	Preparation
+221	Preparation	Preparation
+222	Cooking technique	Preparation
+223	Amount	Amount
+224	Recipe	Knowledge
+225	Preparation	Preparation
+226	Preparation	Preparation
+227	Ingredient	Ingredient
+228	Preparation	Preparation
+229	Time	Time
+230	Preparation	Preparation
+231	Ingredient	Ingredient
+232	Preparation	Preparation
+233	Preparation	Preparation
+234	Cooking technique	Preparation
+235	Cooking technique	Ingredient
+236	Preparation	Ingredient
+237	Amount	Amount
+238	Cooking technique	Cooking technique
+239	Cooking technique	Cooking technique
+240	Amount	Amount
+241	Ingredient	Ingredient
+242	Recipe	Ingredient
+243	Cooking technique	Preparation
+244	Preparation	Preparation
+245	Preparation	Preparation
+246	Cooking technique	Preparation
+247	Ingredient	Ingredient
+248	Preparation	Preparation
+249	Amount	Amount
+250	Ingredient	Preparation
+251	Cooking technique	Ingredient
+252	Cooking technique	Preparation
+253	Ingredient	Ingredient
+254	Amount	Amount
+255	Ingredient	Ingredient
+256	Preparation	Ingredient
+257	Cooking technique	Cooking technique
+258	Amount	Preparation
+259	Amount	Amount
+260	Preparation	Preparation
+261	Preparation	Preparation
+262	Amount	Amount
+263	Recipe	Recipe
+264	Amount	Amount
+265	Amount	Amount
+266	Preparation	Preparation

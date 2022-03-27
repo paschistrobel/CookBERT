@@ -1,3 +1,4 @@
 # dataset files to big for github #
 /datasets
-/CookBERT/finetune_for_downstream_tasks/
+/CookBERT/finetune_for_downstream_tasks/named_entity_recognition/
+/CookBERT/finetune_for_downstream_tasks/question_answering/

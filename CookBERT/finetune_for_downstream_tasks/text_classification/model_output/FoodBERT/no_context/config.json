@@ -1,0 +1,52 @@
+{
+  "_name_or_path": "otherModels/checkpoint-final",
+  "architectures": [
+    "BertForSequenceClassification"
+  ],
+  "attention_probs_dropout_prob": 0.1,
+  "classifier_dropout": null,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "id2label": {
+    "0": "Amount",
+    "1": "Cooking technique",
+    "2": "Equipment",
+    "3": "Ingredient",
+    "4": "Knowledge",
+    "5": "Meal",
+    "6": "Miscellaneous",
+    "7": "Preparation",
+    "8": "Recipe",
+    "9": "Temperature",
+    "10": "Time"
+  },
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "label2id": {
+    "Amount": 0,
+    "Cooking technique": 1,
+    "Equipment": 2,
+    "Ingredient": 3,
+    "Knowledge": 4,
+    "Meal": 5,
+    "Miscellaneous": 6,
+    "Preparation": 7,
+    "Recipe": 8,
+    "Temperature": 9,
+    "Time": 10
+  },
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "pad_token_id": 0,
+  "position_embedding_type": "absolute",
+  "problem_type": "single_label_classification",
+  "torch_dtype": "float32",
+  "transformers_version": "4.16.2",
+  "type_vocab_size": 2,
+  "use_cache": true,
+  "vocab_size": 33247
+}
