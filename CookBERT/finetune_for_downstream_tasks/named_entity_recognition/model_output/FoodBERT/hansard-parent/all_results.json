@@ -1,0 +1,16 @@
+{
+    "epoch": 14.98,
+    "predict_accuracy": 0.9636123680241327,
+    "predict_f1": 0.7213800313643493,
+    "predict_loss": 0.15349042415618896,
+    "predict_precision": 0.6673114119922631,
+    "predict_recall": 0.7849829351535836,
+    "predict_runtime": 1.1401,
+    "predict_samples_per_second": 87.711,
+    "predict_steps_per_second": 11.402,
+    "train_loss": 0.3738041469029018,
+    "train_runtime": 400.7203,
+    "train_samples": 900,
+    "train_samples_per_second": 33.689,
+    "train_steps_per_second": 1.048
+}
