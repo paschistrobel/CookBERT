@@ -1,5 +1,7 @@
 # dataset files to big for github #
-/datasets
+/datasets/recipe1M
+/datasets/recipeNLG
+/datasets/wikipedia_book_corpus
 /**/pytorch_model.bin
 /**/BachelorThesis.docx
 /literature

@@ -1,0 +1,3 @@
+1. Strip trailing and leading white spaces from recipe before using.
+2. Semantic tag separator is ';'.
+3. A BioC xml format parser already exists at https://github.com/yfpeng/bioc
