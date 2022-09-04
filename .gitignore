@@ -2,6 +2,6 @@
 /datasets/recipe1M/recipe1M.json
 /datasets/recipeNLG/RecipeNLG_dataset.csv
 /datasets/wikipedia_book_corpus
-/**/pytorch_model.bin
+/CookBERT/finetune_for_downstream_tasks/**/pytorch_model.bin
 /**/BachelorThesis.docx
 /literature
