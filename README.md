@@ -1,4 +1,4 @@
-# CookBERT: Domain adapted BERT model for the cooking domain
+# CookBERT: A domain adapted BERT model for the cooking domain
 ## What is CookBERT?
 CookBERT is based on Google's BERT (Bidirectional Encoder Representations from Transformers), which is a famous deep learning model that has received a lot of attention over the last years due to its incredible performance in a wide variety of NLP tasks (including text classification, question answering, named entity recognition and many more). However, BERT is only pretrained on textual data from the general domain (wikipedia articles and books) and it's performance is limited when encountering domain-specific data, i.e. the cooking domain. CookBERT was developed to tackle this problem. 
 CookBERT ist entstanden, indem das BERT base model als Ausgangspunkt hergenommen, und via domain-adaptive pretraining weitere 3 Epochen auf die Instruktionen des kochspezifischen RecipeNLG Datensatzes trainiert wurde. Das entstande CookBERT modell ist somit speziell auf die Kochdomäne gerichtet, sichtbar in den Prädiktionen:
