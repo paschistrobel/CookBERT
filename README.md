@@ -75,16 +75,16 @@ Das volle Paper zu CookBERT ist [hier](docs/BachelorThesis.pdf) zu finden.
         <tr>
             <td rowspan=2>CookBERT</td>
             <td rowspan=1>no context</td>
-            <td rowspan=1>48.58%</td>
-            <td rowspan=1>55.65%</td>
-            <td rowspan=1>50.72%</td>
+            <td rowspan=1><b>48.58%</b></td>
+            <td rowspan=1><b>55.65%</b></td>
+            <td rowspan=1><b>50.72%</b></td>
             <td rowspan=1>[45.54%;55.90%]</td>
         </tr>
         <tr>
             <td>1 prev turn</td>
-            <td>52.26%</td>
-            <td>59.30%</td>
-            <td>54.05%</td>
+            <td><b>52.26%</b></td>
+            <td><b>59.30%</b></td>
+            <td><b>54.05%</b></td>
             <td>[48.93%;59.16%]</td>
         </tr>
         <tr>
@@ -157,37 +157,37 @@ Das volle Paper zu CookBERT ist [hier](docs/BachelorThesis.pdf) zu finden.
          <tr>
             <td rowspan=5>CookBERT</td>
             <td rowspan=1>Food-classification</td>
-            <td rowspan=1>92.25%</td>
-            <td rowspan=1>96.52%</td>
-            <td rowspan=1>94.47%</td>
+            <td rowspan=1><b>92.25%</b></td>
+            <td rowspan=1><b>96.52%</b></td>
+            <td rowspan=1><b>94.47%</b></td>
             <td rowspan=1>[94.17%;94.76%]</td>
         </tr>
         <tr>
             <td>FoodOn</td>
-            <td>69.75%</td>
-            <td>77.51%</td>
-            <td>73.42%</td>
+            <td><b>69.75%</b></td>
+            <td><b>77.51%</b></td>
+            <td><b>73.42%</b></td>
             <td>[71.91%;74.93%]</td>
         </tr>
          <tr>
             <td>Hansard-parent</td>
-            <td>82.72%</td>
-            <td>89.18%</td>
-            <td>85.83%</td>
+            <td><b>82.72%</b></td>
+            <td><b>89.18%</b></td>
+            <td><b>85.83%</b></td>
             <td>[84.69%;86.97%]</td>
         </tr>
          <tr>
             <td>Hansard-closest</td>
-            <td>72.21%</td>
-            <td>80.41%</td>
-            <td>76.08%</td>
+            <td><b>72.21%</b></td>
+            <td><b>80.41%</b></td>
+            <td><b>76.08%</b></td>
             <td>[74.60%;77.56%]</td>
         </tr>
         <tr>
             <td>SNOMED CT</td>
-            <td>68.58%</td>
-            <td>75.51%</td>
-            <td>71.87%</td>
+            <td><b>68.58%</b></td>
+            <td><b>75.51%</b></td>
+            <td><b>71.87%</b></td>
             <td>[69.99%;73.75%]</td>
         </tr>
          <tr>
@@ -233,7 +233,7 @@ Das volle Paper zu CookBERT ist [hier](docs/BachelorThesis.pdf) zu finden.
 ### Question answering
 |Model|Exact match|F-measure|95%-CI|
 | --- | --- | --- | ---|
-|BERTbase| 14.06%| 32.39%| [31.25%;33.54%]|
+|BERTbase| **14.06%**| **32.39%**| [31.25%;33.54%]|
 |CookBERT| 12.51% |30.64%| [29.50%;31.78%]|
 |FoodBERT|10.81%| 27.51%| [26.51%;28.50%]|
 
