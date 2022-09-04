@@ -42,3 +42,9 @@ CookBERT ist entstanden, indem das BERT base model als Ausgangspunkt hergenommen
 </table>
 
 Das volle Paper zu CookBERT ist [hier](docs/BachelorThesis.pdf) zu finden.
+
+## Performance
+
+
+## Training specs
+
