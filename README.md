@@ -45,7 +45,65 @@ Das volle Paper zu CookBERT ist [hier](docs/BachelorThesis.pdf) zu finden.
 
 ## Performance
 ### Text classification
-
+<table>
+    <thead>
+        <tr>
+            <th>Model</th>
+            <th>Condition</th>
+            <th>Precision</th>
+            <th>Recall</th>
+            <th>F-Measure</th>
+            <th>95%-CI</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=2>BERTbase</td>
+            <td rowspan=1>no context</td>
+            <td rowspan=1>47.94%</td>
+            <td rowspan=1>48.68%</td>
+            <td rowspan=1>46.15%</td>
+            <td rowspan=1>[41.15%;51.16%]</td>
+        </tr>
+        <tr>
+            <td>1 prev turn</td>
+            <td>46.29%</td>
+            <td>49.84%</td>
+            <td>45.38%</td>
+            <td>[40.06%;50.70%]</td>
+        </tr>
+        <tr>
+            <td rowspan=2>CookBERT</td>
+            <td rowspan=1>no context</td>
+            <td rowspan=1>48.58%</td>
+            <td rowspan=1>55.65%</td>
+            <td rowspan=1>50.72%</td>
+            <td rowspan=1>[45.54%;55.90%]</td>
+        </tr>
+        <tr>
+            <td>1 prev turn</td>
+            <td>52.26%</td>
+            <td>59.30%</td>
+            <td>54.05%</td>
+            <td>[48.93%;59.16%]</td>
+        </tr>
+        <tr>
+            <td rowspan=2>FoodBERT</td>
+            <td rowspan=1>no context</td>
+            <td rowspan=1>42.41%</td>
+            <td rowspan=1>49.81%</td>
+            <td rowspan=1>44.32%</td>
+            <td rowspan=1>[38.92%;49.73%]</td>
+        </tr>
+        <tr>
+            <td>1 prev turn</td>
+            <td>36.89%</td>
+            <td>44.49%</td>
+            <td>38.09%</td>
+            <td>[32.64%;43.55%]</td>
+        </tr>
+    </tbody>
+</table>
 
 ### Named entity recognition
 <table>
