@@ -1,4 +1,5 @@
 # dataset files to big for github #
 /datasets
-/CookBERT/finetune_for_downstream_tasks/question_answering/
-/CookBERT/finetune_for_downstream_tasks/text_classification/
+/**/pytorch_model.bin
+/**/BachelorThesis.docx
+/literature
