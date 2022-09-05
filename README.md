@@ -250,4 +250,4 @@ Question answering in the sense of answer span extraction; Based on the cooking 
 ## Training specs
 To obtain CookBERT, `BERTbase (uncased version)` was used as the starting point which was then further pretrained for `three additional epochs` on the `MLM` task on the `RecipeNLG instructions`, with `5% serving as validation data`. Training was performed with a `learning rate of 2e-5`, an effective `batch size of 32`, and a `maximum sequence length of 256`. The training took appoximately `five complete days` on a single `NVIDIA Tesla P100 GPU` provided by Google Colab Pro.
 
-# How to try out CookBERT?
+# Using CookBERT
