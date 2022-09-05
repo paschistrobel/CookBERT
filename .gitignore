@@ -4,5 +4,6 @@
 /datasets/wikipedia_book_corpus
 /CookBERT/finetune_for_downstream_tasks/**/pytorch_model.bin
 /**/BachelorThesis.docx
+/docs/BachelorThesis_complete.pdf
 /literature
 /figures
