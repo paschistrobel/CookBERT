@@ -251,7 +251,7 @@ Question answering in the sense of answer span extraction; Based on the cooking 
 To obtain CookBERT, `BERTbase (uncased version)` was used as the starting point which was then further pretrained for `three additional epochs` on the `MLM` task on the `RecipeNLG instructions`, with `5% serving as validation data`. Training was performed with a `learning rate of 2e-5`, an effective `batch size of 32`, and a `maximum sequence length of 256`. The training took appoximately `five complete days` on a single `NVIDIA Tesla P100 GPU` provided by Google Colab Pro.
 
 # Using CookBERT
-The CookBERT pytorch model checkpoint can be downloaded from [this](https://drive.google.com/drive/folders/1l1izk2hQp2AvLe0uFywoP0z3ZccMFng-?usp=sharing) Google Drive folder. Huggingface Transformer Library enables the model to be set up easily:
+The CookBERT pytorch model checkpoint can be downloaded from [this Google Drive folder](https://drive.google.com/drive/folders/1l1izk2hQp2AvLe0uFywoP0z3ZccMFng-?usp=sharing). Huggingface Transformer Library enables the model to be set up easily:
 ```python
 from transformers import (
     BertTokenizerFast,
@@ -267,4 +267,4 @@ masked_text = "Cut the [MASK] into small pieces."
 print("Predictions: ", CookBERT_pipeline(masked_text, top_k=5))
 ```
 
-Note that the Google Drive folder only contains the CookBERT checkpoint that was trained on the MLM task. In order to apply CookBERT, the finetuning script from Huggingface can be used. 
+Note that the Google Drive folder only contains the CookBERT checkpoint that was trained on the MLM task. In order to apply CookBERT, the finetuning scripts from Huggingface can be used. 
