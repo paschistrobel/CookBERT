@@ -261,7 +261,7 @@ from transformers import (
 
 CookBERT_tokenizer = BertTokenizerFast.from_pretrained("CookBERT-checkpoint")
 CookBERT = BertForMaskedLM.from_pretrained("CookBERT-checkpoint")
-CookBERT_pipeline = pipeline("fill-mask", model=MLM_CookBERT, tokenizer=MLM_CookBERT_tokenizer)
+CookBERT_pipeline = pipeline("fill-mask", model=CookBERT, tokenizer=CookBERT_tokenizer)
 
 masked_text = "Cut the [MASK] into small pieces."
 print("Predictions: ", CookBERT_pipeline(masked_text, top_k=5))
