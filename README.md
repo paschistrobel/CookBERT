@@ -1,6 +1,9 @@
 # CookBERT: A domain adapted BERT model for the cooking domain
+
+See the official [CookBERT paper](docs/BachelorThesis.pdf).
+
 ## What is CookBERT?
-As Google's BERT (Bidirectional Encoder Representations from Transformers) was only pretrained on textual data of the general domain (wikipedia articles and books), its performance is limited when applied for domain specific tasks and corpora such as the cooking domain. Therefore, CookBERT is introduced, a domain-specific BERT model for the cooking domain. To create CookBERT, the default BERT model was further trained for 3 epochs on the instructions of the RecipeNLG corpus. As a result of the domain adaptive pretraining, CookBERT emerged, which is geared more towards the cooking domain compared to the base model: 
+CookBERT is a domain-specific [BERT](https://github.com/google-research/bert "Google's BERT implementation") model that was created via domain adaptive pretraining on the instructions of the RecipeNLG corpus, as well as enhancing BERT's default vocabulary by a total of 1229 cooking specific words. As a result, CookBERT is geared more towards the cooking domain:
 <table>
     <thead>
         <tr>
@@ -40,12 +43,13 @@ As Google's BERT (Bidirectional Encoder Representations from Transformers) was o
     </tbody>
 </table>
 
-The domain-specific CookBERT model has proven to be superior on cooki
-
-Das volle Paper zu CookBERT ist [hier](docs/BachelorThesis.pdf) zu finden.
+The domain-specifity of CookBERT has proven to be superior in text classification and named entity recognition when dealing with data related to the cooking domain. 
 
 ## Performance
+CookBERT was finetuned and evaluated on three different tasks, including information need classification, food entity tagging and question answering. In addition, BERTbase (uncased version) and [FoodBERT](https://github.com/ChantalMP/Exploiting-Food-Embeddings-for-Ingredient-Substitution "FoodBERT Github") were applied for the same tasks in order to be able to compare and rank CookBERT's performance.
+
 ### Text classification
+Results of the classification of user information needs that arise during cooking; Based on the [Cookversational dataset](https://github.com/AlexFrummet/CookversationalSearch "CookversationalSearch Github").
 <table>
     <thead>
         <tr>
@@ -105,8 +109,10 @@ Das volle Paper zu CookBERT ist [hier](docs/BachelorThesis.pdf) zu finden.
         </tr>
     </tbody>
 </table>
+<sub>Best performances printed in bold</sub>
 
 ### Named entity recognition
+Food entity tagging using the curated version of the [FoodBase corpus](https://academic.oup.com/database/article/doi/10.1093/database/baz121/5611291 "Link to FoodBase paper"), as well as the labels provided by [Stojanov et al. (2021)](https://www.jmir.org/2021/8/e28229 "Link to paper") for five different tagging schemes.
 <table>
     <thead>
         <tr>
@@ -229,14 +235,17 @@ Das volle Paper zu CookBERT ist [hier](docs/BachelorThesis.pdf) zu finden.
         </tr>
     </tbody>
 </table>
-
+<sub>Best performances printed in bold</sub>
 
 ### Question answering
+Question answering in the sense of answer span extraction; Based on the cooking subset of the [DoQA dataset](https://aclanthology.org/2020.acl-main.652/ "Link to DoQA paper").
 |Model|Exact match|F-measure|95%-CI|
 | --- | --- | --- | ---|
 |BERTbase| **14.06%**| **32.39%**| [31.25%;33.54%]|
 |CookBERT| 12.51% |30.64%| [29.50%;31.78%]|
 |FoodBERT|10.81%| 27.51%| [26.51%;28.50%]|
+
+<sub>Best performances printed in bold</sub>
 
 ## Training specs
 To obtain CookBERT, `BERTbase (uncased version)` was used as the starting point which was then further pretrained for `three additional epochs` on the `MLM` task on the `RecipeNLG instructions`, with `5% serving as validation data`. Training was performed with a `learning rate of 2e-5`, an effective `batch size of 32`, and a `maximum sequence length of 256`. The training took appoximately `five complete days` on a single `NVIDIA Tesla P100 GPU` provided by Google Colab Pro.
