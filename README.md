@@ -1,9 +1,9 @@
-# CookBERT: A domain adapted BERT model for the cooking domain
+# CookBERT: A Domain Adapted BERT Model for the Cooking Domain
 
 See the official [CookBERT paper](docs/BachelorThesis.pdf).
 
 ## What is CookBERT?
-CookBERT is a domain-specific [BERT](https://github.com/google-research/bert "Google's BERT implementation") model that was created via domain adaptive pretraining on the instructions of the RecipeNLG corpus, as well as enhancing BERT's default vocabulary by a total of 1229 cooking specific words. As a result, CookBERT is geared more towards the cooking domain:
+CookBERT is a domain-specific [BERT](https://github.com/google-research/bert "Google's BERT implementation") model that was created by domain adaptive pretraining on the instructions of the [RecipeNLG](https://aclanthology.org/2020.inlg-1.4/ "Link to RecipeNLG paper") corpus and by enhancing BERT's default vocabulary by a total of 1229 cooking specific words. As a result, CookBERT is geared more towards the cooking domain than the default model:
 <table>
     <thead>
         <tr>
@@ -44,6 +44,9 @@ CookBERT is a domain-specific [BERT](https://github.com/google-research/bert "Go
 </table>
 
 The domain-specifity of CookBERT has proven to be superior in text classification and named entity recognition when dealing with data related to the cooking domain. 
+
+## Training specs
+To obtain CookBERT, `BERTbase (uncased version)` was used as the starting point which was then further pretrained for `three additional epochs` on the `MLM` task on the `RecipeNLG instructions`, with `5% serving as validation data`. Training was performed with a `learning rate of 2e-5`, an effective `batch size of 32`, and a `maximum sequence length of 256`. The training took appoximately `five complete days` on a single `NVIDIA Tesla P100 GPU` provided by Google Colab Pro.
 
 ## Performance
 CookBERT was finetuned and evaluated on three different tasks, including information need classification, food entity tagging and question answering. In addition, BERTbase (uncased version) and [FoodBERT](https://github.com/ChantalMP/Exploiting-Food-Embeddings-for-Ingredient-Substitution "FoodBERT Github") were applied for the same tasks in order to be able to compare and rank CookBERT's performance.
@@ -112,7 +115,7 @@ Results of the classification of user information needs that arise during cookin
 <sub>Best performances printed in bold</sub>
 
 ### Named entity recognition
-Food entity tagging using the curated version of the [FoodBase corpus](https://academic.oup.com/database/article/doi/10.1093/database/baz121/5611291 "Link to FoodBase paper"), as well as the labels provided by [Stojanov et al. (2021)](https://www.jmir.org/2021/8/e28229 "Link to paper") for five different tagging schemes.
+Results of the food entity tagging task using the curated version of the [FoodBase corpus](https://academic.oup.com/database/article/doi/10.1093/database/baz121/5611291 "Link to FoodBase paper"), as well as the labels provided by [Stojanov et al. (2021)](https://www.jmir.org/2021/8/e28229 "Link to paper") for five different tagging schemes.
 <table>
     <thead>
         <tr>
@@ -238,7 +241,7 @@ Food entity tagging using the curated version of the [FoodBase corpus](https://a
 <sub>Best performances printed in bold</sub>
 
 ### Question answering
-Question answering in the sense of answer span extraction; Based on the cooking subset of the [DoQA dataset](https://aclanthology.org/2020.acl-main.652/ "Link to DoQA paper").
+Results of the question answering task in the sense of answer span extraction; Based on the cooking subset of the [DoQA dataset](https://aclanthology.org/2020.acl-main.652/ "Link to DoQA paper").
 |Model|Exact match|F-measure|95%-CI|
 | --- | --- | --- | ---|
 |BERTbase| **14.06%**| **32.39%**| [31.25%;33.54%]|
@@ -247,10 +250,7 @@ Question answering in the sense of answer span extraction; Based on the cooking 
 
 <sub>Best performances printed in bold</sub>
 
-## Training specs
-To obtain CookBERT, `BERTbase (uncased version)` was used as the starting point which was then further pretrained for `three additional epochs` on the `MLM` task on the `RecipeNLG instructions`, with `5% serving as validation data`. Training was performed with a `learning rate of 2e-5`, an effective `batch size of 32`, and a `maximum sequence length of 256`. The training took appoximately `five complete days` on a single `NVIDIA Tesla P100 GPU` provided by Google Colab Pro.
-
-# Using CookBERT
+## Using CookBERT
 The CookBERT pytorch model checkpoint can be downloaded from [this Google Drive folder](https://drive.google.com/drive/folders/1l1izk2hQp2AvLe0uFywoP0z3ZccMFng-?usp=sharing). Huggingface Transformer Library enables the model to be set up easily:
 ```python
 from transformers import (
@@ -267,4 +267,4 @@ masked_text = "Cut the [MASK] into small pieces."
 print("Predictions: ", CookBERT_pipeline(masked_text, top_k=5))
 ```
 
-Note that the Google Drive folder only contains the CookBERT checkpoint that was trained on the MLM task. In order to apply CookBERT, the finetuning scripts from Huggingface can be used. 
+Note that the Google Drive folder only contains the CookBERT checkpoint that was trained on the MLM task. In order to apply CookBERT for different tasks (NER, QA, ...), the [finetuning scripts from Huggingface](https://github.com/huggingface/transformers/tree/main/examples/pytorch "Link to Huggingface finetuning scripts") can be used. 
